@@ -1,0 +1,40 @@
+[WORLD01_AREA043.EMI|sec11|body0|@0x208|11B] {c0c:05}*저, {fe}호랑@?<END>
+[WORLD01_AREA043.EMI|sec11|body1|@0x213|40B] {c0c:05}*제, {fe}젠장>\n무슨>{ff}속셈이야@?{02}내가 누군지{fe}알기나 해?<END>
+[WORLD01_AREA043.EMI|sec11|body2|@0x23b|50B] {c0c:06}{c04:04}\n*알지>>{02}어둠의 조직을{ff}주무르는\n미크바 대두목{fe}이잖아?<END>
+[WORLD01_AREA043.EMI|sec11|body3|@0x26d|102B] {c0c:05}미크바\n*><PAUSE>><PAUSE>>흥{fe}그렇다면{02}나한테 손댔다간{ff}어떻게 될지\n도{ff}알겠지?{02}암시장을{ff}부순 건\n눈감아 줄 테니>{02}장난질도\n여기까지{ff}해 둬>><END>
+[WORLD01_AREA043.EMI|sec11|body4|@0x2d3|67B] {c0c:06}{c04:04}\n*몇 년 전>{ff}우릴\n죽이러 온{ff}네 부하도>{02}나한테{fe}그렇게 말했지>\n장난이{ff}지나치다고><END>
+[WORLD01_AREA043.EMI|sec11|body5|@0x316|44B] {c0c:06}{c04:04}\n*근데{fe}공교롭게 난\n애새끼라서>{02}언제든{fe}장난질이\n지나치거든>><END>
+[WORLD01_AREA043.EMI|sec11|body6|@0x342|57B] {c0c:06}{c04:04}\n*><PAUSE>><PAUSE>>{c04:00}야{02}그때{fe}내가 이만큼\n강했다면>{02}{c04:03}은/는{ff}안 죽어도\n됐으려나>><END>
+[WORLD01_AREA043.EMI|sec11|body7|@0x37b|78B] {c0c:06}{c04:04}\n*근데도{fe}난>\n하찮은{ff}좀도둑 주제에{02}남 다치게 하는 게{fe}싫다느니\n폼이나 잡고>>{02}봐줄 만큼{ff}강하지도\n않으면서><END>
+[WORLD01_AREA043.EMI|sec11|body8|@0x3c9|41B] {c0c:01}{c04:04}을/를{ff}감싸면서\n전투할{ff}멤버{fc}를\n결정해 주세요{fd}<END>
+[WORLD01_AREA043.EMI|sec11|body9|@0x3f2|73B] {c0c:05}미크바\n*다치게 하는 게{fe}싫>{ff}다고?\n식인 호랑이가@{02}우리 힘은{fe}다치게 하고{fe}부수고\n죽이라고>\n신이 주신 거다@<END>
+[WORLD01_AREA043.EMI|sec11|body10|@0x43b|57B] {c0c:05}미크바\n*네놈이{fe}바리오 일당을\n쓰러뜨렸다는{fe}애새끼냐>{02}마침 잘됐군>\n한꺼번에{fe}상대해 주마@<END>
+[WORLD01_AREA043.EMI|sec11|body11|@0x474|68B] {c0c:05}미크바\n*허>>{ff}속이 풀렸냐\n식인 호랑이 놈>>{02}이렇게{fe}실컷\n맘에 안 드는{ff}놈들을\n쳐 죽이는 게{fe}좋지>><END>
+[WORLD01_AREA043.EMI|sec11|body12|@0x4b8|63B] {c0c:05}미크바\n*><PAUSE>><PAUSE>>뭐{fe}공교롭게도\n네가{ff}찾는다는{02}바리오랑 산토는>\n저기 저 애새끼가\n죽인 모양>{ff}이다만<END>
+[WORLD01_AREA043.EMI|sec11|body13|@0x4f7|14B] {c0c:05}미크바\n*그>{ff}그억<END>
+[WORLD01_AREA043.EMI|sec11|body14|@0x505|24B] {c0c:06}{c04:04}\n*>>용의 힘{fe}인가\n그걸로>>><END>
+[WORLD01_AREA043.EMI|sec11|body15|@0x51d|48B] {c0c:06}{c04:04}\n*우리{fe}원수는>{02}진작에{ff}옛날에\n{c04:00}이/가>>{02}처리해 버렸{fe}단 거냐><END>
+[WORLD01_AREA043.EMI|sec11|body16|@0x54d|61B] {c0c:06}{c04:04}\n*내가{fe}한 짓은\n뭐였던 걸까>>{02}지금도{fe}{c04:00}의\n도움이 없었으면>\n못 이겼{ff}겠지<END>
+[WORLD01_AREA043.EMI|sec11|body17|@0x58a|68B] {c0c:06}{c04:04}\n*어때{fe}다음번엔\n나랑{fe}너랑>{02}우릴{ff}못 본 척 죽게 한\n맥니르 마을 놈들을\n쳐 죽이는 건?<END>
+[WORLD01_AREA043.EMI|sec11|body18|@0x5ce|40B] {c0c:06}{c04:04}\n*드래곤의 힘이{fe}있으면>{02}그깟 거{ff}한 방이지?\n그치>>@?<END>
+[WORLD01_AREA043.EMI|sec11|body19|@0x5f6|40B] {c04:01}\n*잠깐@{02}윈디아의 이름을 걸고\n그런 짓은{fe}용서 못 해@<END>
+[WORLD01_AREA043.EMI|sec11|body20|@0x61e|63B] {c0c:06}{c04:04}\n*농담이야>{02}오우거{fc}가도에서{fe}{c04:00}한테\n당했을 때부터>{02}원수를{ff}갚는 건\n못 할 것 같단{ff}생각이 들었어><END>
+[WORLD01_AREA043.EMI|sec11|body21|@0x65d|63B] {c0c:06}{c04:04}\n*호랑이로{ff}변신만 하면>{02}맥니르든\n조직이든>{02}뭐든{fe}쳐부술 수 있다\n생각했는데><END>
+[WORLD01_AREA043.EMI|sec11|body22|@0x69c|65B] {c0c:06}{c04:04}\n*결국{fe}난>{02}호랑이가 되는 힘을{ff}다루질\n못하고>{02}마구잡이로{fe}날뛰기만{ff}했어\n그딴 건><END>
+[WORLD01_AREA043.EMI|sec11|body23|@0x6dd|30B] {c0c:05}{c04:02}\n*그딴 건{fe}진짜\n힘이{fe}아니>{ff}냐?<END>
+[WORLD01_AREA043.EMI|sec11|body24|@0x6fb|28B] {c0c:05}{c04:02}\n*용의 힘이{fe}만약\n그런 힘이었다면>><END>
+[WORLD01_AREA043.EMI|sec11|body25|@0x717|49B] {c0c:05}{c04:02}\n*난{fe}아무 의심도\n없이>{02}용족을{ff}뿌리째\n없애 버렸겠지><END>
+[WORLD01_AREA043.EMI|sec11|body26|@0x748|64B] {c0c:06}{c04:04}\n*용족은{fe}전쟁을 해서\n세상을{ff}부수려 했잖아>{02}아까{fe}미크바가 말한\n부수는 힘이{fe}아닌 거냐?<END>
+[WORLD01_AREA043.EMI|sec11|body27|@0x788|50B] {c0c:05}{c04:02}\n*아마도{fe}비슷한\n부수는 힘이겠지>{02}미크바나{fe}너랑은\n차원이 다르지만><END>
+[WORLD01_AREA043.EMI|sec11|body28|@0x7ba|34B] {c04:01}\n*그러니까>{ff}{c04:00}은/는{02}세상을{ff}부수거나\n안 한다니까>@<END>
+[WORLD01_AREA043.EMI|sec11|body29|@0x7dc|31B] {c0c:06}{c04:04}\n*어째서{fe}그런>\n위태로운{ff}힘이{fe}있는 거지?<END>
+[WORLD01_AREA043.EMI|sec11|body30|@0x7fb|48B] {c0c:05}{c04:02}\n*그걸{fe}아는 건\n용족이 멸한 지금>{02}우리 신{ff}뿐이겠지\n그러니까><END>
+[WORLD01_AREA043.EMI|sec11|body31|@0x82b|40B] {c0c:06}{c04:04}\n*그러니까{fe}신님을\n만나러 가자는 거냐>{02}그거{fe}끝내주는데{fc}><END>
+[WORLD01_AREA043.EMI|sec11|body32|@0x853|67B] {c0c:06}{c04:04}\n*>그렇다면{fe}나도\n하나{fe}물어볼까@{02}어째서{fe}나나{ff}미크바 같은\n위험한 놈한테{ff}힘을\n준 건지?{ff}하고><END>
+[WORLD01_AREA043.EMI|sec11|body33|@0x896|39B] {c0c:01}{c04:04}이/가{ff}동료가 되었다@\n파{fc}티 멤버{fc}를\n결정해 주세요{fd}<END>
+[WORLD01_AREA043.EMI|sec11|body34|@0x8bd|24B] *아무 일도 없는 게{fe}제일\n좋은 거다<END>
+[WORLD01_AREA043.EMI|sec11|body35|@0x8d5|31B] *짝꿍은{fe}한가해서\n시답잖은 것만{ff}생각한다니까<END>
+[WORLD01_AREA043.EMI|sec11|body36|@0x8f4|35B] *아{fc}아{fe}이런 외진 데\n아무 일도 안 일어나서\n심심해>><END>
+[WORLD01_AREA043.EMI|sec11|body37|@0x917|57B] *뭔가{fe}드라마틱한 일\n안 일어나려나>{02}이를테면{fe}암흑가 보스가\n이 관문에서{fe}난동 부린다거나><END>
+[WORLD01_AREA043.EMI|sec11|body38|@0x950|21B] {c0c:81}{ff}\n{ff}{ff}{ff}착한 자도{fe}나쁜 자도><END>
+[WORLD01_AREA043.EMI|sec11|body39|@0x965|13B] 자물쇠가{ff}잠겨 있다>><END>

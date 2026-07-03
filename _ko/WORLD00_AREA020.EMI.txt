@@ -1,0 +1,5 @@
+[WORLD00_AREA020.EMI|sec11|body0|@0x20a|39B] {ff}{ff}{ff}여기는{fe}B3입니다\n{ff}{ff}리프트를 타시겠습니까?{c14:00}{c0c:13}B1로 이동한다<END>
+[WORLD00_AREA020.EMI|sec11|body1|@0x241|33B] {c0c:05}{c04:02}*여기는>{ff}네가>\n태어난 곳{fe}이겠지<END>
+[WORLD00_AREA020.EMI|sec11|body2|@0x262|31B] {c0c:05}{c04:02}*여기의{ff}강한 용의 기운이\n{c04:00}을 {ff}부른 건가><END>
+[WORLD00_AREA020.EMI|sec11|body3|@0x281|32B] {c0c:81}{ff}{ff}{ff}{ff}{ff}그렇다>>{c16:30}{c0c:81}{ff}{ff}{ff}내가{fe}불렀다>{c16:30}
+[WORLD00_AREA020.EMI|sec11|body4|@0x28f|18B] {c0c:81}{ff}{ff}{ff}내가{fe}불렀다>{c16:30}

@@ -1,0 +1,47 @@
+[WORLD01_AREA052.EMI|sec11|body0|@0x223|67B] {c0c:05}{c04:05}\n*고{fc}스트가{fe}여기까지\n생체의 형태를{ff}바꿀>{02}힘이 있다니{fc}@?{02}아버지가{ff}봤다면\n뭐라고 할까>><END>
+[WORLD01_AREA052.EMI|sec11|body1|@0x266|29B] {c0c:05}{c04:05}\n*>라고{ff}<PAUSE>너희가\n알 리가{ff}없겠지<END>
+[WORLD01_AREA052.EMI|sec11|body2|@0x283|59B] {c0c:05}{c04:05}\n*>뭐{fe}버리기엔\n아깝지만{02}싹둑 잘라서{fe}저쪽\n마그마에>{02}{c15:10}던져버리자><END>
+[WORLD01_AREA052.EMI|sec11|body3|@0x2be|14B] {c0c:06}*><PAUSE>><PAUSE>>누구세요?<END>
+[WORLD01_AREA052.EMI|sec11|body4|@0x2cc|25B] {c0c:05}{c04:05}\n*말을 했어>?\n변이체가@?<END>
+[WORLD01_AREA052.EMI|sec11|body5|@0x2e5|26B] {c0c:06}{c04:05}\n*>정말로{fe}괜찮아{fc}?\n아까운데{fc}<END>
+[WORLD01_AREA052.EMI|sec11|body6|@0x2ff|42B] {c0c:05}변이체\n*>여러분은{fe}변이체를\n처분하러{ff}오신 거죠?<END>
+[WORLD01_AREA052.EMI|sec11|body7|@0x329|43B] {c0c:06}{c04:05}\n*그렇긴 한데>{02}그땐{ff}아직{fe}네가\n살아있는 줄{ff}몰랐어><END>
+[WORLD01_AREA052.EMI|sec11|body8|@0x354|61B] {c0c:05}변이체\n*아뇨{fe}저는>>\n처분되어야 합니다{02}저는{fe}뭔가 잘못되어\n태어난{ff}생물이니까요<END>
+[WORLD01_AREA052.EMI|sec11|body9|@0x391|54B] {c0c:05}변이체\n*저는{fe}존재해선\n안 됩니다>{02}자{fe}컨베이어 스위치를\n부탁드립니다><END>
+[WORLD01_AREA052.EMI|sec11|body10|@0x3c7|32B] 변이체\n*어디로 가시는 거죠?\n스위치는{ff}이쪽입니다<END>
+[WORLD01_AREA052.EMI|sec11|body11|@0x3e7|53B] *스위치를{ff}부탁드립니다>{02}그리고{fe}바라건대\n저 같은 존재를{ff}두 번 다시\n만들지 않도록><END>
+[WORLD01_AREA052.EMI|sec11|body12|@0x41c|22B] 변이체\n*고마워요>{ff}안녕히><END>
+[WORLD01_AREA052.EMI|sec11|body13|@0x432|22B] 변이체\n*라고{fe}<PAUSE>이쪽이 아니{fc}네@<END>
+[WORLD01_AREA052.EMI|sec11|body14|@0x448|78B] {c0c:05}변이체\n*한 걸음{ff}잘못하면>\n저>{ff}이상으로>{ff}무서운{02}괴>{ff}물을>>{02}만들어낸다는>{ff}것을>\n잊지>{ff}마>>{ff}세요<END>
+[WORLD01_AREA052.EMI|sec11|body15|@0x496|13B] {c0c:06}*{0a}{c04:a8}큐큐{fc}@<END>
+[WORLD01_AREA052.EMI|sec11|body16|@0x4a3|50B] *{0a}{c05:a8}뀨푸뀨{c15:07}{c15:07}우@{02}{c05:06}잘 모르겠지만{06}\n{c05:06}왠지{ff}화가 난 것 같다>{06}<END>
+[WORLD01_AREA052.EMI|sec11|body17|@0x4d5|47B] {c0c:06}{c04:05}\n*뭐{fe}<PAUSE>기다려{ff}{c04:00}@{02}변이체는{fe}이 아이를\n우리에게{ff}맡긴 거야?<END>
+[WORLD01_AREA052.EMI|sec11|body18|@0x504|40B] {c0c:01}{ff}\n{c04:06}이/가{ff}동료가 되었다{02}>파{fc}티 멤버를{fc}\n결정해 주세요<END>
+[WORLD01_AREA052.EMI|sec11|body19|@0x52c|69B] *>변이체 님은\n뭔가의{ff}잘못으로\n태어나{ff}버린 걸까?{02}그래서{fe}살아있으면\n안 되는 걸까?{02}>잘{ff}모르겠어<END>
+[WORLD01_AREA052.EMI|sec11|body20|@0x571|39B] *확실히{fe}대발견이라고\n떠벌리면>{02}그 아이{fe}괴로울지도 몰라><END>
+[WORLD01_AREA052.EMI|sec11|body21|@0x598|9B] {c04:05}\n*뭐>?<END>
+[WORLD01_AREA052.EMI|sec11|body22|@0x5a1|29B] {c04:05}\n*이건{fe}그{ff}귀여운>{02}{c04:01}\n*양파네>><END>
+[WORLD01_AREA052.EMI|sec11|body23|@0x5be|56B] {c0c:06}{c04:05}\n*역시{fe}기다려@{02}대발견했다고\n떠벌리지 않을 테니까>{02}잠깐만{fe}조사하게 해줘@<END>
+[WORLD01_AREA052.EMI|sec11|body24|@0x5f6|46B] {c0c:05}변이체\n*알고자{ff}하는 것은\n결코{ff}나쁘지 않습니다>{02}다만><PAUSE>><PAUSE>><END>
+[WORLD01_AREA052.EMI|sec11|body25|@0x624|59B] {c04:05}\n*맞아>{ff}두 번 다시\n그 아이 같은{fe}변이체를>{02}만들지 않기{ff}위해\n너를{ff}남긴 거구나?<END>
+[WORLD01_AREA052.EMI|sec11|body26|@0x65f|41B] *{0a}{06}뿌큐우{fe}큐우>{02}{c05:06}잘 모르겠지만{06}\n{c05:06}슬퍼하는 것 같다>{06}<END>
+[WORLD01_AREA052.EMI|sec11|body27|@0x688|27B] {c0c:06}{c04:01}\n*{c04:05}씨{fe}그 아이는\n말을 못 해><END>
+[WORLD01_AREA052.EMI|sec11|body28|@0x6a3|11B] {c04:05}\n*>그런가 봐<END>
+[WORLD01_AREA052.EMI|sec11|body29|@0x6ae|52B] {c04:05}\n*하지만{fe}분명>{02}우리가{ff}데려가는 걸\n변이체는{ff}바랐을 거야>{02}그치{fe}분명?<END>
+[WORLD01_AREA052.EMI|sec11|body30|@0x6e2|58B] {c0c:06}{c04:01}\n*있잖아>{ff}그 아이 이름>\n{c04:06}<PAUSE>{ff}라고 하면{fe}어때?{02}양파 씨의{ff}아이 같은\n거잖아?<END>
+[WORLD01_AREA052.EMI|sec11|body31|@0x71c|29B] {c0c:06}변이체\n*저는><PAUSE>{ff}변이체인가요?<END>
+[WORLD01_AREA052.EMI|sec11|body32|@0x739|62B] {c0c:05}{c04:05}\n*음{c15:07}{c15:07}{fe}그럴 거야\n들은{ff}얘기로는>{02}그나저나{fe}이런\n훌륭한{ff}변이체를\n처분하는 건>><END>
+[WORLD01_AREA052.EMI|sec11|body33|@0x777|56B] {c0c:06}변이체\n*처분>{ff}그건\n저를{ff}죽인다는 뜻인가요{02}그건>{ff}그만>\n둬>{ff}주세요@<END>
+[WORLD01_AREA052.EMI|sec11|body34|@0x7af|40B] {c0c:06}변이체\n*죄송합니>{ff}다>{02}몸이{fe}멋대로>\n공격을>><END>
+[WORLD01_AREA052.EMI|sec11|body35|@0x7d7|72B] {c0c:05}{c04:05}\n*괜찮아{fc}{fe}그보다{02}말하고{fe}움직이는\n변이체라니{ff}대단해\n대발견이야>@{02}아{fc}>{ff}아버지가\n살아있었다면>><END>
+[WORLD01_AREA052.EMI|sec11|body36|@0x81f|34B] {c0c:06}변이체\n*><PAUSE>><PAUSE>>발견\n아뇨>{fe}그건{ff}안 됩니다<END>
+[WORLD01_AREA052.EMI|sec11|body37|@0x841|21B] {c0c:06}변이체\n*>>부탁이 있습니다<END>
+[WORLD01_AREA052.EMI|sec11|body38|@0x856|67B] {c04:05}\n*저게 변이체?\n좀 너무 변이됐는데:::{02}저 정도{ff}설비로는\n저렇게 변이될 리가::\n없는데::<END>
+[WORLD01_AREA052.EMI|sec11|body48|@0x899|23B] {c04:01}\n*{c04:05}씨{fe}일단\n쫓아가자@<END>
+[WORLD01_AREA052.EMI|sec11|body49|@0x8b0|33B] {c04:01}\n*저게::{ff}변이체?\n뭔가::귀여운 것 같아::<END>
+[WORLD01_AREA052.EMI|sec11|body50|@0x8d1|9B] *뿌큐::::<END>
+[WORLD01_AREA052.EMI|sec11|body51|@0x8da|47B] {c04:05}\n*이상하네?{ff}이렇게 약하면\n우리한테 부탁 안 해도{02}어떻게든 됐을 텐데::<END>
+[WORLD01_AREA052.EMI|sec11|body52|@0x909|15B] {c04:01}\n*{c04:00}{fe}괜찮아?<END>
+[WORLD01_AREA052.EMI|sec11|body53|@0x918|13B] {c04:01}\n*아아{fe}다행이다@<END>
+[WORLD01_AREA052.EMI|sec11|body54|@0x925|59B] {c04:05}\n*그나저나::\n뭔가 개운치 않네::?{02}뭐{fe}됐어\n조금만 더 가\n보자{ff}응?<END>
+[WORLD01_AREA052.EMI|sec11|body55|@0x960|54B] 벨트 컨베이어에\n사람이 타고 있습니다{02}안전을 위해{fe}컨베이어 작동 중에는\n위에 타지 마세요<END>

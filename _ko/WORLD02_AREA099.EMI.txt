@@ -1,0 +1,45 @@
+[WORLD02_AREA099.EMI|sec11|body0|@0x209|39B] *이 산에서{fe}돌을{ff}깎아서>\n케{fc}이블로{ff}저쪽 산으로\n나르는 거야><END>
+[WORLD02_AREA099.EMI|sec11|body1|@0x230|65B] *애들이{fe}어쩌다가\n이런{ff}산속까지>?{02}><PAUSE>><PAUSE>>뭐{fe}어쨌든{ff}됐고\n날도 어두워졌으니\n오두막으로{ff}들어와><END>
+[WORLD02_AREA099.EMI|sec11|body2|@0x271|43B] {c04:01}\n*><PAUSE>><PAUSE>>그러니까{02}저희는{ff}나쁜 사람들한테서\n도망쳐 온 거예요<END>
+[WORLD02_AREA099.EMI|sec11|body3|@0x29c|53B] {c0c:06}메이슨\n*흠>>{ff}그래서\n너희를{ff}쫓고 있는{02}나쁜 놈들이라는 게\n누구냐?<END>
+[WORLD02_AREA099.EMI|sec11|body4|@0x2d1|37B] {c04:01}\n*아마><PAUSE>><PAUSE>>{02}바리오>{ff}랑{fe}산토라는\n사람들이었어요<END>
+[WORLD02_AREA099.EMI|sec11|body5|@0x2f6|15B] {c04:01}\n*>아세요?<END>
+[WORLD02_AREA099.EMI|sec11|body6|@0x305|44B] {c0c:06}메이슨\n*아니{fe}걱정은{ff}마라{02}누구든{fe}여기까지는\n못 올 거다>><END>
+[WORLD02_AREA099.EMI|sec11|body7|@0x331|85B] {c0c:06}메이슨\n*날이 밝으면>{02}리프트를{ff}움직여서\n저쪽까지{ff}데려다주마{02}*자>{ff}오늘 밤은{ff}이만\n쉬는 게{fe}좋다{02}안쪽 방을{ff}쓰거라<END>
+[WORLD02_AREA099.EMI|sec11|body8|@0x360|38B] *자>{ff}오늘 밤은{ff}이만\n쉬는 게{fe}좋다{02}안쪽 방을{ff}쓰거라<END>
+[WORLD02_AREA099.EMI|sec11|body9|@0x386|23B] {c04:01}\n*고맙습니다\n메이슨 아저씨><END>
+[WORLD02_AREA099.EMI|sec11|body10|@0x39d|38B] *메이슨 아저씨{ff}말씀대로야\n걱정하지 말고\n푹{ff}쉬어>><END>
+[WORLD02_AREA099.EMI|sec11|body11|@0x3c3|31B] 메이슨\n*이런이런{fe}어디 가는 거냐?\n그쪽은{ff}바깥이야<END>
+[WORLD02_AREA099.EMI|sec11|body12|@0x3e2|24B] {c04:01}\n*착한 분이라{fe}다행이지\n{c04:00}>?<END>
+[WORLD02_AREA099.EMI|sec11|body13|@0x3fa|21B] {c04:01}\n*자{fe}<PAUSE>이제 좀{ff}쉬어 볼까<END>
+[WORLD02_AREA099.EMI|sec11|body14|@0x40f|12B] {c04:01}\n*잠 깼어>?<END>
+[WORLD02_AREA099.EMI|sec11|body15|@0x41b|21B] 리프트를 움직이는\n패널 같다><END>
+[WORLD02_AREA099.EMI|sec11|body16|@0x430|13B] >>잠겨{ff}있다<END>
+[WORLD02_AREA099.EMI|sec11|body17|@0x43d|21B] {c04:01}\n*>이상해{fe}<PAUSE><PAUSE>왜 그러지<END>
+[WORLD02_AREA099.EMI|sec11|body18|@0x452|24B] {c04:01}\n*메이슨 아저씨>\n여기 좀{ff}열어 주세요<END>
+[WORLD02_AREA099.EMI|sec11|body19|@0x46a|15B] *><PAUSE>><PAUSE>>불러 왔습니다<END>
+[WORLD02_AREA099.EMI|sec11|body20|@0x479|16B] {c0c:04}{c04:01}\n*메이슨 아저씨>>?<END>
+[WORLD02_AREA099.EMI|sec11|body21|@0x489|21B] {c0c:06}산토\n*>꼬마들{ff}잡았나?<END>
+[WORLD02_AREA099.EMI|sec11|body22|@0x49e|27B] {c04:01}\n*큰일이야@{ff}{c04:00}@@\n저놈들이{ff}왔어@<END>
+[WORLD02_AREA099.EMI|sec11|body23|@0x4b9|36B] {c04:01}\n*도망치자@{02}>어떻게든{fe}리프트를\n움직여야 해@<END>
+[WORLD02_AREA099.EMI|sec11|body24|@0x4dd|34B] 리프트 패널이다>\n동력은{ff}고{fc}스트 에너지\n인 걸까>>?<END>
+[WORLD02_AREA099.EMI|sec11|body25|@0x4ff|35B] {c04:01}\n*이거{fe}움직일 수 있을지도>{02}>>{c04:00}\n먼저{fe}리프트에 타@<END>
+[WORLD02_AREA099.EMI|sec11|body26|@0x522|35B] {c04:01}\n*빨리@@{02}괜찮아@\n잘 될 것 같은{ff}느낌이 들어<END>
+[WORLD02_AREA099.EMI|sec11|body27|@0x545|17B] 산토\n*>>그래서{fe}<PAUSE><PAUSE>어디냐?<END>
+[WORLD02_AREA099.EMI|sec11|body28|@0x556|25B] 산토\n*헤헤헤>>\n영감{fe}오래 살겠어<END>
+[WORLD02_AREA099.EMI|sec11|body29|@0x56f|48B] 메이슨\n*>>미안하구나{fe}얘들아{02}>저런 놈들이랑{ff}말썽을\n일으키고 싶지는{ff}않거든<END>
+[WORLD02_AREA099.EMI|sec11|body30|@0x59f|56B] {c04:01}\n*>고{fc}스트 에너지는\n마법의 힘과{fe}비슷해{02}그러니까{fe}내가{ff}여기에\n마법을{ff}쏘면>><END>
+[WORLD02_AREA099.EMI|sec11|body31|@0x5d7|26B] {c0c:06}{c04:01}\n*>>움직이기 시작하면\n뛰어 옮겨 탈게@@<END>
+[WORLD02_AREA099.EMI|sec11|body32|@0x5f1|18B] {c0c:04}산토\n*찾았다{c15:07}{c15:07}@<END>
+[WORLD02_AREA099.EMI|sec11|body33|@0x603|37B] 산토\n*오{fe}<PAUSE>공주는{fe}저기 있군\n저쪽을{ff}먼저{fe}잡고><PAUSE>나서<END>
+[WORLD02_AREA099.EMI|sec11|body34|@0x628|16B] 산토\n*아프잖아{c15:07}@@<END>
+[WORLD02_AREA099.EMI|sec11|body35|@0x638|30B] {c04:01}\n*>움직일 거야{ff}>움직이는 거지{02}{0d}움직여@{0e}{0f}{0a}<END>
+[WORLD02_AREA099.EMI|sec11|body36|@0x656|38B] 산토\n*이놈{c15:07}{fe}뭐 하는 거야@{02}작작{ff}안 하면\n나도 진짜 화낸다@<END>
+[WORLD02_AREA099.EMI|sec11|body37|@0x67c|34B] 산토\n*젠장{fe}움직여 버렸잖아@\n>이렇게 된 거{fe}공주만이라도<END>
+[WORLD02_AREA099.EMI|sec11|body38|@0x69e|16B] 산토\n*이게 무슨 일이야{c15:07}@<END>
+[WORLD02_AREA099.EMI|sec11|body39|@0x6ae|33B] {c04:01}\n*하아{fe}하아{fe}하아{02}그럭저럭{ff}도망쳤네\n{c04:00}>><END>
+[WORLD02_AREA099.EMI|sec11|body40|@0x6cf|37B] {c04:01}\n*휴>>{02}거봐{fe}<PAUSE>말한 대로지\n잘 될 것 같다{fe}<PAUSE>고 했잖아?<END>
+[WORLD02_AREA099.EMI|sec11|body41|@0x6f4|17B] {c04:01}\n*>>걱정{fe}<PAUSE>시켰어?<END>
+[WORLD02_AREA099.EMI|sec11|body42|@0x705|32B] {c04:01}\n*미{fe}미안해>\n그치만>>{02}혹시{fe}실패해도><END>
+[WORLD02_AREA099.EMI|sec11|body43|@0x725|28B] {c04:01}\n*{c04:00}가{ff}어떻게든\n해 줄 거라고{ff}믿었으니까<END>
+[WORLD02_AREA099.EMI|sec11|body44|@0x741|48B] {c04:01}\n*>>여기{fe}어디쯤인지\n모르겠지만{02}어쨌든{fe}산을 내려가면\n될 거야><END>

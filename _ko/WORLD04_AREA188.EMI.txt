@@ -1,0 +1,37 @@
+[WORLD04_AREA188.EMI|sec11|body0|@0x207|13B] {c0c:05}{c04:01}\n*방금 그건>><END>
+[WORLD04_AREA188.EMI|sec11|body1|@0x214|39B] {c04:02}\n*신에게로{fe}가는 길>{02}내가>{fe}{c04:00}이/가\n만나야만{ff}하는 신에게로<END>
+[WORLD04_AREA188.EMI|sec11|body2|@0x23b|31B] {c04:02}\n*배는{fe}아무래도{ff}그쪽으로\n향하고 있는 것 같군><END>
+[WORLD04_AREA188.EMI|sec11|body3|@0x25a|52B] {c0c:06}{c04:05}\n*신인지 아닌지는{fe}몰라도>{02}나머진 알아서{ff}배가 저쪽까지\n데려다줄 거야><END>
+[WORLD04_AREA188.EMI|sec11|body4|@0x28e|45B] {c0c:06}{c04:05}\n*뭐{fe}며칠 걸릴지\n모르니까{fc}>>{02}느긋하게{ff}쉬면서\n가자>?<END>
+[WORLD04_AREA188.EMI|sec11|body5|@0x2bb|60B] {c04:04}\n*><PAUSE>><PAUSE>왜{fe}내가\n같이 왔냐고@?{02}돌이킬 수{ff}없게 되고 나서\n묻진 말아줬{fc}으면 좋겠는데>@<END>
+[WORLD04_AREA188.EMI|sec11|body6|@0x2f7|68B] {c04:04}\n*애초에>{ff}아저씨가\n말했잖아>>{02}내 힘이랑>{ff}용족의 힘은\n자릿수가 다를 뿐\n비슷한 거라고>?<END>
+[WORLD04_AREA188.EMI|sec11|body7|@0x33b|53B] {c04:04}\n*그{fe}신인지 뭔지\n만나러 가면>{02}왜{fe}이런 힘이\n있는지>{ff}알 수 있다고>@?<END>
+[WORLD04_AREA188.EMI|sec11|body8|@0x370|33B] {c0c:06}{c04:02}\n*뭔가{fe}있었던 모양이군>\n상황을{ff}보러 가자<END>
+[WORLD04_AREA188.EMI|sec11|body9|@0x391|48B] {c0c:05}{c04:01}\n*>{c04:00}@\n뭔가{fe}생긴 것 같아@{02}브리지의{ff}{c04:05}한테\n물어보자@?<END>
+[WORLD04_AREA188.EMI|sec11|body10|@0x3c1|25B] 먼저{fe}브리지로\n가는 게{ff}좋을 것 같다><END>
+[WORLD04_AREA188.EMI|sec11|body11|@0x3da|11B] *뿌끼뿟끼뿌끼끼@<END>
+[WORLD04_AREA188.EMI|sec11|body12|@0x3e5|20B] {c04:01}\n*>{c04:05}씨\n무슨 일이야@?<END>
+[WORLD04_AREA188.EMI|sec11|body13|@0x3f9|31B] {c0c:05}{c04:05}\n*아무래도>{ff}배에 이상이\n생긴 것 같{fc}아<END>
+[WORLD04_AREA188.EMI|sec11|body14|@0x418|29B] {c0c:06}{c04:04}\n*또{fe}뭔가{ff}이상한 짓\n한 거 아니{fc}야?<END>
+[WORLD04_AREA188.EMI|sec11|body15|@0x435|22B] {c0c:05}{c04:05}\n*아{fe}아니거든{fc}\n이거 봐><END>
+[WORLD04_AREA188.EMI|sec11|body16|@0x44b|56B] {c0c:05}{c04:05}\n*이상이 있는 건{fc}\n어퍼{fc}:데크>{02}배의{ff}앞쪽이야>\n뭔가가{fe}부딪힌 걸지도?<END>
+[WORLD04_AREA188.EMI|sec11|body17|@0x483|38B] {c0c:05}{c04:01}\n*조사해 보는 게{fe}좋을까?{02}>{c04:05}씨\n거기까지{fe}갈 수 있어?<END>
+[WORLD04_AREA188.EMI|sec11|body18|@0x4a9|10B] {c04:05}\n*글쎄>><END>
+[WORLD04_AREA188.EMI|sec11|body19|@0x4b3|54B] {c04:05}\n*우리 방\n건너편에{fc}>{02}배 앞쪽으로{ff}빠질 수 있는\n복도가{fe}있는 것 같아<END>
+[WORLD04_AREA188.EMI|sec11|body20|@0x4e9|25B] {c0c:05}{c04:05}\n*>그{ff}복도\n문을 열었어{fc}<END>
+[WORLD04_AREA188.EMI|sec11|body21|@0x502|21B] {c0c:06}{c04:04}\n*그래서>{ff}누가 조사하러 가?<END>
+[WORLD04_AREA188.EMI|sec11|body22|@0x517|31B] {c0c:01}배를{ff}조사하러 갈\n멤버{fc}를 정해 주세요{fd}<END>
+[WORLD04_AREA188.EMI|sec11|body23|@0x536|20B] 이쪽은{fe}{c05:02}여자용{06} 침대다<END>
+[WORLD04_AREA188.EMI|sec11|body24|@0x54a|34B] 침대에서{fe}쉴 수 있습니다{fd}\n잠깐 쉬시겠습니까?{c14:02}{c0c:02}예<END>
+[WORLD04_AREA188.EMI|sec11|body25|@0x570|20B] 이쪽은{fe}{c05:01}남자용{06} 침대다<END>
+[WORLD04_AREA188.EMI|sec11|body26|@0x584|27B] 쉴 수 있을 것 같은 침대지만\n지금은{ff}그럴 때가 아니다@<END>
+[WORLD04_AREA188.EMI|sec11|body27|@0x59f|65B] *지금 당장{fe}가라앉거나\n하진 않을 것 같지만{fc}>{02}혹시{fe}뭔가가{ff}부딪히고 있는\n거라면>\n몇 번이고{ff}못 버틸지도 몰라?<END>
+[WORLD04_AREA188.EMI|sec11|body28|@0x5e0|32B] *바깥 바다에선{fe}뭐가 나와도\n이상하지 않지>{02}신나는데?><END>
+[WORLD04_AREA188.EMI|sec11|body29|@0x600|31B] *여기서는{fe}아무것도 안 보이는군{02}가 보는 수밖에{fe}없나><END>
+[WORLD04_AREA188.EMI|sec11|body30|@0x61f|9B] *뿌끼라뿌{fc}>?<END>
+[WORLD04_AREA188.EMI|sec11|body31|@0x628|31B] *앞쪽이라면{fe}저쪽이지?\n별일 없으면{fe}좋겠는데><END>
+[WORLD04_AREA188.EMI|sec11|body32|@0x647|30B] 일기가 있습니다\n무엇을 하시겠습니까?{c14:03}{c0c:25}여행 기록<END>
+[WORLD04_AREA188.EMI|sec11|body33|@0x687|50B] 엘리베{fc}터를 사용하려면\nID 체크가{ff}필요합니다{02}ID 체크를{ff}하시겠습니까?{c14:00}{c0c:02}예<END>
+[WORLD04_AREA188.EMI|sec11|body128|@0x6bd|50B] 엘리베{fc}터를 사용하려면\nID 체크가{ff}필요합니다{02}ID 체크를{ff}하시겠습니까?{c14:01}{c0c:02}예<END>
+[WORLD04_AREA188.EMI|sec11|body129|@0x6f3|14B] *ID:<PAUSE>:<PAUSE>:<PAUSE><PAUSE>OK@<END>
+[WORLD04_AREA188.EMI|sec11|body130|@0x701|20B] *ID 체크<PAUSE>:<PAUSE>:<PAUSE>:ERROR@<END>

@@ -1,0 +1,3 @@
+[WORLD03_AREA147.EMI|sec11|body0|@0x209|10B] *삐:가가:끄르?<END>
+[WORLD03_AREA147.EMI|sec11|body1|@0x213|9B] *그그:가가가?<END>
+[WORLD03_AREA147.EMI|sec11|body2|@0x21c|13B] >허니{fc}랑{fe}꼭 닮았어@<END>

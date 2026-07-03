@@ -1,0 +1,73 @@
+[WORLD03_AREA144.EMI|sec11|body0|@0x206|11B] {c0c:05}*왔구나><END>
+[WORLD03_AREA144.EMI|sec11|body1|@0x211|49B] {c0c:05}*잘 왔다>{fe}{c04:00}\n나는{fe}최고 장로 보노>{02}좀{ff}늙은\n나이스: 가이지<END>
+[WORLD03_AREA144.EMI|sec11|body2|@0x242|24B] {c0c:05}보노\n*좋아{fe}아이야>>\n이리 오너라<END>
+[WORLD03_AREA144.EMI|sec11|body3|@0x25a|32B] {c0c:05}보노\n*흠>{fe}{c04:00}야\n여기 올 때{fe}그림을 봤느냐?<END>
+[WORLD03_AREA144.EMI|sec11|body4|@0x27a|33B] {c0c:05}보노\n*그건>{fe}용 일족의\n싸움의 기억이지>><END>
+[WORLD03_AREA144.EMI|sec11|body5|@0x29b|65B] {c0c:82}{ff}\n{ff}\n{ff}{ff}{ff}우리 일족의 기억은\n{ff}\n{ff}대전이라 불리는{fe}마지막 전쟁\n{ff}\n{ff}훨씬 이전으로{ff}거슬러 오른다><END>
+[WORLD03_AREA144.EMI|sec11|body6|@0x2dc|65B] {c0c:82}{ff}\n{ff}\n{ff}그것은{fe}이 세상에{ff}거듭\n{ff}\n{ff}{ff}나타나는{fe}사악한 존재와의\n{ff}\n{ff}{ff}{ff}수많은 싸움의 기억{fd}<END>
+[WORLD03_AREA144.EMI|sec11|body7|@0x31d|65B] {c0c:82}{ff}\n{ff}\n{ff}용의 용사는{fe}어느 시대든\n{ff}\n{ff}동료를 모아{fe}힘을 합쳐\n{ff}\n{ff}{ff}{ff}사악함에 맞섰다><END>
+[WORLD03_AREA144.EMI|sec11|body8|@0x35e|63B] {c0c:82}{ff}\n{ff}\n{ff}때론 사람의{fe}때론 악귀의 모습으로\n{ff}\n{ff}세상을 어지럽히는{fe}사악한 존재의\n{ff}\n{ff}{ff}이름을{ff}미리아라 한다><END>
+[WORLD03_AREA144.EMI|sec11|body9|@0x39d|41B] {c0c:05}보노\n*미리아>>{02}울칸의 여신\n네가 찾는{fe}신의 이름이지<END>
+[WORLD03_AREA144.EMI|sec11|body10|@0x3c6|71B] {c0c:05}보노\n*다만{fe}울칸의 백성은>{02}신의 이름도{fe}적인 용족의\n이름조차도>{02}입에 담아선 안 되는{ff}규율\n인 모양이다만<END>
+[WORLD03_AREA144.EMI|sec11|body11|@0x40d|72B] {c0c:05}보노\n*>그런 까닭에{fe}다음은\n울칸의 백성이다{02}네 동료인{fe}가디언을\n여기 데려오너라>{02}이야기를 할 테니<END>
+[WORLD03_AREA144.EMI|sec11|body12|@0x455|59B] {c0c:05}보노\n*이런>@\n가디언을{ff}안 데려오느냐{02}살날 얼마 안 남은 노인을\n기다리게 하는 게{fe}아니다@?<END>
+[WORLD03_AREA144.EMI|sec11|body13|@0x490|51B] {c0c:05}보노\n*가디언>>{02}너희{fe}울칸의 백성과\n미리아한테는>{02}당했다는{fe}느낌이지>@<END>
+[WORLD03_AREA144.EMI|sec11|body14|@0x4c3|59B] {c0c:05}보노\n*너희가{fe}신과 용의 이름을\n말하지 않는 한>{02}우리가 멸망한{ff}이유조차\n세상엔{fe}전해지지 않는다><END>
+[WORLD03_AREA144.EMI|sec11|body15|@0x4fe|30B] {c0c:06}{c04:02}\n*어르신>>\n저희를{fe}원망하고 계신가요?<END>
+[WORLD03_AREA144.EMI|sec11|body16|@0x51c|41B] {c0c:05}보노\n*원망>?{02}그중엔{fe}그런 자도 있었다만\n아니다>{ff}가디언<END>
+[WORLD03_AREA144.EMI|sec11|body17|@0x545|58B] {c0c:05}보노\n*원한에 미쳐{fe}부질없이\n피를 흘리는 게 아니다>{02}이것은{fe}그래>\n숙명인 게다{fe}가디언<END>
+[WORLD03_AREA144.EMI|sec11|body18|@0x57f|23B] {c0c:06}{c04:02}\n*숙명{fe}이라고요{ff}어르신>?<END>
+[WORLD03_AREA144.EMI|sec11|body19|@0x596|39B] {c0c:06}{c04:02}\n*그게{fe}무슨 뜻인가요\n가르쳐 주세요{fe}어르신>@?<END>
+[WORLD03_AREA144.EMI|sec11|body20|@0x5bd|36B] {c0c:05}보노\n*에잇{fe}노인 노인 하지 마라\n동갑인 주제에@@<END>
+[WORLD03_AREA144.EMI|sec11|body21|@0x5e1|56B] {c0c:05}보노\n*이제{fe}넌{ff}저리 가@{02}이렇게 된 이상{fe}나는>\n팔팔한{ff}아가씨하고만\n말 섞을 테다<END>
+[WORLD03_AREA144.EMI|sec11|body22|@0x619|45B] {c0c:05}보노\n*안 돼{fe}안 돼@{02}사내는{fe}답답하니까\n이제 아무것도{ff}안 가르쳐 줄 테다@<END>
+[WORLD03_AREA144.EMI|sec11|body23|@0x646|42B] {c0c:05}보노\n*싫다{fe}싫어@{02}더{fe}팔팔한\n아가씨가 아니면{fe}싫다@<END>
+[WORLD03_AREA144.EMI|sec11|body24|@0x670|23B] {c0c:06}{c04:05}\n*뭐야>\n실례잖아<END>
+[WORLD03_AREA144.EMI|sec11|body25|@0x687|59B] {c0c:05}보노\n*흠>{fe}아가씨>{02}그럼{fe}너한테>\n용족과{ff}여신 미리아의\n숙명에 대해{fe}이야기해 줄까><END>
+[WORLD03_AREA144.EMI|sec11|body26|@0x6c2|18B] {c04:01}\n*부탁드려요{fe}할아버님<END>
+[WORLD03_AREA144.EMI|sec11|body27|@0x6d4|25B] {c0c:05}보노\n*오냐{fe}착한 아이로구나\n잘 듣거라>><END>
+[WORLD03_AREA144.EMI|sec11|body28|@0x6ed|52B] {c0c:05}보노\n*여신 미리아와{fe}우리 용족은\n늘{fe}싸워 왔다>{02}이 세계를 두고{fe}말이다><END>
+[WORLD03_AREA144.EMI|sec11|body29|@0x721|60B] {c04:01}\n*그건{fe}여신이\n세계를{ff}멸망시키려는 걸>{02}용 일족이{fe}지켜 왔다는\n뜻인가요?<END>
+[WORLD03_AREA144.EMI|sec11|body30|@0x75d|75B] {c0c:05}보노\n*그리{fe}간단한 이야기가\n아니다{fe}아가씨>{02}만약{fe}그랬다면\n우리가 진{ff}대전 뒤에\n세계는{fe}멸망했을 게 아니냐?<END>
+[WORLD03_AREA144.EMI|sec11|body31|@0x7a8|52B] {c0c:05}보노\n*오히려>{ff}세계에게\n위험한 건>>{02}우리{fe}용족 쪽일지도\n모른다>?<END>
+[WORLD03_AREA144.EMI|sec11|body32|@0x7dc|81B] {c0c:05}보노\n*우리의>{ff}용의 힘은\n세계를 멸망시키기 족한{fe}힘이다{02}여신 미리아는{fe}그 힘을 두려워해>{02}우리를 뿌리째{ff}없애려\n꾀했다><END>
+[WORLD03_AREA144.EMI|sec11|body33|@0x82d|34B] {c04:01}\n*그런><PAUSE>{ff}그럼>\n{c04:00}은>>{02}나쁜 용>{ff}인 거>>?<END>
+[WORLD03_AREA144.EMI|sec11|body34|@0x84f|70B] {c0c:05}보노\n*아니{fe}아니다>{ff}아가씨\n조급해할{fe}거 없다>{02}실제로{fe}우리는{ff}대전 때\n힘을{ff}거의 쓰지 않고\n졌잖느냐?<END>
+[WORLD03_AREA144.EMI|sec11|body35|@0x895|61B] {c0c:05}보노\n*용의 힘을{ff}쓴\n전면전이 됐다면>{02}그야말로{fe}세계를 멸망시킬\n위험이{ff}있었기 때문이지<END>
+[WORLD03_AREA144.EMI|sec11|body36|@0x8d2|48B] {c04:01}\n*그럼{fe}즉>\n용족은{fe}세계를 생각해서?{02}용족은{fe}나쁘지 않은 거>?<END>
+[WORLD03_AREA144.EMI|sec11|body37|@0x902|67B] {c0c:05}보노\n*뭐{fe}안심하긴\n좀 이르다만>{02}더 중요한 이야기를{ff}할 테니\n내 옆에{ff}와 주지 않겠느냐\n아가씨>?<END>
+[WORLD03_AREA144.EMI|sec11|body38|@0x945|17B] {c04:01}\n*이렇게요{fe}할아버님?<END>
+[WORLD03_AREA144.EMI|sec11|body39|@0x956|29B] {c0c:05}보노\n*그래>{ff}<PAUSE>그리고\n좀{fe}쪼그려 앉아 보거라><END>
+[WORLD03_AREA144.EMI|sec11|body40|@0x973|15B] {c0c:05}보노\n*뽀뽀{fe}해 다오<END>
+[WORLD03_AREA144.EMI|sec11|body41|@0x982|35B] {c04:01}\n*저기>{fe}{c04:00}\n어쩌지>>?{c14:00}{c0c:12}왜 나한테 물어?<END>
+[WORLD03_AREA144.EMI|sec11|body42|@0x9b3|15B] {c04:01}\n*그{fe}<PAUSE>그도 그렇네><END>
+[WORLD03_AREA144.EMI|sec11|body43|@0x9c2|15B] {c04:01}\n*으{fe}응>{ff}그렇네<END>
+[WORLD03_AREA144.EMI|sec11|body44|@0x9d1|65B] {c0c:05}보노\n*후훗훗훗@{02}아가씨한테{fe}뽀뽀도\n받아 봤으니>{02}이걸로{fe}이제 여한은\n하나도 없구나>@<END>
+[WORLD03_AREA144.EMI|sec11|body45|@0xa12|54B] {c0c:05}보노\n*그런 까닭에{fe}슬슬\n마지막 일이다>{02}{c04:00}야>\n다시 한번{fe}여기로 오너라<END>
+[WORLD03_AREA144.EMI|sec11|body46|@0xa48|30B] {c0c:05}보노\n*이것만큼은\n용족이 아니면{fe}못 한다><END>
+[WORLD03_AREA144.EMI|sec11|body47|@0xa66|50B] {c0c:05}보노\n*이제{fe}뽀뽀는 됐다\n아가씨>?{02}{c04:00}와{fe}마지막\n이야기를 해야{fe}한다><END>
+[WORLD03_AREA144.EMI|sec11|body48|@0xa98|70B] {c0c:05}보노\n*{c04:00}야>\n알고는 있겠지{fe}싶다만{02}내{fe}마지막 이야기다>\n그만한 준비는\n돼 있겠지?{c14:01}{c0c:02}네<END>
+[WORLD03_AREA144.EMI|sec11|body49|@0xae3|48B] {c0c:05}보노\n*>그렇다면{fe}기다리마{02}준비를 갖추고{fe}마음을 정한 뒤\n내게로 오너라<END>
+[WORLD03_AREA144.EMI|sec11|body50|@0xb13|61B] {c0c:05}보노\n*>이 땅의 용족은{fe}기다렸다{02}언젠가{fe}찾아올 아이에게\n용의{fe}진정한 힘을\n전할 때를><END>
+[WORLD03_AREA144.EMI|sec11|body51|@0xb50|76B] {c0c:05}보노\n*용의 힘을 버리고>{ff}황폐해진\n이 땅에서{fe}살아남은 것은>{02}후세에 전하기 위한{fe}힘을\n여신의 눈에서{fe}숨기기 위함><END>
+[WORLD03_AREA144.EMI|sec11|body52|@0xb9c|39B] {c0c:05}보노\n*여신 미리아에게{fe}용의 힘이\n멸했다고>{ff}믿게 하기 위함이지<END>
+[WORLD03_AREA144.EMI|sec11|body53|@0xbc3|63B] {c0c:05}보노\n*여신을{ff}속였는지\n어떤지는{fe}모르나>{02}진정한 힘은{fe}이렇게\n지켜져 왔다>{02}내 안에서{fe}말이다><END>
+[WORLD03_AREA144.EMI|sec11|body54|@0xc02|28B] {c0c:05}보노\n*이제부터{fe}그 힘을\n네게 전해 주마><END>
+[WORLD03_AREA144.EMI|sec11|body55|@0xc1e|49B] {c0c:05}보노\n*{c04:00}야>\n내 피를{fe}이은 자여>{02}내 힘{fe}받아 보여라\n>>다만<END>
+[WORLD03_AREA144.EMI|sec11|body56|@0xc4f|48B] {c0c:05}보노\n*이 방은{fe}용의 힘이\n발견되지 않도록>{02}봉인이{fe}걸려 있다<END>
+[WORLD03_AREA144.EMI|sec11|body57|@0xc7f|33B] {c0c:05}보노\n*즉>{ff}여기서는{fe}네\n용의 힘은{fe}못 쓴다<END>
+[WORLD03_AREA144.EMI|sec11|body58|@0xca0|61B] {c0c:05}보노\n*나는{fe}이제부터 반칙을 써서\n진정한 힘을{ff}쓰겠다만>{02}{c04:00}야{fe}용의 힘에 기대지 말고\n나를{ff}물리쳐 보아라><END>
+[WORLD03_AREA144.EMI|sec11|body59|@0xcdd|48B] {c0c:05}보노\n*훌륭하다{fe}{c04:00}\n네>>{02}아니>{ff}너희의 힘\n똑똑히{fe}지켜보았다@<END>
+[WORLD03_AREA144.EMI|sec11|body60|@0xd0d|56B] {c0c:05}보노\n*좋다{fe}{c04:00}{02}진정한 힘>{ff}최대의 용의 힘을\n네게{ff}전해 주마>{02}이리로{fe}오너라<END>
+[WORLD03_AREA144.EMI|sec11|body61|@0xd45|23B] {c0c:05}보노\n*>>{c04:00}야\n이리로{fe}오너라<END>
+[WORLD03_AREA144.EMI|sec11|body62|@0xd5c|67B] {c0c:05}보노\n*아이야>{ff}네게 주는 것은\n최강의 힘이다>{02}세계를{ff}멸망시킨다던\n진정한 용의 힘{fe}앙피니<END>
+[WORLD03_AREA144.EMI|sec11|body63|@0xd9f|39B] {c0c:05}보노\n*앙피니를{ff}지니면\n세계는{fe}네 뜻대로다<END>
+[WORLD03_AREA144.EMI|sec11|body64|@0xdc6|46B] {c0c:05}보노\n*명심하거라{fe}{c04:00}{02}이것은{fe}여신을 두렵게 한\n용족의 능력 중{fe}하나><END>
+[WORLD03_AREA144.EMI|sec11|body65|@0xdf4|47B] {c0c:05}보노\n*또 하나의 능력은{fe}그것>{02}믿을 만한 동료를\n만드는 능력이다><END>
+[WORLD03_AREA144.EMI|sec11|body66|@0xe23|83B] {c0c:05}보노\n*우리 일족의{fe}용사라\n불리던 자들은>{02}늘{fe}동료와 함께였고>\n최강의 용의 힘을{ff}써서\n여신을{ff}쓰러뜨렸><PAUSE>{ff}다><END>
+[WORLD03_AREA144.EMI|sec11|body67|@0xe76|46B] {c0c:05}보노\n*허나>{fe}네게>>{02}선인과 같은 일을><PAUSE>{ff}하라고는>\n말하지>않으마>><END>
+[WORLD03_AREA144.EMI|sec11|body68|@0xea4|40B] {c0c:05}보노\n*가는 게>{fe}좋다\n{c04:00}><PAUSE>{ff}야>>{02}네>{ff}뜻대로>@<END>
+[WORLD03_AREA144.EMI|sec11|body69|@0xecc|30B] {c0c:05}보노\n*잘 가거라{fe}{c04:00}\n내 피를{ff}이은 자식아@<END>
+[WORLD03_AREA144.EMI|sec11|body70|@0xeea|43B] 강대한 힘이{ff}느껴진다>{02}용족이 아니면{fe}손에 넣을 수\n없다>@<END>
+[WORLD03_AREA144.EMI|sec11|body71|@0xf15|47B] 커다란 힘이{fe}{c04:00}에게\n흘러들어 왔다@{02}>>{c04:00} 안의\n잠들어 있던 힘이{fe}깨어났다@<END>
+[WORLD03_AREA144.EMI|sec11|body72|@0xf44|34B] {c0c:81}{ff}{ff}{ff}{ff}그것이{fe}용족이다\n{ff}\n{ff}{ff}{ff}그것이{fe}우리들이야@<END>

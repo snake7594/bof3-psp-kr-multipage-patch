@@ -1,0 +1,136 @@
+[WORLD01_AREA050.EMI|sec11|body0|@0x232|17B] {c0c:05}산토\n*어떠냐{fe}꼬맹이@<END>
+[WORLD01_AREA050.EMI|sec11|body1|@0x243|32B] {c0c:05}산토\n*우리한텐{ff}못 도망쳐\n알겠냐@@<END>
+[WORLD01_AREA050.EMI|sec11|body2|@0x263|33B] {c0c:05}산토\n*>참 나{ff}바쁜 와중에\n수고 끼치게 하긴<END>
+[WORLD01_AREA050.EMI|sec11|body3|@0x284|90B] {c0c:81}{ff}{ff}{ff}{ff}한라광렬대무회{c16:20}{c0c:81}{ff}\n{ff}\n{ff}{ff}{ff}{ff}투도 진멜{c16:30}{c0c:81}{ff}\n{ff}\n{ff}{ff}술집;파{fc}르의 가게<{c16:30}바리오\n*>부탁한다{fe}파{fc}르\n그 꼬맹이들을>><END>
+[WORLD01_AREA050.EMI|sec11|body4|@0x29a|68B] {c0c:81}{ff}\n{ff}\n{ff}{ff}{ff}{ff}투도 진멜{c16:30}{c0c:81}{ff}\n{ff}\n{ff}{ff}술집;파{fc}르의 가게<{c16:30}바리오\n*>부탁한다{fe}파{fc}르\n그 꼬맹이들을>><END>
+[WORLD01_AREA050.EMI|sec11|body10|@0x2ae|48B] {c0c:81}{ff}\n{ff}\n{ff}{ff}술집;파{fc}르의 가게<{c16:30}바리오\n*>부탁한다{fe}파{fc}르\n그 꼬맹이들을>><END>
+[WORLD01_AREA050.EMI|sec11|body11|@0x2c3|27B] 바리오\n*>부탁한다{fe}파{fc}르\n그 꼬맹이들을>><END>
+[WORLD01_AREA050.EMI|sec11|body12|@0x2de|36B] {c0c:05}파{fc}르\n*>돌봐 주면{fe}되는 거지?\n알았어{fe}알았다고<END>
+[WORLD01_AREA050.EMI|sec11|body13|@0x302|55B] 바리오\n*취하거나{ff}하지 말고\n제대로{ff}봐 둬라{02}우리{ff}당분간\n손을{ff}못 뗄 테니까<END>
+[WORLD01_AREA050.EMI|sec11|body14|@0x339|63B] 바리오\n*고맙다{fe}파{fc}르{02}>>이봐{fe}꼬맹이\n대회가{ff}끝나면\n때려죽여{ff}줄 테니{02}얌전히{ff}기다려라<END>
+[WORLD01_AREA050.EMI|sec11|body15|@0x378|38B] {c0c:06}산토\n*{c04:02}의{ff}대장도\n적당히 해라>>{02}대회는{ff}코앞이라고>><END>
+[WORLD01_AREA050.EMI|sec11|body16|@0x39e|18B] {c0c:03}{c04:01}\n*괜찮아{fe}<PAUSE>{c04:00}?<END>
+[WORLD01_AREA050.EMI|sec11|body17|@0x3b0|31B] {c0c:03}{c04:01}\n*><PAUSE>><PAUSE>>이 밧줄\n어떻게{ff}안 될까?<END>
+[WORLD01_AREA050.EMI|sec11|body18|@0x3cf|27B] {c0c:03}{c04:01}\n*어?{fe}깨문다고?\n무리야{fe}이렇게 튼튼한데><END>
+[WORLD01_AREA050.EMI|sec11|body19|@0x3ea|18B] {c0c:03}{c04:01}\n*어{fe}<PAUSE>대단해{c15:07}@@<END>
+[WORLD01_AREA050.EMI|sec11|body20|@0x3fc|37B] {c0c:03}{c04:01}\n*>끊어졌어\n대단해{fe}{c04:00}{02}>이걸로{fe}도망칠 수 있을지도<END>
+[WORLD01_AREA050.EMI|sec11|body21|@0x421|68B] {c0c:03}{c04:01}\n*그놈들은{fe}간 모양이야>{02}파{fc}르라는 사람이{fe}있지만\n취해 있는{ff}것 같으니까>\n살금살금 가면{fe}못 알아챌지도<END>
+[WORLD01_AREA050.EMI|sec11|body22|@0x465|39B] {c0c:03}{c04:01}\n*>태연하게 있으면\n분명{ff}괜찮을 거야@{02}>>자{fe}가자<END>
+[WORLD01_AREA050.EMI|sec11|body23|@0x48c|30B] {c0c:05}파{fc}르\n*어라?{ff}꼬마들>\n어디 가는 거니?<END>
+[WORLD01_AREA050.EMI|sec11|body24|@0x4aa|22B] {c04:01}\n*아뇨>\n아무 데도{ff}안 가요<END>
+[WORLD01_AREA050.EMI|sec11|body25|@0x4c0|25B] {c0c:05}파{fc}르\n*아무 데도>>{ff}<PAUSE><PAUSE>{0d}딸꾹{0e}{0f}{17}<END>
+[WORLD01_AREA050.EMI|sec11|body26|@0x4d9|25B] {c04:01}\n*네><PAUSE>><PAUSE>>\n그럼{ff}실례할게요<END>
+[WORLD01_AREA050.EMI|sec11|body27|@0x4f2|25B] {c0c:06}{c04:01}\n*><PAUSE>><PAUSE>>사\n살았네@{ff}{c04:00}<END>
+[WORLD01_AREA050.EMI|sec11|body28|@0x50b|30B] {c0c:06}{c04:01}\n*왠지{ff}잘 풀릴 것 같은\n느낌이 들었어>><END>
+[WORLD01_AREA050.EMI|sec11|body29|@0x529|35B] {c04:01}\n*자{fe}<PAUSE>파{fc}르라는 사람이\n알아채기 전에{fe}가자@<END>
+[WORLD01_AREA050.EMI|sec11|body30|@0x54c|26B] {c04:01}\n*>아무래도{ff}여기 들어가는 건\n좀 그렇겠지<END>
+[WORLD01_AREA050.EMI|sec11|body31|@0x566|20B] *으{c15:07}{ff}졌네{c15:07}\n젠장{c15:07}{c15:07}<END>
+[WORLD01_AREA050.EMI|sec11|body32|@0x57a|26B] *내기에{ff}계속 져서 말이야>\n결국엔{ff}이 꼴이지<END>
+[WORLD01_AREA050.EMI|sec11|body33|@0x594|29B] *이제 곧{fe}대무회니까\n더{fe}떠들썩해질 거야<END>
+[WORLD01_AREA050.EMI|sec11|body34|@0x5b1|71B] *광산에서{ff}벌어 왔다>{02}당연히{ff}목표는\n한라광렬대무회지@{02}올해는{ff}어떤 배틀이\n있을까나>><END>
+[WORLD01_AREA050.EMI|sec11|body35|@0x5f8|72B] *대무회란 건{fe}여기\n투도 진멜의{ff}명물이라>{02}일 년에 한 번{ff}여기저기서\n강한 녀석들이{ff}모여서\n싸운다는 거지<END>
+[WORLD01_AREA050.EMI|sec11|body36|@0x640|46B] *칫{fe}파{fc}르 녀석이랑\n싸우러 왔는데>{02}저 녀석{ff}또\n취해{ff}있잖아><END>
+[WORLD01_AREA050.EMI|sec11|body37|@0x66e|93B] *가끔{fe}파{fc}르한테\n싸우는 법을{ff}배우러 오는\n녀석이 있는데>{02}나라면{fe}도둑 사부한테\n수련받겠어>{02}그게{fe}빨{c15:18}라질 수도 있고\n아이템도{ff}훔칠 수 있잖아?<END>
+[WORLD01_AREA050.EMI|sec11|body38|@0x6cb|52B] *지금{fe}투기장은\n쉬는 중이에{fc}요{02}대무회에{ff}오신 분은\n잠시만 기다려 주세요<END>
+[WORLD01_AREA050.EMI|sec11|body39|@0x6ff|65B] *평소엔{ff}이 투기장에서\n무투회를{ff}열어요>{02}그리고{fe}대무회는{ff}일 년에 한 번\n최대의 무투회야<END>
+[WORLD01_AREA050.EMI|sec11|body40|@0x740|92B] *저{fe}이 투기장의\n매니저인데요>{02}한라광렬대무회만은\n다른 사람이{ff}관리해요{02}그래서{fe}이런 데서\n입장 정리 같은 걸{ff}하고 있는 거예요<END>
+[WORLD01_AREA050.EMI|sec11|body41|@0x79c|26B] *사람과 사람이 싸우니까\n뜨거운 거 아니{fc}야@?<END>
+[WORLD01_AREA050.EMI|sec11|body42|@0x7b6|34B] *아니지{fe}넌\n도박이라면{ff}뭐든\n달아오르는 거야@<END>
+[WORLD01_AREA050.EMI|sec11|body43|@0x7d8|36B] *구경거리 천막인가>\n탱탱한{ff}아가씨는\n있으려나>?<END>
+[WORLD01_AREA050.EMI|sec11|body44|@0x7fc|65B] *대무회를{ff}관리하는 건\n바리오니{ff}산토니 하는\n양아치들인가 봐>{02}>뭐{fe}신나기만 하면\n어느 쪽이든{ff}상관없지만<END>
+[WORLD01_AREA050.EMI|sec11|body45|@0x83d|30B] *>땡땡이치는 거 아니라꼬\n이거{fe}나눠 주는 기다\n>>옜다<END>
+[WORLD01_AREA050.EMI|sec11|body46|@0x85b|12B] ;전단지<를 받았다@<END>
+[WORLD01_AREA050.EMI|sec11|body47|@0x867|35B] *그 전단지 들고\n가게에 가면\n서비스해{ff} 줄 끼다<END>
+[WORLD01_AREA050.EMI|sec11|body48|@0x88a|57B] *바리오랑 산토?{02}>대무회{ff}준비로\n당분간{ff}안 나올 텐데\n>>무슨 볼일이라도 있냐?<END>
+[WORLD01_AREA050.EMI|sec11|body49|@0x8c3|57B] *대무회{ff}예상은\n무척{ff}어렵다네>{02}어쨌든{ff}출전자가\n엄선된{ff}강자들뿐이라서<END>
+[WORLD01_AREA050.EMI|sec11|body50|@0x8fc|34B] *허{fe}<PAUSE>영감님>\n그거 말고도{ff}예상이\n맞은 적도 없으면서@<END>
+[WORLD01_AREA050.EMI|sec11|body51|@0x91e|36B] *너희들{ff}같은\n꼬맹이도>{02}대무회{fe}기대돼?<END>
+[WORLD01_AREA050.EMI|sec11|body52|@0x942|42B] *장소가 장소다 보니{fe}불량배가\n많지만>>{02}뭐{fe}손님인 건{ff}분명하지<END>
+[WORLD01_AREA050.EMI|sec11|body53|@0x96c|59B] *대무회에서{ff}이기면\n뭐든{ff}소원대로라는\n얘긴데>>{02}나 같은 건{ff}나가도\n이길 리가{ff}없지<END>
+[WORLD01_AREA050.EMI|sec11|body54|@0x9a7|52B] *난{ff}대무회에 나갈 만큼\n강하지 않으니까>{02}그 대신에{ff}돈 걸고\n달아오르는 거지<END>
+[WORLD01_AREA050.EMI|sec11|body55|@0x9db|14B] *어서 오이소{fe}무기 살라꼬예?<END>
+[WORLD01_AREA050.EMI|sec11|body56|@0x9e9|36B] *오@{ff}손님\n전단지 봐{ff} 주신 거예@?\n서비스하겠심더<END>
+[WORLD01_AREA050.EMI|sec11|body57|@0xa0d|24B] *어서 오이소@\n도구라면{ff}다 갖췄데이<END>
+[WORLD01_AREA050.EMI|sec11|body58|@0xa25|24B] *전단지 든{ff}손님예>\n덤 얹어 드리겠심더@<END>
+[WORLD01_AREA050.EMI|sec11|body59|@0xa3d|57B] *대무회라꼬{ff}평소보다\n비싸졌다꼬예?{02}바리오 패거리도{ff}아니고\n그런{ff}악덕한 짓{ff}안 합니더<END>
+[WORLD01_AREA050.EMI|sec11|body60|@0xa76|38B] *이 동네{fe}분위기 험하지만\n가게의{ff}물건 구색은\n꽤{ff}좋단 말이지<END>
+[WORLD01_AREA050.EMI|sec11|body61|@0xa9c|32B] *사람이{ff}잔뜩 오니까\n비싸게{ff}팔아먹을 셈이겠지@@<END>
+[WORLD01_AREA050.EMI|sec11|body62|@0xabc|39B] *참 나{fe}시시하다@{02}탱탱한 아가씨인 줄{ff}알았더니\n꼬맹이잖아@<END>
+[WORLD01_AREA050.EMI|sec11|body63|@0xae3|51B] *저 손님은\n꼬맹이 아가씨는{ff}취향이\n아닌가 보네요>{02}좋아하는 사람도{ff}있는데요><END>
+[WORLD01_AREA050.EMI|sec11|body64|@0xb16|67B] *나{fe}스타가 될 수 있다고\n스카우트됐어{02}근데{fe}노래도{ff}춤도 없이\n이렇게{fe}서 있기만 해\n>>이게{fe}스타야?<END>
+[WORLD01_AREA050.EMI|sec11|body65|@0xb59|45B] *으익{c15:07}{c15:07}{c15:07}{c15:07}{ff}대무회?\n그딴 거 필요 없어{c15:07}{c15:07}\n물 좀 줘{c15:07}{c15:07}{c15:07}<END>
+[WORLD01_AREA050.EMI|sec11|body66|@0xb86|32B] *대무회{fe}시작됐지만\n돈이 없으니{ff}상관없지<END>
+[WORLD01_AREA050.EMI|sec11|body67|@0xba6|43B] *이런@{ff}예매 티켓\n안 사 둬서>\n투기장에{ff}못 들어가@<END>
+[WORLD01_AREA050.EMI|sec11|body68|@0xbd1|41B] *챔피언인\n{c04:02}는>{02}올해도{ff}호쾌한 싸움을\n보여 줄까?<END>
+[WORLD01_AREA050.EMI|sec11|body69|@0xbfa|48B] *이기면{fe}뭐든\n뜻대로>>{ff}라>{02}한 번쯤{ff}나도\n출전해{ff}보고 싶네<END>
+[WORLD01_AREA050.EMI|sec11|body70|@0xc2a|45B] *저 가게의\n파{fc}르라는 남자는\n꽤{ff}강한데 말이야>{02}좀{ff}모자란 구석이 있어<END>
+[WORLD01_AREA050.EMI|sec11|body71|@0xc57|25B] *올해도{fe}{c04:02}가\n이길 게{ff}뻔하지@<END>
+[WORLD01_AREA050.EMI|sec11|body72|@0xc70|55B] *그러니까{fe}넌\n꿈이 없다는 거야@{02}무명의 출전자가{ff}이기는 게\n낭만이 있잖아@<END>
+[WORLD01_AREA050.EMI|sec11|body73|@0xca7|31B] *구경거리랑{fe}대무회>\n어느 쪽을{ff}볼까나?<END>
+[WORLD01_AREA050.EMI|sec11|body74|@0xcc6|37B] *이렇게나{fe}흥하다니\n바리오 패거리{fe}엄청\n벌고 있겠는데><END>
+[WORLD01_AREA050.EMI|sec11|body75|@0xceb|49B] *뭐?{ff}너희가\n대무회에{ff}출전한다고@?{02}>바리오 녀석\n무슨 생각이야@?<END>
+[WORLD01_AREA050.EMI|sec11|body76|@0xd1c|25B] *너희가{ff}대무회에?{02}>>거짓말이지?<END>
+[WORLD01_AREA050.EMI|sec11|body77|@0xd35|35B] *그{ff}즉석 출전이\n너희들이었냐@{02}이거 대단한데<END>
+[WORLD01_AREA050.EMI|sec11|body78|@0xd58|48B] *너희{fe}출전하니?\n흐{fc}음{fe}대단한데{02}>>그래서{fe}혹시 이기면\n뭐 받을{ff}생각이야?<END>
+[WORLD01_AREA050.EMI|sec11|body79|@0xd88|30B] *>분명히{fe}너희가\n최연소{ff}출전자겠지<END>
+[WORLD01_AREA050.EMI|sec11|body80|@0xda6|56B] *한라광렬대무회라꼬\n대박 서비스데이@{02}값은{ff}똑같지만\n팍팍 사 가이소{c15:07}{c15:07}<END>
+[WORLD01_AREA050.EMI|sec11|body81|@0xdde|30B] *>투기장 지하에도\n가게가{ff}있다며?<END>
+[WORLD01_AREA050.EMI|sec11|body82|@0xdfc|24B] *그런 건{ff}서비스라고\n안 한다고@<END>
+[WORLD01_AREA050.EMI|sec11|body83|@0xe14|32B] *어휴{fe}또\n스타의 알을\n찾으러{ff} 가야 하네><END>
+[WORLD01_AREA050.EMI|sec11|body84|@0xe34|30B] *대무회{fe}끝났지만\n역시{ff}상관없지><END>
+[WORLD01_AREA050.EMI|sec11|body85|@0xe52|26B] *또{fe}내년까지\n대무회는{ff}못 보는 건가><END>
+[WORLD01_AREA050.EMI|sec11|body86|@0xe6c|48B] *어?{ff}윈디아?{02}>일단{ff}서쪽으로 가서\n메{fc}카{fc}스를{ff}넘으면\n좋지 않을까<END>
+[WORLD01_AREA050.EMI|sec11|body87|@0xe9c|22B] *{c04:02}>\n올해는{ff}뭘 받았으려나?<END>
+[WORLD01_AREA050.EMI|sec11|body88|@0xeb2|24B] *거 봐라@{ff}역시\n{c04:02}가{ff}이겼다@<END>
+[WORLD01_AREA050.EMI|sec11|body89|@0xeca|30B] *너랑{ff}얘기하느라\n대무회{fe}못 봤잖아@<END>
+[WORLD01_AREA050.EMI|sec11|body90|@0xee8|33B] *구경거리도{fe}대무회도\n둘 다{ff}끝나 버렸네><END>
+[WORLD01_AREA050.EMI|sec11|body91|@0xf09|59B] *>너희{fe}바리오 패거리한테서\n도망치려고\n대무회에{ff}출전했다며?{02}대단한데>{ff}꼬마인 주제에<END>
+[WORLD01_AREA050.EMI|sec11|body92|@0xf44|36B] *대무회는{ff}강자가\n출전하는 거다>{02}{c04:02}{ff}같은><END>
+[WORLD01_AREA050.EMI|sec11|body93|@0xf68|35B] *>영감{fe}너희가\n출전했던 걸\n아직{fe}안 믿어<END>
+[WORLD01_AREA050.EMI|sec11|body94|@0xf8b|42B] *대무회는{ff}끝났지만\n아직{fe}투기장 준비가\n안 됐어><END>
+[WORLD01_AREA050.EMI|sec11|body95|@0xfb5|13B] *내년{fe}또 올게<END>
+[WORLD01_AREA050.EMI|sec11|body96|@0xfc2|21B] *어휴>\n드디어{ff}조용해졌네<END>
+[WORLD01_AREA050.EMI|sec11|body97|@0xfd7|40B] *>그러고 보니{ff}이 가게\n전단지 가져오면\n싸진다는{ff}얘기지?<END>
+[WORLD01_AREA050.EMI|sec11|body98|@0xfff|41B] *>>괜찮잖{fc}아\n애들 좀{ff}놓아준 걸로{02}>>그치?\n{0d}딸꾹{0e}{0f}{17}<END>
+[WORLD01_AREA050.EMI|sec11|body99|@0x1028|33B] *이 가게{fe}대무회 챔프\n{c04:02}가>\n자주 온다더라<END>
+[WORLD01_AREA050.EMI|sec11|body100|@0x1049|30B] *투기장은{fe}당분간\n쉬도록 하겠습니{fc}다<END>
+[WORLD01_AREA050.EMI|sec11|body101|@0x1067|29B] *대무회 후엔{fe}항상\n뒷정리가{ff}힘들어<END>
+[WORLD01_AREA050.EMI|sec11|body102|@0x1084|33B] *투기장 입장은\n지금 잠시만{ff}기다려 주세요><END>
+[WORLD01_AREA050.EMI|sec11|body103|@0x10a5|107B] *대무회{fe}사라진 후>\n근근이{ff}이어지던 투기장도{02}관리하던{ff}조직이\n무너져{ff}버렸다나 뭐라나\n이제{fe}문 닫습니다>{02}이걸로{fe}저도\n어엿한{fe}백수가 되는\n셈이네요><END>
+[WORLD01_AREA050.EMI|sec11|body104|@0x1110|48B] *한라광렬대무회니 뭐니로\n들떴던 나날도>{02}이제{fe}멀어져 버렸네<END>
+[WORLD01_AREA050.EMI|sec11|body105|@0x1140|54B] *오늘이야말로{fe}파{fc}르랑\n싸워 보려고{ff} 왔는데>{02}가게에 들어가면{fe}나도 모르게\n마셔 버린단 말이지><END>
+[WORLD01_AREA050.EMI|sec11|body106|@0x1176|74B] *{c05:02}리치마{fc}드{06}라는\n도구{fe}알아>?{02}안다고>{ff}아{fe}그래>{02}그럼{fe}나카무라 마유미라고\n알아?{02}모른다고><PAUSE>{ff}아{fe}그래><END>
+[WORLD01_AREA050.EMI|sec11|body107|@0x11c0|48B] *옛날엔{fe}떠들썩하고\n좋은 느낌{ff}이었는데>{02}투기장이{ff}닫히고 나니\n이젠 글렀어><END>
+[WORLD01_AREA050.EMI|sec11|body108|@0x11f0|77B] *난{fe}몇 년이나 전의\n마지막{ff}대무회를\n기억하고 있어>>{02}분명{fe}{c04:02}가\n챔피언이{ff}돼서>{02}상품으로{ff}꼬맹이를\n받았지><END>
+[WORLD01_AREA050.EMI|sec11|body109|@0x123d|39B] *투기장에서{fe}쫓겨난\n버니{fc}짱들>{02}다들{ff}어디 갔을까?<END>
+[WORLD01_AREA050.EMI|sec11|body110|@0x1264|66B] *이런 곳은>{02}한 번{fe}망해도\n조만간{fe}또>{02}비슷한 조직이{ff}나타나서\n관리하기 시작한단 말이지><END>
+[WORLD01_AREA050.EMI|sec11|body111|@0x12a6|14B] *손님{fe}줄었네><END>
+[WORLD01_AREA050.EMI|sec11|body112|@0x12b4|43B] *상품>{ff}말고\n춤추는 아가씨한테{ff}손대지\n않도록{ff}부탁드려요<END>
+[WORLD01_AREA050.EMI|sec11|body113|@0x12df|16B] *버니{fc}의 별을{ff}향하는 거야@<END>
+[WORLD01_AREA050.EMI|sec11|body114|@0x12ef|37B] *투기장{fe}잘렸으니까\n이 몸매를{ff}살려서\n스타가 될 거야<END>
+[WORLD01_AREA050.EMI|sec11|body115|@0x1314|14B] *흠흠흠흠흠흐응>@<END>
+[WORLD01_AREA050.EMI|sec11|body116|@0x1322|9B] *버니이쟈아@<END>
+[WORLD01_AREA050.EMI|sec11|body117|@0x132b|50B] *오{fe}여자애를{ff}빤히\n쳐다보다니>{02}나{fe}<PAUSE>나는{ff}부끄러워서\n도저히{ff}못 해>@<END>
+[WORLD01_AREA050.EMI|sec11|body118|@0x135d|25B] *떨이 세{fc}일이라예\n값은{ff}똑같지만<END>
+[WORLD01_AREA050.EMI|sec11|body119|@0x1376|29B] *여기도{fe}한산해졌으니\n슬슬{fe}딴 데로 갈까나><END>
+[WORLD01_AREA050.EMI|sec11|body120|@0x1393|50B] *>한라광렬대무회\n그립네{02}그 시절엔{fe}나도\n버니{fc}{ff}복장 하고 말이야><END>
+[WORLD01_AREA050.EMI|sec11|body121|@0x13c5|93B] *{0d}딸꾹{0e}{0f}{17}@{02}뭐야?\n너{ff}어디선가 본 적이\n있는 것 같은데><PAUSE>>{02}뭐{fe}아무래도 좋아{02}그건 그렇고\n너도{ff}나한테 싸우는 법을\n배우러 온 거냐?{c14:00}{c0c:02}예<END>
+[WORLD01_AREA050.EMI|sec11|body128|@0x13cf|83B] 뭐야?\n너{ff}어디선가 본 적이\n있는 것 같은데><PAUSE>>{02}뭐{fe}아무래도 좋아{02}그건 그렇고\n너도{ff}나한테 싸우는 법을\n배우러 온 거냐?{c14:00}{c0c:02}예<END>
+[WORLD01_AREA050.EMI|sec11|body129|@0x1426|94B] ><PAUSE>><PAUSE>><PAUSE>제법\n좋은 체격{ff}하고 있잖아{02}좋{fc}아@\n너희{fe}맘에 들었으니\n이 몸의{ff}제자로 삼아 주마@{02}끝내주게{fe}튼튼한 몸으로\n빌드업해 주지@<END>
+[WORLD01_AREA050.EMI|sec11|body130|@0x1484|90B] ><PAUSE>><PAUSE>><PAUSE>어{fc}?\n잠깐만{02}나한테 배우고 싶으면\n쉬지도 않고{ff}30번 정도\n계속 싸울 수 있는{02}터프가이가{ff}아니면 안 돼{02}난{ff}언제든 여기\n있으니까\n또 와라<END>
+[WORLD01_AREA050.EMI|sec11|body131|@0x14c6|24B] 난{ff}언제든 여기\n있으니까\n또 와라<END>
+[WORLD01_AREA050.EMI|sec11|body132|@0x14de|32B] *우이{fc}{fe}{0d}딸꾹{0e}{0f}{17}@{02}응?너냐?\n무슨 볼일이냐?<END>
+[WORLD01_AREA050.EMI|sec11|body133|@0x14fe|35B] 그래{ff}내 제자가\n되고 싶은 녀석이\n있는 거겠지?{c14:01}{c0c:02}예<END>
+[WORLD01_AREA050.EMI|sec11|body134|@0x1525|27B] 오?뭐냐?\n다아들{fe}내 제자\n잖아<END>
+[WORLD01_AREA050.EMI|sec11|body135|@0x1540|41B] 그{fe}말인즉슨\n내 제자를{ff}그만두겠다\n그런 말이 하고 싶은 거냐?{c14:02}{c0c:02}예<END>
+[WORLD01_AREA050.EMI|sec11|body136|@0x156d|24B] 어라?내 제자{ff}같은 건\n없잖아<END>
+[WORLD01_AREA050.EMI|sec11|body137|@0x1585|28B] *좋{fe}지금부터\n{c07:00}{ff}을\n내 제자로 삼아 주마<END>
+[WORLD01_AREA050.EMI|sec11|body138|@0x15a1|29B] 아직{fe}제자가 되고 싶은\n녀석이{ff}있지?{c14:03}{c0c:02}예<END>
+[WORLD01_AREA050.EMI|sec11|body139|@0x15c2|41B] *칫@그럼{ff}이제\n{c07:00}{ff}은{ff}제자도\n뭣도 아니야{02}맘대로 해라<END>
+[WORLD01_AREA050.EMI|sec11|body140|@0x15eb|24B] 아직{ff}그만두고 싶은 녀석이\n있는 거냐?{c14:04}{c0c:02}예<END>
+[WORLD01_AREA050.EMI|sec11|body141|@0x1607|97B] *오오?{ff}{c07:00}{ff}은\n한동안{ff}안 본 사이에{02}꽤나{ff}체격이\n좋아졌잖아{02}좋았어{ff}너라면\n이 기술을{ff}쓸 수 있\n겠지{02}{c07:00}{ff}은\n{c05:02}{c07:01}{06}{ff}을\n배웠다@<END>
+[WORLD01_AREA050.EMI|sec11|body142|@0x1668|16B] 누가{ff}제자가 되겠습니까?<END>
+[WORLD01_AREA050.EMI|sec11|body143|@0x1678|16B] 누가{ff}제자를 그만두겠습니까?<END>
+[WORLD01_AREA050.EMI|sec11|body144|@0x1688|23B] 이 사람으로{ff}괜찮습니까?{ff}{ff}예{ff}아니오<END>
+[WORLD01_AREA050.EMI|sec11|body145|@0x169f|22B] 그만두겠습니까?{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}예{ff}아니오<END>
+[WORLD01_AREA050.EMI|sec11|body146|@0x16b5|70B] *그건 그렇고::{02}가끔 마차로 실려 오는\n엄청나게 큰 식물 괴물이나\n이상한 모양의 동물은{02}어디서 오는 걸까::?<END>

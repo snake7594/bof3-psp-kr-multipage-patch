@@ -1,0 +1,176 @@
+[WORLD01_AREA057.EMI|sec11|body0|@0x206|35B] *항구도시 라팔라에{ff}오신 걸 환영해요{02}여기는{ff}짐 나르기 길드의\n마을이랍니다<END>
+[WORLD01_AREA057.EMI|sec11|body1|@0x229|6B] *야{fc}옹<END>
+[WORLD01_AREA057.EMI|sec11|body2|@0x22f|69B] *동쪽으로 가려면>{02}여기서{fe}짐 나르는 배에\n얻어 타거나>{02}남쪽 화산을{ff}넘는 수밖에\n없다더라<END>
+[WORLD01_AREA057.EMI|sec11|body3|@0x274|11B] *여긴 뭐지>?<END>
+[WORLD01_AREA057.EMI|sec11|body4|@0x27f|43B] *어머{fe}여긴\n마을 집회소야>{ff}아마{02}아니면\n물 없는{ff}분수일지도<END>
+[WORLD01_AREA057.EMI|sec11|body5|@0x2aa|38B] *>요즘{ff}배가\n안 뜬다는{ff}얘기야{02}뭐{fe}느긋하게 기다려야지<END>
+[WORLD01_AREA057.EMI|sec11|body6|@0x2d0|22B] *짐 나르기 길드에{ff}볼일이면\n저기야?<END>
+[WORLD01_AREA057.EMI|sec11|body7|@0x2e6|8B] *크{fc}크{fc}크{fc}<END>
+[WORLD01_AREA057.EMI|sec11|body8|@0x2ee|59B] *어라{fe}<PAUSE>어디서 본 얼굴인데>{02}혹시{fe}너희들\n한라광렬대무회장에서\n만나지 않았나?<END>
+[WORLD01_AREA057.EMI|sec11|body9|@0x329|26B] *심심하네>{02}나도{fe}낚시나\n해 볼까>><END>
+[WORLD01_AREA057.EMI|sec11|body10|@0x343|42B] *정어리를{ff}낚아서\n고양이한테{ff}줄 거야>>{02}이래 봬도{fe}나\n고양이 좋아하거든<END>
+[WORLD01_AREA057.EMI|sec11|body11|@0x36d|6B] *골골골<END>
+[WORLD01_AREA057.EMI|sec11|body12|@0x373|43B] *페슬라라고{fe}낚아 본 적 있어?{02}묘한 이름의{ff}물고기지\n누가{ff}붙인 걸까?<END>
+[WORLD01_AREA057.EMI|sec11|body13|@0x39e|67B] *이 바다를{ff}건너서>{02}정크 마을에서{ff}기계를\n실어 오는 거야>{02}근데{fe}얼마 전부터\n배가{ff}안 돌아와><END>
+[WORLD01_AREA057.EMI|sec11|body14|@0x3e1|19B] *바다가{fe}나를\n부르고 있구먼유<END>
+[WORLD01_AREA057.EMI|sec11|body15|@0x3f4|17B] {0d}우글우글우글우글우글우글{0e}{0f}{02}<END>
+[WORLD01_AREA057.EMI|sec11|body16|@0x405|47B] *배가{fe}안 온다더라>{02}등대가{ff}박살 났기\n때문이라는데\n진짜일까?<END>
+[WORLD01_AREA057.EMI|sec11|body17|@0x434|31B] *이 앞은{fe}선착장이야>\n지금은{fe}배가 없지만<END>
+[WORLD01_AREA057.EMI|sec11|body18|@0x453|23B] *>>뭐야{02}그런 표정 지어도{fe}안 줘<END>
+[WORLD01_AREA057.EMI|sec11|body19|@0x46a|44B] *평소 같으면\n짐배에{ff}얻어 타고>{02}동쪽으로{ff}건너갈 수\n있는데 말이야><END>
+[WORLD01_AREA057.EMI|sec11|body20|@0x496|33B] *흐{fc}음>\n기다리지 말고{ff}남쪽 화산을\n넘어 볼까<END>
+[WORLD01_AREA057.EMI|sec11|body21|@0x4b7|53B] *다음 배가 오면\n일감을 받으려고{ff}해서{02}길드장인{ff}싱커 씨를\n만나러 왔어<END>
+[WORLD01_AREA057.EMI|sec11|body22|@0x4ec|39B] *일감 못 구한 녀석들이\n언제까지나{ff}눌러앉으니까\n바빠 죽겠다고@<END>
+[WORLD01_AREA057.EMI|sec11|body23|@0x513|39B] *길드장한테{ff}볼일?{02}싱커 씨라면{ff}이 가게에서\n식사 중이야<END>
+[WORLD01_AREA057.EMI|sec11|body24|@0x53a|36B] *바다 사나이라면\n럼주지>{02}으{fc}음{fe}이 향기\n못 참겠네@<END>
+[WORLD01_AREA057.EMI|sec11|body25|@0x55e|38B] *저 손님>{ff}돈이 없다고\n아까부터{ff}물만\n마시고 있어<END>
+[WORLD01_AREA057.EMI|sec11|body26|@0x584|58B] *항구도시의{ff}쓸쓸한 술집>{02}카운터{fc}{ff}한구석에서\n잔을{ff}기울이는 사나이>{02}나란 놈>>>\n멋지다@<END>
+[WORLD01_AREA057.EMI|sec11|body27|@0x5be|54B] *>기계를{ff}사들이러\n일부러{ff}왔는데도{02}배가{ff}안 온다니\n운도 없지{fe}참내<END>
+[WORLD01_AREA057.EMI|sec11|body28|@0x5f4|49B] *길드장은{fe}싱커 씨\n지만>{02}요즘은{ff}일을\n딸한테{ff}맡기고 있어<END>
+[WORLD01_AREA057.EMI|sec11|body29|@0x625|61B] *>응?\n배에{ff}태워 달라고?{02}흠>{ff}하지만{fe}배 일은\n딸에게{ff}맡겨 뒀으니\n그 녀석과{ff}얘기해 주겠나><END>
+[WORLD01_AREA057.EMI|sec11|body30|@0x662|53B] *짐 나르기 길드의 장인\n싱커 씨는>{02}이 근방의 통행을\n혼자서{ff}도맡아 관리하지<END>
+[WORLD01_AREA057.EMI|sec11|body31|@0x697|5B] *츄?<END>
+[WORLD01_AREA057.EMI|sec11|body32|@0x69c|30B] *이거 참>{02}배가 올 때까지\n여기서{fe}좀 쉴까><END>
+[WORLD01_AREA057.EMI|sec11|body33|@0x6ba|15B] *싱커의 여관에{ff}어서 오세요<END>
+[WORLD01_AREA057.EMI|sec11|body34|@0x6c9|45B] *{0d}골골골골{0e}{0f}{c16:00}*뱃길 전에는{fe}도{fc}핑@\n한 방{fe}해 볼까요?<END>
+[WORLD01_AREA057.EMI|sec11|body35|@0x6d7|31B] *뱃길 전에는{fe}도{fc}핑@\n한 방{fe}해 볼까요?<END>
+[WORLD01_AREA057.EMI|sec11|body36|@0x6f6|65B] *짐 나르기 의뢰는\n저희 길드로{fe}오세요>{02}>짐배에{ff}얻어 타려면\n길드장에게{ff}말을\n넣어 주세요<END>
+[WORLD01_AREA057.EMI|sec11|body37|@0x737|41B] *>이 마을에{ff}고양이가 많은 건\n길드의{ff}심볼이\n고양이라서라는{ff}얘기야<END>
+[WORLD01_AREA057.EMI|sec11|body38|@0x760|5B] *냐옹<END>
+[WORLD01_AREA057.EMI|sec11|body39|@0x765|52B] *딸 샤드는\n선착장에{ff}있을 거야>{02}배에 관한 거라면{ff}그 녀석과\n얘기하는 게{ff}빨라<END>
+[WORLD01_AREA057.EMI|sec11|body40|@0x799|48B] *>뭐?{ff}배가 안 돌아오니\n가도를{ff}쓰고 싶다?{02}>흠{fe}하지만{ff}그것도\n어렵겠는걸<END>
+[WORLD01_AREA057.EMI|sec11|body41|@0x7c9|66B] 싱커{fc}\n*가도{ff}도중에 있는\n즈블로 화산이 말이야>{02}얼마 전{fe}대폭발을{ff}일으켜서\n길이{ff}무너져 버렸다네><END>
+[WORLD01_AREA057.EMI|sec11|body42|@0x80b|81B] 싱커{fc}\n*그래서>{ff}동쪽으로 가고 싶으면{02}배를 기다리는 수밖에{ff}없다는\n뜻이지>{02}뭐{fe}화산을{ff}보러 가겠다고\n한다면야{fe}말리진 않겠지만><END>
+[WORLD01_AREA057.EMI|sec11|body43|@0x85c|27B] *>응?\n아직{ff}뭔가 있나?{c14:00}{c0c:26}{ff}딱히 없어<END>
+[WORLD01_AREA057.EMI|sec11|body44|@0x8ad|37B] *그런가>\n동쪽으로 가는 건{ff}당분간\n기다려 주실 수밖에{ff}없겠군요<END>
+[WORLD01_AREA057.EMI|sec11|body45|@0x8d2|106B] *저 애는{fe}잘 자란 딸이지만\n짐 나르기 길드 일은\n거친 일이라서 말이야>{02}되도록{ff}듬직한 남자와\n맺어 줘서>{02}대를 잇게 하고 싶다고\n생각하는데>{02}>그 밖에{fe}뭔가?{c14:00}{c0c:26}{ff}딱히 없어<END>
+[WORLD01_AREA057.EMI|sec11|body46|@0x972|72B] *회계 담당{ff}베이트 말이지>\n일은 참 잘해 주는데>{02}저 녀석이{fe}완력이\n조금만 더{ff}있으면 좋겠어>{02}>그 밖에{fe}뭔가?{c14:00}{c0c:26}{ff}딱히 없어<END>
+[WORLD01_AREA057.EMI|sec11|body47|@0x9f0|91B] *꽤나 멋진 바다 사나이지\n지그라는 녀석은{02}힘도 세고{fe}믿음직한 뱃사람이야{02}저런 남자라면{ff}길드 녀석들도\n휘어잡을 수 있겠지{02}>그 밖에{fe}뭔가?{c14:00}{c0c:26}{ff}딱히 없어<END>
+[WORLD01_AREA057.EMI|sec11|body48|@0xa81|106B] *여기서 동쪽으로 가려면\n우리{fe}길드가 만든 가도나\n배를 타는 수밖에{ff}없는데>{02}공교롭게도{fe}둘 다\n쓸 수 없는 형편이야>{02}난감하기 그지없지{fe}참내{02}>그 밖에{fe}뭔가?{c14:00}{c0c:26}{ff}딱히 없어<END>
+[WORLD01_AREA057.EMI|sec11|body49|@0xb21|100B] *즈블로 화산은{fe}남동쪽에 있어{02}길드가{fe}몇 년이나 걸려\n가도를{ff}완성했는데>{02}화산 녀석이{ff}한 번 날뛰면\n그걸{ff}부숴 버리는 거야{02}>그 밖에{fe}뭔가?{c14:00}{c0c:26}{ff}딱히 없어<END>
+[WORLD01_AREA057.EMI|sec11|body50|@0xbbb|71B] *지그란 녀석이{fe}등대에\n간다는 얘기야>{02}등대는{fe}몬스터{fc}가\n잔뜩 있다는데>{02}그 녀석이라면{ff}어떻게든\n할 수 있을지도><END>
+[WORLD01_AREA057.EMI|sec11|body51|@0xc02|49B] *지그가{fe}등대를{ff}수리한다고?{02}>그게{ff}되면\n길드의 후계자가 되는 것도\n꿈은 아니지<END>
+[WORLD01_AREA057.EMI|sec11|body52|@0xc33|62B] *등대가{fe}고쳐지고\n배가{fe}돌아오면>{02}싱커 씨는{ff}지그를\n딸과{ff}결혼시킬\n생각인 걸까><END>
+[WORLD01_AREA057.EMI|sec11|body53|@0xc71|71B] *지그가{fe}등대 수리를\n자청했어{02}이게{ff}잘되면\n바라던 대로>{02}샤드를{ff}지그한테 시집\n보내도 좋겠어><END>
+[WORLD01_AREA057.EMI|sec11|body54|@0xcb8|77B] *몬스터{fc}한테{ff}점령당한\n등대를{ff}수리한다고>\n지그는{ff}용기 있구나{02}그 정도{ff}근성이 없으면\n일감 같은 건{ff}못 받는 걸까<END>
+[WORLD01_AREA057.EMI|sec11|body55|@0xd05|27B] *요 며칠{fe}여기가\n밤중에{ff}시끄러웠어><END>
+[WORLD01_AREA057.EMI|sec11|body56|@0xd20|21B] *개나{fe}고양이가\n날뛴 거 아냐?<END>
+[WORLD01_AREA057.EMI|sec11|body57|@0xd35|28B] *등대가 고쳐지면\n배가 온다는 거{fe}진짜일까?<END>
+[WORLD01_AREA057.EMI|sec11|body58|@0xd51|40B] *어라{fe}<PAUSE>너희들>{02}혹시{fe}밤중에\n이 근처에서{ff}날뛰지 않았어?<END>
+[WORLD01_AREA057.EMI|sec11|body59|@0xd79|25B] *통 안 낚이네?\n고양이가{ff}기다리는데<END>
+[WORLD01_AREA057.EMI|sec11|body60|@0xd92|4B] *끄{fc}<END>
+[WORLD01_AREA057.EMI|sec11|body61|@0xd96|28B] *이심페슬라라는 것도\n묘한 이름의{ff}물고기네><END>
+[WORLD01_AREA057.EMI|sec11|body62|@0xdb2|18B] *여자는{fe}항구\n남자는{fe}배구먼유<END>
+[WORLD01_AREA057.EMI|sec11|body63|@0xdc4|43B] *듣자니{fe}베이트 녀석이\n지그를 이겼다더라>{02}허허{fe}사람은 겉만 봐선 모르겠어<END>
+[WORLD01_AREA057.EMI|sec11|body64|@0xdef|68B] *지그를 이겼다 하면\n길드 녀석들도>\n베이트를{ff}따르겠지{02}여태까진{fe}좀\n미덥지 못하다고{fe}여겨졌으니까<END>
+[WORLD01_AREA057.EMI|sec11|body65|@0xe33|66B] *회계 베이트가{fe}지그를\n꺾고>\n등대로{fe}간다는군@{02}>역시 강하지 않으면\n일감은{ff}안 돌아오나 봐?<END>
+[WORLD01_AREA057.EMI|sec11|body66|@0xe75|37B] *빨리{fe}배가 안 돌아오면>{02}이쪽이{ff}바빠서\n쓰러지겠어@<END>
+[WORLD01_AREA057.EMI|sec11|body67|@0xe9a|30B] *길드장{fe}등대 일을\n베이트한테{ff}맡겼다더라><END>
+[WORLD01_AREA057.EMI|sec11|body68|@0xeb8|47B] *등대든{fe}뭐든\n빨리{ff}고쳐 줘서>{02}배가{ff}안 돌아오면\n안 되잖여<END>
+[WORLD01_AREA057.EMI|sec11|body69|@0xee7|49B] *등대를{fe}베이트한테 맡겼다\n는 건>{02}길드의 후계자를{ff}베이트로\n정했다는 건가<END>
+[WORLD01_AREA057.EMI|sec11|body70|@0xf18|64B] *길드를{ff}이끌려면\n머리만 좋아선{fe}안 돼>{02}하지만{fe}지그를 이겼다면\n거친 남자들도\n휘어잡을 수 있겠지><END>
+[WORLD01_AREA057.EMI|sec11|body71|@0xf58|27B] *좋은 무기{fe}갖춰 놨어\n구경하고 가>@<END>
+[WORLD01_AREA057.EMI|sec11|body72|@0xf73|25B] *이쪽은{fe}도구야\n뭔가{fe}좀 사 가<END>
+[WORLD01_AREA057.EMI|sec11|body73|@0xf8c|36B] *등대{fe}고쳐졌어?{02}그럼{fe}배도{ff}돌아오겠네>\n분명>>?<END>
+[WORLD01_AREA057.EMI|sec11|body74|@0xfb0|40B] *엇{fe}등대를 수리했어?{02}>>왠지{ff}너희들\n바빠 보이네<END>
+[WORLD01_AREA057.EMI|sec11|body75|@0xfd8|23B] *이제 끝장이다>>\n고양이한테{ff}정 떨어지겠어@<END>
+[WORLD01_AREA057.EMI|sec11|body76|@0xfef|6B] *흐냐{fc}<END>
+[WORLD01_AREA057.EMI|sec11|body77|@0xff5|30B] *에리코프?{02}아니{fe}그런 이름의\n물고기는{fe}없어>><END>
+[WORLD01_AREA057.EMI|sec11|body78|@0x1013|51B] *화산을{ff}넘어가는 길도\n있긴 한데>{02}기계를 나르려면\n역시{ff}배가 없으면{fe}안 돼<END>
+[WORLD01_AREA057.EMI|sec11|body79|@0x1046|19B] *지나가는{ff}저의\n고맙구먼유<END>
+[WORLD01_AREA057.EMI|sec11|body80|@0x1059|47B] *등대를{ff}수리하고 왔다고?{02}>>대단하네\n근데{fe}고기는{ff}안 줄 거야\n냠냠냠<END>
+[WORLD01_AREA057.EMI|sec11|body81|@0x1088|46B] *등대가{ff}고쳐졌다는\n얘기니까>{02}급하지 않으면\n배를 기다리는 게{ff}편해<END>
+[WORLD01_AREA057.EMI|sec11|body82|@0x10b6|27B] *그러게>>\n화산을 넘는 건\n위험하니까><END>
+[WORLD01_AREA057.EMI|sec11|body83|@0x10d1|43B] *등대에 갔다 왔어?{02}>그렇게 강하면\n어디서든{ff}일감 받겠다<END>
+[WORLD01_AREA057.EMI|sec11|body84|@0x10fc|29B] *이걸로{fe}배가 돌아오면>\n길드장도{ff}안심이겠다<END>
+[WORLD01_AREA057.EMI|sec11|body85|@0x1119|38B] *이제{ff}물은 질렸어>{02}일해서{ff}돈 벌어서\n진짜를{ff}마시고 싶어><END>
+[WORLD01_AREA057.EMI|sec11|body86|@0x113f|52B] *빨리 다들{ff}일하러 돌아가\n주면 안 되나>{02}언제까지나{ff}눌러앉으면\n참 곤란하단 말이야<END>
+[WORLD01_AREA057.EMI|sec11|body87|@0x1173|60B] *고맙구먼>\n등대{ff}고쳐 줘서\n이제{ff}장사할 수 있어{02}사례는>{ff}글쎄>{02}길드장한테{ff}받으면 되겠네<END>
+[WORLD01_AREA057.EMI|sec11|body88|@0x11af|26B] 싱커{fc}\n*오오{fe}<PAUSE>당신들이\n등대를>>?<END>
+[WORLD01_AREA057.EMI|sec11|body89|@0x11c9|109B] 싱커{fc}\n*그러셨군요\n감사합니다>{02}물론{fe}사례는\n해 드리고말고요>{02}*짐배가 돌아오면\n맨 먼저{ff}여러분을\n태워 드리지요>>{02}게다가{fe}길드가 할 수 있는 일이라면\n뭐든 협력하겠습니다<END>
+[WORLD01_AREA057.EMI|sec11|body90|@0x11f5|65B] *짐배가 돌아오면\n맨 먼저{ff}여러분을\n태워 드리지요>>{02}게다가{fe}길드가 할 수 있는 일이라면\n뭐든 협력하겠습니다<END>
+[WORLD01_AREA057.EMI|sec11|body91|@0x1236|49B] *짐 나르기 길드의\n지원이{ff}있으면>{02}이 근방을{ff}여행할 때\n무척 편리해<END>
+[WORLD01_AREA057.EMI|sec11|body92|@0x1267|30B] *이걸로{fe}배가 돌아올지도\n몰라>{02}고마워<END>
+[WORLD01_AREA057.EMI|sec11|body93|@0x1285|86B] *외부인한테{ff}도움받아서\n길드 입장에선{ff}좀\n복잡하지만>>{02}그{ff}베이트가 생각한 거라면\n여러분께{ff}부탁한 것도\n잘못은{ff}아니겠지<END>
+[WORLD01_AREA057.EMI|sec11|body94|@0x12db|39B] *배가{ff}돌아오면 좋겠다{02}바다에 안 나가면{ff}솜씨가\n무뎌져 버려><END>
+[WORLD01_AREA057.EMI|sec11|body95|@0x1302|28B] *등대가{ff}고쳐져도\n배는{ff}안 돌아온다더라<END>
+[WORLD01_AREA057.EMI|sec11|body96|@0x131e|19B] *가라앉아 버린 걸까\n싫{fc}어{fc}><END>
+[WORLD01_AREA057.EMI|sec11|body97|@0x1331|23B] *아직{fe}당분간은\n발이 묶이나>>{ff}이거 참<END>
+[WORLD01_AREA057.EMI|sec11|body98|@0x1348|52B] *짐 나르기 길드도{ff}큰일이네{02}혹시{fe}배가{ff}부서졌으면\n또{fe}만들어야\n하잖아<END>
+[WORLD01_AREA057.EMI|sec11|body99|@0x137c|34B] *등대까지 갔는데\n배를{ff}못 쓴다니\n운도 없네<END>
+[WORLD01_AREA057.EMI|sec11|body100|@0x139e|38B] *도무지{ff}안 낚일 땐\n루어를{ff}직접\n던져 버리고 싶어져>><END>
+[WORLD01_AREA057.EMI|sec11|body101|@0x13c4|26B] *배가 있으면{fe}간단히\n동쪽으로{ff}건널 수 있었는데<END>
+[WORLD01_AREA057.EMI|sec11|body102|@0x13de|52B] *화산을 넘는 건{ff}힘들겠어>{02}안 그래도{fe}고된데\n지금은{ff}길이{ff}무너졌다는\n얘기잖아<END>
+[WORLD01_AREA057.EMI|sec11|body103|@0x1412|43B] *엇{fe}동쪽으로 가시는 거예요?{02}뭐야{fe}당연히 길드에\n들어오는 줄{ff}알았네<END>
+[WORLD01_AREA057.EMI|sec11|body104|@0x143d|27B] *배가 돌아와서\n한가해질 줄{ff}알았는데에<END>
+[WORLD01_AREA057.EMI|sec11|body105|@0x1458|27B] *부서진 거냐>{ff}배>\n뭐{fe}그런 일도{ff}있는 거지<END>
+[WORLD01_AREA057.EMI|sec11|body106|@0x1473|37B] *뭐야{fe}역시 배\n안 돌아오는 거여>{02}나{ff}이제{ff}돌아갈까나><END>
+[WORLD01_AREA057.EMI|sec11|body107|@0x1498|55B] *등대에{ff}몬스터{fc}가\n나오질 않나>{02}배가{ff}안 돌아오질 않나{02}길드장도{ff}고생이\n많구나><END>
+[WORLD01_AREA057.EMI|sec11|body108|@0x14cf|27B] *나도{ff}슬슬\n걸어서 가기로{ff}할까<END>
+[WORLD01_AREA057.EMI|sec11|body109|@0x14ea|56B] 싱커{fc}\n*흐음>>{ff}아무래도>{02}짐배는{fe}어딘가에서\n사고를{ff}일으켜서>{02}돌아오지 못하는{ff}모양입니다<END>
+[WORLD01_AREA057.EMI|sec11|body110|@0x1522|72B] 싱커{fc}\n*이렇게 되면\n동쪽으로 가려면>{02}즈블로 화산을{ff}넘는\n수밖에{ff}없습니다만>>{02}공교롭게도{ff}그 길도\n무너져 있지요><END>
+[WORLD01_AREA057.EMI|sec11|body111|@0x156a|58B] 싱커{fc}\n*하지만{fe}여러분께는\n등대의{ff}은혜가 있습니다>{02}길드의{ff}이름을 걸고\n루트를{ff}마련하겠습니다<END>
+[WORLD01_AREA057.EMI|sec11|body112|@0x15a4|51B] 싱커{fc}\n*이것을{ff}받아 주세요>{02}즈블로 화산의{ff}샛길을\n쓸 수 있게{ff}해 뒀습니다<END>
+[WORLD01_AREA057.EMI|sec11|body113|@0x15d7|23B] ;길드장의 편지<를\n손에 넣었다@<END>
+[WORLD01_AREA057.EMI|sec11|body114|@0x15ee|87B] 싱커{fc}\n*옛날>{ff}가도가\n정비되기{ff}전에{02}길드가{ff}쓰던\n험한{ff}샛길인데요>>{02}마음은 무겁지만{ff}그것을\n쓰시는 수밖에{ff}없습니다<END>
+[WORLD01_AREA057.EMI|sec11|body115|@0x1645|64B] 싱커{fc}\n*그럼{ff}여러분\n조심하세요>{02}*즈블로 화산은{ff}마을을 나가\n동쪽입니다>{02}또{fe}언제든{ff}들러 주세요<END>
+[WORLD01_AREA057.EMI|sec11|body116|@0x165e|39B] *즈블로 화산은{ff}마을을 나가\n동쪽입니다>{02}또{fe}언제든{ff}들러 주세요<END>
+[WORLD01_AREA057.EMI|sec11|body117|@0x1685|27B] *짐 나르기 길드의 마을\n항구도시 라팔라에{ff}어서 오세요<END>
+[WORLD01_AREA057.EMI|sec11|body118|@0x16a0|88B] *짐 나르기 길드가{fe}짐을\n나르는 것만으로{ff}돈을 버는 게\n괘씸하다>?{02}산을 깎아{ff}길을 내고\n배에{ff}여행자를 태워 주고\n하니까{fe}괜찮잖여?<END>
+[WORLD01_AREA057.EMI|sec11|body119|@0x16f8|39B] *저기{fe}길드 사무소에서\n짐배 일정 같은 걸\n알려 준다<END>
+[WORLD01_AREA057.EMI|sec11|body120|@0x171f|4B] *푸{fc}<END>
+[WORLD01_AREA057.EMI|sec11|body121|@0x1723|51B] *지금{fe}길드장은\n여기서 수련해서>{02}강해진 뒤에{fe}부인한테\n프러포즈했대<END>
+[WORLD01_AREA057.EMI|sec11|body122|@0x1756|13B] *너도 수련할래?<END>
+[WORLD01_AREA057.EMI|sec11|body123|@0x1763|56B] *배를 타려고{ff}하는데\n괜찮을까?{02}>늘{ff}고장 나 있잖아\n여기{ff}고물 짐배@?<END>
+[WORLD01_AREA057.EMI|sec11|body124|@0x179b|17B] {0d}우나우나우나우나우나우나{0e}{0f}{02}<END>
+[WORLD01_AREA057.EMI|sec11|body125|@0x17ac|9B] *낚시{fe}하니?<END>
+[WORLD01_AREA057.EMI|sec11|body126|@0x17b5|5B] *고앙<END>
+[WORLD01_AREA057.EMI|sec11|body127|@0x17ba|30B] *전부터 궁금했는데\n이거{fe}뭘까?<END>
+[WORLD01_AREA057.EMI|sec11|body128|@0x17d8|39B] *여기서만 하는 얘긴데\n길드 짐배>{ff}또\n안 돌아온다나 봐><END>
+[WORLD01_AREA057.EMI|sec11|body129|@0x17ff|22B] *세계를 누비고{ff}다니는\n거구먼유{fc}><END>
+[WORLD01_AREA057.EMI|sec11|body130|@0x1815|46B] *세계라고 해도\n우리 배로는>{02}미드:시{fc} 안에서밖에\n못 움직이지만><END>
+[WORLD01_AREA057.EMI|sec11|body131|@0x1843|30B] *산 넘기는{fe}귀찮으니까\n배에 태워 달라고 해야지><END>
+[WORLD01_AREA057.EMI|sec11|body132|@0x1861|42B] *아{fe}크레인도 고장 났어>{02}어째서{fe}기계란 건\n이렇게나{ff}약한 거야@?<END>
+[WORLD01_AREA057.EMI|sec11|body133|@0x188b|35B] *너{fe}어디서든 뭔가\n먹고 있을 거라고?{02}>사람 잘못 봤어요<END>
+[WORLD01_AREA057.EMI|sec11|body134|@0x18ae|13B] *아{fc}{fe}차가{ff}맛있다<END>
+[WORLD01_AREA057.EMI|sec11|body135|@0x18bb|35B] *이렇게{ff}여행하다 보면>{02}왠{fc}지{fe}세계가\n좁게 느껴져>><END>
+[WORLD01_AREA057.EMI|sec11|body136|@0x18de|30B] *뱃사람이라>{ff}좋겠다\n길드에{ff}넣어 달라고 할까<END>
+[WORLD01_AREA057.EMI|sec11|body137|@0x18fc|40B] *저 멀리 동쪽{ff}정크 마을에서\n배로{ff}왔어>{02}배란 거{ff}재밌네<END>
+[WORLD01_AREA057.EMI|sec11|body138|@0x1924|33B] *어서 오세요{fc}>\n명물{fe}바다 사나이 오므라이스는\n어때요?<END>
+[WORLD01_AREA057.EMI|sec11|body139|@0x1945|54B] *요{fe}한동안은\n길드도 잘나가는{ff}모양이라>{02}뱃사람이{ff}안 오니까\n가게는{ff}좀 한가하려나<END>
+[WORLD01_AREA057.EMI|sec11|body140|@0x197b|84B] *지금은{fe}즈블로 화산의\n산길을{ff}지나도\n동쪽으로{ff}갈 수 있는데>{02}요즘 여행자는{ff}조금이라도\n편하려고{fe}배를\n타고 싶어 하지<END>
+[WORLD01_AREA057.EMI|sec11|body141|@0x19cf|63B] *베이트가{ff}길드장이\n된 뒤로>\n제법{ff}벌이가 좋아서{02}슬슬{fe}짐배라도{ff}늘려서\n사업을 넓게{ff}하고 싶어<END>
+[WORLD01_AREA057.EMI|sec11|body142|@0x1a0e|59B] *어이쿠{fe}여러분>\n오늘은{ff}어떤 볼일로?{02}베이트라면{fe}선착장에서\n일하고 있을{ff}겁니다><END>
+[WORLD01_AREA057.EMI|sec11|body143|@0x1a49|44B] *하아{fe}우리도{ff}옛날엔\n바다를{ff}유유히{ff}헤엄치며\n장사했는데{fe}말이야<END>
+[WORLD01_AREA057.EMI|sec11|body144|@0x1a75|33B] *청소{ff}아줌마@?{02}룸:키{fc}퍼{fc}라고\n불러 주라고@<END>
+[WORLD01_AREA057.EMI|sec11|body145|@0x1a96|32B] *다음 짐배에{ff}올라타서\n일할 거야>{ff}진짜로><END>
+[WORLD01_AREA057.EMI|sec11|body146|@0x1ab6|7B] *저런 모양<END>
+[WORLD01_AREA057.EMI|sec11|body147|@0x1abd|45B] *여행하시는 분{fe}짐배 편승\n신청이시라면>{02}취소 대기로{ff}됩니다<END>
+[WORLD01_AREA057.EMI|sec11|body148|@0x1aea|4B] *츄<END>
+[WORLD01_AREA057.EMI|sec11|body149|@0x1aee|6B] *빙글빙글<END>
+[WORLD01_AREA057.EMI|sec11|body150|@0x1af4|36B] *또{fe}배가 고장 나서>{02}정크 마을에{ff}맡겨 뒀다는\n얘기야><END>
+[WORLD01_AREA057.EMI|sec11|body151|@0x1b18|38B] *배{fe}돌아왔어?\n>너희들이{fe}수리했어?{02}흐{fc}음{ff}대단하네<END>
+[WORLD01_AREA057.EMI|sec11|body152|@0x1b3e|46B] *듣자니{fe}베이트 녀석은\n고장 난 배를{ff}받으러\n정크 마을로{ff}간 모양입니다<END>
+[WORLD01_AREA057.EMI|sec11|body153|@0x1b6c|64B] *이번엔{fe}배를\n수리해{ff}줬다는데>{02}이야{fc}{ff}베이트한테는\n든든한{ff}협력자가 있어서\n안심이구먼>@<END>
+[WORLD01_AREA057.EMI|sec11|body154|@0x1bac|24B] *또{fe}짐배{ff}고장 났다니\n진짜냐>@?<END>
+[WORLD01_AREA057.EMI|sec11|body155|@0x1bc4|57B] *배{fe}돌아왔어@?\n다행이다{fe}일할 수 있어>{02}어?{ff}너희들이\n타고 가는 거야@?\n진짜냐>><END>
+[WORLD01_AREA057.EMI|sec11|body156|@0x1bfd|48B] *이미{fe}눈치채셨겠지만>{02}짐배가{ff}고장 난 모양이라\n편승은{ff}쉽니다<END>
+[WORLD01_AREA057.EMI|sec11|body157|@0x1c2d|48B] *급한 일감이{ff}없어서\n{c15:1e}배가{ff}완성될 때까지\n짐 나르기 길드는{ff}쉽니다<END>
+[WORLD01_AREA057.EMI|sec11|body158|@0x1c5d|35B] *낡은 배를{ff}남한테>?\n길드는{ff}{c15:1e}배를\n만드는 거구먼<END>
+[WORLD01_AREA057.EMI|sec11|body159|@0x1c80|24B] *나도{fe}수련하면>\n대단해질 수 있을까?<END>
+[WORLD01_AREA057.EMI|sec11|body160|@0x1c98|23B] *될 수 있다>{ff}고\n말 안 해 주면{ff}안 해?<END>
+[WORLD01_AREA057.EMI|sec11|body161|@0x1caf|47B] *너희들이{ff}먼저\n배를 쓰는 거야@?{02}>하긴{ff}그러네\n너희들{ff}고생하니까<END>
+[WORLD01_AREA057.EMI|sec11|body162|@0x1cde|59B] *북쪽에>\n배로만 갈 수 있는{fe}파{fc}치라는\n마을이 있다나 봐{02}거기{fe}어떤{ff}물고기가\n낚이려나><END>
+[WORLD01_AREA057.EMI|sec11|body163|@0x1d19|39B] *이거{fe}뭔가 궁금하긴 한데>{02}너희들한테는{ff}아마\n상관없는 일이겠지<END>
+[WORLD01_AREA057.EMI|sec11|body164|@0x1d40|17B] *또{ff}배 타고 싶구먼유<END>
+[WORLD01_AREA057.EMI|sec11|body165|@0x1d51|26B] *{c15:1e}배가{ff}완성되면>\n싫어도 탈 수 있대<END>
+[WORLD01_AREA057.EMI|sec11|body166|@0x1d6b|22B] *배{fe}부수지 않게\n조심하라고<END>
+[WORLD01_AREA057.EMI|sec11|body167|@0x1d81|26B] *다음엔{fe}바다 사나이 오므라이스를\n먹어 볼까><END>
+[WORLD01_AREA057.EMI|sec11|body168|@0x1d9b|11B] *음{fc}{ff}차 맛있다@<END>
+[WORLD01_AREA057.EMI|sec11|body169|@0x1da6|40B] *배로{fe}바깥 바다에 나가면>\n세계가 넓게{ff}느껴질지도\n몰라<END>
+[WORLD01_AREA057.EMI|sec11|body170|@0x1dce|63B] *배가 손에 들어오면>\n나라면{ff}어디로 갈까{02}바깥 바다는{ff}무섭다니까\n미드:시{fc}나{ff}돌아다닐까?<END>
+[WORLD01_AREA057.EMI|sec11|body171|@0x1e0d|53B] *짐 나르기 길드가{ff}새로\n배를{ff}만드는 모양이야>{02}이거{fe}기계 길드도\n바빠지겠는걸<END>
+[WORLD01_AREA057.EMI|sec11|body172|@0x1e42|26B] *에{fc}>{fe}라팔라 명물\n바다 사나이 오므라이스{fc}@<END>
+[WORLD01_AREA057.EMI|sec11|body173|@0x1e5c|59B] *당신들이{ff}배를 쓴다\n>는 건{ff}뱃사람이\n한가해진다{02}>는 건{ff}우리 가게가\n바빠진다는 거@<END>
+[WORLD01_AREA057.EMI|sec11|body174|@0x1e97|41B] *우리 배를{ff}쓰시는 거군요>\n조종은{ff}지그?{02}그렇다면{ff}안심이에요<END>
+[WORLD01_AREA057.EMI|sec11|body175|@0x1ec0|42B] *역시{fe}짐배를\n늘리게 됐나>@{02}이걸로{ff}길드도 커지겠는걸<END>

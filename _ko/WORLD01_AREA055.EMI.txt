@@ -1,0 +1,31 @@
+[WORLD01_AREA055.EMI|sec11|body0|@0x211|203B] {c0c:82}{ff}\n{ff}\n{ff}{ff}먼 옛날{fe}이 세상에\n{ff}\n;지혜를 가져다준{fe}현자들이\n{ff}\n{ff}모습을 바꾸었다고{fe}전해지는\n{ff}\n{ff}{ff}{ff}{ff}전설의 나무{fd}{c16:50}{c0c:82}{ff}\n{ff}\n{ff}\n{ff}신성하리만치{ff}짙은 녹음에\n{ff}\n{ff}뒤덮인{fe}강한 생명력은\n{ff}\n{ff}{ff}{ff}보는 이를{ff}압도하고>{c16:50}{c0c:82}{ff}\n{ff}\n{ff}\n{ff}{ff}신성한{fe}숲의 주인으로서\n{ff}\n{ff}{ff}{ff}예로부터{ff}사람들의\n{ff}\n{ff}{ff}마음의 안식처가{ff}되어 왔다{fd}<END>
+[WORLD01_AREA055.EMI|sec11|body1|@0x25c|128B] {c0c:82}{ff}\n{ff}\n{ff}\n{ff}신성하리만치{ff}짙은 녹음에\n{ff}\n{ff}뒤덮인{fe}강한 생명력은\n{ff}\n{ff}{ff}{ff}보는 이를{ff}압도하고>{c16:50}{c0c:82}{ff}\n{ff}\n{ff}\n{ff}{ff}신성한{fe}숲의 주인으로서\n{ff}\n{ff}{ff}{ff}예로부터{ff}사람들의\n{ff}\n{ff}{ff}마음의 안식처가{ff}되어 왔다{fd}<END>
+[WORLD01_AREA055.EMI|sec11|body2|@0x29c|64B] {c0c:82}{ff}\n{ff}\n{ff}\n{ff}{ff}신성한{fe}숲의 주인으로서\n{ff}\n{ff}{ff}{ff}예로부터{ff}사람들의\n{ff}\n{ff}{ff}마음의 안식처가{ff}되어 왔다{fd}<END>
+[WORLD01_AREA055.EMI|sec11|body3|@0x2dc|23B] {c04:05}\n*자{fe}여기야\n{c04:06}이/가{ff}좋아하는 곳><END>
+[WORLD01_AREA055.EMI|sec11|body10|@0x2f3|37B] {c04:01}\n*어라><PAUSE>><PAUSE>>{fe}{c04:06}?{02}방금{fe}뭔가>\n말하지 않았어>>?<END>
+[WORLD01_AREA055.EMI|sec11|body11|@0x318|8B] {c04:06}\n*뿌큐<END>
+[WORLD01_AREA055.EMI|sec11|body15|@0x320|26B] {c04:05}\n*너{fe}방금>\n뭔가{ff}말했지>>?<END>
+[WORLD01_AREA055.EMI|sec11|body16|@0x33a|9B] {c04:06}\n*뿌큐?<END>
+[WORLD01_AREA055.EMI|sec11|body17|@0x343|74B] {c04:05}\n*>이 아이가 하는 말은{02}나무나 풀이 하는 말만큼이나\n알 수가 없네{fc}>{02}>나무나 풀이{fe}말을 한다\n쳐도{fe}말이지{fc}<END>
+[WORLD01_AREA055.EMI|sec11|body18|@0x38d|57B] {c04:05}\n*뭐{fe}됐어>\n따라와{fe}{c04:06}{02}이제부터{fe}네가 태어난\n실험 플랜트를\n조사하러 갈 거야?<END>
+[WORLD01_AREA055.EMI|sec11|body19|@0x3c6|16B] {ff}\n{c04:06}이/가{ff}동료가 되었다@<END>
+[WORLD01_AREA055.EMI|sec11|body20|@0x3d6|44B] 풍요로운{ff}생명력으로 가득한\n현수를{ff}보고 있으면\n경건한 마음이 든다><END>
+[WORLD01_AREA055.EMI|sec11|body21|@0x402|117B] 마음속에{fe}목소리가 울린다>\n현수의{fe}목소리일까?{02}*>>들리느{fe}냐?{02}나와{fe}이야기를>{ff}나눌 수 있느냐?{02}><PAUSE>><PAUSE>>으음{fc}\n어쩐지{fe}머리가>{ff}흐릿하구나>{02}뭔가>{ff}머리에{ff}잘 듣는\n도구는>{ff}없느냐>?{c14:00}{c0c:02}있습니다<END>
+[WORLD01_AREA055.EMI|sec11|body32|@0x41f|88B] *>>들리느{fe}냐?{02}나와{fe}이야기를>{ff}나눌 수 있느냐?{02}><PAUSE>><PAUSE>>으음{fc}\n어쩐지{fe}머리가>{ff}흐릿하구나>{02}뭔가>{ff}머리에{ff}잘 듣는\n도구는>{ff}없느냐>?{c14:00}{c0c:02}있습니다<END>
+[WORLD01_AREA055.EMI|sec11|body33|@0x47c|94B] *오오>{ff}{c05:02}지력의 열매{06}냐@?{02}고맙구나><PAUSE>><PAUSE>>\n이걸로>{ff}머리가>\n맑아지기>{ff}시작했다>@{02}좋다>{ff}이걸로{ff}그대에게\n나의{ff}지혜의 일부를\n전해 줄 수 있겠다>@<END>
+[WORLD01_AREA055.EMI|sec11|body34|@0x4da|39B] *으으음><PAUSE>><PAUSE>>\n아무것도>{ff}없는 모양이로구나>>{02}*그럼{fe}잘 가거라{fe}><END>
+[WORLD01_AREA055.EMI|sec11|body35|@0x4f3|14B] *그럼{fe}잘 가거라{fe}><END>
+[WORLD01_AREA055.EMI|sec11|body36|@0x501|11B] *으으음{fe}왔구나><END>
+[WORLD01_AREA055.EMI|sec11|body37|@0x50c|33B] 나의{fe}지혜를>{ff}누군가에게\n전해야 할 때로구나?{c14:01}{c0c:02}네<END>
+[WORLD01_AREA055.EMI|sec11|body38|@0x531|28B] 흠{fe}그대들에게는{ff}이미\n지혜를{ff}전해 주었느니라@?<END>
+[WORLD01_AREA055.EMI|sec11|body39|@0x54d|35B] 설마{fe}나의{ff}지혜가\n짐이{ff}되었다는 것이냐?{c14:02}{c0c:02}네<END>
+[WORLD01_AREA055.EMI|sec11|body40|@0x574|59B] 으으음{fe}나는>\n그대들에게는{fe}지혜를{ff}전해\n주지 않은 모양이로구나>@?{02}조금{fe}정신이 흐릿하긴 하나\n속지는 않느니라@<END>
+[WORLD01_AREA055.EMI|sec11|body41|@0x5af|27B] *그럼\n{c07:00}에게>\n나의 지혜를{ff}전해 주마>@<END>
+[WORLD01_AREA055.EMI|sec11|body42|@0x5ca|34B] 또 다른{ff}나의 지혜를\n전해 받고 싶은 자가{ff}있느냐?{c14:03}{c0c:02}네<END>
+[WORLD01_AREA055.EMI|sec11|body43|@0x5f0|32B] *그럼\n{c07:00}은/는{ff}이제부터\n스스로의 힘으로{ff}나아가거라<END>
+[WORLD01_AREA055.EMI|sec11|body44|@0x610|33B] 아직{fe}나의 지혜를\n짐으로 느끼는 자가 있느냐?{c14:04}{c0c:02}있습니다<END>
+[WORLD01_AREA055.EMI|sec11|body45|@0x636|85B] *흐음@\n아무래도{ff}{c07:00}은/는>{02}나의 지혜를{ff}완전히 다루고\n있는 모양이로구나@?{02}좋다@\n이 기술을{ff}가져가거라@{02}{c07:00}은/는\n{c05:02}{c07:01}{06}을/를\n익혔다@<END>
+[WORLD01_AREA055.EMI|sec11|body46|@0x68b|16B] 누가{ff}제자가 되겠습니까?<END>
+[WORLD01_AREA055.EMI|sec11|body47|@0x69b|16B] 누가{ff}제자를 그만두겠습니까?<END>
+[WORLD01_AREA055.EMI|sec11|body48|@0x6ab|23B] 이 사람으로{ff}하시겠습니까?{ff}{ff}네{ff}아니요<END>
+[WORLD01_AREA055.EMI|sec11|body49|@0x6c2|22B] 그만두시겠습니까?{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}네{ff}아니요<END>

@@ -1,0 +1,13 @@
+[WORLD00_AREA035.EMI|sec11|body0|@0x20a|88B] 졸개\n*앗{fe}안 돼요 안 돼요{02}저는 졸개지만\n암시장 윗분이{fe}여기를\n수상한 자가 못 지나가게>{02}지키랬어요{fe}그래서\n지키고 있는 거예요<END>
+[WORLD00_AREA035.EMI|sec11|body1|@0x262|85B] 졸개\n*그러니까{fe}당신들이\n수상한 자인지>{02}저는 모르니까>{02}암시장에 가서{fe}여기를\n지나가도 되는지\n물어봐 주세요{fe}네?{ff}네?<END>
+[WORLD00_AREA035.EMI|sec11|body2|@0x2b7|77B] 졸개\n*앗@{ff}멤버 카드@{02}>라는 건{fe}당신들은\n수상한 자가 아니니까{02}여기를 지나가도{ff}윗분한테\n혼나지 않으니까{fe}지나가세요<END>
+[WORLD00_AREA035.EMI|sec11|body3|@0x304|64B] 졸개\n*그러니까{fe}당신들은\n여기를 지나가도 돼요{02}>하지만{fe}무서운 몬스터가\n나올 테니까\n조심하세요<END>
+[WORLD00_AREA035.EMI|sec11|body4|@0x344|58B] *무서운 몬스터는\n식인 호랑이라고{ff}불려요{02}얼마 전에{fe}이 길에서\n나그네가 갈가리 찢겼다고요<END>
+[WORLD00_AREA035.EMI|sec11|body5|@0x37e|25B] {c0c:06}{c04:02}\n*이놈이{fe}몬스터>\n호랑이>{fe}인가?<END>
+[WORLD00_AREA035.EMI|sec11|body6|@0x397|50B] {c04:02}\n*>이쪽은{fe}아니네{02}또 한 번{fe}호랑이랑 마주치기 전에\n바깥 길로{fe}빠져나가자><END>
+[WORLD00_AREA035.EMI|sec11|body7|@0x3c9|39B] *우와앗{fe}호랑이한테 안 잡아먹>\n혔나요@?{02}>다{fe}<PAUSE>다행이네요<END>
+[WORLD00_AREA035.EMI|sec11|body8|@0x3f0|41B] {c0c:05}졸개\n*호랑이>{ff}가 아니라\n{c04:04}의{ff}형님>{02}괜찮으세요@?<END>
+[WORLD00_AREA035.EMI|sec11|body9|@0x419|43B] {c04:04}\n*제기랄@@{02}우르오르 가도를\n막아라{02}저놈들을{fe}놓치지 마@@<END>
+[WORLD00_AREA035.EMI|sec11|body10|@0x444|23B] {c04:04}\n*나는{fe}<PAUSE>더는>\n지지 않아>><END>
+[WORLD00_AREA035.EMI|sec11|body11|@0x45b|31B] 톡>하고{ff}좋은 향이 나는\n향신료로{ff}쓸 만한 풀이다{fd}<END>
+[WORLD00_AREA035.EMI|sec11|body12|@0x47a|17B] {c05:02}고추냉이풀{06}을{ff}손에 넣었다<END>

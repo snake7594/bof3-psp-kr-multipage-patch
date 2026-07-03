@@ -1,0 +1,72 @@
+[WORLD01_AREA038.EMI|sec11|body0|@0x211|20B] *여기는{fe}윈디아\n성이에요<END>
+[WORLD01_AREA038.EMI|sec11|body1|@0x225|57B] *성이{ff}높은 곳에\n지어진 건>{02}우리가{ff}하늘을\n날던{ff}시절의\n흔적이래요<END>
+[WORLD01_AREA038.EMI|sec11|body2|@0x25e|60B] *사람을 찾으세요>{ff}글쎄>{02}요즘{ff}못 보던 사람이\n성 아래로{ff}찾아왔다는\n얘긴{ff}못 들었는데>?<END>
+[WORLD01_AREA038.EMI|sec11|body3|@0x29a|51B] *윈디아엔\n지방에서 온{ff}작물이랑\n나그네가{ff}모여드네{02}수도란{ff}느낌이야<END>
+[WORLD01_AREA038.EMI|sec11|body4|@0x2cd|18B] *으{c15:07}{c15:07}음\n좋은 바람이군><END>
+[WORLD01_AREA038.EMI|sec11|body5|@0x2df|48B] *여기가{ff}윈디아의\n언덕 윗동네구나>{02}참고로{fe}아래는\n윈디아 아랫마을이야<END>
+[WORLD01_AREA038.EMI|sec11|body6|@0x30f|68B] *먼 곳을 보고 있으면\n여행 떠나고 싶지 않아?{02}>근데{fe}옆 지방으로 가는\n다리를{ff}건너려면\n임금님 허락이{ff}필요하대<END>
+[WORLD01_AREA038.EMI|sec11|body7|@0x353|40B] *이런 영감탱이랑 있지 말고\n아랫마을{ff}친구한테\n가는 게 어떠냐?<END>
+[WORLD01_AREA038.EMI|sec11|body8|@0x37b|14B] *싫어@{ff}할배랑 놀래@<END>
+[WORLD01_AREA038.EMI|sec11|body9|@0x389|5B] *멍?<END>
+[WORLD01_AREA038.EMI|sec11|body10|@0x38e|7B] *구구우<END>
+[WORLD01_AREA038.EMI|sec11|body11|@0x395|35B] *비둘기 자세히 보면\n무섭다니까>{02}뭔가{fe}눈이 멍하고><END>
+[WORLD01_AREA038.EMI|sec11|body12|@0x3b8|27B] *빵 맛있어요@\n갓 구운{fe}따끈따끈해요@<END>
+[WORLD01_AREA038.EMI|sec11|body13|@0x3d3|52B] *우리{fe}윈디아 사람은\n높은 곳을 안 무서워해>{02}옛날에{fe}날 수 있어서\n그런지도 몰라><END>
+[WORLD01_AREA038.EMI|sec11|body14|@0x407|43B] *이건{fe}빵 굽는\n오{fc}븐이야{02}풍차를 써서{ff}계속\n빵을{ff}굽지<END>
+[WORLD01_AREA038.EMI|sec11|body15|@0x432|43B] *더러운 손으로{fe}여기저기\n만지면 안 돼\n음식 만드는 데니까<END>
+[WORLD01_AREA038.EMI|sec11|body16|@0x45d|31B] *여기선{fe}갓 구운\n크루아상 같은 걸\n드실 수 있답니다<END>
+[WORLD01_AREA038.EMI|sec11|body17|@0x47c|50B] *요즘{ff}흉작이\n계속됐더니>{02}질 좋은{ff}밀가루\n구하기 힘들어{ff}곤란했어<END>
+[WORLD01_AREA038.EMI|sec11|body18|@0x4ae|45B] *고양이가{ff}쥐를\n잡아 줘서>{02}많은 빵을\n만들 수 있는 거야<END>
+[WORLD01_AREA038.EMI|sec11|body19|@0x4db|55B] *여기 빵은\n맥니르 마을{ff}밀로\n만든다네>{02}그래서{ff}맛있다는\n건 아니지만><END>
+[WORLD01_AREA038.EMI|sec11|body20|@0x512|60B] *여기 주인장은\n빵 만드는{ff}명인이야{02}소문엔{ff}걸어다니는 빵을\n만들었다나{fe}말았다나><END>
+[WORLD01_AREA038.EMI|sec11|body21|@0x54e|18B] *네네{fe}갓 구운\n빵이에요<END>
+[WORLD01_AREA038.EMI|sec11|body22|@0x560|48B] *어머{fe}난{ff}이 가게\n사람이 아니야{02}아래 카페에서\n사러 온 거야<END>
+[WORLD01_AREA038.EMI|sec11|body23|@0x590|31B] *좋겠다{fe}애들은\n그렇게{ff}빈둥빈둥\n놀 수 있어서<END>
+[WORLD01_AREA038.EMI|sec11|body24|@0x5af|43B] *어라{fe}{c04:01}님?{02}>>그럴 리 없지\n공주님은{ff}성 안에\n있을 텐데<END>
+[WORLD01_AREA038.EMI|sec11|body25|@0x5da|35B] *{0d}아앗@{0e}{0f}{c04:02}{c04:01}님>>@?\n무, {fe}무사하셨군요@<END>
+[WORLD01_AREA038.EMI|sec11|body26|@0x5fd|49B] *우리 종족이\n하늘을{ff}날던 시절>{02}세상은{ff}어떻게\n보였을까요><END>
+[WORLD01_AREA038.EMI|sec11|body27|@0x62e|66B] *대놓고는{ff}말 못 하지만\n사실{ff}공주님이\n사라졌다는{ff}소문은{02}성 아래 사람들은{ff}다\n아는 모양이야<END>
+[WORLD01_AREA038.EMI|sec11|body28|@0x670|60B] *공주님이{fe}악질\n사기꾼한테{ff}납치됐다는\n얘기야>{02}이렇게{ff}평온한 마을인데\n무섭네<END>
+[WORLD01_AREA038.EMI|sec11|body29|@0x6ac|64B] *뭐{ff}공주님도\n도망치고 싶었나 봐>{02}분명{fe}성에서 사는 것도\n생각만큼{ff}좋은 건\n아니겠지<END>
+[WORLD01_AREA038.EMI|sec11|body30|@0x6ec|34B] *우리{ff}귀여운 손주도\n납치 안 당하게{ff}\n조심해야겠어><END>
+[WORLD01_AREA038.EMI|sec11|body31|@0x70e|16B] *오늘도{fe}할배랑 놀래@<END>
+[WORLD01_AREA038.EMI|sec11|body32|@0x71e|25B] *>날개가 있으면\n어떤{ff}기분일까?<END>
+[WORLD01_AREA038.EMI|sec11|body33|@0x737|42B] *납치된{ff}공주님\n먹을 거에{ff}불편 없으면\n좋을 텐데><END>
+[WORLD01_AREA038.EMI|sec11|body34|@0x761|37B] *빵집이라 안 하고\n베{fc}이커리라고 하면\n좀{ff}멋스럽답니다<END>
+[WORLD01_AREA038.EMI|sec11|body35|@0x786|35B] *강화 작물{fe}<PAUSE>흐{fc}음>\n그거{fe}밀가루도\n있는 걸까?<END>
+[WORLD01_AREA038.EMI|sec11|body36|@0x7a9|52B] *강화 작물이라>\n가{fc}이스트 쓰는 거지?{02}난{fe}평범한{ff}밀이\n좋다고 보는데><END>
+[WORLD01_AREA038.EMI|sec11|body37|@0x7dd|50B] *주인장이{ff}만든 건\n걸어다니는 빵이{ff}아니라>{02}팥소를{ff}속에 넣은\n빵이었어<END>
+[WORLD01_AREA038.EMI|sec11|body38|@0x80f|54B] *공주를 납치해서\n몸값을{ff}받는 건가>{02}꾸준히 일하는 것보다\n훨씬{ff}돈벌이가 되겠지<END>
+[WORLD01_AREA038.EMI|sec11|body39|@0x845|26B] {c04:01}\n*미안해>>\n걱정 끼쳤네<END>
+[WORLD01_AREA038.EMI|sec11|body40|@0x85f|57B] 윈디아 병사\n*>>{c04:01}님이\n무사히{ff}돌아오셔서{02}임금님이{ff}얼마나\n기뻐하실지><END>
+[WORLD01_AREA038.EMI|sec11|body41|@0x898|73B] 윈디아 병사\n*헛@{ff}그러고 보니\n그{ff}악당들은@?{02}애를 시켜서{ff}우릴\n방심하게 한{fe}사기꾼들은\n어찌 됐습니까@?<END>
+[WORLD01_AREA038.EMI|sec11|body42|@0x8e1|58B] {c04:01}\n*응>{ff}저{fe}그건\n내가{ff}설명할 테니>{02}우선{fe}아버님>\n아니{fe}왕께{ff}전해 주세요<END>
+[WORLD01_AREA038.EMI|sec11|body43|@0x91b|21B] 윈디아 병사\n*헛{fe}<PAUSE>그랬지요@<END>
+[WORLD01_AREA038.EMI|sec11|body44|@0x930|46B] {c04:01}\n*>저 상태로는\n{c04:00}가{ff}악당이 아니라고{02}설명하는 게{ff}힘들겠어><END>
+[WORLD01_AREA038.EMI|sec11|body45|@0x95e|27B] *여기는{fe}알다시피\n윈디아 성이에요<END>
+[WORLD01_AREA038.EMI|sec11|body46|@0x979|42B] *어릴 적엔\n할배랑만{fe}놀더니{02}이젠{fe}그놈이 제일이라네><END>
+[WORLD01_AREA038.EMI|sec11|body47|@0x9a3|34B] *날개가 있으면>{02}당장{fe}그 사람\n만나러 갈 수 있을 텐데><END>
+[WORLD01_AREA038.EMI|sec11|body48|@0x9c5|11B] *호호{fc}호로옷호{fc}<END>
+[WORLD01_AREA038.EMI|sec11|body49|@0x9d0|8B] *야호호{fc}이<END>
+[WORLD01_AREA038.EMI|sec11|body50|@0x9d8|50B] *빵 뷔페에\n가고 싶다아{02}근데{fe}살찌는 건\n싫고오::::\n으{fc}응{fe}고민되네<END>
+[WORLD01_AREA038.EMI|sec11|body51|@0xa0a|39B] *갓 구운{ff}빵이야\n폭신{fe}따끈따끈한\n빵을{ff}맘껏 먹을 수 있어<END>
+[WORLD01_AREA038.EMI|sec11|body52|@0xa31|61B] *맥니르 마을에선\n지주가{ff}뭔가 나쁜 짓\n했다는 얘기지>{02}그에{ff}비하면\n여기는{ff}평화롭지><END>
+[WORLD01_AREA038.EMI|sec11|body53|@0xa6e|20B] *으윽::::::{02}우{fe}<PAUSE>우맛있어@@<END>
+[WORLD01_AREA038.EMI|sec11|body54|@0xa82|45B] *그냥{fe}멍하니 빵을\n보고 있는 게 아니야{02}프로의{ff}매서운 눈으로\n보고 있는 거야<END>
+[WORLD01_AREA038.EMI|sec11|body55|@0xaaf|44B] *밀 사들이는 데서\n부정을 저지르든{ff}상관없어{02}맛있는 빵을 만들 뿐이야<END>
+[WORLD01_AREA038.EMI|sec11|body56|@0xadb|50B] *일이라곤 해도>\n하루 종일{fe}빵을{ff}굽다 보면{02}완전히{fe}빵이\n싫어져{ff}버려><END>
+[WORLD01_AREA038.EMI|sec11|body57|@0xb0d|70B] *강화 작물{ff}밀가루로\n만든 빵인데>{02}어쩐지 좀{fe}만듦새가 별로네>{02}싸게 해서{fe}뷔페로\n돌려 버려야지><END>
+[WORLD01_AREA038.EMI|sec11|body58|@0xb53|58B] *강화 작물이란>\n가{fc}이스트 쓴{fe}밀로\n빵을{ff}구워 봤는데>{02}아무래도{fe}별로구먼><END>
+[WORLD01_AREA038.EMI|sec11|body59|@0xb8d|23B] *윈디아에선{ff}주식이\n빵이야<END>
+[WORLD01_AREA038.EMI|sec11|body60|@0xba4|52B] *요즘{fe}플랜트에서\n사들이는{ff}재료가>{02}영 질이{fe}나빠서 말이야\n고생하네><END>
+[WORLD01_AREA038.EMI|sec11|body61|@0xbd8|46B] *한 번은{fe}윈디아\n밖 마을에{ff}가고 싶다 하다\n이 나이가{ff}돼 버렸어<END>
+[WORLD01_AREA038.EMI|sec11|body62|@0xc06|35B] *날씨 좋네\n이런 날은{fe}아래 카페에서\n점심 먹고 싶다<END>
+[WORLD01_AREA038.EMI|sec11|body63|@0xc29|53B] *응>{fe}{c04:01}님?{02}아니아니>{fe}설마\n그렇게 몇 번이나{ff}공주님이\n빠져나오다니{fe}없겠지>?<END>
+[WORLD01_AREA038.EMI|sec11|body64|@0xc5e|59B] *{c04:01}님이>\n가출하신 일은\n알고 있습니다>>{02}하지만{fe}생각이 있어서라고\n믿고 있으니까요>@<END>
+[WORLD01_AREA038.EMI|sec11|body65|@0xc99|42B] 문지기\n*오오{fe}{c04:01}님@{02}맥니르 마을에서의{ff}활약\n듣고 있습니다@<END>
+[WORLD01_AREA038.EMI|sec11|body80|@0xcc3|27B] 문지기\n*당장{fe}왕께\n보고{ff}하시려고요?<END>
+[WORLD01_AREA038.EMI|sec11|body81|@0xcde|32B] {c04:01}\n*아니요>{ff}그 전에\n플랜트 쪽도{ff}조사하려고><END>
+[WORLD01_AREA038.EMI|sec11|body82|@0xcfe|38B] 문지기\n*오오{fe}그렇습니까@{02}>그럼{fe}힘내십시오\n{c04:01}님@<END>
+[WORLD01_AREA038.EMI|sec11|body83|@0xd24|34B] *그나저나{fe}{c04:01}님의\n일하시는 모습엔\n고개가 절로 숙여지네요><END>
+[WORLD01_AREA038.EMI|sec11|body84|@0xd46|29B] 문지기\n*아니 이건{fe}{c04:01}님@\n드디어{ff}돌아오셨습니까><END>
+[WORLD01_AREA038.EMI|sec11|body85|@0xd63|59B] 문지기\n*듣자 하니>\n플랜트에{fe}가셨다던데{02}자자{fe}임금님이\n보고를{ff}기다리고 계십니다>@<END>

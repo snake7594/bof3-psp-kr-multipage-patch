@@ -1,0 +1,1 @@
+[WORLD04_AREA157.EMI|sec11|body0|@0x200|33B] 기계로{ff}잠겨 있다@\n{c04:04}{ff}으론\n열 수 없을 것 같다<END>

@@ -1,0 +1,12 @@
+[WORLD04_AREA173.EMI|sec11|body0|@0x20b|30B] {c04:05}\n*저 애가{fe}달려가면\n꼭 무슨 일이 생긴다니까{fc}><END>
+[WORLD04_AREA173.EMI|sec11|body1|@0x229|23B] {c04:01}\n*또{fe}가 버렸네\n허니{fc}>>?<END>
+[WORLD04_AREA173.EMI|sec11|body2|@0x240|21B] {c04:04}\n*바쁜{fe}꼬맹이네\n정말><END>
+[WORLD04_AREA173.EMI|sec11|body3|@0x255|30B] {c04:02}\n*늘 그랬듯이{fe}뒤를\n쫓으라는>{fe}말이군?<END>
+[WORLD04_AREA173.EMI|sec11|body4|@0x273|21B] {c0c:04}{c04:05}\n*굉장한 기계네{fe}너>?<END>
+[WORLD04_AREA173.EMI|sec11|body5|@0x288|26B] {c0c:04}{c04:01}\n*허니{fc}는{fe}별별 걸\n다 할 줄 아네>><END>
+[WORLD04_AREA173.EMI|sec11|body6|@0x2a2|32B] {c0c:04}{c04:04}\n*꼬맹이 주제에{fe}이런\n큰 문을{fe}여는 거야?><END>
+[WORLD04_AREA173.EMI|sec11|body7|@0x2c2|29B] {c0c:04}{c04:02}\n*음>{ff}하지만>\n대체 어떤 구조인 거지>?<END>
+[WORLD04_AREA173.EMI|sec11|body8|@0x2df|244B] {c0c:06}*{0a}{0a}>>주목하라{0a}{c0c:02}{0a}{0a}최고 기밀 레벨로의\n{0a}<PAUSE>내비게이터:코드가\n{0a}{0a}입력되었습니다{fd}{0a}{c0c:02}{0a}<PAUSE>라이브러리:모드로의\n{0a}{0a}입장을{ff}허가합니다{fd}{0a}{c0c:00}*{0a}{0a}어서 오십시오{ff}여러분\n{0a}<PAUSE>우리는{fe}여신을 섬기는 자>{0a}{c0c:02}{0a}{0a}미리아 님을{fe}뵙기 전에\n{0a}<PAUSE>우리의 이야기를\n{0a}{0a}들어 주십시오>>{0a}{c0c:00}*{0a}{0a}여신 미리아 님은{fe}이 앞에\n{0a}<PAUSE>계십니다>{0a}{c0c:00}{c0c:81}디스\n*괜찮아{fe}<PAUSE>그리 쉽게\n멸망하진 않아><END>
+[WORLD04_AREA173.EMI|sec11|body9|@0x33d|150B] *{0a}{0a}어서 오십시오{ff}여러분\n{0a}<PAUSE>우리는{fe}여신을 섬기는 자>{0a}{c0c:02}{0a}{0a}미리아 님을{fe}뵙기 전에\n{0a}<PAUSE>우리의 이야기를\n{0a}{0a}들어 주십시오>>{0a}{c0c:00}*{0a}{0a}여신 미리아 님은{fe}이 앞에\n{0a}<PAUSE>계십니다>{0a}{c0c:00}{c0c:81}디스\n*괜찮아{fe}<PAUSE>그리 쉽게\n멸망하진 않아><END>
+[WORLD04_AREA173.EMI|sec11|body10|@0x38e|69B] *{0a}{0a}여신 미리아 님은{fe}이 앞에\n{0a}<PAUSE>계십니다>{0a}{c0c:00}{c0c:81}디스\n*괜찮아{fe}<PAUSE>그리 쉽게\n멸망하진 않아><END>
+[WORLD04_AREA173.EMI|sec11|body11|@0x3b0|35B] {c0c:81}디스\n*괜찮아{fe}<PAUSE>그리 쉽게\n멸망하진 않아><END>

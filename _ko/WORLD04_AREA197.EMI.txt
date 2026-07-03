@@ -1,0 +1,33 @@
+[WORLD04_AREA197.EMI|sec11|body0|@0x200|30B] 무시무시한 생물이\n유리 너머에서{ff}자고 있어><END>
+[WORLD04_AREA197.EMI|sec11|body1|@0x21e|40B] {c0c:04}{c04:01}\n*잘 자고 있는 것 같으니까>{02}그냥 살며시{ff}\n내버려 두자고요>>?<END>
+[WORLD04_AREA197.EMI|sec11|body2|@0x246|31B] {c0c:04}{c04:04}\n*굳이 깨우는 것도{fe}안됐고\n그냥 놔두자고>?<END>
+[WORLD04_AREA197.EMI|sec11|body3|@0x265|35B] {c0c:04}{c04:02}\n*자는 걸{ff}깨워서>\n괜히 싸울 필요도{fe}없겠지<END>
+[WORLD04_AREA197.EMI|sec11|body4|@0x288|30B] {c0c:04}{c04:05}\n*귀엽네{fc}>\n잘 자고 있는 모습이{fe}특히<END>
+[WORLD04_AREA197.EMI|sec11|body5|@0x2a6|48B] {c04:05}\n*저기{fe}저기에\n카{fc}드가{ff}떨어져 있는데{fc}>{02}저거{fc}{fe}어딘가의 열쇠 아닐까{fc}>?<END>
+[WORLD04_AREA197.EMI|sec11|body6|@0x2d6|27B] {c04:02}\n*저기 있는{fe}카{fc}드는>\n어딘가의 열쇠{fe}일까?<END>
+[WORLD04_AREA197.EMI|sec11|body7|@0x2f1|31B] {c04:04}\n*어이어이{fe}저기 저 카{fc}드>\n어딘가의 열쇠 아냐?<END>
+[WORLD04_AREA197.EMI|sec11|body8|@0x310|31B] {c04:01}\n*어머>{fe}저 카{fc}드>\n분명{ff}어딘가의 열쇠일 거야>@?<END>
+[WORLD04_AREA197.EMI|sec11|body9|@0x32f|26B] {c04:01}\n*저거{fe}안 가지면\n안 되는 거야{fe}분명><END>
+[WORLD04_AREA197.EMI|sec11|body10|@0x349|28B] {c04:04}\n*재밌네>\n저거{fe}가지러 가야겠어>><END>
+[WORLD04_AREA197.EMI|sec11|body11|@0x365|29B] {c04:02}\n*흠>{ff}아무래도\n가지러 가야만 하는{fe}건가><END>
+[WORLD04_AREA197.EMI|sec11|body12|@0x382|24B] {c04:05}\n*필요한 거겠지{fc}\n저 카{fc}드>><END>
+[WORLD04_AREA197.EMI|sec11|body13|@0x39a|36B] {c04:05}\n*뭐{fe}어쩔 수 없지{fc}>{02}우선{fe}저 안의 가스를\n멈춰야겠네<END>
+[WORLD04_AREA197.EMI|sec11|body14|@0x3be|34B] {c04:02}\n*어쩔 수 없지>{02}우선{fe}저 안의 가스를\n멈춰야겠군{fe}<END>
+[WORLD04_AREA197.EMI|sec11|body15|@0x3e0|37B] {c04:04}\n*할 수 없네{fe}그럼\n안의 가스를{ff}멈추고>{02}후딱 가볼까<END>
+[WORLD04_AREA197.EMI|sec11|body16|@0x405|33B] {c04:01}\n*가자>{02}가스를 멈추고{fe}안으로\n들어가야 해<END>
+[WORLD04_AREA197.EMI|sec11|body17|@0x426|18B] 슬리{fc}프:가스를\n멈춥니다><END>
+[WORLD04_AREA197.EMI|sec11|body18|@0x438|25B] 아직{fe}가스가 듣고 있는 건지\n자고 있는 것 같다>><END>
+[WORLD04_AREA197.EMI|sec11|body19|@0x451|29B] {c0c:06}{c04:01}\n*지금이 기회야{fe}살며시>\n카{fc}드 챙기자<END>
+[WORLD04_AREA197.EMI|sec11|body20|@0x46e|30B] {c0c:06}{c04:05}\n*지금이라면{fe}안 깨우고\n카{fc}드 가질 수 있을지도{fc}><END>
+[WORLD04_AREA197.EMI|sec11|body21|@0x48c|20B] {c0c:06}{c04:02}\n*깨우지 않고{fe}될>{ff}까?<END>
+[WORLD04_AREA197.EMI|sec11|body22|@0x4a0|29B] {c0c:06}{c04:04}\n*헤헤>{ff}지금 기회에{fe}카{fc}드\n받아 가자고><END>
+[WORLD04_AREA197.EMI|sec11|body23|@0x4bd|17B] {c04:04}\n*>라고 될 리가{fe}없나<END>
+[WORLD04_AREA197.EMI|sec11|body24|@0x4ce|19B] {c04:02}\n*>그렇게 잘 풀리진{fe}않는군<END>
+[WORLD04_AREA197.EMI|sec11|body25|@0x4e1|24B] {c04:05}\n*하다가{fe}역시\n이렇게{fc}되는 거구나{fc}><END>
+[WORLD04_AREA197.EMI|sec11|body26|@0x4f9|14B] {c04:01}\n*역시{fe}안 되나><END>
+[WORLD04_AREA197.EMI|sec11|body27|@0x507|17B] 먼저{fe}카{fc}드를 챙겨 두자><END>
+[WORLD04_AREA197.EMI|sec11|body28|@0x518|49B] {c05:02}카{fc}드키{fc}:B{06}라고 적힌\n싸구려 카{fc}드다>{02}별로 중요한 열쇠는\n아닌 것 같다>><END>
+[WORLD04_AREA197.EMI|sec11|body29|@0x549|25B] {c04:04}\n*웃기네>\n아파가면서{fe}이거냐><END>
+[WORLD04_AREA197.EMI|sec11|body30|@0x562|29B] {c04:05}\n*누구야{fc}>{fe}중요한 열쇠라고\n말한 게{fc}@?<END>
+[WORLD04_AREA197.EMI|sec11|body31|@0x57f|42B] {c04:01}\n*중요한 열쇠>{ff}는 아닌 것 같네\n하지만>{ff}쓸모없진 않을 거야{02}>>아마<END>
+[WORLD04_AREA197.EMI|sec11|body32|@0x5a9|37B] {c04:02}\n*흠>{ff}그다지 중요한\n열쇠는{fe}아닌가>{02}그런 일도{fe}있지<END>

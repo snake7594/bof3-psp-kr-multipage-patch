@@ -1,0 +1,66 @@
+[WORLD03_AREA131.EMI|sec11|body0|@0x20a|27B] 캠프 메뉴{fc}야\n어떻게 할래?{c14:00}{c0c:24}쉰다<END>
+[WORLD03_AREA131.EMI|sec11|body1|@0x23c|22B] *그럼{fe} 출발할까요?{c14:01}{c0c:02}응<END>
+[WORLD03_AREA131.EMI|sec11|body2|@0x256|21B] {c0c:06}지그\n*자{fe} 어디로 갈까요?<END>
+[WORLD03_AREA131.EMI|sec11|body3|@0x26b|72B] {c0c:06}지그\n*>아참{fe} 그렇지{02} 다른 분들하고도{ff} 잘\n얘기해 보는 게{ff} 좋겠어{02}>그러고 나서{ff} 다시\n이 몸한테{ff} 말 걸어 줘@<END>
+[WORLD03_AREA131.EMI|sec11|body4|@0x2b3|49B] *동료들하고{ff} 얘기해\n두는 게{fe} 좋을걸?{02}그러고 나서{ff} 이 몸한테\n말 걸어 줘<END>
+[WORLD03_AREA131.EMI|sec11|body5|@0x2e4|19B] *오{fe} 이제{ff} 됐나?{c14:02}{c0c:02}응<END>
+[WORLD03_AREA131.EMI|sec11|body6|@0x2fa|51B] *바람{fe} 기분 좋다{ff} {c04:00}{02}바다 건너편은>\n어떤 곳일까?{02}가 본 사람{ff} 없겠지?<END>
+[WORLD03_AREA131.EMI|sec11|body7|@0x32d|50B] *신을 만나러{fe} 바다를 건넌다>{02}울칸 백성도\n그런 생각을{ff} 하는 자는\n없었지>><END>
+[WORLD03_AREA131.EMI|sec11|body8|@0x35f|50B] *그래도>{ff} 아무도 가 본 적 없는\n바다 건너편에>{02}그렇게 쉽게{ff} 갈 수\n있긴 한 걸까>?<END>
+[WORLD03_AREA131.EMI|sec11|body9|@0x391|47B] *바다 건너편이\n얼마나 먼지는\n모르겠지만>{02}엔진은{ff} 상태 좋아<END>
+[WORLD03_AREA131.EMI|sec11|body10|@0x3c0|10B] *스프{c15:07}{c15:07}{c15:07}<END>
+[WORLD03_AREA131.EMI|sec11|body11|@0x3ca|21B] *좋아>{ff} 그럼{fe} 어디로\n향하면 되지?<END>
+[WORLD03_AREA131.EMI|sec11|body12|@0x3df|54B] 지그\n*바다>{ff} 건너편@?\n역시나>>{02}그런 말\n꺼낼 줄{ff} 알았다니까><END>
+[WORLD03_AREA131.EMI|sec11|body13|@0x415|58B] 지그\n*말해 두겠는데{fe} 지금까지>{02}거칠게 날뛰는{ff} 외해에 나가\n무사히 돌아온 놈은\n거의{ff} 없어>?<END>
+[WORLD03_AREA131.EMI|sec11|body14|@0x44f|28B] 지그\n*그래도{ff} 가는 거지?\n><PAUSE>><PAUSE>><PAUSE>좋아@<END>
+[WORLD03_AREA131.EMI|sec11|body15|@0x46b|78B] 지그\n*그렇다면{fe} 이 몸>{02}라팔라에서>{fe} 아니 세상에서 제일가는\n뱃사람{ff} 지그 님이{02}너희를{ff} 바다 건너편으로\n시원하게{ff} 데려다주마@<END>
+[WORLD03_AREA131.EMI|sec11|body16|@0x4b9|50B] 지그\n*바다 건너편으로{ff} 가는\n무모한 짓{ff} 할 수 있는 건>{02}이{ff} 몸뿐이라고{fc}@@<END>
+[WORLD03_AREA131.EMI|sec11|body17|@0x4eb|44B] 지그\n*슬슬{fe} 외해다>{02}모두{ff} 배 안으로\n들여보내는 게{ff} 좋겠어@<END>
+[WORLD03_AREA131.EMI|sec11|body18|@0x517|40B] 지그\n*윽{fe} 안{ff} 안 되겠다@{02}배가{ff} 부서지겠어@\n일단 돌아가자@@<END>
+[WORLD03_AREA131.EMI|sec11|body19|@0x53f|36B] {c0c:05}지그\n*><PAUSE>><PAUSE>>소문으로는 들었지만\n저렇게나{ff} 거칠 줄은@<END>
+[WORLD03_AREA131.EMI|sec11|body20|@0x563|53B] {c0c:05}지그\n*시원하게{ff} 데려다준다>{02}같은{fe} 큰소리{ff} 쳤지만\n이 배로는{fe} 무리일지도 몰라<END>
+[WORLD03_AREA131.EMI|sec11|body21|@0x598|48B] {c0c:06}{c04:01}\n*잠깐{fe} 그거>{02}바다 건너편으로{ff} 가는 걸>{02}포기하라는{ff} 거야@?<END>
+[WORLD03_AREA131.EMI|sec11|body22|@0x5c8|50B] {c0c:06}{c04:01}\n*라팔라에서 제일가는{ff} 뱃사람이\n무리라면>{02}우리{ff} 어떡하면 좋아?<END>
+[WORLD03_AREA131.EMI|sec11|body23|@0x5fa|48B] {c0c:05}지그\n*미안하다>{02}이 몸{fe} ;{c05:02}전설의 뱃사람{06}<은\n못 될 모양이다><END>
+[WORLD03_AREA131.EMI|sec11|body24|@0x62a|44B] {c0c:06}{c04:01}\n*전설의 뱃사람>?{02}그 사람한테 부탁하면{ff} 외해를\n건널 수 있어?<END>
+[WORLD03_AREA131.EMI|sec11|body25|@0x656|101B] {c0c:05}지그\n*아니{fe} 그게 아니라>{02}바다 사나이들{ff} 사이에서>\n외해를{ff} 건너온\n전설의 뱃사람이란 녀석이>{02}미드:시{fc}에{ff} 산다고\n소문이{ff} 났거든>{02}소문이야{fe} 소문><END>
+[WORLD03_AREA131.EMI|sec11|body26|@0x6bb|44B] {c0c:06}{c04:01}\n*소문이라도>\n뭔가{fe} 실마리가{ff} 될지도{02}그 사람 얘기{ff} 알려 줘@?<END>
+[WORLD03_AREA131.EMI|sec11|body27|@0x6e7|78B] {c0c:05}지그\n*어{fe} 이 몸도{ff} 그렇게\n자세히 아는 건{ff} 아니라>{02}라팔라 북쪽에 있는\n{c05:02}파{fc}치{06}란 마을{ff} 촌장이라면>{02}뭔가{ff} 알지도>><END>
+[WORLD03_AREA131.EMI|sec11|body28|@0x735|28B] {c0c:06}{c04:01}\n*>{c05:02}파{fc}치{06}구나{02}거기로{ff} 가 보자@<END>
+[WORLD03_AREA131.EMI|sec11|body29|@0x751|45B] {c0c:05}지그\n*아{fe} 알았다>{02}그럼{fe} 준비되면\n이 몸한테{ff} 말 걸어 줘@<END>
+[WORLD03_AREA131.EMI|sec11|body30|@0x77e|41B] *라팔라 북쪽의{ff} 파{fc}치 마을>{02}분명{fe} 배로만\n다가갈 수 있는 곳이었지>?<END>
+[WORLD03_AREA131.EMI|sec11|body31|@0x7a7|63B] *우엑><PAUSE>><PAUSE>>{02}외해를 가는 동안{fe} 계속\n저렇게{ff} 흔들린다면>{02}난{fe} 그만{ff} 둘래>\n건너편 가는 거>><END>
+[WORLD03_AREA131.EMI|sec11|body32|@0x7e6|10B] *페큐{c15:07}{c15:07}><END>
+[WORLD03_AREA131.EMI|sec11|body33|@0x7f0|45B] *엔진에{ff} 이상은 없는데\n이대로 가기엔{fe} 조금\n파워{fc}가{ff} 부족하네<END>
+[WORLD03_AREA131.EMI|sec11|body34|@0x81d|13B] *길은 험하다>{fe} 인가><END>
+[WORLD03_AREA131.EMI|sec11|body35|@0x82a|98B] {c0c:04}{c04:04}\n*>진짜{fe} 무슨 생각으로\n공격 같은 걸 한 거야@?{c16:40}{c04:05}\n*뭐야{fc}>\n내 탓이라는 거야{fc}>{c16:45}{c0c:06}{c04:01}\n*휴{fe} 무서웠어>{02}다가가면{fe} 공격해 오다니\n>>?<END>
+[WORLD03_AREA131.EMI|sec11|body36|@0x84b|65B] {c04:05}\n*뭐야{fc}>\n내 탓이라는 거야{fc}>{c16:45}{c0c:06}{c04:01}\n*휴{fe} 무서웠어>{02}다가가면{fe} 공격해 오다니\n>>?<END>
+[WORLD03_AREA131.EMI|sec11|body37|@0x865|39B] {c0c:06}{c04:01}\n*휴{fe} 무서웠어>{02}다가가면{fe} 공격해 오다니\n>>?<END>
+[WORLD03_AREA131.EMI|sec11|body38|@0x88c|43B] {c0c:06}{c04:01}\n*저래선{fe} 흑선에 타는 건\n무리 아냐?{02}어떡하지{fe} {c04:00}?<END>
+[WORLD03_AREA131.EMI|sec11|body39|@0x8b7|50B] {c0c:05}지그\n*>그렇고말고{02}어쩔 거냐>\n{c04:00} 씨?{02}선장은{fe} 지금으로선\n당신이잖아>><END>
+[WORLD03_AREA131.EMI|sec11|body40|@0x8e9|42B] {c0c:05}지그\n*이 몸은{fe} 선장의\n명령대로>{02}어디든{ff} 가겠어?<END>
+[WORLD03_AREA131.EMI|sec11|body41|@0x913|39B] {c0c:05}지그\n*뭐{fe} 동료들하고도\n잘{ff} 얘기해서{02}정해 줘{fe} 응?<END>
+[WORLD03_AREA131.EMI|sec11|body42|@0x93a|55B] *외해를{ff} 건너려면\n저 배에{ff} 타는 수밖에\n없어>{02}어떻게든 해 보자{fe} {c04:00}?<END>
+[WORLD03_AREA131.EMI|sec11|body43|@0x971|51B] *저 녀석이{fe} 갑자기\n공격하고{ff} 그래서>{02}큰 배가{ff} 화나서\n반격해 온 거잖아?<END>
+[WORLD03_AREA131.EMI|sec11|body44|@0x9a4|28B] *뭐야{fc}>{02}내가 잘못한 거\n아니거든{fc}><END>
+[WORLD03_AREA131.EMI|sec11|body45|@0x9c0|37B] *옮겨 타기만 하면\n나머지는{ff} 어떻게든\n될 것 같은데{fe} 말이야>?<END>
+[WORLD03_AREA131.EMI|sec11|body46|@0x9e5|49B] *페후{c15:07}{c15:07}{c15:07}{02}{c05:06}배가 흔들려도{fe} 계속\n잘 수 있는{ff} {c04:06}가\n조금{ff} 부럽다{06}<END>
+[WORLD03_AREA131.EMI|sec11|body47|@0xa16|52B] *선장은{fe} 당신이지만>{02}함께 여행하는\n동료와 얘기해서{ff} 정하는 게\n좋을 거야<END>
+[WORLD03_AREA131.EMI|sec11|body48|@0xa4a|45B] {c04:05}\n*아{fe} {c04:00}였구나{02}>어떡할래?\n바다 건너편 가는 거\n포기할 거야?<END>
+[WORLD03_AREA131.EMI|sec11|body49|@0xa77|47B] {c04:05}\n*그렇구나>{ff} 그럼{fc}{02}들이받든{ff} 뭘 하든 해서\n저 배에{ff} 옮겨 타야지{fe} 응<END>
+[WORLD03_AREA131.EMI|sec11|body50|@0xaa6|53B] *들이받을 거라면\n공격당하지 않게>{02}뒤에서{fe} 단숨에\n돌진하는 게{ff} 좋을 것 같아<END>
+[WORLD03_AREA131.EMI|sec11|body51|@0xadb|13B] *오{fe} 정해졌나?<END>
+[WORLD03_AREA131.EMI|sec11|body52|@0xae8|20B] 지그\n*배를><PAUSE>{ff} 돌진시킨다@?<END>
+[WORLD03_AREA131.EMI|sec11|body53|@0xafc|34B] 지그\n*역시>{fe} <PAUSE><PAUSE>역시 그렇게 나오는군\n맡{c15:07}{c15:07}겨만 둬@@<END>
+[WORLD03_AREA131.EMI|sec11|body54|@0xb1e|44B] 지그\n*그런{fe} 위험한 일\n할 수 있는 건>{02}이 몸을{ff} 빼고는\n달리 없지@<END>
+[WORLD03_AREA131.EMI|sec11|body55|@0xb4a|42B] 지그\n*이번에야말로{fe} 이 몸의\n실력을{ff} 보여 주마{02}맡겨 둬{fe} 선장@<END>
+[WORLD03_AREA131.EMI|sec11|body56|@0xb74|34B] *배를{ff} 들이받는다>{02}무섭지만{fe} 조금\n두근거리네{fe} {c04:00}?<END>
+[WORLD03_AREA131.EMI|sec11|body57|@0xb96|46B] *들이받다니>{02}또{fe} 저 녀석이 앞뒤 안 가리고\n꺼낸 말이지?{02}유쾌하다니까><END>
+[WORLD03_AREA131.EMI|sec11|body58|@0xbc4|52B] *무슨 일이 있어도{fe} 앞으로 나아간다>{02}그 결심이{ff} 앞으로도\n길을 열어 주는\n법이겠지{fe} 그래<END>
+[WORLD03_AREA131.EMI|sec11|body59|@0xbf8|46B] *푸시{c15:07}{c15:07}>{02}{c05:06}배가 부딪칠 때\n굴러떨어지진 않을까\n조금 걱정이다>{06}<END>
+[WORLD03_AREA131.EMI|sec11|body60|@0xc26|40B] *들이받을 거지?{02}흑선 바로 뒤에서\n쾅{fc}하고 가는 게\n좋아{fc}<END>
+[WORLD03_AREA131.EMI|sec11|body61|@0xc4e|22B] 일기가 있다>\n지만{fe} 지금은 그만두자><END>
+[WORLD03_AREA131.EMI|sec11|body62|@0xc64|91B] {c0c:01}{ff}\n{ff}{ff}검은 배에 {c05:02}부딪치는 법{06}{02}{ff}{ff}{ff}{c05:05}이동{06} 버튼을 눌러\n{ff}{ff}속도{fc}를 올린 채로>\n{ff}{ff}{c05:02}정후방{06}에서{fe} 부딪칩니다{fd}{02}오{fc}버{fc}히{fc}트에{fe} 주의{fd}<END>
+[WORLD03_AREA131.EMI|sec11|body63|@0xcbf|21B] *준비는{ff} 됐나?{c14:03}{c0c:02}됐어<END>
+[WORLD03_AREA131.EMI|sec11|body211|@0xcd8|32B] 지그\n*>너희한테{ff} 도움이 될\n때가{fe} 온 모양이군<END>
+[WORLD03_AREA131.EMI|sec11|body212|@0xcf8|16B] 지그\n*그럼{fe} 가자고@<END>

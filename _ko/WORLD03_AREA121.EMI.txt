@@ -1,0 +1,9 @@
+[WORLD03_AREA121.EMI|sec11|body0|@0x209|27B] 짐운반 길드의 작업장{fd}\n짐배가 도착한다{fd}<END>
+[WORLD03_AREA121.EMI|sec11|body1|@0x224|32B] 바다에 면한 작은 마을{fd}\n배로만 올 수 있다{fd}<END>
+[WORLD03_AREA121.EMI|sec11|body2|@0x244|45B] 배가 닿는 곳{fd}\n기계 길드가{fe}짐운반 길드와\n짐을 주고받는다{fd}<END>
+[WORLD03_AREA121.EMI|sec11|body3|@0x271|11B] 오두막이 있다{fd}<END>
+[WORLD03_AREA121.EMI|sec11|body4|@0x27c|89B] {c0c:01}{ff}\n{ff}{ff}검은 배에 {c05:02}부딪치는 법{06}{02}{ff}{ff}{ff}{c05:05}{c15:0b}{06}버튼을 눌러서\n{ff}{ff}속도를 올린 채로>\n{ff}{ff}{c05:02}바로 뒤{06}에서{fe}부딪친다{fd}{02}오버히트에{fe}주의{fd}<END>
+[WORLD03_AREA121.EMI|sec11|body5|@0x2d5|38B] 바다가{fe}거칠어졌다>\n정면으로 향하지 않으면\n뒤집혀 버린다@<END>
+[WORLD03_AREA121.EMI|sec11|body6|@0x2fb|34B] 바다가{fe}거칠어졌다>\n이 배로{ff}가는 건\n무리일까>?<END>
+[WORLD03_AREA121.EMI|sec11|body7|@0x31d|24B] 좋은 향기가 나는\n예쁜{ff}꽃밭이 있다<END>
+[WORLD03_AREA121.EMI|sec11|body32|@0x335|56B] 꽃밭에\n요정의 마을이\n반응하고 있다>>{02}{c05:02}요정의 마을{06}을\n사용할까요?{c14:00}{c0c:02}예<END>

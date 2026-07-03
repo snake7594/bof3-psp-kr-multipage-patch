@@ -1,0 +1,10 @@
+[WORLD04_AREA196.EMI|sec11|body0|@0x205|15B] {c04:05}\n*이 근처일{ff}텐데><END>
+[WORLD04_AREA196.EMI|sec11|body1|@0x214|26B] {c04:01}\n*보여도{ff}이상하지 않은데>\n오아시스>><END>
+[WORLD04_AREA196.EMI|sec11|body2|@0x22e|17B] {c04:04}\n*아직도{fe}안 보이는 거야>?<END>
+[WORLD04_AREA196.EMI|sec11|body3|@0x23f|18B] {c04:02}\n*이 근처가{fe}아닌 건가?<END>
+[WORLD04_AREA196.EMI|sec11|body4|@0x251|35B] {c0c:06}{c04:02}\n*>저 언덕에{ff}오르면\n뭔가{ff}보일지도 모르지<END>
+[WORLD04_AREA196.EMI|sec11|body5|@0x274|29B] {c0c:06}{c04:04}\n*저{ff}꼭대기라면\n뭔가{ff}보일까>?<END>
+[WORLD04_AREA196.EMI|sec11|body6|@0x291|27B] {c0c:06}{c04:01}\n*저기에{ff}오르면\n보일까>?<END>
+[WORLD04_AREA196.EMI|sec11|body7|@0x2ac|31B] {c0c:06}{c04:05}\n*저기에{ff}오르면{fc}>\n보일 거야>{fe}분명히><END>
+[WORLD04_AREA196.EMI|sec11|body8|@0x2cb|40B] 미리아\n*알다시피>{02}이 세계의{ff}대부분은\n모래에{ff}뒤덮여>><END>
+[WORLD04_AREA196.EMI|sec11|body10|@0x2f3|33B] 미리아\n*생물이{fe}살아가기에\n좋다고는 할 수 없어요<END>

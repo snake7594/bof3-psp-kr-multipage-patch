@@ -1,0 +1,115 @@
+[WORLD00_AREA026.EMI|sec11|body0|@0x226|19B] {c0c:05}{c04:03}\n*형{fe}어떡하지?<END>
+[WORLD00_AREA026.EMI|sec11|body1|@0x239|21B] {c04:04}\n*닭을><PAUSE>><PAUSE>>\n풀어줄까?<END>
+[WORLD00_AREA026.EMI|sec11|body2|@0x24e|48B] {c0c:05}{c04:03}\n*그렇구나{fe}{c04:00}@{02}주인 나리의{ff}소중한 닭이\n한밤중에{ff}달아나면><END>
+[WORLD00_AREA026.EMI|sec11|body3|@0x27e|42B] {c04:04}\n*>>길드마스터들도\n난리 났다<PAUSE>{ff}는 거지@{02}><PAUSE>><PAUSE>>해 보자@<END>
+[WORLD00_AREA026.EMI|sec11|body4|@0x2a8|28B] {c0c:06}{c04:04}\n*좋{fe}아{fe}{c04:00}@\n닭을{ff}놀라게 하는 거야<END>
+[WORLD00_AREA026.EMI|sec11|body5|@0x2c4|43B] {c0c:06}{c04:04}\n*개그는{ff}그쯤 하고\n닭을 놀래켜 줘{02}:<PAUSE>:<PAUSE>:<PAUSE>제발 부탁이야<END>
+[WORLD00_AREA026.EMI|sec11|body6|@0x2ef|30B] {c0c:05}{c04:03}\n*네 검으로{ff}닭을\n콕콕 찔러 줘봐@<END>
+[WORLD00_AREA026.EMI|sec11|body7|@0x30d|22B] {c0c:05}{c04:03}\n*이것들:::\n맛있어 보이는데<END>
+[WORLD00_AREA026.EMI|sec11|body8|@0x323|32B] {c0c:06}{c04:04}\n*너무 가까우면{fe}검이\n안 빠지니까{ff}조심해><END>
+[WORLD00_AREA026.EMI|sec11|body9|@0x343|26B] {c0c:03}{c04:04}\n*야{fe}이제 됐어\n빨리{ff}이쪽이야@<END>
+[WORLD00_AREA026.EMI|sec11|body10|@0x35d|30B] {c0c:03}길드마스터의 목소리\n*우와와@\n{0d}뭐<PAUSE>뭐<PAUSE>뭐야@{0e}{0f}{02}<END>
+[WORLD00_AREA026.EMI|sec11|body11|@0x37b|27B] {c0c:05}민나의 목소리\n*{0d}꺄잉{c15:07}{c15:07}@{0e}{0f}{17}<END>
+[WORLD00_AREA026.EMI|sec11|body12|@0x396|32B] {c0c:06}길드마스터의 목소리\n*닭이다@\n닭이{ff}도망쳤다@@<END>
+[WORLD00_AREA026.EMI|sec11|body13|@0x3b6|50B] {c0c:03}길드마스터의 목소리\n*입구를{ff}막아라@{02}손 빈 녀석은\n닭을{ff}붙잡아라@<END>
+[WORLD00_AREA026.EMI|sec11|body14|@0x3e8|39B] {c0c:05}길드마스터의 목소리\n*>또{ff}히요가\n날뛴 거냐?{02}궁시렁궁시렁>><END>
+[WORLD00_AREA026.EMI|sec11|body15|@0x40f|60B] {c0c:00}{c04:03}\n*뭔가{ff}엄청난\n소동이{fe}됐는데>>{02}이 틈에{ff}어떻게든\n저택 안에{ff}들어갈 수\n있을지도 몰라@?<END>
+[WORLD00_AREA026.EMI|sec11|body16|@0x44b|30B] {c0c:05}길드마스터\n*{0d}너희들@{0e}{0f}{02}\n거기서 뭐 하는 거야@<END>
+[WORLD00_AREA026.EMI|sec11|body17|@0x469|58B] {c0c:04}길드마스터\n*아이고{ff}곤란한 꼴을\n들켜 버렸네:::{02}근데{ff}너 누구야?{02}그렇구나{ff}도:<PAUSE>도둑이구나@<END>
+[WORLD00_AREA026.EMI|sec11|body18|@0x4a3|9B] {c0c:05}*꼬끼오<END>
+[WORLD00_AREA026.EMI|sec11|body19|@0x4ac|26B] {c0c:05}*:::\n(놀라서\n굳어 있는 것 같다)<END>
+[WORLD00_AREA026.EMI|sec11|body20|@0x4c6|22B] {c0c:05}*꼬꼬:::\n(좀{ff}졸린 것 같다)<END>
+[WORLD00_AREA026.EMI|sec11|body21|@0x4dc|24B] {c0c:81}{ff}\n{ff}\n{ff}{ff}{ff}{ff}쫓겨났다:::{c16:30}<END>
+[WORLD00_AREA026.EMI|sec11|body22|@0x4f4|32B] 이런 데에{fe}지갑이>?{02}{c05:02}지갑{06}을{ff}손에 넣었다@<END>
+[WORLD00_AREA026.EMI|sec11|body23|@0x514|29B] {c0c:03}{0d}@@@{0e}{0f}{c04:00}{c0c:05}{c04:03}\n*>어떻게 할까{fe}형?<END>
+[WORLD00_AREA026.EMI|sec11|body32|@0x51e|19B] {c0c:05}{c04:03}\n*>어떻게 할까{fe}형?<END>
+[WORLD00_AREA026.EMI|sec11|body33|@0x531|18B] {c0c:06}{c04:04}\n*>상황을 보고 올게<END>
+[WORLD00_AREA026.EMI|sec11|body34|@0x543|22B] {c04:04}\n*입구는\n막혀 버렸어><END>
+[WORLD00_AREA026.EMI|sec11|body35|@0x559|15B] {c0c:05}{c04:03}\n*>>포기할까?<END>
+[WORLD00_AREA026.EMI|sec11|body36|@0x568|19B] {c04:04}\n*>>아니{02}돌파하자>><END>
+[WORLD00_AREA026.EMI|sec11|body37|@0x57b|28B] {c0c:05}{c04:03}\n*{c05:02}돌파{06}라니>\n해치운다는 거야?<END>
+[WORLD00_AREA026.EMI|sec11|body38|@0x597|80B] {c04:04}\n*아니{fe}<PAUSE>내가{ff}미끼가 될게{02}>그{fe}틈에\n너희는{ff}안으로 들어가{02}난{fe}벽을{ff}타고 오를 테니\n지붕 위에서{ff}만나자\n>>알았지?<END>
+[WORLD00_AREA026.EMI|sec11|body39|@0x5e7|38B] {c04:03}\n*>괜찮은{ff}거지{02}형{fe}도망치는 건\n잘하니까>><END>
+[WORLD00_AREA026.EMI|sec11|body40|@0x60d|17B] {c04:03}\n*좋아{fe}가자\n{c04:00}@<END>
+[WORLD00_AREA026.EMI|sec11|body41|@0x61e|23B] {c0c:06}{c04:04}\n*>>그럼{fe}슬슬\n가 볼까<END>
+[WORLD00_AREA026.EMI|sec11|body42|@0x635|23B] >일단{ff}밖으로 나갈까?{c14:00}{c0c:02}{ff}예<END>
+[WORLD00_AREA026.EMI|sec11|body48|@0x651|31B] {c04:00}일행은\n들키지 않게{ff}벽을 되돌려 놓고\n밖으로 나갔다>><END>
+[WORLD00_AREA026.EMI|sec11|body49|@0x670|77B] {c0c:03}길드마스터\n*난{ff}저택 밖을\n지키는 일이야{02}그러니{ff}저택 안 일은\n아무래도 상관없어{02}::수당도 별로\n안 나오고::<END>
+[WORLD00_AREA026.EMI|sec11|body66|@0x6bd|31B] {c0c:05}하녀\n*아니{ff}안 돼::\n<PAUSE>이런:<PAUSE>데서::<END>
+[WORLD00_AREA026.EMI|sec11|body67|@0x6dc|51B] {c0c:03}하인\n*제기랄@{02}맥니르 녀석@\n이런 짓을 했나@\n아니면::<PAUSE>이런 짓을@<END>
+[WORLD00_AREA026.EMI|sec11|body68|@0x70f|57B] {c0c:05}하인\n*아아@\n민나가 큰일이다@{02}<PAUSE><PAUSE><PAUSE>걱정되니까 상황을 봐야지\n두근두근:::<END>
+[WORLD00_AREA026.EMI|sec11|body69|@0x748|60B] 하인\n*지금{ff}쉬는 시간이라\n네가 누구든 상관없어{02}::하아\n이런 일{ff}빨리 그만두고 싶다<END>
+[WORLD00_AREA026.EMI|sec11|body70|@0x784|57B] 하인\n*맥니르 님은\n달걀을 엄청 좋아해{02}저쪽에{ff}닭장이\n있는 건{ff}그 때문이지<END>
+[WORLD00_AREA026.EMI|sec11|body71|@0x7bd|31B] 수상한 남자\n*젠장@{ff}길드마스터 천지라\n다가갈 수가 없어@<END>
+[WORLD00_AREA026.EMI|sec11|body72|@0x7dc|58B] 하인\n*친구가{ff}잘렸어{02}깜빡{ff}닭을 놓쳤다고\n그걸로::\n나도 조심해야지<END>
+[WORLD00_AREA026.EMI|sec11|body73|@0x816|30B] 수상한 남자\n*뭐야 뭐야?\n저놈들{ff}어디 간 거야?<END>
+[WORLD00_AREA026.EMI|sec11|body74|@0x834|22B] 하녀\n*어::\n짐승 같은 소리::<END>
+[WORLD00_AREA026.EMI|sec11|body75|@0x84a|26B] 길드마스터\n*좀 더{ff}좋은 일\n>>없으려나<END>
+[WORLD00_AREA026.EMI|sec11|body76|@0x864|23B] 하인\n*나{ff}난 아닌데::<END>
+[WORLD00_AREA026.EMI|sec11|body77|@0x87b|54B] 하인\n*아아@\n민나가 닭한테@{02}걱정되니까\n좀 더 봐야지\n두근두근:::<END>
+[WORLD00_AREA026.EMI|sec11|body78|@0x8b1|41B] {c0c:05}하인*아아@\n더는 못 보겠어@{02}그래도{ff}안 볼 수가 없어@<END>
+[WORLD00_AREA026.EMI|sec11|body79|@0x8da|30B] 하인\n*이게 무슨 일이야@\n또{ff}여럿 잘리겠다@<END>
+[WORLD00_AREA026.EMI|sec11|body80|@0x8f8|28B] 하녀\n*아우::\n그렇게{ff}찌르면{ff}<PAUSE>안<PAUSE>돼<END>
+[WORLD00_AREA026.EMI|sec11|body81|@0x914|58B] 수상한 남자\n*그나저나{ff}아까 그건\n무슨 소리였지?{02}괴물까지{ff}있으면\n돌아가는 게{ff}낫겠는데<END>
+[WORLD00_AREA026.EMI|sec11|body82|@0x94e|23B] 하인\n*다{fc}다다다다\n닭이야{fc}~<END>
+[WORLD00_AREA026.EMI|sec11|body83|@0x965|47B] 길드마스터\n*호랑이 괴물이 나왔어{02}하필 내 차례에 나오지\n않아도 되는데::<END>
+[WORLD00_AREA026.EMI|sec11|body84|@0x994|53B] 길드마스터\n*우왓@{02}::뭐야 애잖아:::\n또 호랑이가 나온 줄 알았네\n아아{ff}깜짝 놀랐다<END>
+[WORLD00_AREA026.EMI|sec11|body85|@0x9c9|34B] 길드마스터\n*한밤중에 호랑이를 보는 거\n재수 없다 그랬던가?<END>
+[WORLD00_AREA026.EMI|sec11|body86|@0x9eb|18B] {c0c:81}{ff}{c16:00}닭{ff}모이인 것 같다<END>
+[WORLD00_AREA026.EMI|sec11|body96|@0x9f0|13B] 닭{ff}모이인 것 같다<END>
+[WORLD00_AREA026.EMI|sec11|body97|@0x9fd|15B] 닭용 물::인가?<END>
+[WORLD00_AREA026.EMI|sec11|body98|@0xa0c|18B] 길드마스터\n*흠{fe}수상한 녀석@?<END>
+[WORLD00_AREA026.EMI|sec11|body101|@0xa1e|17B] 길드마스터\n*>했더니{ff}{c04:04}일행이군<END>
+[WORLD00_AREA026.EMI|sec11|body102|@0xa2f|47B] 길드마스터\n*>그 누에를{ff}해치운\n너희한테{fe}이 몸이{02}당해낼 리{ff}없잖아@?<END>
+[WORLD00_AREA026.EMI|sec11|body103|@0xa5e|36B] {c04:04}\n*꽤{ff}말귀가\n밝잖아?{02}>>그럼{fe}지나간다?<END>
+[WORLD00_AREA026.EMI|sec11|body104|@0xa82|24B] 길드마스터\n*><PAUSE>><PAUSE>>50 제니{fc}{c14:01}{c0c:02}예<END>
+[WORLD00_AREA026.EMI|sec11|body105|@0xa9e|40B] 길드마스터\n*에헤헤{fe}매번 고마워>{02}글쎄{fe}우리\n월급이{ff}싸서 말이야><END>
+[WORLD00_AREA026.EMI|sec11|body106|@0xac6|29B] 길드마스터\n*자자{fe}어서 가\n난{ff}아무것도{ff}안 봤어<END>
+[WORLD00_AREA026.EMI|sec11|body107|@0xae3|31B] 길드마스터\n*그럼{fe}안 돼{c15:07}{c15:07}\n큰 소리{fe}질러 버린다@<END>
+[WORLD00_AREA026.EMI|sec11|body108|@0xb02|41B] 길드마스터\n*뭐야{fe}돈{ff}없잖아{02}>가져오면\n눈감아 줄게<END>
+[WORLD00_AREA026.EMI|sec11|body109|@0xb2b|32B] 길드마스터\n*50 제니{fc}>\n줄 마음 생겼어?{c14:01}{c0c:02}쳇<END>
+[WORLD00_AREA026.EMI|sec11|body110|@0xb4f|75B] *>맥니르가\n구두쇠라서 말이야{02}우리{ff}길드마스터도\n별로{ff}의욕이 없어>{02}근데{fe}그중엔{ff}성실한\n녀석도 있으니{ff}조심해<END>
+[WORLD00_AREA026.EMI|sec11|body111|@0xb9a|58B] 길드마스터\n*미안하지만{fe}또 50 제니{fc}\n내 줘야겠어>{02}나도{ff}모가지가\n걸려 있어서 말이야>{c14:01}{c0c:02}낸다<END>
+[WORLD00_AREA026.EMI|sec11|body112|@0xbd8|75B] *난{ff}이 저택에\n숨어들려고{ff}하고 있다네>{02}길드마스터들한텐\n입 다물어 줘>>{02}{c05:02}이런{fe}남자가{06}\n{c05:04}50 제니{fc}{06}{c05:02}줬다@@{06}<END>
+[WORLD00_AREA026.EMI|sec11|body113|@0xc23|11B] *>>이제{ff}안 해<END>
+[WORLD00_AREA026.EMI|sec11|body114|@0xc2e|16B] 길드마스터\n*{0d}이놈@{0e}{0f}{09}<END>
+[WORLD00_AREA026.EMI|sec11|body115|@0xc3e|70B] 길드마스터\n*>라고 말하는 게{ff}일이라\n일단{ff}말은 했지만{02}내{ff}안 보이는 데로\n지나간다면\n딱히{ff}상관없어><END>
+[WORLD00_AREA026.EMI|sec11|body116|@0xc84|55B] *>여기서만 하는 얘긴데\n나랑 같은{ff}색\n갑옷을 입은{ff}길드마스터는{02}불성실한{ff}녀석이\n많거든>><END>
+[WORLD00_AREA026.EMI|sec11|body117|@0xcbb|64B] *순찰 중에{ff}지갑을\n떨어뜨렸어>>{02}찾을 때까지{ff}난\n아무것도{ff}하기 싫어>\n알겠지{fe}이 기분@?<END>
+[WORLD00_AREA026.EMI|sec11|body118|@0xcfb|34B] *>어라{fe}그거\n내 지갑@?{02}다행이다{fe}찾고 있었거든<END>
+[WORLD00_AREA026.EMI|sec11|body119|@0xd1d|35B] *사실은{fe}안 되지만\n지갑 답례로\n지나가게 해 줄게{fe}땡큐<END>
+[WORLD00_AREA026.EMI|sec11|body120|@0xd40|20B] 뭔가로{ff}치면\n울릴 수 있을 것 같다>><END>
+[WORLD00_AREA026.EMI|sec11|body121|@0xd54|20B] {c0c:03}길드마스터\n*오{fe}<PAUSE>시간이다><END>
+[WORLD00_AREA026.EMI|sec11|body122|@0xd68|57B] {c0c:06}길드마스터\n*>>곤란한데\n여기{fe}지나가면{fe}마치{02}내가{ff}땡땡이친 것처럼\n보일 거 아냐>?<END>
+[WORLD00_AREA026.EMI|sec11|body123|@0xda1|57B] {c0c:06}길드마스터\n*미안하지만 말이야{fe}잠깐\n문 쪽으로{ff}가서>{02}개를{ff}쓰러뜨리고\n와 주지 않을래>><END>
+[WORLD00_AREA026.EMI|sec11|body124|@0xdda|49B] {c0c:05}길드마스터\n*그러면{ff}내가 아니라>{02}개가 나쁜 거로\n할 수 있으니까>{ff}부탁할게<END>
+[WORLD00_AREA026.EMI|sec11|body125|@0xe0b|22B] {c04:04}\n*>>유쾌하네\n이놈도{ff}저놈도<END>
+[WORLD00_AREA026.EMI|sec11|body126|@0xe21|23B] 길드마스터\n*>개{fe}해치워 줘\n>>응?<END>
+[WORLD00_AREA026.EMI|sec11|body127|@0xe38|50B] *고마워>{ff}이걸로\n나쁜 건{ff}내가 아니라>{02}당한{ff}개잖아\n어떻게 봐도?<END>
+[WORLD00_AREA026.EMI|sec11|body128|@0xe6a|44B] {c0c:05}{c04:03}\n*>아하하{02}저런{ff}귀여운 개\n해치우는 건\n마음에 걸려{fe}형<END>
+[WORLD00_AREA026.EMI|sec11|body129|@0xe96|25B] {c04:04}\n*엉덩이{ff}물리고 나서\n할 수 있겠냐{fe}<PAUSE>그 말?<END>
+[WORLD00_AREA026.EMI|sec11|body130|@0xeaf|26B] {c0c:05}{c04:04}\n*>>누에보다는\n낫잖아{ff}>>간다@<END>
+[WORLD00_AREA026.EMI|sec11|body131|@0xec9|62B] *정면으로{ff}들어가려고\n생각 안 하는 게{ff}좋아{02}>저기를{ff}지키는 녀석들은\n나랑{ff}달리{ff}성실하거든<END>
+[WORLD00_AREA026.EMI|sec11|body132|@0xf07|38B] *아아{fe}이런 구석탱이\n안 지키고>{02}민나랑{ff}놀고 싶다<END>
+[WORLD00_AREA026.EMI|sec11|body133|@0xf2d|47B] *오오{fe}민나가\n저런 데에@{02}걱정돼{fe}상황을 봐야 해>\n두근두근두근<END>
+[WORLD00_AREA026.EMI|sec11|body134|@0xf5c|17B] *얏{fc}응\n민나{fe}곤란하잖{fc}아<END>
+[WORLD00_AREA026.EMI|sec11|body135|@0xf6d|37B] *미미{fe}민나>\n저{fe}<PAUSE>저랑\n노{fe}놀{fe}<PAUSE>놀지 않을래요?<END>
+[WORLD00_AREA026.EMI|sec11|body136|@0xf92|30B] *아아{fe}민나>\n이 시간에{ff}뭐 해>><PAUSE>{ff}엇?<END>
+[WORLD00_AREA026.EMI|sec11|body137|@0xfb0|36B] *민나가{ff}저쪽에서\n놀고 있어@?{02}그{fe}그건{ff}큰일@@<END>
+[WORLD00_AREA026.EMI|sec11|body138|@0xfd4|24B] *>다음은{ff}나랑\n놀아 줘@{ff}민나@<END>
+[WORLD00_AREA026.EMI|sec11|body139|@0xfec|18B] {c04:04}\n*여긴>{ff}닭장인가><END>
+[WORLD00_AREA026.EMI|sec11|body140|@0xffe|66B] {c0c:06}{c04:03}\n*>길드마스터{ff}가득해서\n저택에{ff}못 들어갈 것 같으니까{02}달걀{ff}만이라도\n훔쳐서 가자>{ff}는 건 어때?\n형>><END>
+[WORLD00_AREA026.EMI|sec11|body141|@0x1040|38B] {c04:04}\n*그건{fe}좀>>{02}뜻이\n너무 낮은 거 아니냐?\n{c04:03}>><END>
+[WORLD00_AREA026.EMI|sec11|body142|@0x1066|18B] {c04:03}\n*왓@{ff}혀{fe}<PAUSE>형@<END>
+[WORLD00_AREA026.EMI|sec11|body143|@0x1078|28B] {c0c:06}{c04:03}\n*다{fe}<PAUSE>달걀{ff}되돌려 놓을까\n형>>?<END>
+[WORLD00_AREA026.EMI|sec11|body144|@0x1094|22B] {c0c:06}{c04:04}\n*>용서해 줄 것 같진\n않은데?<END>
+[WORLD00_AREA026.EMI|sec11|body145|@0x10aa|17B] *{0d}꼬꼬꼬꼬꼬꼬꼬꼬꼬꼬{0e}{0f}{17}<END>
+[WORLD00_AREA026.EMI|sec11|body146|@0x10bb|47B] *>개가{ff}당하고{fe}게다가\n닭까지{ff}도망쳤으니\n일이{ff}안 되잖아?<END>
+[WORLD00_AREA026.EMI|sec11|body147|@0x10ea|37B] *성실한 녀석들은{ff}다르네\n>금세{ff}입구를\n막아 버렸어<END>
+[WORLD00_AREA026.EMI|sec11|body148|@0x110f|24B] *민나@\n닭 따위보다{fe}나랑><END>
+[WORLD00_AREA026.EMI|sec11|body149|@0x1127|37B] *민나>>\n닭이랑{ff}장난치는 너는\n어쩜 그리{ff}멋진지>><END>
+[WORLD00_AREA026.EMI|sec11|body150|@0x114c|36B] *그{fe}<PAUSE>그렇게{ff}쪼이면\n민나>>\n큰일 나{c15:07}{c15:07}버려@<END>
+[WORLD00_AREA026.EMI|sec11|body151|@0x1170|8B] *하우{c15:07}{c15:07}<END>
+[WORLD00_AREA026.EMI|sec11|body152|@0x1178|42B] {c04:03}\n*또{fe}닭을\n쓰자>>{02}{c04:00}{fe}검으로\n닭을{ff}콕콕 찔러 버려<END>
+[WORLD00_AREA026.EMI|sec11|body153|@0x11a2|23B] {c04:04}\n*>이봐 이봐\n아직{fe}안 끝났어?<END>
+[WORLD00_AREA026.EMI|sec11|body154|@0x11b9|19B] {c04:04}\n*인기척이 나는데>>?<END>

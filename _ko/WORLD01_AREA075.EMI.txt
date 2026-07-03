@@ -1,0 +1,51 @@
+[WORLD01_AREA075.EMI|sec11|body0|@0x208|53B] {c0c:06}문지기\n*안{fe}안 돼요\n멋대로 들어오면>>{02}여긴{fe}기계 길드의 해변\n이니까요><END>
+[WORLD01_AREA075.EMI|sec11|body1|@0x23d|47B] *이 앞은{fe}기계 해변이라고\n수많은 기계가{ff}떠밀려 오는\n곳이에요><END>
+[WORLD01_AREA075.EMI|sec11|body2|@0x26c|46B] {c0c:06}문지기\n*아앗{fe}안 된다니까@{02}기계 길드 땅에\n멋대로>>{fe}<PAUSE>응?<END>
+[WORLD01_AREA075.EMI|sec11|body3|@0x29a|42B] {c0c:06}문지기\n*두목님{fe}허락을>?{02}그{fe}그래요>\n그럼{fe}들어가세요>><END>
+[WORLD01_AREA075.EMI|sec11|body4|@0x2c4|69B] *이 안은{fe}가끔\n강한 몬스터가\n나오거든>{02}길드에서{fe}어엿한 일꾼으로\n인정받은 녀석만\n들어갈 수 있어<END>
+[WORLD01_AREA075.EMI|sec11|body5|@0x309|37B] *부품 찾으러?{02}여기저기{fe}잘 찾아 봐\n물건 그늘 같은 데도{fe}말야><END>
+[WORLD01_AREA075.EMI|sec11|body6|@0x32e|51B] *이건{fe}아주 옛날에\n가라앉은{fe}컨테이너선이라>{02}부품을{ff}떼어내기엔\n안성맞춤이지<END>
+[WORLD01_AREA075.EMI|sec11|body7|@0x361|43B] *또{fe}윈치 상태가\n안 좋네>{02}치프한테{ff}끌어달라고\n할 수밖에 없나><END>
+[WORLD01_AREA075.EMI|sec11|body8|@0x38c|70B] *부품을{ff}찾는 거야?{02}해변을 찾는 건{fe}좋은데\n저기{fe}컨테이너선엔\n안 들어가는 게{fe}좋을걸{02}>좀{fe}위험하거든<END>
+[WORLD01_AREA075.EMI|sec11|body9|@0x3d2|82B] *난{fe}치프가\n밧줄을{ff}당길 타이밍을\n이 깃발로{ff}알려주는 역할이야{02}왜{fe}밧줄을{ff}당기냐고?{02}그야{fe}가라앉은 기계를\n끌어올리기{ff}위해서지@<END>
+[WORLD01_AREA075.EMI|sec11|body10|@0x424|87B] *부품 찾으러\n컨테이너선에{ff}들어가고 싶다고?{02}><PAUSE>><PAUSE>>으음\n너 같은\n쪼끄만 녀석은{ff}걱정인데{02}내가{fe}안심할 만한\n덩치 큰 녀석은{fe}없냐?<END>
+[WORLD01_AREA075.EMI|sec11|body11|@0x47b|53B] 문지기\n*잠깐 기다려@\n여긴{fe}안 돼>{02}아무리{fe}두목님이 허락해도\n여긴{fe}위험하니까><END>
+[WORLD01_AREA075.EMI|sec11|body12|@0x4b0|67B] 문지기\n*꼭{fe}들어가고 싶으면\n치프한테 부탁해 봐?{02}치프가{fe}너희를\n어엿한 일꾼이라고{ff}인정하면\n들어가도 돼<END>
+[WORLD01_AREA075.EMI|sec11|body13|@0x4f3|57B] 치프\n*부품을{fe}찾는다>고?{02}하긴{fe}컨테이너선엔\n그런 부품이\n잔뜩{ff}있었던 거 같긴 한데><END>
+[WORLD01_AREA075.EMI|sec11|body14|@0x52c|44B] 치프\n*근데{fe}저긴{ff}길드에서도\n특히 센 놈들만>{02}들어갈 수 있단 말이지><END>
+[WORLD01_AREA075.EMI|sec11|body15|@0x558|44B] 치프\n*근데{fe}아저씨\n꽤{ff}몸 좋은데>{02}한번{fe}시험해 볼까?<END>
+[WORLD01_AREA075.EMI|sec11|body16|@0x584|95B] {c0c:06}치프\n*이제부터{fe}해줄 일은\n샐비지야>{02}나랑{fe}힘을 합쳐\n밧줄을{ff}당겨서>{02}바닷속 기계를{ff}해변으로\n끌어올리는 거야@{02}방법을{ff}알려줄게>><END>
+[WORLD01_AREA075.EMI|sec11|body17|@0x5e3|44B] {c0c:06}치프\n*저기 있는 남자가{fe}흰 깃발을\n올리면>>{02}내가{fe}밧줄을 당긴다><END>
+[WORLD01_AREA075.EMI|sec11|body18|@0x60f|54B] {c0c:06}치프\n*깃발을{ff}내리면\n당기는 걸{ff}멈춰>{02}위에 나와 있는 게\n남은 밧줄 길이>{fe}야<END>
+[WORLD01_AREA075.EMI|sec11|body19|@0x645|69B] {c0c:06}치프\n*{c05:02}빨간 깃발{06}을{ff}올리면\n아저씨가{fe}당기는 거야{02}당기는 법은>>\n{c05:02}{c15:08}{06}버튼을{ff}{c05:02}마구 누르는{06}거지@<END>
+[WORLD01_AREA075.EMI|sec11|body20|@0x68a|31B] {c0c:01}{c05:02}{c15:08}{06}버튼을{ff}눌러서\n밧줄을{ff}당겨 주세요{fd}<END>
+[WORLD01_AREA075.EMI|sec11|body21|@0x6a9|109B] {c0c:06}치프\n*깃발이{fe}올라가면\n꼭{fe}당겨야 해@{02}게을러서{fe}{c05:02}{c15:08}{06}버튼을\n안 누르고 있거나>{02}반대로{fe}깃발이\n안 올라갔을 때{fe}버튼을\n너무 많이 누르면>{02}밧줄이 끊어져서{fe}아웃@<END>
+[WORLD01_AREA075.EMI|sec11|body22|@0x716|87B] {c0c:06}치프\n*게다가{fe}밧줄 길이에도\n조심해야 해>{02}이게{fe}2미터 이상\n떨어지면>>{02}균형을{ff}잃어서\n밧줄이{fe}빠져버려>\n이것도{fe}아웃@<END>
+[WORLD01_AREA075.EMI|sec11|body23|@0x76d|94B] {c0c:06}치프\n*그러니까>{02}나랑{fe}네{fe}길이를 비교해서\n버튼 누르는{ff}속도를\n조절하는 거야>{02}뭐 그런 느낌으로{fe}슬슬\n실전에 들어가도{fe}될까?{c14:00}{c0c:02}좋아@<END>
+[WORLD01_AREA075.EMI|sec11|body24|@0x7d1|49B] {c0c:06}치프\n*좋아@{ff}이걸 성공하면\n어엿한 일꾼이야>>{02}간다><PAUSE>><PAUSE>>{ff}스타트@<END>
+[WORLD01_AREA075.EMI|sec11|body25|@0x802|35B] {c0c:06}치프\n*뭐야>{ff}한 번 더\n설명해 줄까?{c14:01}{c0c:02}응<END>
+[WORLD01_AREA075.EMI|sec11|body26|@0x829|17B] {c0c:01}{ff}\n{ff}실패하고 말았다><END>
+[WORLD01_AREA075.EMI|sec11|body27|@0x83a|81B] {c0c:06}치프\n*좀{fe}어려웠나?{02}깃발을{ff}잘 보고\n틀리지 않게 하는 게\n우선{fe}중요해>{02}뭐{fe}다시{ff}할 마음이 생기면\n오면 돼?<END>
+[WORLD01_AREA075.EMI|sec11|body28|@0x88b|40B] *저 아저씨\n힘은{fe}있는 거 같으니까>{02}어엿한 일꾼까진{fe}한 걸음 남았네<END>
+[WORLD01_AREA075.EMI|sec11|body29|@0x8b3|35B] *한 번 더>\n도전할 마음이\n생긴 모양이네{fe}아저씨?<END>
+[WORLD01_AREA075.EMI|sec11|body30|@0x8d6|52B] {c0c:06}치프\n*으><PAUSE><PAUSE>{ff}그나저나{fe}무겁네\n이렇게 무거운 건{fe}드물어{02}야{fe}아직 안 보여>?<END>
+[WORLD01_AREA075.EMI|sec11|body31|@0x90a|26B] {c0c:06}*치{fe}치프>\n기계가{fe}아닌 거 같은데>?<END>
+[WORLD01_AREA075.EMI|sec11|body32|@0x924|57B] {c0c:06}*뭐뭐{fe}뭐야@?\n도도도{fe}도망쳐@@{c16:30}{c0c:06}{c04:04}\n*유쾌하네>{ff}아저씨\n이걸로{fe}어엿한 일꾼이라니><END>
+[WORLD01_AREA075.EMI|sec11|body33|@0x93c|33B] {c0c:06}{c04:04}\n*유쾌하네>{ff}아저씨\n이걸로{fe}어엿한 일꾼이라니><END>
+[WORLD01_AREA075.EMI|sec11|body34|@0x95d|33B] {c0c:06}{c04:05}\n*어엿한 일꾼치곤{fe}이 녀석\n너무 크지 않아{fc}>?<END>
+[WORLD01_AREA075.EMI|sec11|body35|@0x97e|24B] {c0c:06}{c04:01}\n*굉장한 거{fe}낚았네\n{c04:02}>?<END>
+[WORLD01_AREA075.EMI|sec11|body36|@0x996|16B] {c0c:06}{c04:06}\n*뿌끼뿌{c15:07}{c15:07}@<END>
+[WORLD01_AREA075.EMI|sec11|body37|@0x9a6|40B] {c0c:06}치프\n*아이고{fe}미안해>{02}설마{fe}저런 게\n걸려 있을 줄은>><END>
+[WORLD01_AREA075.EMI|sec11|body38|@0x9ce|14B] {c04:02}\n*아니>{ff}그것보다><END>
+[WORLD01_AREA075.EMI|sec11|body39|@0x9dc|87B] {c0c:06}치프\n*그야{fe}물론이지@{02}저런 걸{ff}쓰러뜨릴 수 있으면\n컨테이너선에{ff}들어가도\n아무{fe}문제 없어>{02}부품이든{fe}뭐든\n좋아하는 거{ff}찾아가@<END>
+[WORLD01_AREA075.EMI|sec11|body40|@0xa33|42B] *너희{fe}대단하네>{02}어느 길드에 가도\n훌륭히{ff}통할 거야@<END>
+[WORLD01_AREA075.EMI|sec11|body41|@0xa5d|52B] *아니{c15:07}{fe}고마워>{02}그런데{fe}부품이라면\n윈치 그늘에{ff}있는 건\n벌써 가져갔어?<END>
+[WORLD01_AREA075.EMI|sec11|body42|@0xa91|41B] *뭔가{fe}굉장한 몬스터를\n해치웠다{ff}던데>{02}그렇담{fe}괜찮아<END>
+[WORLD01_AREA075.EMI|sec11|body43|@0xaba|42B] *부품인 줄{ff}알고\n몬스터를{ff}끌어올렸다고?{02}그거{fe}재난이었겠네<END>
+[WORLD01_AREA075.EMI|sec11|body44|@0xae4|48B] *이 안에{fe}아무리 해도\n안 열리는{ff}문이\n있단 말이지>{02}기계라는 건{ff}심오하네<END>
+[WORLD01_AREA075.EMI|sec11|body45|@0xb14|23B] *이건{ff}녹슬어서\n못 쓸 거 같네><END>
+[WORLD01_AREA075.EMI|sec11|body46|@0xb2b|62B] *우리{fe}이렇게\n기계를{ff}이용하고 있지만>{02}이게{ff}뭘로{fe}만들어졌는지\n그것조차{ff}모른단 말이지<END>
+[WORLD01_AREA075.EMI|sec11|body47|@0xb69|32B] *이런{fe}이 윈치는\n끝장났네>{02}꿈쩍도{ff}안 해<END>
+[WORLD01_AREA075.EMI|sec11|body48|@0xb89|40B] *그건{fe}그렇고>{02}이렇게나{ff}많은 기계\n어디서 떠밀려{ff}오는 걸까<END>
+[WORLD01_AREA075.EMI|sec11|body49|@0xbb1|55B] *자{fe}오늘도 힘내서\n기계를{ff}끌어올려 볼까@{02}그래봤자{fe}실제로\n당기는 건{ff}치프지만<END>
+[WORLD01_AREA075.EMI|sec11|body50|@0xbe8|66B] *여기 떠밀려 오는 기계는>{02}나약한{ff}우릴\n돕기 위해>{02}신이{ff}선물해\n준 건지도 몰라>{fe}그런 식으로<END>

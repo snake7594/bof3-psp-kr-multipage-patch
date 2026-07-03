@@ -1,0 +1,15 @@
+[WORLD00_AREA033.EMI|sec11|body0|@0x214|21B] 험해서{ff}오를 마음이\n안 생긴다:::<END>
+[WORLD00_AREA033.EMI|sec11|body1|@0x229|16B] {10}{ff}\n{ff}{ff}{ff}{ff}{ff}시{fc}다 숲{11}<END>
+[WORLD00_AREA033.EMI|sec11|body2|@0x239|11B] 다리가 부서져 있다><END>
+[WORLD00_AREA033.EMI|sec11|body3|@0x244|12B] {ff}{ff}우{fc}르오르 지방<END>
+[WORLD00_AREA033.EMI|sec11|body4|@0x250|34B] 평소엔 사냥감이 많은데\n올해는 좀{fe}한산한 모양이다{fd}<END>
+[WORLD00_AREA033.EMI|sec11|body5|@0x272|43B] 글라우스 산으로{fe}빠지는 숲\n초목은{ff}풍성하지만\n몬스터{fc}가 많다고들 한다{fd}<END>
+[WORLD00_AREA033.EMI|sec11|body6|@0x29d|41B] 험해서{fe}사람이 잘\n다가가지 않는 산{fd}\n뭔가{fe}으스스한 소리가>><END>
+[WORLD00_AREA033.EMI|sec11|body7|@0x2c6|27B] 지주 맥니{fc}르의\n소작인들이 사는 마을{fd}<END>
+[WORLD00_AREA033.EMI|sec11|body8|@0x2e1|26B] 밀밭과{fe}소가 있는\n맥니{fc}르의 땅{fd}<END>
+[WORLD00_AREA033.EMI|sec11|body9|@0x2fb|42B] 윈디아와 광산을 잇는\n주요 가도 중 하나{fd}\n노상강도가 나온다는 듯하다{fd}<END>
+[WORLD00_AREA033.EMI|sec11|body10|@0x325|35B] 험한 산이{fe}솟아 있다{fd}\n지금은{fe}이런 곳에 볼일은 없다{fd}<END>
+[WORLD00_AREA033.EMI|sec11|body11|@0x348|19B] 우선{fe}이 마을에\n들러 보자>><END>
+[WORLD00_AREA033.EMI|sec11|body17|@0x35b|33B] 숲이{fe}험해 보인다{fd}\n잠옷 차림으로{ff}어슬렁대는 건\n위험해>><END>
+[WORLD00_AREA033.EMI|sec11|body18|@0x37c|24B] 좋은 향기가 나는\n예쁜{ff}꽃밭이 있다<END>
+[WORLD00_AREA033.EMI|sec11|body32|@0x394|56B] 꽃밭에\n요정의 마{fc}을이\n반응하고 있다>>{02}{c05:02}요정의 마{fc}을{06}을\n쓰겠습니까?{c14:00}{c0c:02}예<END>

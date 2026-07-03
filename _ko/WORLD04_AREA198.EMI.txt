@@ -1,0 +1,14 @@
+[WORLD04_AREA198.EMI|sec11|body0|@0x200|56B] {c0c:05}미리아\n*사랑하는 생명들을>{02}내 아이들을>>\n이 손으로 {fe}직접\n없애야만 하는 것은>{02}괴로운 일이에요<END>
+[WORLD04_AREA198.EMI|sec11|body1|@0x238|58B] {c0c:05}미리아\n*하지만 {fe}{c04:00}\n용서해 주세요>>{02}너를>{ff}용의 힘을>\n{c15:10}둘 수는\n없는 거예요<END>
+[WORLD04_AREA198.EMI|sec11|body2|@0x272|47B] {c0c:05}미리아\n*다른 {fe}수많은 생명을 위해>{02}나는 {fe}기꺼이>\n귀신이 되겠어요>><END>
+[WORLD04_AREA198.EMI|sec11|body3|@0x2a1|22B] {c0c:05}미리아\n*>>잘 있으렴 {fe}아이들아<END>
+[WORLD04_AREA198.EMI|sec11|body4|@0x2b7|42B] {c0c:05}미리아\n*><PAUSE>><PAUSE>>지키지 못한{02}내 세계가 {fe}또\n멸망하고 마는구나>><END>
+[WORLD04_AREA198.EMI|sec11|body5|@0x2e1|63B] {c0c:05}미리아\n*신이여>{ff}계신다면\n가르쳐 주세요>>{02}나는 {fe}그 강대한 힘을\n어찌하면 {ff}좋았던 건가요@?<END>
+[WORLD04_AREA198.EMI|sec11|body6|@0x320|31B] {c0c:05}미리아\n*용족을 {ff}어찌하면\n좋았던 걸까요@?<END>
+[WORLD04_AREA198.EMI|sec11|body7|@0x33f|15B] {c0c:05}미리아\n*언니>>?<END>
+[WORLD04_AREA198.EMI|sec11|body8|@0x34e|19B] 디스\n*이걸로 {fe}된 거야><END>
+[WORLD04_AREA198.EMI|sec11|body9|@0x361|34B] {c0c:81}디스\n*지금까지 {fe}넌\n이 세계를 {ff}지켜 왔어><END>
+[WORLD04_AREA198.EMI|sec11|body10|@0x383|55B] 디스\n*결국 {fe}그것도 {ff}이것도\n그 아이들이>>{02}이겨내야만 {fe}하는\n것이었던 거야><END>
+[WORLD04_AREA198.EMI|sec11|body11|@0x3ba|26B] {c0c:81}디스\n*제 발로 {fe}걷기 위해서 말이야><END>
+[WORLD04_AREA198.EMI|sec11|body12|@0x3d4|48B] 디스\n*세계도 {fe}<PAUSE>그 아이들도>{02}우리가 {fe}생각하는 것보다\n강하다고>><END>
+[WORLD04_AREA198.EMI|sec11|body13|@0x404|19B] {c0c:05}디스\n*><PAUSE>><PAUSE>>분명히 {fe}말이야<END>

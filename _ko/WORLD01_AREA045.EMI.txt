@@ -1,0 +1,21 @@
+[WORLD01_AREA045.EMI|sec11|body0|@0x21e|12B] {ff}{ff}{ff}{ff}포인트 있음@<END>
+[WORLD01_AREA045.EMI|sec11|body1|@0x22a|12B] {ff}윈디아 중부<END>
+[WORLD01_AREA045.EMI|sec11|body2|@0x236|26B] 언젠가{fe}이 산을 넘어서\n윈디아로 가자><END>
+[WORLD01_AREA045.EMI|sec11|body3|@0x250|23B] 윈디아 지방으로\n통하는 산길{fd}<END>
+[WORLD01_AREA045.EMI|sec11|body4|@0x267|26B] 윈디아 지방을\n동서로 가로지르는 가도{fd}<END>
+[WORLD01_AREA045.EMI|sec11|body5|@0x281|42B] 이 일대를 다스리는\n윈디아 왕국의 도읍{fd}\n풍차가 상징{fd}<END>
+[WORLD01_AREA045.EMI|sec11|body6|@0x2ab|36B] 가도에서{fe}산속으로 이어지는 길{fd}\n풍부한 물줄기에{fe}다리가 놓여 있다{fd}<END>
+[WORLD01_AREA045.EMI|sec11|body7|@0x2cf|37B] 큰 투기장이 있는 마을{fd}\n연 1회의 대무회가 명물{fd}<END>
+[WORLD01_AREA045.EMI|sec11|body8|@0x2f4|30B] 채석장이 있는 산{fd}\n케{fc}블이{fe}동쪽으로 뻗어 있다{fd}<END>
+[WORLD01_AREA045.EMI|sec11|body9|@0x312|23B] 장엄한{ff}현수가{fe}\n조용히 서 있다{fd}<END>
+[WORLD01_AREA045.EMI|sec11|body10|@0x329|30B] 이 부근은{fe}딱\n{c04:01}의 방\n바로 아래에 해당한다><END>
+[WORLD01_AREA045.EMI|sec11|body11|@0x347|13B] 이런 곳에{fe}사람이>?<END>
+[WORLD01_AREA045.EMI|sec11|body12|@0x354|30B] 마을 변두리의 쓸쓸한 오두막{fd}\n수상한 방이 있다<END>
+[WORLD01_AREA045.EMI|sec11|body13|@0x372|34B] 당분간은\n윈디아에는\n다가가지 않는 편이{fe}좋겠지><END>
+[WORLD01_AREA045.EMI|sec11|body14|@0x394|32B] 미리아\n*생물이{fe}살기 좋은 땅은\n아주{ff}조금뿐><END>
+[WORLD01_AREA045.EMI|sec11|body16|@0x3b4|27B] 미리아\n*나는{fe}그것을{ff}{c15:0e}리지 않으면\n안 됩니다><END>
+[WORLD01_AREA045.EMI|sec11|body17|@0x3cf|48B] 작은 물고기를 노리는\n강 갱단의{ff}구역{fd}{02}{c05:04}타{fc}깃{ff}피시{06}\n{c07:00}\n{c07:01}{02}{c07:02}<END>
+[WORLD01_AREA045.EMI|sec11|body22|@0x3ff|53B] 낯선{fe}수상한\n생물이{ff}헤엄치고 있다>>{fd}{02}{c05:04}타{fc}깃{ff}피시{06}\n{c07:00}\n{c07:01}{02}{c07:02}<END>
+[WORLD01_AREA045.EMI|sec11|body23|@0x434|55B] 메{fc}카{fc}스 명물\n시{fc}스의{ff}최고의 재료가\n여기에 있다@{02}{c05:04}타{fc}깃{ff}피시{06}\n{c07:00}\n{c07:01}{02}{c07:02}<END>
+[WORLD01_AREA045.EMI|sec11|body24|@0x46b|24B] 좋은 향기가 나는\n예쁜{ff}꽃밭이 있다<END>
+[WORLD01_AREA045.EMI|sec11|body32|@0x483|56B] 꽃밭에\n요정의 마을이\n반응하고 있다>>{02}{c05:02}요정의 마을{06}을\n사용하시겠습니까?{c14:00}{c0c:02}예<END>

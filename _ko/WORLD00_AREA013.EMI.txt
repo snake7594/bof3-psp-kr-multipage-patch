@@ -1,0 +1,102 @@
+[WORLD00_AREA013.EMI|sec11|body0|@0x20e|60B] *올해는{fe}작물이 잘 됐어>{02}근데{fe}작물이 많을 땐\n세금도 그만큼{ff}떼이니까\n그게 그거지>><END>
+[WORLD00_AREA013.EMI|sec11|body1|@0x24a|43B] *>근데{fe}이번엔{fe}세금으로\n맥니르 님한테 뜯기겠지\n참 고생이야><END>
+[WORLD00_AREA013.EMI|sec11|body2|@0x275|38B] *가축이랑 작물을\n몬스터한테 안 뺏기게 돼서\n살 만해졌어><END>
+[WORLD00_AREA013.EMI|sec11|body3|@0x29b|41B] *{c04:04} 일행이\n몬스터를 물리쳤다며?{02}덕분에{fe}편해졌어\n고맙다<END>
+[WORLD00_AREA013.EMI|sec11|body4|@0x2c4|56B] *글라우스 산 몬스터를\n해치워{ff}줬으니까>{02}너희가{fe}조금쯤\n훔쳐도{ff}못 본 척해줄게<END>
+[WORLD00_AREA013.EMI|sec11|body5|@0x2fc|52B] *소도{ff}안 뺏기게 됐고\n작물도{ff}잘 됐고>{02}요즘은{fe}주인 어른도\n기분이 좋으셔<END>
+[WORLD00_AREA013.EMI|sec11|body6|@0x330|8B] *멍멍{0a}{02}<END>
+[WORLD00_AREA013.EMI|sec11|body7|@0x338|4B] *음매{0a}<END>
+[WORLD00_AREA013.EMI|sec11|body8|@0x33d|6B] *음매?{0a}<END>
+[WORLD00_AREA013.EMI|sec11|body9|@0x344|3B] *{0a}<END>
+[WORLD00_AREA013.EMI|sec11|body10|@0x34c|4B] *음매{0a}<END>
+[WORLD00_AREA013.EMI|sec11|body11|@0x353|47B] *이런 데서{fe}몰래\n숨어 있지 말고>>{02}마을에 가 봐>\n다들{fe}좋아하고 있어<END>
+[WORLD00_AREA013.EMI|sec11|body12|@0x382|38B] *제법이네>\n이걸로{fe}당당하게\n마을을{ff}돌아다닐 수 있겠어<END>
+[WORLD00_AREA013.EMI|sec11|body13|@0x3a8|18B] {c04:04}\n*>그래서{fe}대체 뭐냐{ff}고?<END>
+[WORLD00_AREA013.EMI|sec11|body16|@0x3ba|60B] 즈블로\n*실은::너희한테\n간곡히 부탁할 게 있는데{02}들어 줄 텐가?{c14:00}{c0c:12}{ff}부탁?{ff}뭔데?<END>
+[WORLD00_AREA013.EMI|sec11|body18|@0x3fd|52B] 즈블로\n*그렇군{ff}그래@{02}뭐{fe}이런 데서 선 채로 얘기하는 것도\n뭣하니::\n잠깐 저기까지:::<END>
+[WORLD00_AREA013.EMI|sec11|body19|@0x431|36B] 즈블로\n*::그래::\n아니{fe}아무것도 아냐{02}방해했군:::<END>
+[WORLD00_AREA013.EMI|sec11|body20|@0x455|42B] 즈블로\n*>아니{fe}저기\n너희도{ff}들었지{02}맥니르 님 얘기 말야<END>
+[WORLD00_AREA013.EMI|sec11|body21|@0x47f|37B] {c0c:05}{c04:03}\n*쩨쩨하고{fe}욕심 많다고?{02}{c04:04}\n*흔한 얘기 아냐?<END>
+[WORLD00_AREA013.EMI|sec11|body22|@0x4a4|60B] 즈블로\n*그{fe}<PAUSE>근데>\n맥니르 님 경우는{02}좀{fe}너무 심한 것 같다고\n생각하거든><PAUSE>><PAUSE>>\n그렇지?<END>
+[WORLD00_AREA013.EMI|sec11|body23|@0x4e0|39B] {c0c:05}{c04:04}\n*>그래서{fe};영웅<인{ff}우리한테\n되찾아 와{ff}달라고?<END>
+[WORLD00_AREA013.EMI|sec11|body24|@0x507|75B] 즈블로\n*아니{c15:07}{c15:07}{fe}뭐>{02}되찾은 세금을\n마을 사람들한테{ff}나눠 주면>{02}{c04:03}\n*우리{ff}인기도 또\n좋아지겠네{fe}형님@<END>
+[WORLD00_AREA013.EMI|sec11|body25|@0x552|18B] 즈블로\n*해 주시는 거죠?<END>
+[WORLD00_AREA013.EMI|sec11|body26|@0x564|42B] {c0c:06}즈블로\n*감사합니다@{02}그럼{fe}당장 오늘 밤\n부탁드릴게요@<END>
+[WORLD00_AREA013.EMI|sec11|body27|@0x58e|18B] {c0c:81}{ff}\n{ff}{ff}{ff}{ff}{ff}그날 밤>>{c16:30}<END>
+[WORLD00_AREA013.EMI|sec11|body28|@0x5a0|35B] 즈블로\n*밤이에요{fe}여러분@{02}갑시다{fe}갑시다@<END>
+[WORLD00_AREA013.EMI|sec11|body29|@0x5c3|79B] 즈블로\n*벽을 수리한{ff}지 얼마 안 돼서>{02}숨어들기가{ff}어려울지도\n모르지만>>{02}너희라면{ff}괜찮아\n잘될 거예요{fe}<PAUSE>자@<END>
+[WORLD00_AREA013.EMI|sec11|body31|@0x612|25B] {c04:03}\n*좋아{fe}가자@\n{c04:00}@{ff}형님@<END>
+[WORLD00_AREA013.EMI|sec11|body32|@0x62b|24B] *저{fe}저기요{ff}{c04:04}>{02}나{fe}날씨 좋네요<END>
+[WORLD00_AREA013.EMI|sec11|body33|@0x643|54B] *시시한 일로\n이름 떨치려 하지 말고>{02}꾸준히{ff}일하는 게\n제일이라는{ff}거지<END>
+[WORLD00_AREA013.EMI|sec11|body34|@0x679|45B] *>정신 차려 보니{fe}집 앞에\n돈 가득한 자루가@{02}난{fe}진짜{ff}깜짝 놀랐어<END>
+[WORLD00_AREA013.EMI|sec11|body35|@0x6a6|66B] *나도{ff}바로{ff}저택에\n돌려주러 갔지>>{02}맥니르 님한테\n찍히면{ff}우리\n마을에{ff}못 있게 되니까<END>
+[WORLD00_AREA013.EMI|sec11|body36|@0x6e8|17B] *>{c04:04} 일행이\n한 거지@?<END>
+[WORLD00_AREA013.EMI|sec11|body37|@0x6f9|62B] *마을 사람들{fe}세금 일로\n투덜대긴 했지만>{02}진짜로{ff}되찾으려고는\n아무도{ff}생각 못 했어<END>
+[WORLD00_AREA013.EMI|sec11|body38|@0x737|39B] *주인 어른 물건에\n손을 대다니>{02}엄청난 일을{ff}저질렀구나<END>
+[WORLD00_AREA013.EMI|sec11|body39|@0x75e|16B] {ff}이 앞은{fe}우르오르 가도<END>
+[WORLD00_AREA013.EMI|sec11|body40|@0x76e|41B] {c04:04}\n*야{fe}즈블로>{02}네{ff}말대로\n맥니르 돈을{ff}마을에>><END>
+[WORLD00_AREA013.EMI|sec11|body48|@0x797|59B] 즈블로\n*{0d}으{c15:07}{c15:07}@{0e}{0f}{09}{02}모{fe}목소리가{ff}커요>>\n누가{ff}듣기라도 하면\n맥니르 님한테{ff}죽어요<END>
+[WORLD00_AREA013.EMI|sec11|body49|@0x7d2|46B] {c04:03}\n*뭘{fe}벌벌{ff}떨고 있어{02}나쁜 건{ff}맥니르라고\n네가{ff}말했잖아><END>
+[WORLD00_AREA013.EMI|sec11|body50|@0x800|80B] 즈블로\n*{0d}으{c15:07}{c15:07}@@{0e}{0f}{09}{02}>>알았으니까\n남들 앞에서{ff}그런 말{ff}하지 마요{02}>>저 오두막에서{ff}얘기해요\n먼저{ff}가 주세요{fe}<PAUSE>네?<END>
+[WORLD00_AREA013.EMI|sec11|body51|@0x850|27B] {c0c:05}{c04:03}\n*>>형님{02}뭔가>>{ff}<PAUSE>이상하네><END>
+[WORLD00_AREA013.EMI|sec11|body52|@0x86b|26B] {c0c:06}{c04:04}\n*>>즈블로 녀석한테\n설명하게 하자<END>
+[WORLD00_AREA013.EMI|sec11|body53|@0x885|60B] {c0c:06}바바델\n*>>난{fe}소 돌봐 달라는\n부탁 받고 왔을 뿐이다{02}>>이제부터{ff}소를 상대로\n혼잣말을{ff}하겠다<END>
+[WORLD00_AREA013.EMI|sec11|body54|@0x8c1|16B] {c0c:05}{c04:03}\n*바{fe}<PAUSE>바바델@?<END>
+[WORLD00_AREA013.EMI|sec11|body55|@0x8d1|29B] {c0c:05}{c04:04}\n*그게 뭔{fe}소리야@?\n우린{fe}즈블로를><END>
+[WORLD00_AREA013.EMI|sec11|body56|@0x8ee|75B] {c0c:06}바바델\n*>즈블로는{fe}편하게 살려고\n맥니르 돈을{ff}노렸지만{02}아무래도{fe}맥니르는\n위험한 조직과{ff}관계가\n있는 모양이더라{fe}{0a}<END>
+[WORLD00_AREA013.EMI|sec11|body57|@0x93e|20B] {c0c:05}{c04:03}\n*>그게 무슨 소리야{fe}<PAUSE>형님?<END>
+[WORLD00_AREA013.EMI|sec11|body58|@0x952|64B] {c04:04}\n*아무래도>{02}너무{ff}어슬렁댈\n상황은{ff}아닌 것 같군>{02}일단{ff}한번\n집에 돌아가는 게{ff}낫겠어<END>
+[WORLD00_AREA013.EMI|sec11|body59|@0x992|5B] *음매{0a}<END>
+[WORLD00_AREA013.EMI|sec11|body60|@0x99b|56B] *>즈블로는{ff}도망쳤어\n너흰{fe}이용당한 거야{02}소란이{ff}가라앉을 때까지\n얌전히{ff}숨어 있어><END>
+[WORLD00_AREA013.EMI|sec11|body61|@0x9d3|54B] *뭐{fe}{c04:04} 일행한테는\n안된 짓 했는지도 모르지>{02}걔네는{fe}영문도 모르고\n저질러 버린 거니까><END>
+[WORLD00_AREA013.EMI|sec11|body64|@0xa09|38B] *근데{fe}그 녀석들\n죽었을지도{ff}모른다는\n얘기도{ff}있어><END>
+[WORLD00_AREA013.EMI|sec11|body65|@0xa2f|41B] *>{c04:04} 일행은\n맥니르 님한테{ff}쫓겨서\n행방이{ff}묘연하다며?<END>
+[WORLD00_AREA013.EMI|sec11|body66|@0xa58|44B] *맥니르 님>\n그냥{fe}욕심만 많은 줄\n알았는데>{02}무서운{ff}분이네<END>
+[WORLD00_AREA013.EMI|sec11|body67|@0xa84|44B] *성실히{ff}일하면\n세금은{ff}떼여도>{02}목숨까지는{ff}안 뺏기지<END>
+[WORLD00_AREA013.EMI|sec11|body68|@0xab0|29B] *>그 애들도{ff}이렇게\n일했더라면{fe}<PAUSE>참<END>
+[WORLD00_AREA013.EMI|sec11|body69|@0xacd|5B] *음매{0a}<END>
+[WORLD00_AREA013.EMI|sec11|body70|@0xad3|6B] *음매애{0a}<END>
+[WORLD00_AREA013.EMI|sec11|body71|@0xada|7B] *음매애애{0a}<END>
+[WORLD00_AREA013.EMI|sec11|body72|@0xae2|6B] *음매?{0a}<END>
+[WORLD00_AREA013.EMI|sec11|body73|@0xae9|56B] *도둑 든{ff}다음 날\n주인 어른 댁에\n험상궂은{ff}2인조가>{02}그게{ff}누구였을까?<END>
+[WORLD00_AREA013.EMI|sec11|body74|@0xb21|8B] *낑낑{0a}{02}<END>
+[WORLD00_AREA013.EMI|sec11|body75|@0xb29|35B] *즈블로?{02}아아{fe}그 녀석이\n{c04:04} 일행을\n꼬드겼다는 얘기지><END>
+[WORLD00_AREA013.EMI|sec11|body76|@0xb4c|51B] *뭐{fe}서둘러 봐야\n소용없지>{02}나쁜 건{fe}우리가 아니라\n맥니르 님{ff}이니까<END>
+[WORLD00_AREA013.EMI|sec11|body77|@0xb7f|27B] *조{fe}조사받으면\n뭐라고 해야{ff}할까?<END>
+[WORLD00_AREA013.EMI|sec11|body78|@0xb9a|34B] *네{fe}세금은 늘\n비쌌지만>>\n설마{fe}그럴 줄은><END>
+[WORLD00_AREA013.EMI|sec11|body79|@0xbbc|42B] *작물이 잘된{ff}때도\n안된 때도>>{02}세금은{ff}꼬박꼬박 떼였다 이거지?<END>
+[WORLD00_AREA013.EMI|sec11|body80|@0xbe6|56B] *그러고 보니{fe}어쩐지\n험상궂은 무리가>{02}맥니르 님{ff}저택에\n들어간 적도{ff}있었어<END>
+[WORLD00_AREA013.EMI|sec11|body81|@0xc1e|31B] *흠흠>\n나쁜 무리와의{ff}연줄도\n있었다>{ff}이거군><END>
+[WORLD00_AREA013.EMI|sec11|body82|@0xc3d|58B] *여기 지주가\n작물을 빼돌렸다{fe}어쩌고 해서>{02}소작인{ff}분들한테서도\n얘기를{ff}듣고 있어요<END>
+[WORLD00_AREA013.EMI|sec11|body83|@0xc77|47B] *이래저래 얘기 들어 보니\n맥니르라는{ff}지주는>{02}쩨쩨하고 욕심 많은 놈\n같던데>><END>
+[WORLD00_AREA013.EMI|sec11|body84|@0xca6|49B] *주인 어른이{ff}나쁜 짓을\n했다니{ff}믿기지가 않아{02}는 아니지만\n딱히>><END>
+[WORLD00_AREA013.EMI|sec11|body85|@0xcd7|48B] *부정 조사 때문에\n일이 안 되니까>>{02}땡땡이치는 건{fe}아니야\n꾸벅꾸벅><END>
+[WORLD00_AREA013.EMI|sec11|body86|@0xd07|20B] {c0c:03}{c04:02}\n*><PAUSE>><PAUSE>>그런{fe}거다<END>
+[WORLD00_AREA013.EMI|sec11|body90|@0xd1b|37B] {c0c:06}{c04:01}\n*후우><PAUSE>{ff}음\n용의>{ff}힘이라>>{c16:30}{c0c:06}{c04:01}\n*{c04:00}>><END>
+[WORLD00_AREA013.EMI|sec11|body91|@0xd35|11B] {c0c:06}{c04:01}\n*{c04:00}>><END>
+[WORLD00_AREA013.EMI|sec11|body92|@0xd40|38B] {c0c:06}{c04:01}\n*어쩐지{fe}얘기가\n너무 커서>{02}뭐라고 해야{ff}할지><END>
+[WORLD00_AREA013.EMI|sec11|body93|@0xd66|78B] {c0c:05}{c04:02}\n*나도>{ff}500년 가까이\n그놈들과{ff}싸워 왔지만>{02}실은{fe}용에 대해\n조금도 몰랐다는 걸\n최근에야{fe}깨달았다><END>
+[WORLD00_AREA013.EMI|sec11|body94|@0xdb4|50B] {c0c:05}{c04:02}\n*그보다도{fe}정말로\n뭐든 다{ff}알고 싶은 건>{02}{c04:00} 본인>\n이겠지{fe}만>><END>
+[WORLD00_AREA013.EMI|sec11|body95|@0xde6|17B] {c0c:06}{c04:01}\n*알았어>{fe}<PAUSE>그래서?<END>
+[WORLD00_AREA013.EMI|sec11|body96|@0xdf7|50B] {c0c:06}{c04:01}\n*?<PAUSE>가 아니라{02}그{fe}조직 아지트\n암시장>{ff}이라고 했나?\n가 보자<END>
+[WORLD00_AREA013.EMI|sec11|body97|@0xe29|71B] {c0c:06}{c04:01}\n*여기서{fe}내가 생각해 봤자>{02}드래곤에 대해선\n알 리가{fe}없잖아{02}>그렇다면{fe}부정 일을\n조사하는 게 먼저야<END>
+[WORLD00_AREA013.EMI|sec11|body98|@0xe70|34B] {c0c:06}{c04:01}\n*자{fe}가 보자>\n암시장{fe}알고 있지@?<END>
+[WORLD00_AREA013.EMI|sec11|body99|@0xe92|74B] {c04:01}\n*아{fe}맞다 맞다\n맥니르는{fe}괜찮아{02}아무리{fe}그 호랑이 씨가\n세도>>{02}성에 들어가 버리면\n손 못 대니까{fe}그치?<END>
+[WORLD00_AREA013.EMI|sec11|body100|@0xedc|35B] *나는{ff}지금{fe}인생에 대해\n생각하고 있어{02}::그{c15:07}그{c15:07}<END>
+[WORLD00_AREA013.EMI|sec11|body101|@0xeff|25B] *올해{ff}세금도\n무거우려나\n하아::<END>
+[WORLD00_AREA013.EMI|sec11|body102|@0xf18|21B] *사람은{fe}성실히\n일해야지@<END>
+[WORLD00_AREA013.EMI|sec11|body103|@0xf2d|29B] *요즘 즈블로{fe}안 보이네>\n어디로 도망쳤을까?<END>
+[WORLD00_AREA013.EMI|sec11|body104|@0xf4a|3B] *{0a}<END>
+[WORLD00_AREA013.EMI|sec11|body105|@0xf60|42B] *윈디아에서{fe}왕녀님이\n직접{fe}조사하러\n오시다니>><END>
+[WORLD00_AREA013.EMI|sec11|body106|@0xf8a|23B] *아{fc}{fe}조사라니\n긴장했어@<END>
+[WORLD00_AREA013.EMI|sec11|body107|@0xfa1|65B] *맥니르 님과\n관계가 있던{fe}조직은>{02}한참{fe}서쪽\n암시장이란{ff}곳에\n아지트가{ff}있다는 얘기더라<END>
+[WORLD00_AREA013.EMI|sec11|body108|@0xfe2|35B] *앞으로{ff}어떻게 될지\n불안해서{fe}일이\n손에 안 잡혀<END>
+[WORLD00_AREA013.EMI|sec11|body109|@0x1005|33B] *역시{fe}시골은\n안 되겠어>{02}윈디아로{ff}갈까봐><END>
+[WORLD00_AREA013.EMI|sec11|body110|@0x1026|30B] *어머{fe}도시는 도시대로\n고생이{ff}있지 않겠어?<END>
+[WORLD00_AREA013.EMI|sec11|body111|@0x1044|43B] *맥니르 님은{fe}\n어떻게 되는 걸까::?{02}우리도{ff}어떻게 될지\n걱정이야<END>
+[WORLD00_AREA013.EMI|sec11|body112|@0x106f|31B] *하아{c15:07}::{02}일단{fe}내 일을\n열심히 하자<END>
+[WORLD00_AREA013.EMI|sec11|body113|@0x108e|15B] *그{c15:07}{c15:07}윽{ff}그{c15:07}{c15:07}윽<END>
+[WORLD00_AREA013.EMI|sec11|body114|@0x109d|23B] *올해는{fe}작물이 많이\n날 것 같아<END>
+[WORLD00_AREA013.EMI|sec11|body115|@0x10b4|35B] *푸하{c15:07}{c15:07}{02}일한 뒤에\n이 한 대가{ff}또\n끝내준단 말이지<END>
+[WORLD00_AREA013.EMI|sec11|body116|@0x10d7|31B] *세금이 싸졌으니까\n올해는{ff}편하게 지낼 수 있겠어<END>
+[WORLD00_AREA013.EMI|sec11|body117|@0x10f6|28B] *한가로이{fe}풀만 뜯는\n소는 참 좋은 팔자네<END>

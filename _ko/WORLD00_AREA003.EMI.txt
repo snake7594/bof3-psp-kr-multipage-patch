@@ -1,0 +1,44 @@
+[WORLD00_AREA003.EMI|sec11|body0|@0x210|6B] *>>흥<END>
+[WORLD00_AREA003.EMI|sec11|body1|@0x216|44B] *작물도{fe}그럭저럭 잘 됐고\n동물도 많고@{02}아이고{fe}다행이야{fe}다행이야<END>
+[WORLD00_AREA003.EMI|sec11|body2|@0x242|44B] *아무리 동물이 많아도\n우리 집 양반처럼\n사냥이 서툴면{fe}소용없지<END>
+[WORLD00_AREA003.EMI|sec11|body3|@0x26e|49B] *뭐냐{fe}꼬맹이들아\n또{fe}훔치냐?{02}어리광도\n적당히{ff}부려야지\n혼쭐나기 전에><END>
+[WORLD00_AREA003.EMI|sec11|body4|@0x29f|38B] *>>마을로{ff}갈 거냐?{02}그만둬>>\n당분간은{ff}얌전히 있어<END>
+[WORLD00_AREA003.EMI|sec11|body16|@0x2c5|43B] *아까{ff}수상한 녀석들을\n봤어{02}저거{fe}어떻게 봐도\n보통내기는{ff}아니었어<END>
+[WORLD00_AREA003.EMI|sec11|body17|@0x2f0|67B] *오늘 아침{fe}집 앞에\n돈이{ff}쌓여 있었어{02}>>보자마자{fe}엄마가\n얼굴색 변해서{ff}가져갔는데\n뭐였을까?<END>
+[WORLD00_AREA003.EMI|sec11|body18|@0x333|79B] *윈디아로{ff}가려면\n동쪽{ff}모{fc}랑지 산을\n넘어야{ff}한다>{02}산 넘기가{ff}버겁거든\n여기로{ff}돌아와라>{02}힘이 돼 줄지도{ff}모르니까><END>
+[WORLD00_AREA003.EMI|sec11|body30|@0x382|53B] 바바델\n*><PAUSE>><PAUSE>><PAUSE>내가{fe}찾은 건{02}상처투성이로{ff}숲속에\n쓰러져 있던>{ff}너뿐이다<END>
+[WORLD00_AREA003.EMI|sec11|body31|@0x3b7|42B] {c0c:06}바바델\n*언젠가{fe}혼쭐날 거라고\n했다만>>{02}설마{fe}이 정도일 줄>><END>
+[WORLD00_AREA003.EMI|sec11|body32|@0x3e1|27B] {c0c:06}바바델\n*아마도{fe}{c04:04}나\n{c04:03}는>{ff}이미>><END>
+[WORLD00_AREA003.EMI|sec11|body33|@0x3fc|40B] {c0c:05}바바델\n*어디로{ff}갈 셈이냐?{02}두 사람을>{ff}찾을\n생각이냐>?<END>
+[WORLD00_AREA003.EMI|sec11|body34|@0x424|41B] {c0c:05}바바델\n*윈디아>@?{02}윈디아에 간다고>\n말했던 거냐?<END>
+[WORLD00_AREA003.EMI|sec11|body35|@0x44d|53B] {c0c:05}바바델\n*><PAUSE>><PAUSE>>그렇군{02}그럼{fe}조심해서 가라\n윈디아는{fe}큰길을\n쭉 동쪽이다><END>
+[WORLD00_AREA003.EMI|sec11|body36|@0x482|15B] *엄청난{ff}불이었어<END>
+[WORLD00_AREA003.EMI|sec11|body37|@0x491|20B] *{c04:04}들은\n행방불명이라고?<END>
+[WORLD00_AREA003.EMI|sec11|body38|@0x4a5|40B] *바바델은{fe}앞으로\n스승이 될지도 몰라요{02}자세한 건{ff}나중에<END>
+[WORLD00_AREA003.EMI|sec11|body39|@0x4cd|54B] *올해야말로{fe}세금이\n싸지면{ff}좋겠다>{02}그러면{fe}서툰 사냥하러\n안 와도{fe}되니까<END>
+[WORLD00_AREA003.EMI|sec11|body40|@0x503|34B] *요즘{fe}바바델 씨\n부쩍{ff}까다로워\n졌다니까><END>
+[WORLD00_AREA003.EMI|sec11|body41|@0x525|13B] 역시{ff}졸리진 않네::<END>
+[WORLD00_AREA003.EMI|sec11|body48|@0x532|25B] *올해는{ff}세금이\n싸질까::?<END>
+[WORLD00_AREA003.EMI|sec11|body49|@0x54b|46B] *그 뒤로{fe}식인 호랑이가\n안 나오게 됐어{02}이제{ff}안심하고{fe}\n사냥할{ff}수 있어<END>
+[WORLD00_AREA003.EMI|sec11|body50|@0x579|113B] *>>>흠\n진지하게{ff}살 마음이\n생긴 거냐?{02}>나이 든 사람은\n젊은이가{fe}길을{ff}벗어나지 않게{02}사는 법을{ff}가르쳐야\n한다고{fe}깨달았다>{02}넌{fe}나한테 배울 마음이\n있느냐>?{c14:00}{c0c:02}네<END>
+[WORLD00_AREA003.EMI|sec11|body64|@0x594|86B] >나이 든 사람은\n젊은이가{fe}길을{ff}벗어나지 않게{02}사는 법을{ff}가르쳐야\n한다고{fe}깨달았다>{02}넌{fe}나한테 배울 마음이\n있느냐>?{c14:00}{c0c:02}네<END>
+[WORLD00_AREA003.EMI|sec11|body65|@0x5ee|70B] ><PAUSE>><PAUSE>><PAUSE>흠\n너를{ff}믿어 보마{02}살아가는 데{ff}중요한 건\n강하고{ff}터프해지는 거다{02}너에게{fe}그걸\n가르쳐 주마><END>
+[WORLD00_AREA003.EMI|sec11|body66|@0x634|15B] 이 대화는 바바델 없음<END>
+[WORLD00_AREA003.EMI|sec11|body67|@0x643|11B] >>또 오너라<END>
+[WORLD00_AREA003.EMI|sec11|body68|@0x64e|24B] *왔느냐>>\n진지하게{ff}하고 있겠지?<END>
+[WORLD00_AREA003.EMI|sec11|body69|@0x666|28B] 누구 또{ff}다른 사람도\n나한테{ff}배우고 싶으냐?{c14:01}{c0c:02}네<END>
+[WORLD00_AREA003.EMI|sec11|body70|@0x686|32B] ><PAUSE>><PAUSE>뭐냐{ff}아무한테도\n가르칠 필요\n없지 않으냐<END>
+[WORLD00_AREA003.EMI|sec11|body71|@0x6a6|37B] 그럼{ff}나한테\n배울 건{ff}이제 없다고\n하는 거냐?{c14:02}{c0c:02}네<END>
+[WORLD00_AREA003.EMI|sec11|body72|@0x6cf|36B] ><PAUSE>><PAUSE>뭐냐{ff}아무도\n나한테{ff}배우는 자가\n없지 않으냐<END>
+[WORLD00_AREA003.EMI|sec11|body73|@0x6f3|103B] *그럼{ff}{c07:00}{ff}을\n내{ff}제자로 삼으마{02}>제자로 있는 동안은\n{c05:03}공격{06}{fe}{c05:03}방어{06}와 {c05:03}체력{06}이\n오르기 쉬워지고{02}{c05:02}AP{06}와 {c05:02}지혜{06}가{fe}조금\n오르기 어려워진다><END>
+[WORLD00_AREA003.EMI|sec11|body74|@0x75a|17B] 또{ff}있느냐?{c14:03}{c0c:02}네<END>
+[WORLD00_AREA003.EMI|sec11|body75|@0x76f|27B] *그럼{ff}{c07:00}{ff}은\n스스로{ff}살아가거라<END>
+[WORLD00_AREA003.EMI|sec11|body76|@0x78a|17B] 또{ff}있느냐?{c14:04}{c0c:02}네<END>
+[WORLD00_AREA003.EMI|sec11|body77|@0x79f|71B] ><PAUSE>><PAUSE>으음\n{c07:00}{ff}아>\n제법{ff}열심히 하는구나{02}좋다{fe}그럼{ff}너에게\n이 기술을{ff}가르쳐 주마{02}{c05:02}{c07:01}{06}{ff}을\n배웠다<END>
+[WORLD00_AREA003.EMI|sec11|body78|@0x7e6|16B] 누가{ff}제자가 되겠느냐?<END>
+[WORLD00_AREA003.EMI|sec11|body79|@0x7f6|16B] 누가{ff}제자를 그만두느냐?<END>
+[WORLD00_AREA003.EMI|sec11|body80|@0x806|23B] 이 사람으로{ff}괜찮습니까?{ff}{ff}네{ff}아니요<END>
+[WORLD00_AREA003.EMI|sec11|body81|@0x81d|22B] 그만두시겠습니까?{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}네{ff}아니요<END>
+[WORLD00_AREA003.EMI|sec11|body82|@0x833|47B] {ff}{ff}글라우스 산 방면\n>산에는 위험이 가득\n출발 전에{ff}장비를 체크<END>
+[WORLD00_AREA003.EMI|sec11|body253|@0x862|9B] 쓰레기 버리기 금지@<END>
+[WORLD00_AREA003.EMI|sec11|body254|@0x86b|29B] {ff}{ff}숲을 소중히@\n>나무를 걷어차면\n안 돼요<END>

@@ -1,0 +1,10 @@
+[WORLD03_AREA151.EMI|sec11|body0|@0x20a|53B] 보이는 곳마다{fe}사막이\n펼쳐져 있다>{02}아무 준비 없이{fe}사막에\n나가는 건 위험해><END>
+[WORLD03_AREA151.EMI|sec11|body1|@0x23f|41B] 자동선 항구가 있다{fd}\n여기서 기계 쓰레기가\n실려 나가는 것 같다{fd}<END>
+[WORLD03_AREA151.EMI|sec11|body3|@0x268|23B] 기계 쓰레기가\n산더미처럼 쌓여 있다>{fd}<END>
+[WORLD03_AREA151.EMI|sec11|body4|@0x27f|39B] 예전엔 마을이었던 것 같지만\n지금은{fe}기계 쓰레기에 묻혀\n인기척이 없다{fd}<END>
+[WORLD03_AREA151.EMI|sec11|body5|@0x2a6|38B] 스스로 힘을 버림으로써\n이 땅으로 도망쳐 온\n용족이 사는 마을{fd}<END>
+[WORLD03_AREA151.EMI|sec11|body6|@0x2cc|46B] 이 거대한{ff}철의 벽이\n*생명 있는 세계+와 *죽음의 사막+\n을 가르고 있다>><END>
+[WORLD03_AREA151.EMI|sec11|body7|@0x2fa|22B] 장엄한{ff}현수가\n조용히 서 있다{fd}<END>
+[WORLD03_AREA151.EMI|sec11|body8|@0x310|73B] 저 땅의{ff}낚시터에선\n본 적도 없는 것 같은\n대물이{ff}낚일까>>{02}{c05:04}타{fc}깃{ff}피시{06}\n{c07:00}\n{c07:01}{02}{c07:02}\n{c07:03}\n{c07:04}<END>
+[WORLD03_AREA151.EMI|sec11|body22|@0x359|24B] 좋은 향기가 나는\n예쁜{ff}꽃밭이 있다<END>
+[WORLD03_AREA151.EMI|sec11|body32|@0x371|56B] 꽃밭에\n요정의 마을이\n반응하고 있다>>{02}{c05:02}요정의 마을{06}을\n사용할까요?{c14:00}{c0c:02}네<END>

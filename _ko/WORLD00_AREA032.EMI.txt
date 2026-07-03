@@ -1,0 +1,19 @@
+[WORLD00_AREA032.EMI|sec11|body0|@0x20b|92B] {c0c:80}{ff}{ff}{ff}왜 도망치지?{c16:20}{c0c:80}우린{fe}다른 놈들과는 달라\n함께 있어선\n안 돼>>{c16:50}{c0c:05}*>쳇@{c16:20}{c0c:05}{c04:02}\n*><PAUSE>><PAUSE>>{c04:00}?{02}내가>>{ff}알아보겠나>?<END>
+[WORLD00_AREA032.EMI|sec11|body1|@0x219|78B] {c0c:80}우린{fe}다른 놈들과는 달라\n함께 있어선\n안 돼>>{c16:50}{c0c:05}*>쳇@{c16:20}{c0c:05}{c04:02}\n*><PAUSE>><PAUSE>>{c04:00}?{02}내가>>{ff}알아보겠나>?<END>
+[WORLD00_AREA032.EMI|sec11|body2|@0x241|38B] {c0c:05}*>쳇@{c16:20}{c0c:05}{c04:02}\n*><PAUSE>><PAUSE>>{c04:00}?{02}내가>>{ff}알아보겠나>?<END>
+[WORLD00_AREA032.EMI|sec11|body3|@0x24a|29B] {c0c:05}{c04:02}\n*><PAUSE>><PAUSE>>{c04:00}?{02}내가>>{ff}알아보겠나>?<END>
+[WORLD00_AREA032.EMI|sec11|body4|@0x267|47B] {c0c:05}{c04:02}\n*네가>{ff}천사의 탑에서\n사라진 뒤>{02}몇 년이나{ff}행방을 찾았다><END>
+[WORLD00_AREA032.EMI|sec11|body5|@0x296|44B] {c0c:05}{c04:02}\n*>다 망해 가던{fe}광산에\n드래곤이{ff}나온다는 말을 듣고>{02}{c04:00}><PAUSE>><PAUSE>><END>
+[WORLD00_AREA032.EMI|sec11|body6|@0x2c2|20B] {c0c:05}{c04:02}\n*여긴{fe}네><PAUSE>><PAUSE>><END>
+[WORLD00_AREA032.EMI|sec11|body7|@0x2d6|30B] {c0c:05}{c04:02}\n*{c04:00}>>\n날{ff}미워하나?{c14:00}{c0c:02}아아><END>
+[WORLD00_AREA032.EMI|sec11|body8|@0x2f8|60B] {c0c:05}{c04:02}\n*>난{fe}수많은\n드래곤을{ff}죽여 왔다{02}그게>{ff}내 사명이라고\n믿고 있었지>>{ff}<PAUSE>하지만><END>
+[WORLD00_AREA032.EMI|sec11|body9|@0x334|26B] {c0c:03}{c04:02}\n*>>아니{fe}지금은 우선\n여길{ff}나가자<END>
+[WORLD00_AREA032.EMI|sec11|body10|@0x34e|79B] {c0c:03}{c04:02}\n*장비다>>{02}내 이야기를{ff}들어 줄\n생각이 있다면>\n함께{ff}와 다오{02}여긴{fe}언제까지나{ff}내가\n있어도 될 곳이{fe}아냐<END>
+[WORLD00_AREA032.EMI|sec11|body11|@0x39d|53B] {c0c:06}{c04:02}\n*네가{fe}날 죽일 생각이라면>{02}너에겐{ff}그럴 힘도\n그리고 아마{ff}권리도{fe}있다><END>
+[WORLD00_AREA032.EMI|sec11|body12|@0x3d2|74B] {c0c:06}{c04:02}\n*하지만>{ff}너는{02}자길{ff}죽이려 한\n나에게{fe}숨통을{ff}끊지 않았다{02}400년 전의{ff}드래곤들이\n그랬던{ff}것처럼>><END>
+[WORLD00_AREA032.EMI|sec11|body13|@0x41c|65B] {c0c:06}{c04:02}\n*>드래곤들이\n진심을{ff}냈더라면{02}지금쯤{fe}유령{fc}광이\n되어 있던 건\n우리{ff}쪽이었겠지><END>
+[WORLD00_AREA032.EMI|sec11|body14|@0x45d|60B] {c0c:06}{c04:02}\n*어째서{ff}드래곤은\n순순히{ff}당했을까?{02}어째서{ff}우리의 신은\n드래곤을{ff}죽이게 했나@?<END>
+[WORLD00_AREA032.EMI|sec11|body15|@0x499|52B] {c0c:06}{c04:02}\n*이런 일{fe}도저히\n입에 담을 수도{fe}없지>{02}하지만>{ff}난{fe}진실이\n알고 싶다><END>
+[WORLD00_AREA032.EMI|sec11|body16|@0x4cd|37B] {c0c:06}{c04:02}\n*>그러니{fe}그때까지{02}내 목숨을>>\n맡아 두어 다오><END>
+[WORLD00_AREA032.EMI|sec11|body17|@0x4f2|34B] {c0c:06}{c04:02}\n*미안하다>>{02}그럼{fe}우선>\n이 광산에서{ff}나가자<END>
+[WORLD00_AREA032.EMI|sec11|body18|@0x514|27B] {ff}\n여기까지의 여정을 저{fc}장할 수 있어요{c14:01}{c0c:02}저{fc}장한다<END>

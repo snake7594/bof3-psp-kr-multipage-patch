@@ -1,0 +1,39 @@
+[WORLD00_AREA018.EMI|sec11|body0|@0x22b|30B] 이 앞쪽{fe}다리가 부서져 있어\n지나가는 건 무리겠는데><END>
+[WORLD00_AREA018.EMI|sec11|body1|@0x249|3B] 빈자리<END>
+[WORLD00_AREA018.EMI|sec11|body2|@0x24c|193B] {c0c:03}*기다려{fe}기다려{fe}기다리라고@{c16:20}{c0c:03}*>누구 허락 받고\n이 길{ff}지나가는 거냐@?{c16:20}해파리\n*변경해서{ff}죄송합니다\n안 그럴게요{fe}아마도{c16:20}{c0c:05}*이 앞에서{fe}무사하고 싶으면>{c16:20}{c0c:05}*가진 돈 내놔>>\n어라?{c16:20}{c0c:05}{c04:03}\n*><PAUSE>>형{fe}이 녀석{c16:20}{c0c:06}{c04:04}\n*>뭐야{fe}너\n정신 차린 거냐{c16:20}{c04:03}\n*칫{fe}별난 놈{fc}이네>\n까불지 마<PAUSE>라고@<END>
+[WORLD00_AREA018.EMI|sec11|body3|@0x25d|176B] {c0c:03}*>누구 허락 받고\n이 길{ff}지나가는 거냐@?{c16:20}해파리\n*변경해서{ff}죄송합니다\n안 그럴게요{fe}아마도{c16:20}{c0c:05}*이 앞에서{fe}무사하고 싶으면>{c16:20}{c0c:05}*가진 돈 내놔>>\n어라?{c16:20}{c0c:05}{c04:03}\n*><PAUSE>>형{fe}이 녀석{c16:20}{c0c:06}{c04:04}\n*>뭐야{fe}너\n정신 차린 거냐{c16:20}{c04:03}\n*칫{fe}별난 놈{fc}이네>\n까불지 마<PAUSE>라고@<END>
+[WORLD00_AREA018.EMI|sec11|body4|@0x27d|144B] 해파리\n*변경해서{ff}죄송합니다\n안 그럴게요{fe}아마도{c16:20}{c0c:05}*이 앞에서{fe}무사하고 싶으면>{c16:20}{c0c:05}*가진 돈 내놔>>\n어라?{c16:20}{c0c:05}{c04:03}\n*><PAUSE>>형{fe}이 녀석{c16:20}{c0c:06}{c04:04}\n*>뭐야{fe}너\n정신 차린 거냐{c16:20}{c04:03}\n*칫{fe}별난 놈{fc}이네>\n까불지 마<PAUSE>라고@<END>
+[WORLD00_AREA018.EMI|sec11|body5|@0x29c|113B] {c0c:05}*이 앞에서{fe}무사하고 싶으면>{c16:20}{c0c:05}*가진 돈 내놔>>\n어라?{c16:20}{c0c:05}{c04:03}\n*><PAUSE>>형{fe}이 녀석{c16:20}{c0c:06}{c04:04}\n*>뭐야{fe}너\n정신 차린 거냐{c16:20}{c04:03}\n*칫{fe}별난 놈{fc}이네>\n까불지 마<PAUSE>라고@<END>
+[WORLD00_AREA018.EMI|sec11|body6|@0x2b1|92B] {c0c:05}*가진 돈 내놔>>\n어라?{c16:20}{c0c:05}{c04:03}\n*><PAUSE>>형{fe}이 녀석{c16:20}{c0c:06}{c04:04}\n*>뭐야{fe}너\n정신 차린 거냐{c16:20}{c04:03}\n*칫{fe}별난 놈{fc}이네>\n까불지 마<PAUSE>라고@<END>
+[WORLD00_AREA018.EMI|sec11|body7|@0x2c4|73B] {c0c:05}{c04:03}\n*><PAUSE>>형{fe}이 녀석{c16:20}{c0c:06}{c04:04}\n*>뭐야{fe}너\n정신 차린 거냐{c16:20}{c04:03}\n*칫{fe}별난 놈{fc}이네>\n까불지 마<PAUSE>라고@<END>
+[WORLD00_AREA018.EMI|sec11|body8|@0x2d8|53B] {c0c:06}{c04:04}\n*>뭐야{fe}너\n정신 차린 거냐{c16:20}{c04:03}\n*칫{fe}별난 놈{fc}이네>\n까불지 마<PAUSE>라고@<END>
+[WORLD00_AREA018.EMI|sec11|body9|@0x2f2|27B] {c04:03}\n*칫{fe}별난 놈{fc}이네>\n까불지 마<PAUSE>라고@<END>
+[WORLD00_AREA018.EMI|sec11|body10|@0x30d|48B] {c0c:06}{c04:04}\n*>웃기네\n하루 종일{ff}기다렸는데>{02}겨우{ff}지나간 게\n너라니 말이야>><END>
+[WORLD00_AREA018.EMI|sec11|body11|@0x33d|27B] {c0c:05}{c04:03}\n*형>>\n오늘은{fe}돌아갈까?<END>
+[WORLD00_AREA018.EMI|sec11|body12|@0x358|27B] {c0c:06}{c04:04}\n*그래>\n이 녀석 얘기도{ff}듣고 싶고<END>
+[WORLD00_AREA018.EMI|sec11|body13|@0x373|19B] {c0c:05}{c04:03}\n*>그럼{fe}돌아가자\n{c04:00}<END>
+[WORLD00_AREA018.EMI|sec11|body14|@0x386|50B] {c0c:06}{c04:04}\n*어이어이@\n{c04:00}가{ff}이 녀석 이름?{02}어째서{ff}{c04:03}가\n그런 걸{ff}아는 거야?<END>
+[WORLD00_AREA018.EMI|sec11|body15|@0x3b8|29B] {c0c:05}{c04:03}\n*나{fe}<PAUSE>나도 모르지만\n왠지{ff}그런 느낌이><END>
+[WORLD00_AREA018.EMI|sec11|body16|@0x3d5|25B] {c0c:06}{c04:04}\n*너{fe}진짜로\n{c04:00}{ff}라고 하는 거냐?<END>
+[WORLD00_AREA018.EMI|sec11|body17|@0x3ee|26B] {c0c:06}{c04:04}\n*흐{fc}음>>\n신기한 일도{ff}다 있네<END>
+[WORLD00_AREA018.EMI|sec11|body18|@0x408|3B] 빈자리<END>
+[WORLD00_AREA018.EMI|sec11|body19|@0x40b|63B] *뭐야{ff}형씨들\n혹시{ff}노상강도?{02}그만둬{fe}그만둬\n이런 가도에 부자가\n지나갈 리 없잖아@?<END>
+[WORLD00_AREA018.EMI|sec11|body20|@0x44a|32B] {c04:03}\n*여기가{fe}우리 일터\n우{fc}르오르 가도야><END>
+[WORLD00_AREA018.EMI|sec11|body21|@0x46a|97B] {c0c:01}{c04:03}\n*이 길은{ff}윈디아까지\n이어져 있다고>{c16:30}{c0c:06}{c04:03}\n*우린{fe}언젠가\n이 좁아터진 마을을 떠나>{02}윈디아 같은\n커다란 도시로{ff}갈 거야>\n그치{fe}<PAUSE>형?<END>
+[WORLD00_AREA018.EMI|sec11|body22|@0x48a|65B] {c0c:06}{c04:03}\n*우린{fe}언젠가\n이 좁아터진 마을을 떠나>{02}윈디아 같은\n커다란 도시로{ff}갈 거야>\n그치{fe}<PAUSE>형?<END>
+[WORLD00_AREA018.EMI|sec11|body23|@0x4cb|42B] {c04:04}\n*뭐{fe}<PAUSE>그건 그렇다 치고>{02}일단은{fe}오늘 밥값을\n벌어야지{fe}안 그래?<END>
+[WORLD00_AREA018.EMI|sec11|body24|@0x4f5|53B] {c04:04}\n*사람 오기 전에\n얼른{ff}숨자>{02}이쪽{ff}둑 위의\n나무 그늘이{ff}좋아 보여<END>
+[WORLD00_AREA018.EMI|sec11|body25|@0x52a|22B] *죄송하지만\n잠시 기다려 주십시오><END>
+[WORLD00_AREA018.EMI|sec11|body26|@0x540|56B] *우리는{fe}윈디아\n성의 사람들로{fe}있습니다{02}왕의 명에 따라{fe}이곳을\n막고 있는 것으로{fe}있습니다요<END>
+[WORLD00_AREA018.EMI|sec11|body27|@0x578|12B] 이래선 지나갈 수 없어>><END>
+[WORLD00_AREA018.EMI|sec11|body28|@0x584|40B] *여행자분이여>\n이곳을 지나려면{fe}잠시\n기다려 주셔야{ff}합니다<END>
+[WORLD00_AREA018.EMI|sec11|body29|@0x5ac|63B] *맥니르 마을 사람이\n농작물을 빼돌리는{ff}\n부정을 저질렀다는 일로>{02}지금{fe}조사하고 있습니다<END>
+[WORLD00_AREA018.EMI|sec11|body30|@0x5eb|40B] *조사가{ff}끝날 때까지는\n누구도{fe}지나가게 해선 안 되게\n되어 있습니다<END>
+[WORLD00_AREA018.EMI|sec11|body31|@0x613|42B] {c04:02}\n*흠>{ff}어쩔 수 없지\n시간을{ff}때울까>{02}마을에라도{ff}가볼까><END>
+[WORLD00_AREA018.EMI|sec11|body32|@0x63d|40B] *맥니르가{fe}{ff}무사히\n성에 도착할 때까지는\n지나가게 할 수{ff}없습니다<END>
+[WORLD00_AREA018.EMI|sec11|body33|@0x665|15B] *지금 잠시{fe}기다려 주십시오><END>
+[WORLD00_AREA018.EMI|sec11|body34|@0x674|25B] *좀 더{fe}이곳을 지키라는\n왕의 명입니다><END>
+[WORLD00_AREA018.EMI|sec11|body35|@0x68d|32B] *우리는{fe}확실히\n일하고 있는 것으로{fe}있습니다\n왕녀님@<END>
+[WORLD00_AREA018.EMI|sec11|body36|@0x6ad|41B] *>>계속해서{fe}조직을\n조사하실 겁니까?{02}조심하십시오{fe}{c04:01}님<END>
+[WORLD00_AREA018.EMI|sec11|body37|@0x6d6|35B] *암시장을{ff}조사하러\n가시는 겁니까>?{02}힘내세요<END>
+[WORLD00_AREA018.EMI|sec11|body38|@0x6f9|64B] {c04:03}\n*아직{fe}윈디아로\n갈 때가 아니야>{02}이 근처에서{fe}좀 더\n이름을 떨친 다음>\n도시로{ff}쳐들어가자고@?<END>

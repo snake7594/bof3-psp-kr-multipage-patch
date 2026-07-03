@@ -1,0 +1,32 @@
+[WORLD03_AREA145.EMI|sec11|body0|@0x205|15B] {c0c:06}{c04:05}\n*저게{fc}{fe}뭐지{fc}?<END>
+[WORLD03_AREA145.EMI|sec11|body1|@0x214|17B] {c0c:06}{c04:01}\n*저거{fe}뭘까>?<END>
+[WORLD03_AREA145.EMI|sec11|body2|@0x225|16B] {c0c:06}{c04:02}\n*저건{fe}대체 뭐야?<END>
+[WORLD03_AREA145.EMI|sec11|body3|@0x235|18B] {c0c:06}{c04:04}\n*뭔가{fe}돌고 있잖아?<END>
+[WORLD03_AREA145.EMI|sec11|body4|@0x247|25B] {c04:05}\n*조사해 보면>\n알 수 있지 않을{fc}까?<END>
+[WORLD03_AREA145.EMI|sec11|body5|@0x260|27B] {c04:01}\n*{c04:05}씨라면\n뭔가{fe}알 수도 있을까?<END>
+[WORLD03_AREA145.EMI|sec11|body6|@0x27b|23B] {c04:02}\n*>>{c04:05}라면\n뭔가{fe}알 수>있나?<END>
+[WORLD03_AREA145.EMI|sec11|body7|@0x292|25B] {c04:04}\n*{c04:05}라면>\n그런 거{fe}자신 있지 않{fc}냐?<END>
+[WORLD03_AREA145.EMI|sec11|body8|@0x2ab|47B] 무슨 설비의{ff}일부인 것 같다>\n바로 아래 방과{ff}관계가\n있는 걸까>?<END>
+[WORLD03_AREA145.EMI|sec11|body9|@0x2da|35B] 이건{fe}윈디아\n지하에 있던 거랑\n같은 물건일까>?<END>
+[WORLD03_AREA145.EMI|sec11|body10|@0x2fd|40B] {c0c:06}{c04:01}\n*그러니까>{ff}이걸로>{02}어딘가로{fe}이동할 수 있다는\n뜻일까?<END>
+[WORLD03_AREA145.EMI|sec11|body11|@0x325|40B] {c0c:06}{c04:05}\n*아무튼{fe}이걸 움직이면>{02}어딘가로는{fe}갈 수 있다는\n거{fc}지?<END>
+[WORLD03_AREA145.EMI|sec11|body12|@0x34d|27B] {c0c:06}{c04:02}\n*이걸 쓰면>\n신에게 다가갈 수 있나?<END>
+[WORLD03_AREA145.EMI|sec11|body13|@0x368|39B] {c0c:06}{c04:04}\n*아무튼{fe}아직>{02}막다른 길은{fe}아니란\n거지{fe}그러니까<END>
+[WORLD03_AREA145.EMI|sec11|body14|@0x38f|32B] 어려워 보이는 내용이\n쓰여 있다>{02}{c04:05}라면{fe}알 수도 있어<END>
+[WORLD03_AREA145.EMI|sec11|body15|@0x3af|53B] {c04:05}\n*흐음{fe}흐음>\n포{fc}트:드라이브 기동>?{02}흠흠흠>\n{c05:02}기동 키{fc}{06}가{fe}필요>하다는데<END>
+[WORLD03_AREA145.EMI|sec11|body16|@0x3e4|59B] {c04:05}\n*잘은 모르겠지만\n열쇠가 필요한 것 같{fc}>{02}열쇠가 없으면{fe}소용없으니까\n먼저{fe}열쇠를 찾자?<END>
+[WORLD03_AREA145.EMI|sec11|body17|@0x41f|26B] {c0c:01}{ff}\n{ff};열쇠<를{ff}쓰시겠습니까?{c14:00}{c0c:02}쓴다<END>
+[WORLD03_AREA145.EMI|sec11|body18|@0x43f|21B] {c04:05}\n*좋아{fe}움직였어>\n다음은{fc}>><END>
+[WORLD03_AREA145.EMI|sec11|body19|@0x454|66B] {c04:05}\n*어{fc}디{fc}>\n포{fc}트를 기동하려면{02}고밀도 레{fc}저{fc}를\n리플렉터로{ff}조정해서\n퓨즈에 명중시키라{fc}는데<END>
+[WORLD03_AREA145.EMI|sec11|body20|@0x496|29B] {c04:05}\n*먼저{fe}레{fc}저{fc}라는 게\n저기서{fe}나오는 거구나?<END>
+[WORLD03_AREA145.EMI|sec11|body21|@0x4b3|41B] {c0c:06}{c04:05}\n*>그래서{fe}이{ff}리플렉터라는\n거울 같은 걸 써서{02}튕겨내서><END>
+[WORLD03_AREA145.EMI|sec11|body22|@0x4dc|31B] {c0c:04}{c04:05}\n*이{fe}퓨즈라는 곳에\n명중시키는 거야><END>
+[WORLD03_AREA145.EMI|sec11|body23|@0x4fb|25B] {c04:05}\n*포{fc}트:드라이브라는 건\n아마 그렇겠지만><END>
+[WORLD03_AREA145.EMI|sec11|body24|@0x514|31B] {c04:05}\n*윈디아 지하에\n있던 거랑 같은 거야{fc}><END>
+[WORLD03_AREA145.EMI|sec11|body25|@0x533|60B] {c04:05}\n*근데{fe}출력으로 보면\n이쪽 포{fc}트는>{02}훨씬 멀리까지 이동할 수 있는\n타입 같아\n대단하지{fc}@?<END>
+[WORLD03_AREA145.EMI|sec11|body26|@0x56f|57B] {c04:05}\n*아무튼{fe}움직여 보자{02}리플렉터의{ff}방향을 바꾸는\n스위치는>\n각각의{fe}받침대에 있으니까><END>
+[WORLD03_AREA145.EMI|sec11|body27|@0x5a8|49B] {c04:05}\n*방향을 조정했으면\n이쪽 스위치로>{02}레{fc}저{fc}를{ff}발사하는 거야\n알겠{fc}어?<END>
+[WORLD03_AREA145.EMI|sec11|body28|@0x5d9|14B] {c04:05}\n*자{fe}시작하자<END>
+[WORLD03_AREA145.EMI|sec11|body29|@0x5e7|53B] 각각의 받침대에 달린\n스위치로{fe}방향을 바꾸고>{02}이 스위치로\n레{fc}저{fc}를{ff}발사하는\n모양이다><END>
+[WORLD03_AREA145.EMI|sec11|body30|@0x61c|26B] 잠겨 있다>\n반대편에서라면\n열릴 것 같다<END>
+[WORLD03_AREA145.EMI|sec11|body128|@0x636|100B] 동력 회복 방법{02}레{fc}저{fc}의{ff}에너지를\n거울로{ff}증폭시켜\n퓨즈에{ff}명중시킬 것{02}조작은{ff}아래와 같다\n레{fc}저{fc}>오른쪽 스위치\n거울>받침대 스위치<END>

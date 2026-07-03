@@ -1,0 +1,5 @@
+[WORLD03_AREA126.EMI|sec11|body0|@0x20b|18B] {c0c:05}{c04:01}\n*드디어{fe}도착했네><END>
+[WORLD03_AREA126.EMI|sec11|body1|@0x21d|34B] {c0c:06}{c04:05}\n*보아하니{fe}저쪽이랑\n별로{ff}다를 거 없잖아{fc}?<END>
+[WORLD03_AREA126.EMI|sec11|body2|@0x23f|39B] {c04:04}\n*글쎄다>>{02}흑선만 한{ff}커다란\n몬스터{fc}가{ff}있을지도 몰라?<END>
+[WORLD03_AREA126.EMI|sec11|body3|@0x266|53B] {c0c:06}{c04:02}\n*어쨌든>{ff}아무도\n잘 모르는{fe}땅이다>{02}긴장은{ff}늦추지 않는 게\n좋겠지{fe}>><END>
+[WORLD03_AREA126.EMI|sec11|body4|@0x29b|25B] {c0c:01}파{fc}티 멤버를\n정해 주세요{fd}<END>

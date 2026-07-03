@@ -1,0 +1,10 @@
+[WORLD02_AREA103.EMI|sec11|body0|@0x209|26B] 노인\n*기히힛\n여기까지{ff}손길이 닿았나?<END>
+[WORLD02_AREA103.EMI|sec11|body1|@0x223|56B] {c04:05}\n*>무슨 소리예요{fc}?{02}우린{fe}여길 지나서\n;천사의 탑<이라는 데로\n가려는 건데요>?<END>
+[WORLD02_AREA103.EMI|sec11|body2|@0x25b|54B] {c04:01}\n*>왜 그러세요{fe}할아버지?{02}우린{fe}이 앞에 있는\n;천사의 탑<에 볼일이\n있을 뿐인데요?<END>
+[WORLD02_AREA103.EMI|sec11|body3|@0x291|43B] {c04:02}\n*흠>?{02}우린{ff}이 앞에 있는\n;천사의 탑<에\n가고 싶을 뿐인데?<END>
+[WORLD02_AREA103.EMI|sec11|body4|@0x2bc|58B] {c0c:06}노인\n*기히히히{fe}그렇고말고>{02}탑에 잠든{fe}모두를 위해서라도\n내가{ff}여기서 죽을 수는\n없는 게야<END>
+[WORLD02_AREA103.EMI|sec11|body5|@0x2f6|45B] {c0c:06}노인\n*기깃{fe}들린다>{02}죽어간 자들의\n원한의 목소리가아<END>
+[WORLD02_AREA103.EMI|sec11|body6|@0x323|55B] {c0c:06}노인\n*기히히히히히힛{fe}히힛>{02}나는{ff}죽지 않아\n모두의 원한을{ff}풀어주마>\n기히힛히히힛<END>
+[WORLD02_AREA103.EMI|sec11|body7|@0x35a|64B] {c0c:06}노인\n*나오너라{fe}아아아비이이@\n나오너라{fe}루우우파아스@{c16:30}{c0c:06}노인\n*기히히히힛@\n죽어라{fe}죽어라아앗<END>
+[WORLD02_AREA103.EMI|sec11|body8|@0x37f|27B] {c0c:06}노인\n*기히히히힛@\n죽어라{fe}죽어라아앗<END>
+[WORLD02_AREA103.EMI|sec11|body9|@0x39a|39B] {c0c:81}{ff}{ff}{ff}우리가 가는 곳마다\n{ff}\n{ff}다툼이 일고{fe}피가 흐른다><END>

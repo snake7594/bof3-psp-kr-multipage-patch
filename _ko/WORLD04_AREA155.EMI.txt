@@ -1,0 +1,17 @@
+[WORLD04_AREA155.EMI|sec11|body0|@0x207|13B] *낯선 얼굴이군요<END>
+[WORLD04_AREA155.EMI|sec11|body1|@0x214|40B] *여기서 {fe}기계 쓰레기가\n나오는 거예요{02}어디서냐고요?\n그건 {fe}모릅니다<END>
+[WORLD04_AREA155.EMI|sec11|body2|@0x23c|70B] *여긴 {fe}우리가\n콤비나{fc}트라고 부르는\n곳이에요{02}밖엔 {fe}기계 쓰레기 더미와\n황폐해진 땅이 있다고\n들었어요<END>
+[WORLD04_AREA155.EMI|sec11|body3|@0x282|40B] *자동선이 돌아온 모양이네요{02}당신들{ff}저 배를\n타고 온 건가요<END>
+[WORLD04_AREA155.EMI|sec11|body4|@0x2aa|7B] *나{fe}로봇<END>
+[WORLD04_AREA155.EMI|sec11|body5|@0x2b1|29B] 기계병 같은데\n공격해 올 낌새는 {fe}없다<END>
+[WORLD04_AREA155.EMI|sec11|body6|@0x2ce|8B] *부부>부부부<END>
+[WORLD04_AREA155.EMI|sec11|body7|@0x2d6|57B] *비그아데비우비데브부우\n데브이아비우부웃부그그우\n오우비데아우이부부으이잇?{c14:00}{c0c:26}비그아데비비데<END>
+[WORLD04_AREA155.EMI|sec11|body8|@0x342|7B] *부부부부><END>
+[WORLD04_AREA155.EMI|sec11|body9|@0x349|9B] *부부부부부부부<END>
+[WORLD04_AREA155.EMI|sec11|body10|@0x352|27B] *비비{02}이럴 수가, {fe}기계병이\n{c07:00}을/를 {ff}줬다@<END>
+[WORLD04_AREA155.EMI|sec11|body11|@0x36d|19B] *쉬고 싶으신가요\n상관없어요<END>
+[WORLD04_AREA155.EMI|sec11|body12|@0x380|16B] *장비가 필요하신가요<END>
+[WORLD04_AREA155.EMI|sec11|body13|@0x390|14B] *도구가 필요하신가요<END>
+[WORLD04_AREA155.EMI|sec11|body14|@0x39e|35B] *신을 찾으러 오신 건가요{02}전 {fe}신에 대해선 몰라요<END>
+[WORLD04_AREA155.EMI|sec11|body15|@0x3c1|64B] *우리는 {fe}여기 있는\n기계로 {fe}자동선에\n기계 쓰레기를 {ff}싣는 거예요{02}그 밖의 일은 {fe}몰라요<END>
+[WORLD04_AREA155.EMI|sec11|body16|@0x401|12B] 기계병 같다><END>

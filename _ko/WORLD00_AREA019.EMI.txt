@@ -1,0 +1,41 @@
+[WORLD00_AREA019.EMI|sec11|body0|@0x22b|35B] *다리가{fe}부서졌다는데>{02}장사 다 망쳤네\n형{fc}>?<END>
+[WORLD00_AREA019.EMI|sec11|body1|@0x24e|3B] 가을<END>
+[WORLD00_AREA019.EMI|sec11|body2|@0x251|193B] {c0c:03}*기다려{fe}기다려{fe}거기 서@{c16:20}{c0c:03}*>누구 허락받고\n이 길{ff}지나가는 거야@?{c16:20}해파리\n*변장해서{ff}미안해요\n이제 안 그럴게요{fe}아마{c16:20}{c0c:05}*앞으로{fe}무사하고 싶으면>{c16:20}{c0c:05}*가진 돈 다 내놔>>\n어라?{c16:20}{c0c:05}{c04:03}\n*><PAUSE>>형{fe}이 녀석{c16:20}{c0c:06}{c04:04}\n*>뭐야{fe}너\n정신 차렸냐{c16:20}{c04:03}\n*칫{fe}변장이냐고>\n까불지 마<PAUSE>라고@<END>
+[WORLD00_AREA019.EMI|sec11|body3|@0x262|176B] {c0c:03}*>누구 허락받고\n이 길{ff}지나가는 거야@?{c16:20}해파리\n*변장해서{ff}미안해요\n이제 안 그럴게요{fe}아마{c16:20}{c0c:05}*앞으로{fe}무사하고 싶으면>{c16:20}{c0c:05}*가진 돈 다 내놔>>\n어라?{c16:20}{c0c:05}{c04:03}\n*><PAUSE>>형{fe}이 녀석{c16:20}{c0c:06}{c04:04}\n*>뭐야{fe}너\n정신 차렸냐{c16:20}{c04:03}\n*칫{fe}변장이냐고>\n까불지 마<PAUSE>라고@<END>
+[WORLD00_AREA019.EMI|sec11|body4|@0x282|144B] 해파리\n*변장해서{ff}미안해요\n이제 안 그럴게요{fe}아마{c16:20}{c0c:05}*앞으로{fe}무사하고 싶으면>{c16:20}{c0c:05}*가진 돈 다 내놔>>\n어라?{c16:20}{c0c:05}{c04:03}\n*><PAUSE>>형{fe}이 녀석{c16:20}{c0c:06}{c04:04}\n*>뭐야{fe}너\n정신 차렸냐{c16:20}{c04:03}\n*칫{fe}변장이냐고>\n까불지 마<PAUSE>라고@<END>
+[WORLD00_AREA019.EMI|sec11|body5|@0x2a1|113B] {c0c:05}*앞으로{fe}무사하고 싶으면>{c16:20}{c0c:05}*가진 돈 다 내놔>>\n어라?{c16:20}{c0c:05}{c04:03}\n*><PAUSE>>형{fe}이 녀석{c16:20}{c0c:06}{c04:04}\n*>뭐야{fe}너\n정신 차렸냐{c16:20}{c04:03}\n*칫{fe}변장이냐고>\n까불지 마<PAUSE>라고@<END>
+[WORLD00_AREA019.EMI|sec11|body6|@0x2b6|92B] {c0c:05}*가진 돈 다 내놔>>\n어라?{c16:20}{c0c:05}{c04:03}\n*><PAUSE>>형{fe}이 녀석{c16:20}{c0c:06}{c04:04}\n*>뭐야{fe}너\n정신 차렸냐{c16:20}{c04:03}\n*칫{fe}변장이냐고>\n까불지 마<PAUSE>라고@<END>
+[WORLD00_AREA019.EMI|sec11|body7|@0x2c9|73B] {c0c:05}{c04:03}\n*><PAUSE>>형{fe}이 녀석{c16:20}{c0c:06}{c04:04}\n*>뭐야{fe}너\n정신 차렸냐{c16:20}{c04:03}\n*칫{fe}변장이냐고>\n까불지 마<PAUSE>라고@<END>
+[WORLD00_AREA019.EMI|sec11|body8|@0x2dd|53B] {c0c:06}{c04:04}\n*>뭐야{fe}너\n정신 차렸냐{c16:20}{c04:03}\n*칫{fe}변장이냐고>\n까불지 마<PAUSE>라고@<END>
+[WORLD00_AREA019.EMI|sec11|body9|@0x2f7|27B] {c04:03}\n*칫{fe}변장이냐고>\n까불지 마<PAUSE>라고@<END>
+[WORLD00_AREA019.EMI|sec11|body10|@0x312|48B] {c0c:06}{c04:04}\n*유쾌하네\n하루 종일{ff}기다려서>{02}겨우{ff}지나간 게\n너라니>><END>
+[WORLD00_AREA019.EMI|sec11|body11|@0x342|27B] {c0c:05}{c04:03}\n*형>>\n오늘은{fe}돌아갈까?<END>
+[WORLD00_AREA019.EMI|sec11|body12|@0x35d|27B] {c0c:06}{c04:04}\n*그래>\n이 녀석 얘기도{ff}듣고 싶고<END>
+[WORLD00_AREA019.EMI|sec11|body13|@0x378|19B] {c0c:05}{c04:03}\n*>그럼{fe}돌아가자\n{c04:00}<END>
+[WORLD00_AREA019.EMI|sec11|body14|@0x38b|50B] {c0c:06}{c04:04}\n*어이어이@\n{c04:00}라니{ff}이 녀석 이름?{02}어떻게{ff}{c04:03}가\n그런 걸{ff}아는 거야?<END>
+[WORLD00_AREA019.EMI|sec11|body15|@0x3bd|29B] {c0c:05}{c04:03}\n*나{fe}<PAUSE>나도 모르겠는데\n왠지{ff}그런 느낌이><END>
+[WORLD00_AREA019.EMI|sec11|body16|@0x3da|25B] {c0c:06}{c04:04}\n*너{fe}진짜로\n{c04:00}{ff}라고 하는 거냐?<END>
+[WORLD00_AREA019.EMI|sec11|body17|@0x3f3|26B] {c0c:06}{c04:04}\n*흐{fc}음>>\n신기한 일도{ff}다 있네<END>
+[WORLD00_AREA019.EMI|sec11|body18|@0x40d|3B] 가을<END>
+[WORLD00_AREA019.EMI|sec11|body19|@0x410|63B] *뭐야{ff}형들\n혹시{ff}노상강도야?{02}그만둬{fe}그만둬\n이런 가도에{ff}부자가\n지나갈 리가 없잖아@?<END>
+[WORLD00_AREA019.EMI|sec11|body20|@0x44f|32B] {c04:03}\n*여기가{fe}우리 일터\n우{fc}르올 가도지><END>
+[WORLD00_AREA019.EMI|sec11|body21|@0x46f|97B] {c0c:01}{c04:03}\n*이 길은{ff}윈디아까지\n이어져 있다고>{c16:30}{c0c:06}{c04:03}\n*우린{fe}언젠가\n이 시시한 마을을 떠나서>{02}윈디아 같은\n큰 도시로{ff}갈 거야>\n그치{fe}<PAUSE>형?<END>
+[WORLD00_AREA019.EMI|sec11|body22|@0x48f|65B] {c0c:06}{c04:03}\n*우린{fe}언젠가\n이 시시한 마을을 떠나서>{02}윈디아 같은\n큰 도시로{ff}갈 거야>\n그치{fe}<PAUSE>형?<END>
+[WORLD00_AREA019.EMI|sec11|body23|@0x4d0|42B] {c04:04}\n*뭐{fe}<PAUSE>그건 그렇고>{02}일단은{fe}오늘 끼니를\n벌어야지{fe}응?<END>
+[WORLD00_AREA019.EMI|sec11|body24|@0x4fa|53B] {c04:04}\n*사람 오기 전에\n얼른{ff}숨자>{02}이쪽{ff}둑 위의\n나무 그늘이{ff}좋겠다<END>
+[WORLD00_AREA019.EMI|sec11|body25|@0x52f|15B] {c04:04}\n*좋아>{ff}여기로 하자<END>
+[WORLD00_AREA019.EMI|sec11|body26|@0x53e|42B] {c0c:03}{c04:04}\n*여기 숨어 있다가>{02}누가{ff}지나가면\n뛰쳐나가서><END>
+[WORLD00_AREA019.EMI|sec11|body27|@0x568|14B] {c04:03}\n*이렇게{fe}확하고@<END>
+[WORLD00_AREA019.EMI|sec11|body28|@0x576|30B] {c0c:06}{c04:03}\n*뭐냐{fe}{c04:00}>\n착한 척할{fe}필요 없잖아?<END>
+[WORLD00_AREA019.EMI|sec11|body29|@0x594|61B] {c04:04}\n*먹고살기{ff}힘들어서>\n불쌍한{ff}애가 하는 짓이야{02}조금쯤은{ff}너그럽게\n봐줄 거야>{fe}응?<END>
+[WORLD00_AREA019.EMI|sec11|body30|@0x5d1|18B] {c0c:06}{c04:03}\n*형{fe}왔어@<END>
+[WORLD00_AREA019.EMI|sec11|body31|@0x5e3|40B] {c04:04}\n*>혼자{fe}네{02}좋아{fe}{c04:00}{ff}담력 시험이다\n네가{fe}갔다 와@<END>
+[WORLD00_AREA019.EMI|sec11|body32|@0x60b|25B] {c0c:05}{c04:03}\n*냅다{fc}부딪치면\n되는 거야@<END>
+[WORLD00_AREA019.EMI|sec11|body33|@0x624|33B] {c0c:06}바바델\n*뭐냐{fe}꼬마>>\n혹시{ff}노상강도냐?<END>
+[WORLD00_AREA019.EMI|sec11|body34|@0x645|48B] {c0c:04}바바델\n*멍청한 짓 하는 건>{02}{c04:04}랑{fe}{c04:03}\n바보들만으로도\n충분{ff}하다만><END>
+[WORLD00_AREA019.EMI|sec11|body35|@0x675|58B] {c0c:04}바바델\n*꼬마>>\n바보들 만나면{fe}전해 둬{02}쓸데없는 짓만{ff}하면\n날려버린다{fe}<PAUSE>고<END>
+[WORLD00_AREA019.EMI|sec11|body36|@0x6af|28B] {c04:04}\n*아차{c15:07}{c15:07}>\n하필이면{ff}바바델이라니><END>
+[WORLD00_AREA019.EMI|sec11|body37|@0x6cb|33B] {c0c:06}{c04:03}\n*칫{fe}영감탱이@\n맘대로{ff}지껄이고 말이야><END>
+[WORLD00_AREA019.EMI|sec11|body38|@0x6ec|68B] {c04:04}\n*응>>{fe}잠깐만>{02}바바델 영감이\n나갔다는 건>{02}숲속{ff}영감 오두막은\n지금{fe}아무도 없다는 거잖아>?<END>
+[WORLD00_AREA019.EMI|sec11|body39|@0x730|53B] {c0c:06}{c04:03}\n*그래{fe}형@{02}오두막에 가서\n영감탱이 먹을 거\n훔쳐버리면{ff}되는 거야@<END>
+[WORLD00_AREA019.EMI|sec11|body40|@0x765|64B] {c04:03}\n*아직{fe}윈디아로\n갈 때가 아니야>{02}이 근방에서{fe}좀 더\n이름을 떨치고 나서>\n도시로{ff}쳐들어가자@?<END>

@@ -1,0 +1,39 @@
+[WORLD02_AREA077.EMI|sec11|body0|@0x209|32B] {ff}\n{ff}{ff}등대에서의 작업{c14:00}{c0c:26}{ff}1:고{fc}스트 광석에 대하여<END>
+[WORLD02_AREA077.EMI|sec11|body1|@0x265|31B] 예비 고{fc}스트 광석은\n등대 밖에{ff} 꺼내 두었습니다<END>
+[WORLD02_AREA077.EMI|sec11|body2|@0x284|40B] 등대 하부의{ff} 보일러에\n고{fc}스트 광석을 넣으면\n작동을 시작합니다<END>
+[WORLD02_AREA077.EMI|sec11|body3|@0x2ac|60B] 압력이{ff} 안정되기를 기다려\n메인 밸브를{ff} 열어 주세요{02}기화 고{fc}스트가{ff} 덕트로\n흐르기 시작합니다<END>
+[WORLD02_AREA077.EMI|sec11|body4|@0x2e8|44B] 전환 밸브로\n덕트를 흐르는{ff} 기화 고{fc}스트를\n컨트롤할 수 있습니다<END>
+[WORLD02_AREA077.EMI|sec11|body5|@0x314|38B] 고{fc}스트 광석이{fe} 떨어지면\n라팔라 상점에서\n더 사 두도록 합시다<END>
+[WORLD02_AREA077.EMI|sec11|body6|@0x33a|174B] {ff}\n{ff}{c05:04}메인 밸브 여는 법{06}{02}1{ff}압력 그래프가{fe} 안정된\n{ff}곡선이 될 때까지{fe} 기다린다{02}2{ff}압력이{fe} 모니터의\n{ff}한가운데에서{fe} 가장 높아졌을 때\n{ff}레버를 당긴다{02}3{ff}압력이 부족하거나{fe}\n{ff}안정되지 않은 경우에는\n{ff}보일러가 멈춥니다{02}{ff}다시 한 번{fe} 보일러에\n{ff}고{fc}스트 광석을{ff} 넣어 주세요<END>
+[WORLD02_AREA077.EMI|sec11|body7|@0x3e8|27B] 보일러에{fe} 고{fc}스트 광석을\n넣기 위한{ff} 해치다<END>
+[WORLD02_AREA077.EMI|sec11|body8|@0x403|41B] 여기서{fe} 고{fc}스트 광석을\n넣는 모양이다>>{02}넣어 볼까?{c14:01}{c0c:02}넣는다<END>
+[WORLD02_AREA077.EMI|sec11|body9|@0x432|16B] 보일러는{fe} 작동하고 있다><END>
+[WORLD02_AREA077.EMI|sec11|body10|@0x442|24B] {03}는{fe} 고{fc}스트 광석을\n보일러에{ff} 던져 넣었다<END>
+[WORLD02_AREA077.EMI|sec11|body11|@0x45a|14B] 메인 밸브{fe} 스위치다<END>
+[WORLD02_AREA077.EMI|sec11|body12|@0x468|16B] 메인 밸브를{ff} 열었습니다@<END>
+[WORLD02_AREA077.EMI|sec11|body13|@0x478|28B] >>실패@{02}보일러는{fe} 멈춰\n버렸습니다<END>
+[WORLD02_AREA077.EMI|sec11|body14|@0x494|10B] 뭔가가{fe} 있다>><END>
+[WORLD02_AREA077.EMI|sec11|body15|@0x49e|31B] {c04:01}\n*뭐{fe}<PAUSE>뭐야{fe} 저거{c15:07}{c15:07}?\n무서운 게 있어{c15:07}{c15:07}<END>
+[WORLD02_AREA077.EMI|sec11|body16|@0x4bd|25B] {c04:05}\n*어머{fe}<PAUSE>뭐야 저거\n귀엽잖아@?<END>
+[WORLD02_AREA077.EMI|sec11|body17|@0x4d6|13B] {c04:02}\n*뭐야{fe} 저건?<END>
+[WORLD02_AREA077.EMI|sec11|body18|@0x4e3|37B] >뭘까?{02}생물{ff} 같기도 한데\n움직일 기미가{fe} 없어>><END>
+[WORLD02_AREA077.EMI|sec11|body19|@0x508|37B] {c04:05}\n*뭐{fe} 어쨌든>{02}여기{fe} 보스<PAUSE>란 느낌은\n아니지?<END>
+[WORLD02_AREA077.EMI|sec11|body20|@0x52d|27B] {c04:01}\n*무{fe}<PAUSE>무서워>{02}내버려 두고{fe} 가자?<END>
+[WORLD02_AREA077.EMI|sec11|body21|@0x548|22B] {c04:02}\n*마물>>{ff}이\n아닌가>>?<END>
+[WORLD02_AREA077.EMI|sec11|body22|@0x55e|31B] {c0c:05}{c04:02}\n*누구야>{ff} 마물 아니라고\n말한 게>><END>
+[WORLD02_AREA077.EMI|sec11|body23|@0x57d|27B] {c0c:05}{c04:01}\n*무서워>>{ff}이거>\n분명히{fe} 이상해><END>
+[WORLD02_AREA077.EMI|sec11|body24|@0x598|28B] {c0c:05}{c04:05}\n*역시>><PAUSE>{ff}하나도\n안 귀여워><END>
+[WORLD02_AREA077.EMI|sec11|body25|@0x5b4|48B] 등대 점화 스위치 같다>{02}하지만{fe} 먼저{ff} 메인 밸브를\n열지 않으면{ff} 의미가 없다<END>
+[WORLD02_AREA077.EMI|sec11|body26|@0x5e4|29B] 이 스위치로{fe} 등대를\n점화할 수{ff} 있다><END>
+[WORLD02_AREA077.EMI|sec11|body27|@0x601|13B] {c0c:03}*{0d}안 돼@{0e}{0f}{0a}<END>
+[WORLD02_AREA077.EMI|sec11|body28|@0x60e|24B] {c0c:06}*등대를{ff} 켜면\n안 된단 말이야@@<END>
+[WORLD02_AREA077.EMI|sec11|body29|@0x626|11B] *{c15:1d}하란 말이야@<END>
+[WORLD02_AREA077.EMI|sec11|body30|@0x631|19B] *어{fe}<PAUSE>어떡할 거야@?\n이거>><END>
+[WORLD02_AREA077.EMI|sec11|body31|@0x644|52B] *모처럼{fe} 눈깔이가\n지켜 주고 있었는데{fc}>{02}{c15:1d}못 하게{ff} 돼 버렸잖아\n너무해@<END>
+[WORLD02_AREA077.EMI|sec11|body32|@0x678|55B] *바보\n전부{fe} 너희\n탓이니까@{02}책임{ff} 지게 할 거야{02}>이거 가져가란 말이야@<END>
+[WORLD02_AREA077.EMI|sec11|body33|@0x6af|66B] {c0c:05}*그거{fe} 마을 밖>\n꽃이 있는 데서{fe} 쓰면{02}우리가{ff} 있는 곳에\n올 수 있으니까>{02}안 오면{fe} 혼날 줄 알아@<END>
+[WORLD02_AREA077.EMI|sec11|body34|@0x6f1|31B] {c04:01}\n*><PAUSE>><PAUSE>>우리가\n뭔가>{ff} 나쁜 짓>{ff} 했어?<END>
+[WORLD02_AREA077.EMI|sec11|body35|@0x710|17B] {c04:05}\n*뭐냐고{fe}<PAUSE>도대체?<END>
+[WORLD02_AREA077.EMI|sec11|body36|@0x721|9B] {c04:02}\n*>>>?<END>
+[WORLD02_AREA077.EMI|sec11|body37|@0x72a|29B] 스위치가{ff} 박혀 있다\n이제{ff} {c15:1d}을 수 없다><END>
+[WORLD02_AREA077.EMI|sec11|body38|@0x747|19B] {ff}\n요정의 마을을 손에 넣었다<END>

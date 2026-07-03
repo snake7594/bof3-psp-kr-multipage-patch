@@ -1,0 +1,168 @@
+[WORLD02_AREA080.EMI|sec11|body0|@0x200|19B] {c0c:06}{c04:01}\n*>다행이야{fe}<PAUSE>이겼네<END>
+[WORLD02_AREA080.EMI|sec11|body1|@0x213|67B] {c0c:05}바니{fc}\n*정말이에요>{02}저도>\n깜짝 놀랐어요@{02}{c04:00}님이나\n{c04:01}님{ff}같은\n쪼끄만 애들이{ff}이기다니@<END>
+[WORLD02_AREA080.EMI|sec11|body2|@0x256|61B] {c0c:05}바니{fc}\n*다음은{fe}분명\n;금주의 투기장<에서>{02}에미타이님{ff}팀과의\n싸움이네요{02}힘내세요@<END>
+[WORLD02_AREA080.EMI|sec11|body3|@0x293|52B] {c0c:06}{c04:01}\n*>아직{fe}방심하면\n안 돼{02}꼬{c15:07}{c15:07}옥{ff}이겨내서\n다 같이{ff}돌아가자@<END>
+[WORLD02_AREA080.EMI|sec11|body4|@0x2c7|49B] *이 다음엔{fe}여긴\n{c04:02}님이{ff}써요{02}여러분의{ff}투기장은\n;금주의 투기장<이에요<END>
+[WORLD02_AREA080.EMI|sec11|body5|@0x2f8|46B] *난{fe}마그마 속에서\n출전자를{ff}받쳐주는 게\n정말 좋아요>>{02}이상한가요?<END>
+[WORLD02_AREA080.EMI|sec11|body6|@0x326|42B] *>마그마 속에서\n괜찮냐고?{02}단련법이{ff}다르니까\n끄떡없어><END>
+[WORLD02_AREA080.EMI|sec11|body7|@0x350|94B] *우린{ff}도다이족이라고 해서\n;열화의 투기장<에서{fe}출전자의\n발판이 되는 게{ff}일이에요{02}당신들{fe}출전하나요?\n그렇다면{fe}같이\n힘내봐요<END>
+[WORLD02_AREA080.EMI|sec11|body8|@0x3ae|70B] *난{ff}최근에\n도다이족이{ff}됐을 뿐이지만{02}불꽃 속에서{ff}발판을 받치는\n이 일이야말로\n사나이의 삶이라고{fe}생각해><END>
+[WORLD02_AREA080.EMI|sec11|body9|@0x3f4|34B] *싸우기 전엔\n좋은 무기를{ff}준비해 두는\n법이지>><END>
+[WORLD02_AREA080.EMI|sec11|body10|@0x416|25B] *어서{fc}오세요\n도구는{ff}다 갖췄나요?<END>
+[WORLD02_AREA080.EMI|sec11|body11|@0x42f|28B] *이기려면{ff}우선\n좋은 방어구를{ff}갖춰야지<END>
+[WORLD02_AREA080.EMI|sec11|body12|@0x44b|25B] *여길{ff}올라가면\n;열화의 투기장<이야<END>
+[WORLD02_AREA080.EMI|sec11|body13|@0x464|51B] *여기로{ff}들어가면\n;라왕의 투기장<인데>{02}저쪽은{ff};금주의 투기장<으로\n이어져 있어<END>
+[WORLD02_AREA080.EMI|sec11|body14|@0x497|29B] *>>>>{02}꽤나{ff}자신 있는 건지\n히죽히죽 웃고 있다<END>
+[WORLD02_AREA080.EMI|sec11|body15|@0x4b4|47B] *>뭇치{fc}님\n1차전은{fe}에미타이님과\n1VS1이에요>>{02}듣고 계신 건가?<END>
+[WORLD02_AREA080.EMI|sec11|body16|@0x4e3|42B] *여기 투기장은\n1VS1이니까>>{02}나 혼자서{ff}갔다 오겠다\n꼬맹이들아><END>
+[WORLD02_AREA080.EMI|sec11|body17|@0x50d|12B] *힘내라{fe}에미타이@<END>
+[WORLD02_AREA080.EMI|sec11|body18|@0x519|12B] *지지 마라{fe}에미타이@<END>
+[WORLD02_AREA080.EMI|sec11|body19|@0x525|53B] *>{c04:00}님 일행이\n1차전에{ff}이기면{02}이쪽의{ff}에미타이님이나\n뭇치{fc}님과{ff}붙게 돼요<END>
+[WORLD02_AREA080.EMI|sec11|body20|@0x55a|39B] *중얼중얼중얼중얼중얼중얼\n중얼중얼중얼중얼중얼중얼중얼\n중얼중얼중얼>>><END>
+[WORLD02_AREA080.EMI|sec11|body21|@0x581|64B] *어이{fe}케니치@\n빨리{ff}준비해 줘>{02}>참{fe}맨날{ff}이래{02}정신통일이니{ff}뭐니\n알 게 뭐냐만은@<END>
+[WORLD02_AREA080.EMI|sec11|body22|@0x5c1|56B] *>내 이름은{fe}가리파우{02}이겨 올라가면\n당신들과는{fe}결승에서\n만나게 되겠지>>{02}무운을 빈다@<END>
+[WORLD02_AREA080.EMI|sec11|body23|@0x5f9|31B] *>>케니치라는 사람\n뭔가{ff}너무\n무서워요@<END>
+[WORLD02_AREA080.EMI|sec11|body24|@0x618|31B] *우리가{ff}이긴다구>{02}>근데{ff}바니{fc}는\n좋단 말이지<END>
+[WORLD02_AREA080.EMI|sec11|body25|@0x637|55B] *우리 형제의\n;교묘한 함정<공격은\n무적이라구@{02}>그런 이유로\n바니{fc}는{ff}귀엽단 말이야<END>
+[WORLD02_AREA080.EMI|sec11|body26|@0x66e|50B] *출전자 다들{ff}약해 보여서\n말이 안 된다구@{02}>근데{fe}바니{fc}가{fc}루는\n끝내준다구@<END>
+[WORLD02_AREA080.EMI|sec11|body27|@0x6a0|38B] *이 사람들{fe}나를\n야릇한 눈빛으로{ff}흘끔흘끔\n봐>{ff}싫어라><END>
+[WORLD02_AREA080.EMI|sec11|body28|@0x6c6|33B] *그래{fe}아빠는{ff}안 져\n라이아를 위해\n꼭 이길 거야><END>
+[WORLD02_AREA080.EMI|sec11|body29|@0x6e7|25B] *엄마{fe}아빠 이기겠지?\n{0d}콜록콜록콜록{0e}{0f}{18}<END>
+[WORLD02_AREA080.EMI|sec11|body30|@0x700|69B] *{c04:00}님 맞죠?{02}2차전은{ff}여기서\n에미타이:팀과의\n파티전이{ff}됩니다>{02}룰을 설명해 드릴까요?{c14:00}{c0c:02}네<END>
+[WORLD02_AREA080.EMI|sec11|body31|@0x74a|23B] *>그럼{ff}입장하시겠어요?{c14:01}{c0c:02}네<END>
+[WORLD02_AREA080.EMI|sec11|body32|@0x764|31B] *그러세요>\n그럼{fe}준비되면\n말씀해 주세요<END>
+[WORLD02_AREA080.EMI|sec11|body33|@0x783|104B] *이쪽 ;금주의 투기장<에선\n3VS3{ff}파티로\n싸우는데>{02}회복도{fe}공격도\n마법을 못 쓰니까>{02}파티{ff}멤버는\n그 점을 생각해서\n짜는 게{ff}좋을 거예요<END>
+[WORLD02_AREA080.EMI|sec11|body34|@0x7eb|50B] *{c04:00}팀\n여러분 맞죠?{02}열화의 투기장의{ff}룰을\n설명해 드릴까요?{c14:00}{c0c:02}네<END>
+[WORLD02_AREA080.EMI|sec11|body35|@0x822|166B] *여기선{fe}한 명씩 싸우는\n승자연전을{ff}합니다{02}싸우는{ff}순서는\n전투 때의{ff}배치와 같아요{02}상대 팀을{ff}전부 쓰러뜨리거나\n발판을{ff}부수면\n이기게 됩니다>>{02}발판이 되는{ff}도다이족은\n일정한 HP를{ff}가지고 있어요{02}그러니까{fe}셋이서\n발판을{ff}노리는 것도\n하나의 방법이에요><END>
+[WORLD02_AREA080.EMI|sec11|body36|@0x8c8|36B] *>이긴 건가?{02}>>운인가{fe}아니?\n승부란 건{ff}알 수 없군<END>
+[WORLD02_AREA080.EMI|sec11|body37|@0x8ec|27B] *>여러분{ff}작아서\n발판은{ff}편했어요<END>
+[WORLD02_AREA080.EMI|sec11|body38|@0x907|50B] *>으으\n{c04:02}님의{ff}발판으로\n정해져 버렸어{02}저 사람{fe}강하지만\n엄청{ff}무겁단 말이지><END>
+[WORLD02_AREA080.EMI|sec11|body39|@0x939|69B] *>제기랄{fe}케니치 녀석@{02}끝까지{ff}저 모양으로\n아무것도{ff}안 했어@{02}뭐{fe}<PAUSE>나랑{ff}가리파우가\n강하니까{ff}됐지만@<END>
+[WORLD02_AREA080.EMI|sec11|body40|@0x97e|66B] *듣자 하니\n{c04:02}님은\n혼자서{ff}싸우신다던데?{02}승자연전의{ff}싸움에서\n그래서야{ff}승산이\n없겠는데>><END>
+[WORLD02_AREA080.EMI|sec11|body41|@0x9c0|54B] *>케니치라는 사람\n눈빛이{ff}예사롭지 않아{02}당신들{ff}싸울 거라면\n조심하는 게{ff}좋을 거야<END>
+[WORLD02_AREA080.EMI|sec11|body42|@0x9f6|41B] *>이 팀\n꽤{ff}강해 보이는걸{02}어쩌면\n{c04:02}한테{ff}이길지도>?<END>
+[WORLD02_AREA080.EMI|sec11|body43|@0xa1f|63B] *>아까 그{ff}뭇치{fc}님\n끝까지{ff}한마디도\n안 했어@{02}말없이{fe}져 버렸다구\n뭔가>{ff}대단해><END>
+[WORLD02_AREA080.EMI|sec11|body44|@0xa5e|66B] *에미타이님의{ff}싸움\n대단했지{fc}@{02}으{c15:07}{c15:07}{fe}엄청 강력한\n마법으로{ff}바{c15:07}{c15:07}{c15:07}앙 하고\n한 방이었거든@<END>
+[WORLD02_AREA080.EMI|sec11|body45|@0xaa0|55B] *근데{fe}에미타이님도\n다음은{ff}위험하겠지>{02}그게{fe}금주의 투기장에선\n마법을{ff}못 쓰잖아@?<END>
+[WORLD02_AREA080.EMI|sec11|body46|@0xad7|34B] *>너희들{fe}잘됐다{02}저 꼬맹이가{ff}상대라면\n낙승이겠지?<END>
+[WORLD02_AREA080.EMI|sec11|body47|@0xaf9|78B] *에미타이님의{ff}자식이\n몸이 안 좋아서>{02}수술하지 않으면\n살릴 수 없다{ff}나 봐{02}분명{fe}그 때문에\n애쓰는 거겠지\n에미타이님{fe}멋있어><END>
+[WORLD02_AREA080.EMI|sec11|body48|@0xb47|23B] *알겠습니다>\n그럼{fe}가겠어요@<END>
+[WORLD02_AREA080.EMI|sec11|body50|@0xb5e|25B] *그럼{fe}{c04:00}님@\n힘차게{ff}부탁해요{c15:07}{c15:07}@<END>
+[WORLD02_AREA080.EMI|sec11|body51|@0xb77|26B] *네{c15:07}{c15:07}@{ff}{c04:01}님\n힘내{ff}주세요<END>
+[WORLD02_AREA080.EMI|sec11|body52|@0xb91|11B] *{c04:05}님{fe}부탁해요@<END>
+[WORLD02_AREA080.EMI|sec11|body53|@0xb9c|27B] *{c04:06}님{fe}부탁해요@{02}근데>{ff}말{fe}통하는 거 맞죠?<END>
+[WORLD02_AREA080.EMI|sec11|body54|@0xbb7|10B] {c04:00}의 차례다><END>
+[WORLD02_AREA080.EMI|sec11|body55|@0xbc1|38B] {c04:01}\n*갔다 올게@{02}괜찮아>\n나도{ff}강해졌으니까<END>
+[WORLD02_AREA080.EMI|sec11|body56|@0xbe7|13B] {c04:05}\n*>어라{fe}<PAUSE>나야?@<END>
+[WORLD02_AREA080.EMI|sec11|body57|@0xbf4|31B] {c04:05}\n*그럼{fe}갔다 올게{fc}\n기대는 말고{ff}기다려<END>
+[WORLD02_AREA080.EMI|sec11|body58|@0xc13|29B] {c0c:06}{c04:01}\n*괜찮아>\n잘될 것 같은{ff}느낌이 들어<END>
+[WORLD02_AREA080.EMI|sec11|body59|@0xc30|15B] {c04:06}\n*{0d}뿡{0e}{0f}{08}뀨{fc}@<END>
+[WORLD02_AREA080.EMI|sec11|body60|@0xc3f|17B] {c04:01}\n*의욕>{ff}넘치나 봐>?<END>
+[WORLD02_AREA080.EMI|sec11|body61|@0xc50|30B] *자{fe}그럼@{02}쿠로{fc}{ff}VS\n{c04:00}전을{ff}시작합니다@<END>
+[WORLD02_AREA080.EMI|sec11|body62|@0xc6e|30B] *자{fe}그럼@{02}쿠로{fc}{ff}VS\n{c04:01}전을{ff}시작합니다@<END>
+[WORLD02_AREA080.EMI|sec11|body63|@0xc8c|30B] *자{fe}그럼@{02}쿠로{fc}{ff}VS\n{c04:05}전을{ff}시작합니다@<END>
+[WORLD02_AREA080.EMI|sec11|body64|@0xcaa|30B] *자{fe}그럼@{02}쿠로{fc}{ff}VS\n{c04:06}전을{ff}시작합니다@<END>
+[WORLD02_AREA080.EMI|sec11|body65|@0xcc8|17B] *발판에{fe}올라타 주세요@<END>
+[WORLD02_AREA080.EMI|sec11|body66|@0xcd9|41B] *축하드립니다@{02}{c04:00}님{ff}팀\n멋지게@{ff}1차전 돌파입니다@<END>
+[WORLD02_AREA080.EMI|sec11|body69|@0xd02|31B] *자{fe}그럼@{02}카우어{fc}{ff}VS\n{c04:00}전을{ff}시작합니다@<END>
+[WORLD02_AREA080.EMI|sec11|body73|@0xd21|31B] *자{fe}그럼@{02}카우어{fc}{ff}VS\n{c04:01}전을{ff}시작합니다@<END>
+[WORLD02_AREA080.EMI|sec11|body74|@0xd40|31B] *자{fe}그럼@{02}카우어{fc}{ff}VS\n{c04:05}전을{ff}시작합니다@<END>
+[WORLD02_AREA080.EMI|sec11|body75|@0xd5f|31B] *자{fe}그럼@{02}카우어{fc}{ff}VS\n{c04:06}전을{ff}시작합니다@<END>
+[WORLD02_AREA080.EMI|sec11|body76|@0xd7e|31B] *자{fe}그럼@{02}파트리오{ff}VS\n{c04:00}전을{ff}시작합니다@<END>
+[WORLD02_AREA080.EMI|sec11|body77|@0xd9d|31B] *자{fe}그럼@{02}파트리오{ff}VS\n{c04:01}전을{ff}시작합니다@<END>
+[WORLD02_AREA080.EMI|sec11|body78|@0xdbc|31B] *자{fe}그럼@{02}파트리오{ff}VS\n{c04:05}전을{ff}시작합니다@<END>
+[WORLD02_AREA080.EMI|sec11|body79|@0xddb|31B] *자{fe}그럼@{02}파트리오{ff}VS\n{c04:06}전을{ff}시작합니다@<END>
+[WORLD02_AREA080.EMI|sec11|body80|@0xdfa|30B] {c0c:06}남자 목소리\n*>실례합니다{fe}잠깐\n실례 좀 할게요<END>
+[WORLD02_AREA080.EMI|sec11|body85|@0xe18|20B] {c0c:05}{c04:01}\n*당신은>{ff}에미타이님?<END>
+[WORLD02_AREA080.EMI|sec11|body86|@0xe2c|45B] {c0c:06}에미타이\n*>그렇소{fe}맞아요{02}이런 때에{ff}뭐하지만\n드릴 말씀이{ff}있어서>><END>
+[WORLD02_AREA080.EMI|sec11|body87|@0xe59|27B] {c0c:05}{c04:01}\n*이제{fe}곧 시작한단 말이에요\n에미타이님?<END>
+[WORLD02_AREA080.EMI|sec11|body88|@0xe74|81B] {c0c:06}에미타이\n*>아실지도{ff}모르겠지만\n우리 애가{ff}몸이 약해서{02}이 대회에서{ff}이겨서\n돈을 마련하지 않으면>>{02}수술을{ff}할 수가 없어요>><END>
+[WORLD02_AREA080.EMI|sec11|body89|@0xec5|46B] {c0c:05}{c04:01}\n*>그건{fe}<PAUSE><PAUSE>안됐지만요{02}>그래서{fe}우리한테\n일부러{ff}져 달라는 거예요?<END>
+[WORLD02_AREA080.EMI|sec11|body90|@0xef3|54B] {c0c:06}에미타이\n*>정말로\n말씀드리기 어렵지만{02}>그렇게{ff}해 주시지 않으면\n우리 애의{ff}목숨이@<END>
+[WORLD02_AREA080.EMI|sec11|body91|@0xf29|85B] {c0c:06}에미타이\n*결승에서 이길{ff}자신은 있어\n내 마법은{ff}무적이야@{02}하지만{fe}금주의 투기장에선\n난{ff}이 꼬맹이들한테\n의지할 수밖에 없는{fe}<PAUSE>평범한 남자야@<END>
+[WORLD02_AREA080.EMI|sec11|body92|@0xf7e|27B] 꼬맹이\n*에미타이 이기게{ff}해줘@\n부탁이야{fe}부탁이야<END>
+[WORLD02_AREA080.EMI|sec11|body93|@0xf99|59B] {c0c:05}{c04:01}\n*>안돼{fe}<PAUSE>에미타이님{02}우리도{ff}동료를\n인질로{ff}잡혀 있어서>{02}이기지 않으면{ff}안돼요<END>
+[WORLD02_AREA080.EMI|sec11|body94|@0xfd4|61B] {c0c:06}에미타이\n*그{fe}<PAUSE>그렇군요\n역시{ff}안 되는 거죠>{02}오오{fe}라이아>\n너를{ff}구하지 못하는{fe}아비를\n용서해 다오>><END>
+[WORLD02_AREA080.EMI|sec11|body95|@0x1011|9B] {c04:01}\n*>>>><END>
+[WORLD02_AREA080.EMI|sec11|body96|@0x101a|26B] {c0c:05}{c04:01}\n*뭔가>>\n싫어져 버렸어>><END>
+[WORLD02_AREA080.EMI|sec11|body97|@0x1034|51B] {c0c:06}산토\n*>>이봐{fe}꼬맹이들\n너희들{ff}제법이구나@{02}결승까지{ff}오다니\n대단한 녀석들이야@<END>
+[WORLD02_AREA080.EMI|sec11|body98|@0x1067|50B] {c0c:05}{c04:01}\n*>너한테{ff}칭찬받아도\n기쁘지 않아{02}그보다>>{ff}약속은\n지켜 줘야 돼<END>
+[WORLD02_AREA080.EMI|sec11|body99|@0x1099|51B] {c0c:06}산토\n*헤헤헤>{ff}그래야지>{02}다음{ff}결승전에서>\n{c04:00}가{ff}{c04:02}한테\n이긴다면{fe}<PAUSE>말이야><END>
+[WORLD02_AREA080.EMI|sec11|body100|@0x10cc|44B] {c0c:06}산토\n*>뭐냐{fe}축 처져 있구만{02}분위기를{ff}띄워 주지 않으면\n곤란한데 말이야><END>
+[WORLD02_AREA080.EMI|sec11|body101|@0x10f8|64B] {c0c:06}산토\n*>아{fe}<PAUSE>그렇지{02}저쪽{ff}대기실에는\n아직{fe}에미타이 일가가\n남아 있으니까>{02}가까이 안 가는 게{ff}좋을 거다<END>
+[WORLD02_AREA080.EMI|sec11|body102|@0x1138|74B] 가드너\n*>저{fe}<PAUSE>이런 말\n내가 하는 것도{ff}뭐하지만{02}언제까지나{ff}끙끙대지 말고\n다음 준비를{ff}하는 게\n좋지 않을까?<END>
+[WORLD02_AREA080.EMI|sec11|body103|@0x1182|49B] *>드디어{fe}결승이네요{02}출전하시는{fe}{c04:00}님은\n부를 때까지\n기다려 주세요<END>
+[WORLD02_AREA080.EMI|sec11|body104|@0x11b3|23B] 바리오\n*>결승 앞두고{ff}뭐야\n{c04:02}?<END>
+[WORLD02_AREA080.EMI|sec11|body105|@0x11ca|31B] {c0c:05}{c04:02}\n*>상대인{fe}저 아이\n대체{fe}뭐 하는 자냐?<END>
+[WORLD02_AREA080.EMI|sec11|body106|@0x11e9|33B] {c0c:06}산토\n*>뭐{fe}형님이{ff}진심이면\n적이 아니지만@<END>
+[WORLD02_AREA080.EMI|sec11|body107|@0x120a|38B] {c0c:06}산토\n*형님>{ff}혹시\n{c04:02} 형님{02}쫄고 있는 거 아냐@?<END>
+[WORLD02_AREA080.EMI|sec11|body108|@0x1230|33B] {c0c:06}산토\n*히익{fe}<PAUSE>자자{fe}잠깐만@\n노{fe}농담이야@<END>
+[WORLD02_AREA080.EMI|sec11|body109|@0x1251|34B] {c0c:06}산토\n*우리가{ff}한패인 게\n들통나면{ff}어쩌려구@?<END>
+[WORLD02_AREA080.EMI|sec11|body110|@0x1273|33B] 바리오\n*저 녀석은>{ff}<PAUSE>덩치는 작지만\n속은{ff}드래곤이야<END>
+[WORLD02_AREA080.EMI|sec11|body111|@0x1294|14B] 바리오\n*자자{fe}{c04:02}><END>
+[WORLD02_AREA080.EMI|sec11|body112|@0x12a2|31B] 바리오\n*우린{ff}그저>\n조심하라고{fe}<PAUSE>그런 거야?<END>
+[WORLD02_AREA080.EMI|sec11|body113|@0x12c1|24B] {c0c:05}{c04:02}\n*>드래곤 얘기\n정말이냐?<END>
+[WORLD02_AREA080.EMI|sec11|body114|@0x12d9|25B] 바리오\n*그래>{ff}하지만\n아까도{ff}말했잖아?<END>
+[WORLD02_AREA080.EMI|sec11|body115|@0x12f2|34B] 바리오\n*네가{ff}진심을 내면\n아무 걱정 없어>><END>
+[WORLD02_AREA080.EMI|sec11|body116|@0x1314|51B] {c0c:05}{c04:02}\n*>>{c04:00}라고 했나{02}전력을{ff}다하지 않으면\n죽게 될 거다>{02}라고{fe}만{ff}말해 두지<END>
+[WORLD02_AREA080.EMI|sec11|body117|@0x1347|141B] 아나운서\n*오오{c15:07}{c15:07}{fe}대뜸\n도발적이네요{fe}챔피언@{02}>아이 상대로{ff}어른답지 못하다\n고도 할 수 있지만{fe}어쨌든\n무시무시한 싸움이{ff}될 것 같습니다{02}>그럼{ff}시작해 봅시다{02}한라광렬대무회{fe}<PAUSE><PAUSE>파이널@{02}레디{c15:07}{c15:07}>{02}파이트@<END>
+[WORLD02_AREA080.EMI|sec11|body118|@0x13d4|39B] 아나운서\n*>>엄청난{ff}싸움도\n드{c15:07}{c15:07}디어{fe}결판입니다앗@<END>
+[WORLD02_AREA080.EMI|sec11|body119|@0x13fb|91B] 아나운서\n*>사투를{ff}제압한 것은\n역시{fe}이 사람이었습니다@{02}무적 전설@{02}걸어 다니는 한라광렬대무회@{02}챔피언@\n미스터:다이너마이츠@\n{c04:02}앗@@<END>
+[WORLD02_AREA080.EMI|sec11|body120|@0x1456|68B] 아나운서\n*축하드립니다\n챔피언@@{02}>>곧바로지만{fe}여기서\n{c04:02}님의\n{c05:02}원하는 물건{06}을{ff}여쭙겠습니다<END>
+[WORLD02_AREA080.EMI|sec11|body121|@0x149a|45B] 아나운서\n*프레젠테이터\n바리오 씨{c15:07}{c15:07}@{02}부탁드립니{c15:07}{c15:07}{c15:07}다앗@<END>
+[WORLD02_AREA080.EMI|sec11|body122|@0x14c7|59B] {c0c:05}{c04:02}\n*>>뭐든{ff}원하는 걸\n받을 수 있다고 했지?{02}>그렇다면{fe}{c04:00}와\n그 동료를{ff}받기로 하지<END>
+[WORLD02_AREA080.EMI|sec11|body123|@0x1502|30B] 바리오\n*뭐{fe}<PAUSE>뭐 미쳤냐@\n얘기가 다르잖아>?<END>
+[WORLD02_AREA080.EMI|sec11|body124|@0x1520|89B] {c0c:05}{c04:02}\n*>한라광렬대무회의 승자에게는\n{c05:02}뭐든{06}{ff}원하는 물건이 주어진다{02}>>틀렸나?{02}정 뭣하면{fe}네\n목숨이라도>{ff}<PAUSE>상관없는데?<END>
+[WORLD02_AREA080.EMI|sec11|body125|@0x1579|64B] 아나운서\n*>>챔피언\n{c04:02}님에게는{02}{c04:00}님과{fe}그 동료가\n주어집니{c15:07}{c15:07}다@?{02}>>그래도{fe}괜찮은 건가?<END>
+[WORLD02_AREA080.EMI|sec11|body126|@0x15b9|20B] {c04:01}\n*>>{c04:00}@\n정신 들었구나@<END>
+[WORLD02_AREA080.EMI|sec11|body127|@0x15cd|24B] {c0c:06}{c04:02}\n*>봐줬다고는{fe}생각하는데?<END>
+[WORLD02_AREA080.EMI|sec11|body128|@0x15e5|44B] {c0c:06}{c04:02}\n*좋아>>{02}이제{fe}너희들의{ff}신병은\n내가{fe}맡게 되었다><END>
+[WORLD02_AREA080.EMI|sec11|body129|@0x1611|38B] {c0c:06}{c04:02}\n*>흠{fe}<PAUSE>그렇군{02}또 한 명{ff}인질이\n있었다고 했지>><END>
+[WORLD02_AREA080.EMI|sec11|body130|@0x1637|25B] {c04:01}\n*>우리도\n가는 게{ff}좋겠어<END>
+[WORLD02_AREA080.EMI|sec11|body131|@0x1650|11B] {c04:01}\n*다행이야><END>
+[WORLD02_AREA080.EMI|sec11|body132|@0x165b|23B] {c0c:05}{c04:01}\n*>에미타이님\n>>미안해요<END>
+[WORLD02_AREA080.EMI|sec11|body135|@0x1672|11B] *수고하셨어요<END>
+[WORLD02_AREA080.EMI|sec11|body145|@0x167d|22B] *너희들의{ff}투기장은\n여기가 아니야<END>
+[WORLD02_AREA080.EMI|sec11|body160|@0x1693|39B] *너희들{fe}큰일이네\n이렇게 강해 보이는{ff}사람들이랑\n싸워야 하다니<END>
+[WORLD02_AREA080.EMI|sec11|body161|@0x16ba|29B] *흥{fe}애들인가>\n지금이라도{ff}도망치는 게 좋을걸<END>
+[WORLD02_AREA080.EMI|sec11|body162|@0x16d7|46B] *1회전이{ff}애들이라\n편해서 좋았어>{02}우리 목표는{ff}하나\n{c04:02}니까<END>
+[WORLD02_AREA080.EMI|sec11|body163|@0x1705|38B] *이번{ff}출전자들 중에선\n적이라 부를 만한 건\n{c04:02}뿐이에요>><END>
+[WORLD02_AREA080.EMI|sec11|body164|@0x172b|55B] *>도다이족은{ff}몸의\n강함엔{ff}자신이 있지만{02}{c04:02}님한테{ff}당하면\n위험할지도 몰라><END>
+[WORLD02_AREA080.EMI|sec11|body165|@0x1762|63B] *야아{fe}{c04:02}님\n강하다 강해@{02}발판인 내가{fe}무겁다고\n생각할 틈도{ff}없을 만큼\n순식간에{ff}해치워 버렸어@<END>
+[WORLD02_AREA080.EMI|sec11|body166|@0x17a1|16B] *>대단했어\n{c04:02}님@<END>
+[WORLD02_AREA080.EMI|sec11|body167|@0x17b1|28B] *올해도{ff}챔피언은\n양보 못 한다<PAUSE>는{ff}느낌이네@<END>
+[WORLD02_AREA080.EMI|sec11|body168|@0x17cd|38B] *이 사람들{fe}진짜로>{02}앗{02} 하는 사이에{ff}당했어\n셋 다@<END>
+[WORLD02_AREA080.EMI|sec11|body169|@0x17f3|74B] *으음{fe}한심하다@\n정신집중 부족 탓이다@{02}중얼중얼중얼중얼중얼중얼중얼\n중얼중얼중얼중얼중얼중얼중얼\n중얼중얼중얼중얼중얼중얼중얼<END>
+[WORLD02_AREA080.EMI|sec11|body170|@0x183d|35B] *>이 나의{ff}연기에\n통하지 않다니\n제법이군요?<END>
+[WORLD02_AREA080.EMI|sec11|body171|@0x1860|19B] *>분명{fe}당신\n너무 느끼했던 거야<END>
+[WORLD02_AREA080.EMI|sec11|body172|@0x1873|23B] *저기{fe}이제\n콜록콜록{fe}안 해도 되는 거야?<END>
+[WORLD02_AREA080.EMI|sec11|body173|@0x188a|52B] *나{fe}완전히\n속았었어@{02}>분명{ff}에미타이님\n1회전도{ff}이 수법을\n썼던 거구나<END>
+[WORLD02_AREA080.EMI|sec11|body174|@0x18be|40B] *>뭐야{fe}에미타이는\n마법이 아니라{fe}심리전이\n특기였던 거냐<END>
+[WORLD02_AREA080.EMI|sec11|body175|@0x18e6|35B] *>뭐{fe}힘내라구{02}너희들의{ff}팬도\n늘어나고 있는{ff}참이고 말야?<END>
+[WORLD02_AREA080.EMI|sec11|body176|@0x1909|32B] *흥>>\n결승에 남았나>?{02}역시{fe}요행은 아니었군<END>
+[WORLD02_AREA080.EMI|sec11|body177|@0x1929|45B] *너희들{fe}결승?{02}안됐네>{ff}그게\n그{fe}우락부락한 녀석이랑\n싸우는 거잖아@?<END>
+[WORLD02_AREA080.EMI|sec11|body178|@0x1956|76B] 에미타이\n*>후우{fe}<PAUSE>간단히는\n안 되는 거군{02}>>이 기술은{fe}결승까지\n보여주고 싶지 않았지만\n어쩔 수 없지{02}간다{fe}{c05:02}꼬맹이{06}들아@<END>
+[WORLD02_AREA080.EMI|sec11|body208|@0x19a2|59B] 아나운서\n*>>에미타이님\n어떻게 된 걸까요?{02}에미타이 씨{c15:07}{c15:07}@\n입장해 주세{c15:07}{c15:07}요옷@<END>
+[WORLD02_AREA080.EMI|sec11|body209|@0x19dd|55B] {c0c:05}에미타이\n*>말한 대로\n나는{fe}아무것도 못 해{02}{c05:02}꼬맹이{06}들한테{ff}맡기고\n구경하고 있자고><END>
+[WORLD02_AREA080.EMI|sec11|body210|@0x1a14|65B] 아나운서\n*꼬{fe}<PAUSE>꼬맹이라니>>@?{02}뭐{fe}<PAUSE>뭐{ff}시간도 빠듯하니\n에미타이:팀{ff}VS\n{c04:00}:팀전{fe}<PAUSE>시작@<END>
+[WORLD02_AREA080.EMI|sec11|body211|@0x1a55|17B] {c0c:05}에미타이\n*으윽><PAUSE>><PAUSE>><END>
+[WORLD02_AREA080.EMI|sec11|body212|@0x1a66|19B] {c0c:05}에미타이\n*오오{fe}<PAUSE><PAUSE>라이아>><END>
+[WORLD02_AREA080.EMI|sec11|body213|@0x1a79|34B] {c0c:05}에미타이\n*끄윽>{ff}<PAUSE>간단히는>\n안 되는군>>{ff}<PAUSE><PAUSE>끄붑<END>
+[WORLD02_AREA080.EMI|sec11|body214|@0x1a9b|44B] *네{fe}<PAUSE>네엣\n축하드립니다@{02}{c04:00}님 팀\n2차전도 돌파입니다@<END>
+[WORLD02_AREA080.EMI|sec11|body215|@0x1ac7|55B] *난{ff}마법만이\n장기라서 말이지>{02}금주의 투기장에선{fe}이\n꼬맹이들한테{ff}의지할 수밖에\n없어요><END>
+[WORLD02_AREA080.EMI|sec11|body217|@0x1afe|11B] *나{fe}팬티온@<END>
+[WORLD02_AREA080.EMI|sec11|body218|@0x1b09|10B] *나{fe}파이어@<END>
+[WORLD02_AREA080.EMI|sec11|body219|@0x1b13|49B] *있잖아{fe}아빠{ff}괜찮아?\n마법{ff}못 써도\n안 지지?{02}{0d}콜록콜록콜록콜록{0e}{0f}{19}<END>
+[WORLD02_AREA080.EMI|sec11|body220|@0x1b44|56B] *괜찮아\n아빠는{ff}세계 제일의 마술사\n에미타이인걸>{02}무슨 일이 있어도\n지거나 하지 않아><END>
+[WORLD02_AREA080.EMI|sec11|body221|@0x1b7c|21B] {c0c:03}에미타이\n*방금{fe}등장했소@@<END>
+[WORLD02_AREA080.EMI|sec11|body222|@0x1b91|96B] 아나운서\n*모여 주신{ff}여러분@{02}세계에{ff}이름난\n{0d}빅{0e}{0f}{03}:이벤트@\n한라광렬대무회도{ff}드디어>{02}드디어{ff}결승이\n되었습니다앗{c15:07}{c15:07}{c15:07}@<END>
+[WORLD02_AREA080.EMI|sec11|body223|@0x1bf1|104B] 아나운서\n*먼저{fe}챌린저의\n입장입니다앗@{02}강적을{ff}쓰러뜨리고@\n올라온 것은{fe}무려@\n아이들이앗@@{02}그리고{fe}그 리더는\n슈퍼 어린이\n{c04:00}다아{c15:07}{c15:07}앗@@<END>
+[WORLD02_AREA080.EMI|sec11|body224|@0x1c59|68B] 아나운서\n*><PAUSE>><PAUSE>><PAUSE>>그리고앗@\n맞서 싸우는 건{fe}이 사람@{02}한라광렬대무회는\n이 사람 없이는{ff}논할 수 없습니다@<END>
+[WORLD02_AREA080.EMI|sec11|body225|@0x1c9d|61B] 아나운서\n*공포의 날개@{02}일격필살의 사나이@{02}>전설의 챔피언@{02}미스터:다이너마이츠\n{c04:02}@@<END>
+[WORLD02_AREA080.EMI|sec11|body226|@0x1cda|27B] *>이 투기장은{fe}지금\n출입할 수 없습니다<END>
+[WORLD02_AREA080.EMI|sec11|body227|@0x1cf5|25B] *후우>{ff}드디어\n대무회도{ff}끝났네<END>
+[WORLD02_AREA080.EMI|sec11|body228|@0x1d0e|30B] *수고하셨습니다\n>올해 대무회는{fe}끝<END>
+[WORLD02_AREA080.EMI|sec11|body229|@0x1d2c|41B] *그나저나{fe}결승전\n대단했지@{02}올해의{ff}베스트:바우트네@<END>
+[WORLD02_AREA080.EMI|sec11|body230|@0x1d55|28B] *너희들{fe}{c04:02}한테\n맞서는 것만으로도\n장하다@<END>
+[WORLD02_AREA080.EMI|sec11|body231|@0x1d71|23B] *케니치라는 녀석\n기분 나빴지?<END>
+[WORLD02_AREA080.EMI|sec11|body232|@0x1d88|28B] *난{fe}맥3형제가\n기분 나빴어><END>

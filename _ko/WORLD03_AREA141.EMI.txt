@@ -1,0 +1,29 @@
+[WORLD03_AREA141.EMI|sec11|body0|@0x231|25B] 몸 깊은 곳에서{fe}힘이\n솟아오르는 느낌이 든다><END>
+[WORLD03_AREA141.EMI|sec11|body1|@0x24a|28B] *마음 가는 대로{fe}대답하라>\n보물을 원하느냐?{c14:00}{c0c:02}예<END>
+[WORLD03_AREA141.EMI|sec11|body2|@0x26a|52B] *마음을 가다듬고{ff}나에게 기도를\n올릴지어다>{02}몸과 마음을{fe}함부로 움직이지 않는 자에게\n길을 내리리라><END>
+[WORLD03_AREA141.EMI|sec11|body3|@0x29e|19B] *마음 가는 대로{fe}가라>\n내 아이여<END>
+[WORLD03_AREA141.EMI|sec11|body4|@0x2b1|6B] *그런가><END>
+[WORLD03_AREA141.EMI|sec11|body5|@0x2b7|6B] *그런가><END>
+[WORLD03_AREA141.EMI|sec11|body6|@0x2bd|17B] *마음이{ff}이끄는 대로 가라><END>
+[WORLD03_AREA141.EMI|sec11|body7|@0x2ce|22B] 여기까지의 기록을 남길까요?{c14:01}{c0c:02}예<END>
+[WORLD03_AREA141.EMI|sec11|body8|@0x2e8|35B] {c0c:06}{c04:03}\n*어떠냐>{fe}{c04:00}{02}여기는>{fe}말하자면\n네 마음 속이다><END>
+[WORLD03_AREA141.EMI|sec11|body10|@0x30b|59B] {c0c:06}{c04:03}\n*여기서{fe}너 자신과>{02}네가{fe}동료라 믿는\n자들의 마음과>{02}마주해{fe}보면 좋겠지><END>
+[WORLD03_AREA141.EMI|sec11|body11|@0x346|52B] {c0c:06}{c04:03}\n*그러면{fe}알게 될 거다>{02}내가>{fe}여신 미리아님이>\n옳다는 것을>><END>
+[WORLD03_AREA141.EMI|sec11|body12|@0x37a|17B] {c0c:06}{c04:03}\n*자{fe}가라>{ff}{c04:00}<END>
+[WORLD03_AREA141.EMI|sec11|body13|@0x38b|40B] {c0c:03}{c04:01}\n*내가{fe}뭔가 하려고 하면\n어김없이{fe}어머님은 말씀하셨어><END>
+[WORLD03_AREA141.EMI|sec11|body14|@0x3b3|56B] {c04:01}\n*그게{fe}윈디아의\n왕녀로서>{02}틀리지 않았는지{fe}아닌지>\n어머님은{fe}내게 물으셨어<END>
+[WORLD03_AREA141.EMI|sec11|body15|@0x3eb|34B] {c04:01}\n*네{fe}어머님>{02}>>난{fe}그 말만\n했었어<END>
+[WORLD03_AREA141.EMI|sec11|body16|@0x40d|88B] {c0c:02}{c04:01}\n*성을 나와서{fe}{c04:00}랑>\n다 같이{fe}여행하면서{02}난{fe}처음으로\n어머님의 자식이 아닌>{02}윈디아의 왕녀가 아닌>{02}{c04:01}가{fe}될 수 있었어>\n하지만><PAUSE>><PAUSE>><END>
+[WORLD03_AREA141.EMI|sec11|body17|@0x465|30B] {c0c:06}{c04:01}\n*그건{fe}네가\n제멋대로 구는 것뿐이야@<END>
+[WORLD03_AREA141.EMI|sec11|body18|@0x483|56B] {c0c:06}{c04:01}\n*{c04:00}의>\n용족에 대한 일은>>{02}꼭 알아야{ff}하는\n무척 중요한 일로\n여겨졌지만><END>
+[WORLD03_AREA141.EMI|sec11|body19|@0x4bb|56B] {c0c:06}{c04:01}\n*모르겠어>{02}그냥{fe}어머님이 시키는 대로\n하기 싫어서{02}뛰쳐나온{fe}것뿐일지도><END>
+[WORLD03_AREA141.EMI|sec11|body20|@0x4f3|16B] {c0c:04}{c04:04}\n*용의 힘>{fe}인가><END>
+[WORLD03_AREA141.EMI|sec11|body21|@0x503|71B] {c0c:04}{c04:04}\n*이 몸이{fe}필사적으로>{02}쓰지 않으려{ff}애써 온\n변신 능력이>{02}용의 힘 앞에선\n그야말로{fe}애 취급이야><END>
+[WORLD03_AREA141.EMI|sec11|body22|@0x54a|14B] {c0c:04}{c04:04}\n*유쾌하군><END>
+[WORLD03_AREA141.EMI|sec11|body23|@0x558|46B] {c04:04}\n*어떻게{fe}그런 큰 힘을\n지닐 수 있는 거지?{02}만약 내게{fe}그 힘이 있다면><END>
+[WORLD03_AREA141.EMI|sec11|body24|@0x586|57B] {c04:04}\n*아니>{fe}<PAUSE>알고 있어>{02}난{fe}그런 힘을\n다룰 수는{ff}없어>{02}나로선{fe}안 되는 거야><END>
+[WORLD03_AREA141.EMI|sec11|body25|@0x5bf|39B] {c0c:05}{c04:05}\n*우리>{ff}아빠가\n기계 문명 이야기를{ff}해줬어><END>
+[WORLD03_AREA141.EMI|sec11|body26|@0x5e6|55B] {c0c:05}{c04:05}\n*수많은 기계를\n만들어낸 시대에 대해>{02}아는 게{fe}아빠의>\n꿈이었어<END>
+[WORLD03_AREA141.EMI|sec11|body27|@0x61d|36B] {c0c:05}{c04:05}\n*난{fe}지금>\n거기에{ff}다가가고 있어{02}>>아빠<END>
+[WORLD03_AREA141.EMI|sec11|body28|@0x641|56B] {c0c:06}{c04:05}\n*용의 힘>{fe}<PAUSE>여신>\n잘 모르겠어>{02}세계와 관련된 일?\n나한텐{fe}너무 커><END>
+[WORLD03_AREA141.EMI|sec11|body29|@0x679|56B] {c0c:06}{c04:05}\n*그냥>>{02}여신에{fe}다가가면\n기계를{ff}만들어낸 시대에도\n다가가는 기분이 들어><END>

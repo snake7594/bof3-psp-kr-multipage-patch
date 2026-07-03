@@ -1,0 +1,20 @@
+[WORLD02_AREA112.EMI|sec11|body0|@0x205|64B] {0a}{0a}{ff}{ff}포{fc}트:드라이브 기동{0a}{c0c:01}{0a}<PAUSE>{ff}현재 위치는{ff}릴레{fc}이 포인트 A\n{0a}{0a}{ff}이동할 곳을{ff}입력해 주세요{0a}{c0c:14}<END>
+[WORLD02_AREA112.EMI|sec11|body1|@0x268|46B] 워{fc}프 목적지{ff}<PAUSE>><PAUSE>><PAUSE>><PAUSE>><PAUSE>>\n방향 설정 불가\n안테나를 확인해 주세요<END>
+[WORLD02_AREA112.EMI|sec11|body2|@0x296|192B] {0a}<PAUSE>{ff}{ff}{ff}이동할 곳{ff}콜로니{fc}\n{0a}{0a}{ff}{ff}{ff}{ff}방향 설정 완료{0a}{c0c:00}{0a}<PAUSE>{ff}{ff}이동할 곳{ff}드래고니{fc}어\n{0a}{0a}{ff}{ff}{ff}{ff}방향 설정 완료{0a}{c0c:00}{0a}<PAUSE>{ff}{ff}이동할 곳{ff}컨테이너 야{fc}드\n{0a}{0a}{ff}{ff}{ff}{ff}방향 설정 완료{0a}{c0c:00}{0a}<PAUSE>{ff}이동할 곳{ff}릴레{fc}이 포인트 B\n{0a}{0a}{ff}{ff}{ff}{ff}방향 설정 완료{0a}{c0c:00}잭 동작 설명이라고 적혀 있다\n읽어 볼래?{c14:01}{c0c:02}예<END>
+[WORLD02_AREA112.EMI|sec11|body3|@0x2bc|154B] {0a}<PAUSE>{ff}{ff}이동할 곳{ff}드래고니{fc}어\n{0a}{0a}{ff}{ff}{ff}{ff}방향 설정 완료{0a}{c0c:00}{0a}<PAUSE>{ff}{ff}이동할 곳{ff}컨테이너 야{fc}드\n{0a}{0a}{ff}{ff}{ff}{ff}방향 설정 완료{0a}{c0c:00}{0a}<PAUSE>{ff}이동할 곳{ff}릴레{fc}이 포인트 B\n{0a}{0a}{ff}{ff}{ff}{ff}방향 설정 완료{0a}{c0c:00}잭 동작 설명이라고 적혀 있다\n읽어 볼래?{c14:01}{c0c:02}예<END>
+[WORLD02_AREA112.EMI|sec11|body4|@0x2e3|115B] {0a}<PAUSE>{ff}{ff}이동할 곳{ff}컨테이너 야{fc}드\n{0a}{0a}{ff}{ff}{ff}{ff}방향 설정 완료{0a}{c0c:00}{0a}<PAUSE>{ff}이동할 곳{ff}릴레{fc}이 포인트 B\n{0a}{0a}{ff}{ff}{ff}{ff}방향 설정 완료{0a}{c0c:00}잭 동작 설명이라고 적혀 있다\n읽어 볼래?{c14:01}{c0c:02}예<END>
+[WORLD02_AREA112.EMI|sec11|body5|@0x30b|75B] {0a}<PAUSE>{ff}이동할 곳{ff}릴레{fc}이 포인트 B\n{0a}{0a}{ff}{ff}{ff}{ff}방향 설정 완료{0a}{c0c:00}잭 동작 설명이라고 적혀 있다\n읽어 볼래?{c14:01}{c0c:02}예<END>
+[WORLD02_AREA112.EMI|sec11|body6|@0x333|35B] 잭 동작 설명이라고 적혀 있다\n읽어 볼래?{c14:01}{c0c:02}예<END>
+[WORLD02_AREA112.EMI|sec11|body8|@0x35a|47B] 잭에 관한 거다>{02}서쪽 스위치\n동>DN{ff}{ff}서>UP\n남>--{ff}{ff}북>DN<END>
+[WORLD02_AREA112.EMI|sec11|body9|@0x389|47B] 잭에 관한 거다>{02}동쪽 스위치\n동>UP{ff}{ff}서>DN\n남>--{ff}{ff}북>UP<END>
+[WORLD02_AREA112.EMI|sec11|body10|@0x3b8|47B] 잭에 관한 거다>{02}남쪽 스위치\n동>--{ff}{ff}서>UP\n남>UP{ff}{ff}북>DN<END>
+[WORLD02_AREA112.EMI|sec11|body11|@0x3e7|47B] 잭에 관한 거다>{02}북쪽 스위치\n동>--{ff}{ff}서>--\n남>--{ff}{ff}북>UP<END>
+[WORLD02_AREA112.EMI|sec11|body12|@0x416|121B] {0a}{0a}{10}{ff}{ff}{ff}릴레{fc}이 포인트:A\n{ff}{ff}안테나 작동 불량으로 인해\n{ff}수신 모{fc}드로 되어 있습니다{fd}{11}{0a}{c0c:02}{0a}{0a}{10}{ff}{ff}포{fc}트 간 이동을 하기 전에\n안테나를 확인해 주세요{fd}{11}{0a}{c0c:00}{c0c:05}{c04:05}\n*안 돼{fe}허니{fc}>\n어디 가는 거야{fc}@?<END>
+[WORLD02_AREA112.EMI|sec11|body13|@0x476|25B] {c0c:05}{c04:05}\n*안 돼{fe}허니{fc}>\n어디 가는 거야{fc}@?<END>
+[WORLD02_AREA112.EMI|sec11|body14|@0x48f|17B] {c0c:05}{c04:01}\n*앗{fe}허니{fc}가@?<END>
+[WORLD02_AREA112.EMI|sec11|body15|@0x4a0|30B] {c0c:05}{c04:04}\n*어{fe}어이>{ff}뭔가\n쪼끄만 게 달려오는데?<END>
+[WORLD02_AREA112.EMI|sec11|body16|@0x4be|17B] {c0c:05}{c04:02}\n*음{fe}무슨 일이냐>?<END>
+[WORLD02_AREA112.EMI|sec11|body17|@0x4cf|28B] 먼저{fe}허니{fc}를 쫓아가는 편이\n좋을지도 모른다><END>
+[WORLD02_AREA112.EMI|sec11|body18|@0x4eb|131B] 4개의 스위치는{fe}각각\n한 번씩만{ff}움직일 수 있다{fd}{02}스위치 하나에{fe}\n하나 이상의 잭이\n연동된 경우가 있다{fd}{02}이 플레{fc}이트의 버튼을 누르면\n잭은 원래 상태로\n리셋된다{fd}{02}>리셋할까?{c14:02}{c0c:02}예<END>
+[WORLD02_AREA112.EMI|sec11|body19|@0x55d|17B] >리셋할까?{c14:02}{c0c:02}예<END>
+[WORLD02_AREA112.EMI|sec11|body20|@0x572|50B] 캣워{fc}크에\n사람이 있습니다{02}위험합니다@\n사람이{ff}비킨 다음에\n조작을{ff}해 주세요<END>

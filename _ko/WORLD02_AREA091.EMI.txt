@@ -1,0 +1,21 @@
+[WORLD02_AREA091.EMI|sec11|body0|@0x288|49B] 어라?{c05:02}플라워{fc}주얼{06}을\n벌써{fe}가지고 있어?그럼{fe}나한테 줘봐@{c14:00}{c0c:02}돌려주기<END>
+[WORLD02_AREA091.EMI|sec11|body1|@0x2bf|73B] 메를리{fc}프\n*기다리고 있었어{ff}{c04:00}{02}나{fe}심심해서\n죽는 줄 알았다구{02}그런데{fe}{c05:02}플라워{fc}주얼{06}은\n찾았어?{c14:00}{c0c:02}돌려주기<END>
+[WORLD02_AREA091.EMI|sec11|body3|@0x2e7|33B] 그런데{fe}{c05:02}플라워{fc}주얼{06}은\n찾았어?{c14:00}{c0c:02}돌려주기<END>
+[WORLD02_AREA091.EMI|sec11|body4|@0x30d|83B] 캬하하\n고마워{ff}{c04:00}{02}약속이니까{ff}모두에게\n우리들의{ff}비밀\n가르쳐 줄게{02}제자로{ff}들어오면\n아무튼\n{c05:03}재빨라{06}{ff}진다구<END>
+[WORLD02_AREA091.EMI|sec11|body5|@0x360|39B] 으응{c15:07}{c15:07}{c15:07}\n안 가지고\n있잖아@{02}그럼{c15:07}{ff}안녕이야<END>
+[WORLD02_AREA091.EMI|sec11|body6|@0x379|14B] 그럼{c15:07}{ff}안녕이야<END>
+[WORLD02_AREA091.EMI|sec11|body7|@0x387|35B] 메를리{fc}프\n*모두가{fe}와 주기를\n기대하며{ff}기다리고 있었어@<END>
+[WORLD02_AREA091.EMI|sec11|body8|@0x3aa|33B] 모두에게{ff}여러 가지\n비밀{ff}가르쳐 줄게{c14:01}{c0c:02}가르쳐줘<END>
+[WORLD02_AREA091.EMI|sec11|body9|@0x3d0|32B] 어라{c15:07}?모두\n우리들의{ff}비밀을\n배우고 있는 것 같아<END>
+[WORLD02_AREA091.EMI|sec11|body10|@0x3f0|43B] 에엥{c15:07}{ff}정말로{fe}\n우리들의{ff}비밀 같은 건\n필요 없어진 거야?{c14:02}{c0c:02}응<END>
+[WORLD02_AREA091.EMI|sec11|body11|@0x41f|35B] 뭐야@모두\n우리들의{ff}비밀을\n안 배웠잖아@<END>
+[WORLD02_AREA091.EMI|sec11|body12|@0x442|33B] *그럼\n{c07:00}{ff}에게{ff}우리들의\n비밀을{ff}가르쳐 줄게<END>
+[WORLD02_AREA091.EMI|sec11|body13|@0x463|33B] 다른{ff}사람들도\n우리 비밀{ff}알고 싶어?{c14:03}{c0c:02}가르쳐줘<END>
+[WORLD02_AREA091.EMI|sec11|body14|@0x489|41B] *으{c15:07}{ff}슬프지만\n{c07:00}{ff}에게는{fe}우리들의\n비밀 같은 건{ff}필요 없는 거구나><END>
+[WORLD02_AREA091.EMI|sec11|body15|@0x4b2|45B] 다른 사람 중에{fe};비밀{ff}같은 거\n필요 없어@<라고 하는 사람\n없겠지?{c14:04}{c0c:02}필요해<END>
+[WORLD02_AREA091.EMI|sec11|body16|@0x4e4|67B] {c07:00}{ff}은(는){fe}\n우리들의 비밀을\n꽤{ff}익힌 것 같네{02}상으로\n이거{fe}줄게{02}{c07:00}은(는)\n{c05:02}{c07:01}{06}{ff}을(를) 익혔다@<END>
+[WORLD02_AREA091.EMI|sec11|body17|@0x527|16B] 누가{ff}제자가 될래?<END>
+[WORLD02_AREA091.EMI|sec11|body18|@0x537|16B] 누가{ff}제자를 그만둘래?<END>
+[WORLD02_AREA091.EMI|sec11|body19|@0x547|23B] 이 사람으로{ff}괜찮습니까?{ff}{ff}예{ff}아니오<END>
+[WORLD02_AREA091.EMI|sec11|body20|@0x55e|22B] 그만둘까요?{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}예{ff}아니오<END>
+[WORLD02_AREA091.EMI|sec11|body21|@0x574|27B] 숲의 정령이{ff}깃든다고 전해지는\n맑은{ff}샘<END>

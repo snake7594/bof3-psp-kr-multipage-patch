@@ -1,0 +1,58 @@
+[WORLD01_AREA053.EMI|sec11|body0|@0x206|21B] {c0c:06}{c04:05}\n*있잖아>{ff}허니{fc}못 봤{fc}어?<END>
+[WORLD01_AREA053.EMI|sec11|body1|@0x21b|20B] {c0c:06}{c04:05}\n*벌{fc}>{ff}어디 갔지{fc}?<END>
+[WORLD01_AREA053.EMI|sec11|body2|@0x22f|21B] {c0c:06}{c04:05}\n*어{c15:07}{c15:07}이{fe}허니{c15:07}{c15:07}><END>
+[WORLD01_AREA053.EMI|sec11|body3|@0x244|18B] {c0c:03}{c04:01}\n*>>{c04:00}?\n{c04:02}씨?<END>
+[WORLD01_AREA053.EMI|sec11|body4|@0x256|19B] {c0c:06}{c04:05}\n*{c04:01}{fe}<PAUSE>무슨 일이야{fc}@?<END>
+[WORLD01_AREA053.EMI|sec11|body5|@0x269|25B] {c0c:05}{c04:01}\n*{c04:05}씨@\n허니{fc}가><PAUSE>{ff}허니{fc}가@<END>
+[WORLD01_AREA053.EMI|sec11|body6|@0x282|49B] {c04:05}\n*으{c15:07}{c15:07}응>>\n전기가 끊긴{ff}건가{fc}>?{02}>아무튼{ff}텐트 안으로\n데려와<END>
+[WORLD01_AREA053.EMI|sec11|body7|@0x2b3|31B] {c04:02}\n*>허니는{02}{c04:05}들에게\n맡겨두면{fe}된다><END>
+[WORLD01_AREA053.EMI|sec11|body8|@0x2d2|30B] {c04:02}\n*그보다도>>{02}네게>\n해둘 말이{fe}있다<END>
+[WORLD01_AREA053.EMI|sec11|body9|@0x2f0|51B] {c04:02}\n*이제부터{fe}향할\n동쪽 땅에서>{02}너는{fe}용족에 대해\n알 수가{fe}있다>><END>
+[WORLD01_AREA053.EMI|sec11|body10|@0x323|33B] {c04:02}\n*허나>{ff}경우에 따라선\n너는{fe}그곳에서>>{02}죽는다<END>
+[WORLD01_AREA053.EMI|sec11|body11|@0x344|21B] {c04:01}\n*죽는다><PAUSE>{ff}니\n{c04:00}가>>@?<END>
+[WORLD01_AREA053.EMI|sec11|body12|@0x359|57B] {c04:01}\n*어째서{fe}{c04:00}가\n죽는다는{ff}거야@?{02}{c04:00}는{ff}드래곤에 대해\n조사하러 가는{ff}것뿐이잖아?<END>
+[WORLD01_AREA053.EMI|sec11|body13|@0x392|37B] {c04:02}\n*세계를{ff}멸망시킬 만한\n힘을 가진{ff}생물이니까><END>
+[WORLD01_AREA053.EMI|sec11|body14|@0x3b7|32B] {c04:02}\n*그 정도의{ff}각오가\n필요하다는{fe}뜻이다><END>
+[WORLD01_AREA053.EMI|sec11|body15|@0x3d7|61B] {c04:01}\n*>{c04:00}가{ff}그런\n위험한 드래곤일 리 없어{02}{c04:00}는{ff}언제나\n용의 힘으로{ff}나를\n구해줬는걸>><END>
+[WORLD01_AREA053.EMI|sec11|body16|@0x414|19B] {c04:01}\n*>>나도{fe}<PAUSE>갈래요@<END>
+[WORLD01_AREA053.EMI|sec11|body17|@0x427|60B] {c04:01}\n*내가{ff}모르는 곳에서\n{c04:00}가{fe}죽다니{02}>>싫은걸{02}{c04:00}는{fe}나쁜 드래곤이\n아닌걸@<END>
+[WORLD01_AREA053.EMI|sec11|body18|@0x463|37B] {c0c:06}{c04:05}\n*아{fc}아>{ff}모처럼 왔는데\n동력선{fe}없으면 안 되{fc}><END>
+[WORLD01_AREA053.EMI|sec11|body19|@0x488|28B] {c04:02}\n*가도도{fe}못 쓴다면>\n속수무책이군<END>
+[WORLD01_AREA053.EMI|sec11|body20|@0x4a4|35B] {c0c:06}{c04:05}\n*등대에{ff}불을 켜면>\n배{fe}돌아올까?<END>
+[WORLD01_AREA053.EMI|sec11|body21|@0x4c7|57B] {c04:02}\n*아무리{fe}기계에 강해도{02}길드가{fe}외부인에게\n등대를{ff}건드리게\n할 리는 없{fe}겠지><END>
+[WORLD01_AREA053.EMI|sec11|body22|@0x500|27B] {c0c:06}{c04:05}\n*그럼{fe}당분간은\n여기서{fe}발 묶이는 건가{fc}><END>
+[WORLD01_AREA053.EMI|sec11|body23|@0x51b|45B] {c0c:05}{c04:01}\n*있잖아>>{02}샤드 씨는\n베이트 씨를\n좋아하는 거{fe}아닐까?<END>
+[WORLD01_AREA053.EMI|sec11|body24|@0x548|38B] {c0c:06}{c04:05}\n*그{fe}<PAUSE>그건\n그럴지도{ff}모르지만>{02}그게{fe}어쨌다고{fc}?<END>
+[WORLD01_AREA053.EMI|sec11|body25|@0x56e|33B] {c0c:05}{c04:01}\n*>그래서{fe}베이트 씨도\n샤드 씨를{ff}좋아하는 거야<END>
+[WORLD01_AREA053.EMI|sec11|body26|@0x58f|27B] {c0c:05}{c04:01}\n*근데{fe}베이트 씨가\n말을 못 꺼내고>><END>
+[WORLD01_AREA053.EMI|sec11|body27|@0x5aa|60B] {c0c:05}{c04:01}\n*내가{fe}베이트 씨한테\n용기 내라고{fe}말해줄래{02}안 그러면{fe}샤드 씨도\n불쌍하잖아?<END>
+[WORLD01_AREA053.EMI|sec11|body28|@0x5e6|45B] {c0c:06}{c04:02}\n*>모습은{fe}달라도{02}나는{fe}본래{ff}저들과 같은\n울칸 백성이다><END>
+[WORLD01_AREA053.EMI|sec11|body29|@0x613|66B] {c0c:06}{c04:02}\n*가{fc}디언이란\n나 같은>{02}전투용{ff}울칸인의\n명칭이다>{02}사악한 것에게서{ff}백성을 지키는 자<END>
+[WORLD01_AREA053.EMI|sec11|body30|@0x655|26B] {c0c:04}{c04:01}\n*>{c04:00}{fe}{c04:02}씨\n아직{ff}안 자?<END>
+[WORLD01_AREA053.EMI|sec11|body31|@0x66f|35B] {c0c:06}{c04:02}\n*요전에{fe}말한>>\n네가{ff}죽을지도 모른단 얘기 말이다><END>
+[WORLD01_AREA053.EMI|sec11|body32|@0x692|34B] {c0c:06}{c04:02}\n*아니>{ff}됐다>>{02}유적에 가면{ff}알 일이다><END>
+[WORLD01_AREA053.EMI|sec11|body33|@0x6b4|16B] {c0c:05}{c04:02}\n*>>잠이 안 오{fe}나?<END>
+[WORLD01_AREA053.EMI|sec11|body34|@0x6c4|23B] {c0c:05}{c04:02}\n*>>{c04:00}에게는\n몹쓸 짓을{fe}했다<END>
+[WORLD01_AREA053.EMI|sec11|body35|@0x6db|52B] {c0c:05}{c04:02}\n*죽이려 한 것도{fe}그렇지만\n지금>{ff}이렇게>{02}{c04:00}를{ff}데리고\n나온 것이>><END>
+[WORLD01_AREA053.EMI|sec11|body36|@0x70f|44B] {c04:02}\n*{c04:00}를>\n신의 곁으로{ff}데려가는 게{02}옳은 건지{fe}어떤지\n모르겠다><END>
+[WORLD01_AREA053.EMI|sec11|body37|@0x73b|61B] {c04:02}\n*다만>{ff}신이>{02}어째서 용을{ff}멸하려\n생각하셨는지>{02}그것을{ff}알 권리가\n{c04:00}에게는{fe}있다<END>
+[WORLD01_AREA053.EMI|sec11|body38|@0x778|67B] {c04:02}\n*산을 내려가{ff}동쪽으로 가면\n윈디아 방면이다>{02}다시 한번{fe}동쪽 땅으로 건너가>\n천사의 탑으로{ff}가자<END>
+[WORLD01_AREA053.EMI|sec11|body39|@0x7bb|13B] {c0c:05}{c04:01}\n*>{c04:05}씨?<END>
+[WORLD01_AREA053.EMI|sec11|body40|@0x7c8|17B] {c0c:06}{c04:05}\n*어{fe}어머>{ff}무슨 일이야?<END>
+[WORLD01_AREA053.EMI|sec11|body41|@0x7d9|49B] {c0c:05}{c04:01}\n*협력{fe}고마워요\n{c04:05}씨>{02}덕분에{fe}플랜트\n문제가{fe}해결됐어요<END>
+[WORLD01_AREA053.EMI|sec11|body42|@0x80a|74B] {c0c:06}{c04:05}\n*그런 거>{02}결국{fe}그 플랜트엔\n아버지가{fe}얽혀 있던\n것 같으니{ff}>{02}어차피{fe}내가\n해야{fe}했던 일이야><END>
+[WORLD01_AREA053.EMI|sec11|body43|@0x854|97B] {c0c:06}{c04:05}\n*돌아가신{fe}아버지가>{02}어머니를{ff}되살리려고\n그 유적 기계를{ff}고쳐서>{02}근데{fe}도중에{ff}그만두고\n그 기술로{ff}강화 작물을\n만들기 시작한 거야><END>
+[WORLD01_AREA053.EMI|sec11|body44|@0x8b5|39B] {c0c:05}{c04:01}\n*>{c04:05}씨의{ff}아버님{02}어째서{fe}실험을\n그만두신 걸까>?<END>
+[WORLD01_AREA053.EMI|sec11|body45|@0x8dc|57B] {c0c:06}{c04:05}\n*죽은 자를{ff}되살리는\n일이>{02}부자연스럽고{fe}무서운 일이라고\n깨달으신 거야><END>
+[WORLD01_AREA053.EMI|sec11|body46|@0x915|61B] {c0c:06}{c04:05}\n*기계를{fe}무척 좋아하고>{02}기계 밖의 일엔\n영 서투르{ff}셨지만{02}바보는{fe}아니셨던 거야<END>
+[WORLD01_AREA053.EMI|sec11|body47|@0x952|65B] {c0c:05}{c04:01}\n*아{fe}아무튼{ff}고마워요>{02}이걸로{fe}분명>\n왕의 허락을{ff}받아서>{02}{c04:00}들이{fe}동쪽으로\n갈 수 있게 됐어요><END>
+[WORLD01_AREA053.EMI|sec11|body48|@0x993|33B] {c0c:06}{c04:05}\n*나도{fe}아마>{02}{c04:00}들과\n함께 갈 거야><END>
+[WORLD01_AREA053.EMI|sec11|body49|@0x9b4|57B] {c0c:06}{c04:05}\n*플랜트에{ff}남아도\n소용없고>{02}이번엔 정말{fe}라팔라 배를\n만질 수 있을지도{fe}모르잖아<END>
+[WORLD01_AREA053.EMI|sec11|body50|@0x9ed|16B] {c04:01}\n*>>그{fe}그런 셈이야<END>
+[WORLD01_AREA053.EMI|sec11|body51|@0x9fd|54B] {c0c:05}{c04:04}\n*뭐{fe}앞으로>\n윈디아 왕가랑>{02}사이좋게 지내길{ff}기대해도\n소용없단 거지><END>
+[WORLD01_AREA053.EMI|sec11|body52|@0xa33|31B] {c04:01}\n*미안해요{fe}정말>\n나{fe}뭐 하는 건지>><END>
+[WORLD01_AREA053.EMI|sec11|body53|@0xa52|56B] {c0c:06}{c04:02}\n*너무{fe}신경 쓰지 않아도\n되리라>>{02}그보다{fe}다리에 손쓰기 전에\n서두르는 게{fe}좋겠다><END>
+[WORLD01_AREA053.EMI|sec11|body54|@0xa8a|20B] {ff}\n멤버{fc}를{ff}정해 주세요{fd}<END>
+[WORLD01_AREA053.EMI|sec11|body55|@0xa9e|36B] {c0c:01}다음 날>\n{c04:01}은{fe}잔뜩 들떠서\n베이트를 만나러{ff}나갔다><END>
+[WORLD01_AREA053.EMI|sec11|body56|@0xac2|24B] {ff}\n여행 일기를 쓸까요{c14:00}{c0c:26}잔다<END>
+[WORLD01_AREA053.EMI|sec11|body240|@0xaf6|6B] 이제 자자<END>

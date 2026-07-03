@@ -1,0 +1,13 @@
+[WORLD00_AREA002.EMI|sec7|body0|@0x20f|114B] {c0c:06}{10}겨우{fc}{11}\n*뭐{fe}<PAUSE>사악한 생물이라도>{c16:50}{c0c:05}{10}모{fc}그{11}\n*죽으면{ff}돌멩이>\n물어뜯지도{fe}못해<PAUSE>이거야?{c16:50}강대한 힘을 지닌 용이\n{ff}{ff}{ff}{ff}\n어쩌다 멸망했는지\n{ff}{ff}{ff}{ff}\n{ff}전하는 자는{fe}없다<END>
+[WORLD00_AREA002.EMI|sec7|body1|@0x22a|87B] {c0c:05}{10}모{fc}그{11}\n*죽으면{ff}돌멩이>\n물어뜯지도{fe}못해<PAUSE>이거야?{c16:50}강대한 힘을 지닌 용이\n{ff}{ff}{ff}{ff}\n어쩌다 멸망했는지\n{ff}{ff}{ff}{ff}\n{ff}전하는 자는{fe}없다<END>
+[WORLD00_AREA002.EMI|sec7|body2|@0x24f|50B] 강대한 힘을 지닌 용이\n{ff}{ff}{ff}{ff}\n어쩌다 멸망했는지\n{ff}{ff}{ff}{ff}\n{ff}전하는 자는{fe}없다<END>
+[WORLD00_AREA002.EMI|sec7|body3|@0x281|16B] 이 이야기를 용에게 바친다{fd}<END>
+[WORLD00_AREA002.EMI|sec7|body4|@0x291|134B] *뭐{fe}뭐야@?{c16:10}*누{fe}누가 좀 와줘@@{c16:20}*드래곤이{fe}유령으로 나타났다?{c16:20}*재밌네>\n생포해{ff}주마@{c16:20}{c0c:81}{10}{ff}\n{ff}{ff}{ff}{ff}안{ff}돼{ff}{ff}{ff}{11}{c16:30}{c0c:05}*받아라@@{c16:10}*고{fc}스트광은{fe}원래\n아무 힘도 없는{fe}생물의 화석에><END>
+[WORLD00_AREA002.EMI|sec7|body10|@0x29c|123B] *누{fe}누가 좀 와줘@@{c16:20}*드래곤이{fe}유령으로 나타났다?{c16:20}*재밌네>\n생포해{ff}주마@{c16:20}{c0c:81}{10}{ff}\n{ff}{ff}{ff}{ff}안{ff}돼{ff}{ff}{ff}{11}{c16:30}{c0c:05}*받아라@@{c16:10}*고{fc}스트광은{fe}원래\n아무 힘도 없는{fe}생물의 화석에><END>
+[WORLD00_AREA002.EMI|sec7|body11|@0x2ac|107B] *드래곤이{fe}유령으로 나타났다?{c16:20}*재밌네>\n생포해{ff}주마@{c16:20}{c0c:81}{10}{ff}\n{ff}{ff}{ff}{ff}안{ff}돼{ff}{ff}{ff}{11}{c16:30}{c0c:05}*받아라@@{c16:10}*고{fc}스트광은{fe}원래\n아무 힘도 없는{fe}생물의 화석에><END>
+[WORLD00_AREA002.EMI|sec7|body12|@0x2be|89B] *재밌네>\n생포해{ff}주마@{c16:20}{c0c:81}{10}{ff}\n{ff}{ff}{ff}{ff}안{ff}돼{ff}{ff}{ff}{11}{c16:30}{c0c:05}*받아라@@{c16:10}*고{fc}스트광은{fe}원래\n아무 힘도 없는{fe}생물의 화석에><END>
+[WORLD00_AREA002.EMI|sec7|body13|@0x2d6|65B] {c0c:81}{10}{ff}\n{ff}{ff}{ff}{ff}안{ff}돼{ff}{ff}{ff}{11}{c16:30}{c0c:05}*받아라@@{c16:10}*고{fc}스트광은{fe}원래\n아무 힘도 없는{fe}생물의 화석에><END>
+[WORLD00_AREA002.EMI|sec7|body14|@0x2e9|46B] {c0c:05}*받아라@@{c16:10}*고{fc}스트광은{fe}원래\n아무 힘도 없는{fe}생물의 화석에><END>
+[WORLD00_AREA002.EMI|sec7|body15|@0x2f4|35B] *고{fc}스트광은{fe}원래\n아무 힘도 없는{fe}생물의 화석에><END>
+[WORLD00_AREA002.EMI|sec7|body16|@0x317|26B] *미리아 님의{ff}마력이\n호응한 것입니다><END>
+[WORLD00_AREA002.EMI|sec7|body17|@0x331|39B] {ff}{ff}{ff}여기는{fe}B3입니다\n{ff}{ff}리프트에 타시겠습니까?{c14:00}{c0c:13}B1로 이동한다<END>

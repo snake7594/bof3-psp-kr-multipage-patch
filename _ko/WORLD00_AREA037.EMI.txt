@@ -1,0 +1,200 @@
+[WORLD00_AREA037.EMI|sec11|body0|@0x208|35B] *윈디아는{fe}여행자가\n많아서 말이지>>\n우리는{ff}돈 잘 벌어<END>
+[WORLD00_AREA037.EMI|sec11|body1|@0x22b|39B] *>같은 방을 쓰면\n숙박비도{fe}싸지고\n이득이잖아{fe}그치?<END>
+[WORLD00_AREA037.EMI|sec11|body2|@0x252|33B] *흐{fc}응>{ff}그럼{fe}다음엔\n같은 침대에서>\n뭐 그렇게 되는 거지?<END>
+[WORLD00_AREA037.EMI|sec11|body3|@0x273|59B] *어어?{ff}사람을 찾는다고?{02}그런 소리 하면서{fe}내 물건\n훔칠 셈 아니겠지>{02}요즘 애새끼들은{ff}방심 못 한다니까<END>
+[WORLD00_AREA037.EMI|sec11|body4|@0x2ae|56B] *윈디아를{ff}동경해서\n찾아오는 건{ff}좋습니다만>{02}시골 티{ff}팍팍 나는 사람은\n곤란하지요><END>
+[WORLD00_AREA037.EMI|sec11|body5|@0x2e6|37B] *사람 찾아?{02}으{c15:07}음>>\n카페에는{ff}사람이 많이\n오니까 말이야><END>
+[WORLD00_AREA037.EMI|sec11|body6|@0x30b|52B] *카페에는{ff}별로\n애들은{ff}안 오는데>{02}아래쪽에서{ff}몇 명인가\n노는 것 같긴 하더라><END>
+[WORLD00_AREA037.EMI|sec11|body7|@0x33f|46B] *아{fc}앙{fe}피곤해\n이 일은{fe}쉬는 날이 없어\n>>날씨 나쁜 날{ff}빼고는<END>
+[WORLD00_AREA037.EMI|sec11|body8|@0x36d|29B] *지방에서 오는 인구 유입이\n프라블럼이라니까요<END>
+[WORLD00_AREA037.EMI|sec11|body9|@0x38a|28B] *윈디아도{ff}점점\n뒤숭숭해지네요><END>
+[WORLD00_AREA037.EMI|sec11|body10|@0x3a6|41B] *어{fe}오{fc}더{fc}를\n받으러 안 오잖아>{02}시골에서 왔다고\n무시하는 거야<END>
+[WORLD00_AREA037.EMI|sec11|body11|@0x3cf|38B] *땡땡이치는 거{ff}아니다{02}샌드위치 속을\n순찰{ff}하는 거다<END>
+[WORLD00_AREA037.EMI|sec11|body12|@0x3f5|27B] *사람 찾아?\n{c04:03}?{ff}{c04:04}?{02}>글쎄{fe}모르겠는데<END>
+[WORLD00_AREA037.EMI|sec11|body13|@0x410|46B] *이렇게{ff}큰 도시면\n뭔가 좋은 일{ff}있을까 싶어서\n찾아온 건데 말이야><END>
+[WORLD00_AREA037.EMI|sec11|body14|@0x43e|46B] *마을의 평안을{ff}지키려고\n딱 봐도{ff}나빠 보이는 놈들을\n안 들여보내는 게{ff}일이야<END>
+[WORLD00_AREA037.EMI|sec11|body15|@0x46c|44B] *>근데{fe}조금쯤\n나빠 보이는{ff}놈이면\n그냥 들여보내>{02}귀찮으니까<END>
+[WORLD00_AREA037.EMI|sec11|body16|@0x498|6B] *멍멍<END>
+[WORLD00_AREA037.EMI|sec11|body17|@0x49e|31B] *이거{fe}고{fc}스트를 써서\n빛나는 거야>>\n멋지지?<END>
+[WORLD00_AREA037.EMI|sec11|body18|@0x4bd|17B] *우에{fc}이@\n타닥타닥타닥<END>
+[WORLD00_AREA037.EMI|sec11|body19|@0x4ce|9B] *꺄하하하하<END>
+[WORLD00_AREA037.EMI|sec11|body20|@0x4d7|7B] *심심해{fc}><END>
+[WORLD00_AREA037.EMI|sec11|body21|@0x4de|57B] *아야야>{ff}젠장@{02}저번엔{fe}좀도둑한테\n당해 버렸지>{02}그래도{fe}상대도 너덜너덜하게\n만들어 줬지만<END>
+[WORLD00_AREA037.EMI|sec11|body22|@0x517|42B] *그 좀도둑 말이야{fe}딱\n시골에서 자란{ff}못된\n꼬맹이{c15:07}{ff}그런 느낌이었어<END>
+[WORLD00_AREA037.EMI|sec11|body23|@0x541|13B] *어서{fe}오세요<END>
+[WORLD00_AREA037.EMI|sec11|body24|@0x54e|13B] *네{fe}뭐 찾으세요?<END>
+[WORLD00_AREA037.EMI|sec11|body25|@0x55b|35B] *여기는{ff}사람이 많이\n모이니까>\n물건 떼기엔{ff}편리하네<END>
+[WORLD00_AREA037.EMI|sec11|body26|@0x57e|50B] *토시히로의 도구점에\n어서 오게>{02}여기서만{ff}구할 수 있는\n;세뱃돈<이{ff}자랑이야<END>
+[WORLD00_AREA037.EMI|sec11|body27|@0x5b0|17B] *하{c15:07}이\n도{fc}핑 안 할래?<END>
+[WORLD00_AREA037.EMI|sec11|body28|@0x5c1|29B] *찾고 있어?{ff}>사람을?\n흐{c15:07}{c15:07}{c15:07}음{fe}알았다<END>
+[WORLD00_AREA037.EMI|sec11|body29|@0x5de|26B] *그건>>\n숨:<PAUSE>바:<PAUSE>꼭:<PAUSE>질:<PAUSE>이{fe}<PAUSE>잖아?<END>
+[WORLD00_AREA037.EMI|sec11|body30|@0x5f8|37B] *좋{fc}아{fe}너희가\n술래다@{02}우리 네 명을\n찾아 봐@@<END>
+[WORLD00_AREA037.EMI|sec11|body31|@0x61d|33B] {c0c:81}{ff}\n{ff}\n{ff}{ff}{ff}{ff}좋{fc}아@{c16:20}{c04:01}\n*>>자{fe}찾아 보자<END>
+[WORLD00_AREA037.EMI|sec11|body32|@0x62f|15B] {c04:01}\n*>>자{fe}찾아 보자<END>
+[WORLD00_AREA037.EMI|sec11|body33|@0x63e|59B] {c04:01}\n*>{c04:00}이/가 찾는\n{c04:03}은/는{ff}애잖아?{02}애 일은{fe}애한테 묻는 게\n제일이야{fe}분명히?<END>
+[WORLD00_AREA037.EMI|sec11|body34|@0x679|14B] *음{fe}<PAUSE>잘도 알아냈네><END>
+[WORLD00_AREA037.EMI|sec11|body35|@0x687|15B] *우에{fc}이{fe}들켜 버렸{fc}어<END>
+[WORLD00_AREA037.EMI|sec11|body36|@0x696|20B] *꺄하하하하\n들켜 버렸다@<END>
+[WORLD00_AREA037.EMI|sec11|body37|@0x6aa|19B] *어머>{ff}이런>\n들켜 버렸네><END>
+[WORLD00_AREA037.EMI|sec11|body38|@0x6bd|24B] *다들{fe}찾아내다니\n대단한데{fe}너희들<END>
+[WORLD00_AREA037.EMI|sec11|body39|@0x6d5|43B] {c04:01}\n*고마워>{ff}그래서{02}우리{fe}사람을 찾고 있는데\n>>뭐{fe}아는 거 있어?<END>
+[WORLD00_AREA037.EMI|sec11|body40|@0x700|42B] *>으{c15:07}{c15:07}음{fe}얼마 전에\n저기 집에{ff}도둑이\n들었었는데>><END>
+[WORLD00_AREA037.EMI|sec11|body41|@0x72a|24B] *딱{fe}너만 한\n애였어><END>
+[WORLD00_AREA037.EMI|sec11|body42|@0x742|23B] {c04:01}\n*그래서>{ff}그 애는\n어떻게 됐어?<END>
+[WORLD00_AREA037.EMI|sec11|body43|@0x759|57B] *>어떻게라니\n집 사람한테{ff}흠씬 얻어맞고\n도망쳤지{02}한길 쪽으로{ff}간 거\n아닐까>>?<END>
+[WORLD00_AREA037.EMI|sec11|body44|@0x792|22B] {c04:01}\n*어쩌면{fe}{c04:00}>\n{c04:03}일지도 몰라?<END>
+[WORLD00_AREA037.EMI|sec11|body45|@0x7a8|32B] {c04:01}\n*>>고마워\n찾아 볼게{02}{c04:00}{ff}가자@<END>
+[WORLD00_AREA037.EMI|sec11|body46|@0x7c8|22B] *한길은{fe}마을을 나가서\n남쪽이야<END>
+[WORLD00_AREA037.EMI|sec11|body47|@0x7de|9B] *우에에{c15:07}이<END>
+[WORLD00_AREA037.EMI|sec11|body48|@0x7e7|12B] *꺄하하하하하하하<END>
+[WORLD00_AREA037.EMI|sec11|body49|@0x7f3|11B] *또{fe}놀아 줘><END>
+[WORLD00_AREA037.EMI|sec11|body50|@0x7fe|27B] {c04:01}\n*아직{fe}아무 단서도\n못 잡았는데?<END>
+[WORLD00_AREA037.EMI|sec11|body51|@0x819|9B] *겁쟁이@@<END>
+[WORLD00_AREA037.EMI|sec11|body52|@0x822|35B] *왜냐면>{02}그렇게{ff}코를 크게 골면\n잠도 못 자잖아>><END>
+[WORLD00_AREA037.EMI|sec11|body53|@0x845|20B] *엄마{fc}{fe}나\n아파요{fc}<END>
+[WORLD00_AREA037.EMI|sec11|body54|@0x859|32B] *상처는{ff}다 나았을\n텐데>\n어리광 버릇이{ff}들었네<END>
+[WORLD00_AREA037.EMI|sec11|body55|@0x879|14B] *여기는{ff}윈디아입니다<END>
+[WORLD00_AREA037.EMI|sec11|body56|@0x887|41B] *저기{ff}손님::{02};일이{ff}끝나면\n데{fc}이트하자<\n고{ff}끈질기게 그래<END>
+[WORLD00_AREA037.EMI|sec11|body57|@0x8b0|25B] *이번엔{ff}저쪽 아가씨한테\n말을{ff}걸어 볼까<END>
+[WORLD00_AREA037.EMI|sec11|body58|@0x8c9|27B] *올해{ff}대무회는\n누가{ff}이겼으려나><END>
+[WORLD00_AREA037.EMI|sec11|body59|@0x8e4|50B] *얼마 전에{fe}즈블로 화산이\n폭발했어{02}산 일부가{ff}무너질 만큼\n컸다더라<END>
+[WORLD00_AREA037.EMI|sec11|body60|@0x916|10B] *어서 오세요<END>
+[WORLD00_AREA037.EMI|sec11|body61|@0x920|65B] *맥니르 마을의 부정>\n<PAUSE>엇{fe}알아@?{02}그럼{fe}이제부터는\n윈디아 관리가\n마을을 다스린다는{ff}얘기는?<END>
+[WORLD00_AREA037.EMI|sec11|body62|@0x961|10B] *어서 오세요<END>
+[WORLD00_AREA037.EMI|sec11|body63|@0x96b|11B] *천천히{ff}둘러보세요<END>
+[WORLD00_AREA037.EMI|sec11|body64|@0x976|14B] *여기는{fe}윈디아입니다<END>
+[WORLD00_AREA037.EMI|sec11|body65|@0x984|30B] *수상한 사람을\n안 들여보내는 게{fe}우리\n일입니다<END>
+[WORLD00_AREA037.EMI|sec11|body66|@0x9a2|51B] *왠지{fe}강화 작물\n맛이{ff}떨어진 것 같은>{02}뭐{fe}전부터 그렇게\n맛있지는 않았지만<END>
+[WORLD00_AREA037.EMI|sec11|body67|@0x9d5|78B] *요즘은{fe};클린한 마을 만들기<\n란 게{ff}유행이라서::{02}인기 없는{ff}곳에밖에\n못 있어{02}각박한{ff}세상이\n됐네::::<END>
+[WORLD00_AREA037.EMI|sec11|body68|@0xa23|39B] *애초에{fe}고{fc}스트를 써서\n만든 작물 따위\n기분 나쁘다고요><END>
+[WORLD00_AREA037.EMI|sec11|body69|@0xa4a|29B] *그립네\n우리{ff}자주{ff}여기서{fe}\n놀았었지<END>
+[WORLD00_AREA037.EMI|sec11|body70|@0xa67|22B] *::::숨바꼭질 같은 거\n자주{ff}했었지<END>
+[WORLD00_AREA037.EMI|sec11|body71|@0xa7d|42B] *묵으실 건가요?\n아니면\n휴식{ff}하실 건가요?{02}라고{ff}휴식 같은 건\n없으려나<END>
+[WORLD00_AREA037.EMI|sec11|body72|@0xaa7|10B] *크{fc}크{fc}::::<END>
+[WORLD00_AREA037.EMI|sec11|body73|@0xab1|48B] *밖에 있는 개는{ff}2대째\n인데::::{02}전 개랑{ff}똑같이\n자기만 해@<END>
+[WORLD00_AREA037.EMI|sec11|body74|@0xae1|71B] *여기저기 여행하는데>{02}세계란 게{ff}의외로\n좁다고 생각 안 해>?{02}다음엔{fe}배를 손에 넣어서\n바깥 바다라도{ff}나가 보고 싶어><END>
+[WORLD00_AREA037.EMI|sec11|body75|@0xb28|13B] *아이템이라면{ff}맡겨 줘<END>
+[WORLD00_AREA037.EMI|sec11|body76|@0xb35|53B] *남쪽에 있는{fe}진멜이라고\n알아>?{02}거기{ff}한라광렬대무회가\n없어졌더라<END>
+[WORLD00_AREA037.EMI|sec11|body77|@0xb6a|46B] *{c04:01}님의{ff}활약은\n들으셨나요?{02}글쎄{fe}맥니{fc}르를\n내던졌다고 하더라고요::<END>
+[WORLD00_AREA037.EMI|sec11|body78|@0xb98|29B] *여기는 내 아지트니까\n맘대로 들어오면{ff}안 돼<END>
+[WORLD00_AREA037.EMI|sec11|body79|@0xbb5|32B] *떼쓰는 애는\n메{fc}카{fc}스 강에{fe}\n버려 버린다<END>
+[WORLD00_AREA037.EMI|sec11|body80|@0xbd5|24B] *주{fc}스{ff}마시고 싶어{fc}@\n케{fc}이크 먹고 싶어-@<END>
+[WORLD00_AREA037.EMI|sec11|body81|@0xbed|35B] *유행하는{ff}카페\n맛을{ff}훔치러 왔어>{02}히{c15:07}{c15:07}><END>
+[WORLD00_AREA037.EMI|sec11|body82|@0xc10|41B] *후후후{fe}또 한 명\n내 멋짐에{ff}\n반한 아가씨가>@<END>
+[WORLD00_AREA037.EMI|sec11|body83|@0xc39|67B] *다우나 광산에{ff}드래곤이\n나온다는 소문>\n몇 년 전에도{ff}있지 않았어?{02}드래곤은{fe}멸종한 거\n아니었나?<END>
+[WORLD00_AREA037.EMI|sec11|body84|@0xc7c|43B] *맥니{fc}르라는 놈을\n봤어>{02}그거{fe}아무리 봐도\n잔챙이 느낌이야><END>
+[WORLD00_AREA037.EMI|sec11|body85|@0xca7|45B] *시스는{fe}역시{ff}맛있어{02}엇{fe}시스{ff}몰라?\n메{fc}카{fc}스의{fe}명물이야<END>
+[WORLD00_AREA037.EMI|sec11|body86|@0xcd4|20B] *잠깐만\n좋은 꿈{ff}꿔 보지 않을래?<END>
+[WORLD00_AREA037.EMI|sec11|body87|@0xce8|16B] *자유롭게{ff}둘러보고 가><END>
+[WORLD00_AREA037.EMI|sec11|body88|@0xcf8|48B] *윈디아는{fe}손님도\n많지만>{02}그만큼{ff}가게도 많아서\n장사는 힘들어<END>
+[WORLD00_AREA037.EMI|sec11|body89|@0xd28|50B] *세뱃돈이란{fe}액세서리\n사실은{fe}애들용이지만>{02}어른들에게도{fe}호평이에요<END>
+[WORLD00_AREA037.EMI|sec11|body90|@0xd5a|127B] 바이스\n*다들{ff}찾아내다니\n대단한데{ff}너희들{02}오늘부터{fe}너희들도\n우리 동료다@{02}나한테 배우면{ff}더{c05:03}공격력{06}이\n오르는 건{ff}틀림없다@{02}물론{fe}내가 직접\n기술을{ff}가르쳐 주길 원하겠지?{c14:00}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body92|@0xd91|72B] 나한테 배우면{ff}더{c05:03}공격력{06}이\n오르는 건{ff}틀림없다@{02}물론{fe}내가 직접\n기술을{ff}가르쳐 주길 원하겠지?{c14:00}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body93|@0xddd|38B] 생각한 대로다>\n너{ff}될성부른데\n나만{ff}믿고 따라와@<END>
+[WORLD00_AREA037.EMI|sec11|body94|@0xe03|17B] 이 대화는 사용하지 않습니다{fd}<END>
+[WORLD00_AREA037.EMI|sec11|body95|@0xe14|23B] 뭐 좋아{fe}마음이 바뀌면\n또 와 줘<END>
+[WORLD00_AREA037.EMI|sec11|body96|@0xe2b|42B] 바이스\n*음{fe}한 번 더{fe}\n숨바꼭질로{ff}승부하는 거냐?{02}응{fe}아니었나?<END>
+[WORLD00_AREA037.EMI|sec11|body97|@0xe55|39B] 흐흥>{ff}그러고 보니{fe}누가\n{c15:1e}새로{ff}내 기술을\n훔칠 셈이군{c14:01}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body98|@0xe80|27B] 어이어이\n이미 다들\n내 제자가 됐는데?<END>
+[WORLD00_AREA037.EMI|sec11|body99|@0xe9b|31B] 거짓말이지>\n내가{fe}필요 없다는 거냐@?{c14:02}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body100|@0xebe|34B] 잠깐{ff}나한테 기술을\n배우는{ff}녀석 따위\n없잖아<END>
+[WORLD00_AREA037.EMI|sec11|body101|@0xee0|36B] *좋아{fe}{c07:00}{ff}을/를\n숨바꼭질 동료로 삼아\n내 제자로{ff}인정한다<END>
+[WORLD00_AREA037.EMI|sec11|body102|@0xf04|34B] 또{fe}내 제자가\n되고 싶은 녀석은{ff}없나?{c14:03}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body103|@0xf2a|28B] *믿기지 않지만\n{c07:00}{ff}의 제자 그만두기를\n인정하지<END>
+[WORLD00_AREA037.EMI|sec11|body104|@0xf46|27B] 아직{ff}제자를\n그만두고 싶은 녀석 있나{c14:04}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body105|@0xf65|80B] *{c07:00}{ff}은/는{ff}꽤\n열심히 하는 것 같군{02}좋아{fe}너에게\n필살의{ff}이 시프트를\n가르쳐 주마{02}{c07:00}{ff}은/는\n{c05:02}체{fc}인:시프트{06}를\n배웠다@<END>
+[WORLD00_AREA037.EMI|sec11|body106|@0xfb5|16B] 누가{ff}제자가 되겠습니까?<END>
+[WORLD00_AREA037.EMI|sec11|body107|@0xfc5|16B] 누가{ff}제자를 그만두겠습니까?<END>
+[WORLD00_AREA037.EMI|sec11|body108|@0xfd5|23B] 이 사람으로{ff}괜찮습니까?{ff}{ff}예{ff}아니오<END>
+[WORLD00_AREA037.EMI|sec11|body109|@0xfec|22B] 그만두겠습니까?{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}예{ff}아니오<END>
+[WORLD00_AREA037.EMI|sec11|body110|@0x1002|134B] 랑\n*후{fc}>{ff}잘하네{fe}너희들\n나{fe}이제{ff}항복이야{02}역시{fe}사람은\n무리하지 않는 게\n제일이지{02}이런{ff}나지만\n맷집 하나는\n자신 있거든{02}조금은{ff}너희들한테 도움이 될 것\n같은데\n시험해 보지 않을래?{c14:05}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body112|@0x1040|72B] 이런{ff}나지만\n맷집 하나는\n자신 있거든{02}조금은{ff}너희들한테 도움이 될 것\n같은데\n시험해 보지 않을래?{c14:05}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body113|@0x108c|51B] 정말 괜찮아?\n후회 안 해?{02}으{fc}응{fe}그렇게까지 말한다면\n나{fe}조금만\n힘내 볼게<END>
+[WORLD00_AREA037.EMI|sec11|body114|@0x10bf|17B] 이 대화는 사용하지 않습니다{fd}<END>
+[WORLD00_AREA037.EMI|sec11|body115|@0x10d0|27B] 으{fc}응{fe}그럼\n다음 기회에{ff}하는 걸로>><END>
+[WORLD00_AREA037.EMI|sec11|body116|@0x10eb|39B] 랑\n*후{fc}{02}일부러\n만나러{ff}와 줘서\n나{ff}정말{ff}기뻐<END>
+[WORLD00_AREA037.EMI|sec11|body117|@0x1112|34B] 그런데\n누가{ff}{c15:1e}새로\n제자가 되고 싶은 거야?{c14:06}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body118|@0x1138|26B] 어라?{ff}벌써{fe}다들\n내{ff}제자가 됐는데<END>
+[WORLD00_AREA037.EMI|sec11|body119|@0x1152|35B] 하{fc}\n역시{fe}나 같은 거의\n제자는 그만두고 싶은 거지?{c14:07}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body120|@0x1179|37B] 이상하네{fc}?\n내{ff}제자 따위\n한 명도{ff}없는 것 같은데><END>
+[WORLD00_AREA037.EMI|sec11|body121|@0x119e|34B] *후{fc}{ff}그럼\n{c07:00}{ff}을/를{fe}지금부터\n내 제자로 인정할게<END>
+[WORLD00_AREA037.EMI|sec11|body122|@0x11c0|31B] 다른{ff}애들도\n제자로 만들어{ff}줬으면 해?{c14:08}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body123|@0x11e3|45B] *아쉽지만\n{c07:00}{ff}가{ff}제자를\n그만두고 싶다고{ff}한다면{02}나는{fe}못 말려<END>
+[WORLD00_AREA037.EMI|sec11|body124|@0x1210|30B] 또{fe}제자를 그만두고 싶은 사람\n있으려나?{c14:09}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body125|@0x1232|90B] *{c07:00}{ff}은/는\n무리하지 않고{ff}적당히\n힘내 온 것 같네{02}이걸{ff}줄 테니까\n앞으로도{ff}무리하지 말고\n목숨을{ff}소중히 해{02}{c07:00}{ff}은/는\n{c05:02}사랑의 손바닥{06}{ff}을/를\n받았다<END>
+[WORLD00_AREA037.EMI|sec11|body126|@0x128c|16B] 누가{ff}제자가 되겠습니까?<END>
+[WORLD00_AREA037.EMI|sec11|body127|@0x129c|16B] 누가{ff}제자를 그만두겠습니까?<END>
+[WORLD00_AREA037.EMI|sec11|body128|@0x12ac|23B] 이 사람으로{ff}괜찮습니까?{ff}{ff}예{ff}아니오<END>
+[WORLD00_AREA037.EMI|sec11|body129|@0x12c3|22B] 그만두겠습니까?{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}예{ff}아니오<END>
+[WORLD00_AREA037.EMI|sec11|body130|@0x12d9|116B] 리{fc}\n*숨바꼭질이란{fe}멋지지>{02}따로따로 흩어졌다가\n다시{fe}만나는>{02}이보다 멋진{ff}드라마는\n없다고 생각해>{02}*놀아 줘서{fe}고마워{02}답례로{fe}좋은 거{ff}알려 줄게\n내{fe}제자가 될래?{c14:0a}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body132|@0x1319|52B] *놀아 줘서{fe}고마워{02}답례로{fe}좋은 거{ff}알려 줄게\n내{fe}제자가 될래?{c14:0a}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body133|@0x1351|29B] *너희들의{ff}힘이 되어서\n기뻐>\n힘내><END>
+[WORLD00_AREA037.EMI|sec11|body134|@0x136e|17B] 이 대화는 사용하지 않습니다{fd}<END>
+[WORLD00_AREA037.EMI|sec11|body135|@0x137f|13B] *그래>>\n그럼{ff}또 봐<END>
+[WORLD00_AREA037.EMI|sec11|body136|@0x138c|40B] 리{fc}\n*어머{fe}안녕>{02}아직{fe}그 숨바꼭질의\n감동이{ff}안 가셨어><END>
+[WORLD00_AREA037.EMI|sec11|body137|@0x13b4|35B] *그런데{fe}오늘은\n내{fe}제자가 되는{ff}얘기?{c14:0b}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body138|@0x13db|19B] 어라>?\n다들{ff}내 제자잖아><END>
+[WORLD00_AREA037.EMI|sec11|body139|@0x13ee|30B] 그래>>{ff}내 제자를\n그만둘 셈이구나?{c14:0c}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body140|@0x1410|22B] 어머>{ff}내 제자 같은 게\n있었던가?<END>
+[WORLD00_AREA037.EMI|sec11|body141|@0x1426|27B] *좋아>>\n{c07:00}{ff}을/를\n내 제자로{ff}인정할게<END>
+[WORLD00_AREA037.EMI|sec11|body142|@0x1441|32B] 또{ff}제자가 되고 싶은\n사람은 있으려나?{c14:0d}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body143|@0x1465|37B] *어머{fe}아쉽네>\n{c07:00}{ff}은/는{fe}지금부터\n내 제자가 아니게 되네<END>
+[WORLD00_AREA037.EMI|sec11|body144|@0x148a|32B] 또{ff}제자를 그만두고 싶은 사람은\n있으려나?{c14:0e}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body145|@0x14ae|94B] *{c07:00}은/는\n나를 믿고{ff}잘도\n오늘까지{ff}힘냈구나{02}내 마음뿐이지만{ff}너에게\n{c05:02}지혜{06}의 시프트를\n선물할게{02}{c07:00}{ff}은/는\n{c05:02}와이즈:시프트{06}{ff}를\n배웠다@<END>
+[WORLD00_AREA037.EMI|sec11|body146|@0x150c|16B] 누가{ff}제자가 되겠습니까?<END>
+[WORLD00_AREA037.EMI|sec11|body147|@0x151c|16B] 누가{ff}제자를 그만두겠습니까?<END>
+[WORLD00_AREA037.EMI|sec11|body148|@0x152c|23B] 이 사람으로{ff}괜찮습니까?{ff}{ff}예{ff}아니오<END>
+[WORLD00_AREA037.EMI|sec11|body149|@0x1543|22B] 그만두겠습니까?{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}예{ff}아니오<END>
+[WORLD00_AREA037.EMI|sec11|body150|@0x1559|114B] 윈\n*으{fc}응{fe}어릴 때처럼\n두근두근했어{c15:07}{c15:07}{02}그{ff}들킬 때가\n뭐라 말할 수 없이 좋지?{02}*>그럼{fe}놀아 준 답례로\n다들{fe}돌봐 줄게@{02}누구{fe}내 제자가 될래?{c14:0f}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body152|@0x1592|57B] *>그럼{fe}놀아 준 답례로\n다들{fe}돌봐 줄게@{02}누구{fe}내 제자가 될래?{c14:0f}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body153|@0x15cf|39B] *응{fe}알았어@\n그럼{fe}제자 여러분>\n힘내라구{02}>같은 거지<END>
+[WORLD00_AREA037.EMI|sec11|body154|@0x15f6|17B] 이 대화는 사용하지 않습니다{fd}<END>
+[WORLD00_AREA037.EMI|sec11|body155|@0x1607|17B] *그렇구나>\n그럼{fe}다음에 또 봐<END>
+[WORLD00_AREA037.EMI|sec11|body156|@0x1618|49B] 윈\n*아하{fe}잘 지내@?{02}숨바꼭질이라고{fe}무시하는\n사람도 있지만>\n즐거웠지?<END>
+[WORLD00_AREA037.EMI|sec11|body157|@0x1649|43B] *앗{fe}혹시\n내 제자가{ff}되고 싶은 사람이\n있는 거 아니야?{c14:10}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body158|@0x1678|25B] 어라>?\n다들{ff}내\n제자인 것 같은데?<END>
+[WORLD00_AREA037.EMI|sec11|body159|@0x1691|32B] 알았어{fe}내\n제자를{ff}그만두고 싶은 거지?{c14:11}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body160|@0x16b5|36B] *거짓말@?\n내{ff}제자 같은 거\n한 명도{ff}없잖아@@<END>
+[WORLD00_AREA037.EMI|sec11|body161|@0x16d9|36B] *{c07:00}은/는{ff}오늘부터\n내 제자야\n신나게{fe}힘내 줘@<END>
+[WORLD00_AREA037.EMI|sec11|body162|@0x16fd|34B] *또{ff}제자가 되고 싶은\n사람이 있는 거 아니야?{c14:12}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body163|@0x1723|32B] *{c07:00}{ff}은/는 제자를\n그만두는구나\n다음 기회를{ff}기다릴게<END>
+[WORLD00_AREA037.EMI|sec11|body164|@0x1743|31B] *또{ff}제자를 그만두고 싶은\n사람{fe}있어?{c14:13}{c0c:02}네<END>
+[WORLD00_AREA037.EMI|sec11|body165|@0x1766|80B] *나{fe}열심히 하는\n사람{ff}완전 좋아@{02}{c07:00}{ff}에게는 보상으로\n이 시프트를{ff}알려 줄게{02}{c07:00}{ff}은/는\n{c05:02}인핸스:시프트{06}{ff}를\n배웠다@<END>
+[WORLD00_AREA037.EMI|sec11|body166|@0x17b6|16B] 누가{ff}제자가 되겠습니까?<END>
+[WORLD00_AREA037.EMI|sec11|body167|@0x17c6|16B] 누가{ff}제자를 그만두겠습니까?<END>
+[WORLD00_AREA037.EMI|sec11|body168|@0x17d6|23B] 이 사람으로{ff}괜찮습니까?{ff}{ff}예{ff}아니오<END>
+[WORLD00_AREA037.EMI|sec11|body169|@0x17ed|22B] 그만두겠습니까?{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}예{ff}아니오<END>
+[WORLD00_AREA037.EMI|sec11|body170|@0x1803|68B] 바이스\n*음{fe}그러고 보니>>{02}너희들{fe}그 얼굴은\n{c05:02}숨바꼭질{06}로{ff}우리한테\n도전>{ff}이지?{c14:14}{c0c:12}어{fe}어떻게 알았지?<END>
+[WORLD00_AREA037.EMI|sec11|body172|@0x1850|16B] *응?아니었나\n이상하네<END>
+[WORLD00_AREA037.EMI|sec11|body173|@0x1860|116B] *흐흥{fe}역시나>{02}하지만{fe}말해 두는데>\n이건{fe}애들 놀이가{fe}아니다{02}우리 네 명은{fe}세계 여기저기에\n숨는다@\n예를 들면>>{02}나는{ff}여기서 북서쪽 방향\n힘센 남자들이\n잔뜩 있는 곳에{ff}숨는다<END>
+[WORLD00_AREA037.EMI|sec11|body174|@0x18a9|43B] 나는{ff}여기서 북서쪽 방향\n힘센 남자들이\n잔뜩 있는 곳에{ff}숨는다<END>
+[WORLD00_AREA037.EMI|sec11|body175|@0x18d4|28B] 랑\n*후흐{fc}응{fe}<PAUSE>나는\n의외로 가까이에>><END>
+[WORLD00_AREA037.EMI|sec11|body176|@0x18f0|38B] 윈\n*꺄핫{fe}나는>{02}오일{ff}냄새가 나는\n저기{c15:07}{c15:07}야@<END>
+[WORLD00_AREA037.EMI|sec11|body177|@0x1916|51B] 리{fc}\n*나는>{ff}글쎄>{02}저쪽과{fe}이쪽\n지방을{ff}잇는 곳>\n찾으러 와{fe}줘>><END>
+[WORLD00_AREA037.EMI|sec11|body178|@0x1949|67B] 바이스\n*흐흥>{ff}어때?{02}우리를{ff}찾으면>\n좋은 일이{fe}있을 거다@{02}힌트는{ff}이제 됐지?{c14:15}{c0c:13}이제 됐어요<END>
+[WORLD00_AREA037.EMI|sec11|body179|@0x19a3|16B] *음{fe}그럼>{ff}잘 들어라<END>
+[WORLD00_AREA037.EMI|sec11|body180|@0x19b3|22B] {c0c:81}{ff}\n{ff}{ff}{ff}><PAUSE>><PAUSE>><PAUSE><PAUSE><PAUSE>이제 됐어@<END>
+[WORLD00_AREA037.EMI|sec11|body181|@0x19c9|30B] 리{fc}\n*이것저것{fe}놀았지만>\n역시{ff}숨바꼭질이야<END>
+[WORLD00_AREA037.EMI|sec11|body182|@0x19e7|38B] 윈\n*꺄{fc}앗>{ff}찾아 줘{c15:07}{c15:07}\n나를{ff}찾아 줘{c15:07}{c15:07}@<END>
+[WORLD00_AREA037.EMI|sec11|body183|@0x1a0d|21B] 랑\n*후후{fc}>\n놀자{fe}후후?<END>
+[WORLD00_AREA037.EMI|sec11|body184|@0x1a22|31B] *음{fe}그런가>\n도전하고 싶어지면\n언제든 와>><END>
+[WORLD00_AREA037.EMI|sec11|body189|@0x1a41|81B] 바이스\n*다른 동료는{ff}쉽게는\n안 찾아진다@{02}그러니까{ff}힌트를 가르쳐 주마{02}랑{ff}녀석은\n사실{ff}윈디아에서\n나간 적이{ff}없다<END>
+[WORLD00_AREA037.EMI|sec11|body191|@0x1a92|79B] 바이스\n*다른 동료는{ff}쉽게는\n안 찾아진다@{02}그러니까{ff}힌트를 가르쳐 주마{02}리{fc}는{ff}다른 곳과{fe}다른 나무가\n자라는 곳이다><END>
+[WORLD00_AREA037.EMI|sec11|body192|@0x1ae1|72B] 바이스\n*다른 동료는{ff}쉽게는\n안 찾아진다@{02}그러니까{ff}힌트를 가르쳐 주마{02}윈{ff}녀석은\n기계 만지작거리기를{ff}좋아하지<END>
+[WORLD00_AREA037.EMI|sec11|body193|@0x1b29|52B] 랑\n*후{fc}\n기다리는 것도{ff}피곤하네{02}리{fc}라면\n윈디아 동부\n어딘가에{ff}있을 거야<END>
+[WORLD00_AREA037.EMI|sec11|body194|@0x1b5d|59B] 랑\n*후{fc}\n기다리는 것도{ff}피곤하네{02}윈이라면\n동쪽{ff}꽤 먼 곳에\n가 있다고{ff}생각하는데><END>
+[WORLD00_AREA037.EMI|sec11|body195|@0x1b98|58B] 랑\n*후{fc}\n기다리는 것도{ff}피곤하네{02}바이스 형은\n엄청 깊은{ff}산속에\n숨어 있다고{ff}생각해<END>
+[WORLD00_AREA037.EMI|sec11|body196|@0x1bd2|39B] *랑 녀석은\n{c05:02}등잔{ff}밑이 어둡다{06}는 느낌{02}>힌트 너무 줬나?<END>
+[WORLD00_AREA037.EMI|sec11|body197|@0x1bf9|59B] *어{fc}{fe}서{fc}비스{fe}서{fc}비스@\n리{fc}는{fe}있잖아>{02}분명{fe}병사가\n지키고 있는{ff}벽 너머에\n앉아 있을걸<END>
+[WORLD00_AREA037.EMI|sec11|body198|@0x1c34|61B] *바이스 형은\n요즘{fe}사고인지{ff}뭔지로\n시끄러운 곳에{ff}있어{02}>라고{fe}이거 힌트야\n꺄하핫<END>
+[WORLD00_AREA037.EMI|sec11|body199|@0x1c71|52B] *랑{ff}뚱보 녀석은\n글쎄>>{02}무덤을{ff}좋아하거나\n하지>\n이상한 녀석이지{fe}후후><END>
+[WORLD00_AREA037.EMI|sec11|body200|@0x1ca5|41B] *윈은>\n어수선한{fe}곳을\n좋아하나 봐>{02}여자애인데{fe}말이지><END>
+[WORLD00_AREA037.EMI|sec11|body201|@0x1cce|47B] *바이스 형은\n탈것을{ff}좋아해>{02}덜컹{fe}덜컹>{ff}이렇게\n후후>{ff}알겠어?<END>
+[WORLD00_AREA037.EMI|sec11|body202|@0x1cfd|25B] {c04:01}\n*자>>\n윈디아에{fe}도착했지만><END>
+[WORLD00_AREA037.EMI|sec11|body208|@0x1d16|28B] {c04:01}\n*성에는{fe}나랑>\n{c04:04}씨가{fe}갈 거야?<END>
+[WORLD00_AREA037.EMI|sec11|body209|@0x1d32|27B] {c0c:05}{c04:04}\n*하아@?\n뭔 소리야{fe}공주님이?<END>
+[WORLD00_AREA037.EMI|sec11|body210|@0x1d4d|56B] {c04:01}\n*전에도 말했지만>{02}{c04:00}이/가 예전에\n나를{ff}성에서 데리고 나갔다고\n여겨지고 있어><END>
+[WORLD00_AREA037.EMI|sec11|body211|@0x1d85|51B] {c04:01}\n*그래서{fe}뭐>{02}얼굴이{fe}안 알려진\n{c04:04}씨만\n데려가는 거야>{02}혹시 모르니{fe}응?<END>
+[WORLD00_AREA037.EMI|sec11|body212|@0x1db8|48B] {c04:01}\n*왕의 허락은\n꼭{ff}받아 올 테니까>{02}{c04:00}은/는\n마을 밖에서{fe}기다려{fe}줘?<END>
+[WORLD00_AREA037.EMI|sec11|body213|@0x1de8|27B] {c0c:05}{c04:04}\n*예예>\n모시지요{fe}공주님?<END>
+[WORLD00_AREA037.EMI|sec11|body214|@0x1e03|28B] {c04:01}\n*우선{fe}성에\n가는 게{fe}좋겠지><END>

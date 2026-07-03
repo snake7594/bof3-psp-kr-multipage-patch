@@ -1,0 +1,36 @@
+[WORLD00_AREA014.EMI|sec11|body0|@0x204|5B] *음메{0a}<END>
+[WORLD00_AREA014.EMI|sec11|body1|@0x20a|46B] *작물 작황도 나쁜 데다\n소까지{ff}도둑맞아서\n나리{ff}기분이 안 좋으셔<END>
+[WORLD00_AREA014.EMI|sec11|body2|@0x238|83B] *북쪽{fe}글라우스 산에\n몬스터가 눌러앉아서\n소를{ff}훔쳐 가>{02}올해는{ff}작황도 안 좋고\n이대로면{fe}겨울을\n못 날지도{ff}모르겠어><END>
+[WORLD00_AREA014.EMI|sec11|body3|@0x28b|58B] *아이고>>\n이게{ff}전부{ff}내 거라면\n좋겠는데>{02}대부분은{ff}지주\n맥니르 님{ff}거란 말이야<END>
+[WORLD00_AREA014.EMI|sec11|body4|@0x2c5|57B] *우리는{fe}여기 작물이랑\n숲에서 따 온 걸로\n먹고 사는데>{02}올해는{ff}둘 다{ff}적네<END>
+[WORLD00_AREA014.EMI|sec11|body5|@0x2fe|14B] *어이고{fe}힘들다{ff}힘들어<END>
+[WORLD00_AREA014.EMI|sec11|body6|@0x30c|88B] *허수아비한테까지{ff}말을 걸다니\n갸륵한{ff}마음가짐이군>{02}그 기세로{ff}앞으로도\n온갖 물건에{ff}말을 걸거나\n살펴보면 좋겠어>{02}>>라고{fe}말하는 것 같다<END>
+[WORLD00_AREA014.EMI|sec11|body7|@0x364|20B] 대답이 없다>>\n그냥 허수아비인 것 같다<END>
+[WORLD00_AREA014.EMI|sec11|body8|@0x378|7B] *와옹{0a}{02}<END>
+[WORLD00_AREA014.EMI|sec11|body9|@0x37f|5B] *모모{0a}<END>
+[WORLD00_AREA014.EMI|sec11|body10|@0x385|76B] *어라{fe}이 못된 녀석들@\n설마{ff}나리 소를\n노리는 건>{02}아니지><PAUSE><PAUSE>{ff}글라우스 산\n몬스터도 아니고\n거기까진{ff}안 하겠지><END>
+[WORLD00_AREA014.EMI|sec11|body11|@0x3d1|58B] *먹을 거냐>\n잔뜩{ff}있을 때라면\n좀 가져가도{ff}괜찮지만{02}올해는{ff}적으니까\n좀 봐다오><END>
+[WORLD00_AREA014.EMI|sec11|body12|@0x40b|66B] *응?{ff}작물이{ff}잔뜩\n있는 것처럼 보인다고@?{02}안됐지만{fe}이건 전부\n지주{ff}맥니르 님\n거란 말이다><END>
+[WORLD00_AREA014.EMI|sec11|body13|@0x44d|63B] *맥니르 님은>\n흉작일 때도{ff}늘 똑같이\n세금을 걷어{02}그래서{ff}우리가\n먹을 몫이{ff}줄어드는 거지<END>
+[WORLD00_AREA014.EMI|sec11|body14|@0x48c|42B] *너희는{ff}좋겠다\n일도 안 하고{ff}그렇게\n남의 것만{ff}바라면서<END>
+[WORLD00_AREA014.EMI|sec11|body15|@0x4b6|63B] *흉작이라 다들{ff}힘들어 보이지만\n허수아비는{ff}안 먹지{02}그래{fe}허수아비는{ff}안 먹는다\n><PAUSE>><PAUSE>>라고{fe}말하는 것 같다<END>
+[WORLD00_AREA014.EMI|sec11|body16|@0x4f5|6B] *멍{0a}\n<END>
+[WORLD00_AREA014.EMI|sec11|body17|@0x4fb|6B] *음모모{0a}<END>
+[WORLD00_AREA014.EMI|sec11|body18|@0x502|52B] *글라우스 산 몬스터를\n해치워{ff}준다고?{02}그거야{fe}고맙지만\n너희가{ff}할 수 있겠어?<END>
+[WORLD00_AREA014.EMI|sec11|body19|@0x536|56B] *적어도{ff}사냥감이{ff}평소만큼\n있어 주면 좋을 텐데>{02}숲 동물들은{ff}몬스터한테\n잡아먹혀 버렸으니까><END>
+[WORLD00_AREA014.EMI|sec11|body20|@0x56e|34B] *바바델 영감님도\n요즘은{ff}사냥감을\n팔러 안 오네><END>
+[WORLD00_AREA014.EMI|sec11|body21|@0x590|29B] *빈둥거릴 거면\n좀{ff}거들어 다오<END>
+[WORLD00_AREA014.EMI|sec11|body22|@0x5ad|53B] *이렇게 먹을 게{ff}없을 때\n도둑질 같은 거{ff}했다간\n진짜로{ff}화낼 거야{02}으르렁@<END>
+[WORLD00_AREA014.EMI|sec11|body23|@0x5e2|56B] *>이런{ff}흉작일 때는\n훔칠 생각{ff}안 하는 게\n신상에 좋다>>{02}>라고{fe}말하는 것 같다<END>
+[WORLD00_AREA014.EMI|sec11|body24|@0x61a|7B] *크응{0a}{02}<END>
+[WORLD00_AREA014.EMI|sec11|body25|@0x621|53B] {c0c:05}{c04:03}\n*>위험했네{fe}형{c16:30}{c0c:06}{c04:04}\n*그래>{ff}하지만>\n저 녀석 장비도{ff}마련됐으니<END>
+[WORLD00_AREA014.EMI|sec11|body26|@0x636|32B] {c0c:06}{c04:04}\n*그래>{ff}하지만>\n저 녀석 장비도{ff}마련됐으니<END>
+[WORLD00_AREA014.EMI|sec11|body27|@0x656|23B] {c0c:05}{c04:03}\n*늦었잖아{fe}{c04:00}\n빨리 와><END>
+[WORLD00_AREA014.EMI|sec11|body28|@0x66d|40B] {c0c:06}{c04:04}\n*아직{fe}장비가\n안 익숙하네>>{02}그래도>{ff}잠옷보단{fe}낫지<END>
+[WORLD00_AREA014.EMI|sec11|body29|@0x695|25B] {c0c:05}{c04:03}\n*>이제부터{ff}어떻게 할 거야\n형?<END>
+[WORLD00_AREA014.EMI|sec11|body30|@0x6ae|52B] {c0c:06}{c04:04}\n*흉작 탓에\n마을 놈들은{ff}쪼들리고>{02}가도에라도 나가서\n일이나 할까?<END>
+[WORLD00_AREA014.EMI|sec11|body31|@0x6e2|60B] {c0c:05}{c04:03}\n*이 앞에{fe}우르오르라는\n가도가{ff}있는데>{02}우리{fe}거기서\n가끔{fe}노상강도 짓을 해<END>
+[WORLD00_AREA014.EMI|sec11|body32|@0x71e|60B] {c0c:06}{c04:04}\n*>그래도{fe}그렇게\n심한 짓은{fe}안 해{02}죽이거나{fe}다치게 하는 건\n내 취향이{fe}아니거든<END>
+[WORLD00_AREA014.EMI|sec11|body33|@0x75a|48B] {c0c:05}{c04:03}\n*맞아{fe}맞아>{ff}그러니까\n초보자도{ff}안심이야{02}걱정 말고{fe}가자<END>
+[WORLD00_AREA014.EMI|sec11|body34|@0x78a|50B] *일해 봤자{fe}맥니르한테\n뺏기고>{02}어떻게든{fe}편하게\n행복해질 방법은{fe}없을까<END>
+[WORLD00_AREA014.EMI|sec11|body35|@0x7bc|16B] {ff}이 앞{fe}우르오르 가도<END>

@@ -1,0 +1,108 @@
+[ETC_TURIMODE.EMI|sec5|body0|@0x22d|57B] 사납고{ff}공격적인\n물속의 갱\n{c05:02}아이템 사용>HP회복{06}\n{ff}애버리지>>30CM<END>
+[ETC_TURIMODE.EMI|sec5|body1|@0x266|56B] 복어 같지만{ff}독은 없다\n작은 물고기를 좋아한다\n{c05:02}아이템 사용>전투{06}\n{ff}애버리지>>35CM<END>
+[ETC_TURIMODE.EMI|sec5|body2|@0x29e|50B] 민물고기\n지렁이나 작은 물고기를 좋아함\n{c05:02}아이템 사용>HP회복{06}\n{ff}애버리지>>50CM<END>
+[ETC_TURIMODE.EMI|sec5|body3|@0x2d0|51B] 민물고기\n깊은 곳을 노려라\n{c05:02}아이템 사용>AP회복{06}\n{ff}애버리지>>50CM<END>
+[ETC_TURIMODE.EMI|sec5|body4|@0x303|51B] 땅을 다스린다고{fe}전해지는\n메기의 일종\n개구리를 좋아하는 듯하다\n{ff}애버리지>>60CM<END>
+[ETC_TURIMODE.EMI|sec5|body5|@0x336|60B] 강력한 파이트 피시\n여러 루어로 노릴 수 있다\n{c05:02}아이템 사용>HP회복{06}\n{ff}애버리지>>30CM<END>
+[ETC_TURIMODE.EMI|sec5|body6|@0x372|53B] 민물에 살고{fe}지렁이를 좋아함\n이상한 문어\n{c05:02}아이템 사용>전투{06}\n{ff}애버리지>>60CM<END>
+[ETC_TURIMODE.EMI|sec5|body7|@0x3a7|53B] 좀처럼 보기 힘든\n커다란 물고기\n{c05:02}아이템 사용>HP회복{06}\n{ff}애버리지>>65CM<END>
+[ETC_TURIMODE.EMI|sec5|body8|@0x3dc|56B] 왕의 이름으로 알려진\n전설의 물고기\n{c05:02}아이템 사용>HP대회복{06}\n{ff}애버리지>150CM<END>
+[ETC_TURIMODE.EMI|sec5|body9|@0x414|49B] 해파리\n낚여도 기쁘지 않다\n{c05:02}아이템 사용>HP소회복{06}\n{ff}애버리지>>20CM<END>
+[ETC_TURIMODE.EMI|sec5|body10|@0x445|58B] 펄쩍 뛰어오르는 작은 물고기\n수면 근처를 노려라\n{c05:02}아이템 사용>HP회복{06}\n{ff}애버리지>>15CM<END>
+[ETC_TURIMODE.EMI|sec5|body11|@0x47f|52B] 공격적인 복어\n거의 뭐든지 낚인다\n{c05:02}아이템 사용>해독{06}\n{ff}애버리지>>15CM<END>
+[ETC_TURIMODE.EMI|sec5|body12|@0x4b3|58B] 깊은 곳을 좋아하고\n작은 물고기 루어로 노린다\n{c05:02}아이템 사용>AP회복{06}\n{ff}애버리지>>30CM<END>
+[ETC_TURIMODE.EMI|sec5|body13|@0x4ed|58B] 바다에 사는 빅마우스\n여러 루어로 노릴 수 있다\n{c05:02}아이템 사용>HP회복{06}\n{ff}애버리지>>45CM<END>
+[ETC_TURIMODE.EMI|sec5|body14|@0x527|57B] 깊은 곳에 살고\n루어 취향은 알 수 없다\n{c05:02}아이템 사용>AP회복{06}\n{ff}애버리지>>45CM<END>
+[ETC_TURIMODE.EMI|sec5|body15|@0x560|56B] 말 그대로 문어\n깊은 곳에 살고 있다\n{c05:02}아이템 사용>전투{06}\n{ff}애버리지>>50CM<END>
+[ETC_TURIMODE.EMI|sec5|body16|@0x598|58B] 바닷속 깊은 곳에 살고\n작은 물고기를 꾀어 잡아먹는다\n{c05:02}아이템 사용>전투{06}\n{ff}애버리지>>75CM<END>
+[ETC_TURIMODE.EMI|sec5|body17|@0x5d2|49B] 닿으면 찌릿찌릿하다\n희귀한 문어\n{c05:02}아이템 사용>전투{06}\n{ff}애버리지>>90CM<END>
+[ETC_TURIMODE.EMI|sec5|body18|@0x603|47B] 바다의 왕\n압도적인 힘의 소유자\n작은 물고기를 좋아함\n{ff}애버리지>120CM<END>
+[ETC_TURIMODE.EMI|sec5|body19|@0x632|55B] 용맹한 자태를 뽐내는\n해양 포유류\n{c05:02}아이템 사용>완전회복{06}\n{ff}애버리지>180CM<END>
+[ETC_TURIMODE.EMI|sec5|body20|@0x669|38B] 민물고기\n윈디아 중부의\n고향의 맛\n{ff}애버리지>>50CM<END>
+[ETC_TURIMODE.EMI|sec5|body21|@0x68f|34B] 세계를{ff}누비는\n상인이라예\n{ff}애버리지>150CM<END>
+[ETC_TURIMODE.EMI|sec5|body22|@0x6b1|49B] 지렁이 루어\n천천히{ff}가라앉고\n움직이면{ff}떠오른다\n깊은 곳의 물고기에게\n잘 먹힌다<END>
+[ETC_TURIMODE.EMI|sec5|body32|@0x6e2|47B] 작은 추가 달린\n지렁이 루어\n가라앉는 속도가{ff}좀 빠르다\n{ff}\n{c05:02}{ff}{ff}루어 레벨2{06}<END>
+[ETC_TURIMODE.EMI|sec5|body33|@0x711|42B] 추를 단\n지렁이 루어\n가라앉는 속도가{ff}빠르다\n{ff}\n{c05:02}{ff}{ff}루어 레벨3{06}<END>
+[ETC_TURIMODE.EMI|sec5|body34|@0x73b|50B] 큰 추가 달린\n지렁이 루어\n깊은 곳을 공략하기 좋다\n{ff}\n{c05:02}{ff}루어 레벨 최고{06}<END>
+[ETC_TURIMODE.EMI|sec5|body35|@0x76d|57B] 개구리 모양 루어\n수면을{ff}헤엄친다\n뜻밖의 대물이{ff}걸리는\n경우가 있다\n{c05:02}{ff}{ff}루어 레벨1{06}<END>
+[ETC_TURIMODE.EMI|sec5|body36|@0x7a6|53B] 개구리 모양 루어\n추가 달려 있어서\n조금만{ff}물에 잠기는\n움직임을 한다\n{c05:02}{ff}{ff}루어 레벨2{06}<END>
+[ETC_TURIMODE.EMI|sec5|body37|@0x7db|47B] 개구리 모양 루어\n뜨고{ff}가라앉는\n밸런스가 좋아\n쓰기 편하다\n{c05:02}{ff}{ff}루어 레벨3{06}<END>
+[ETC_TURIMODE.EMI|sec5|body38|@0x80a|64B] 개구리 모양 루어\n움직이면{ff}물에 잠기고\n아무것도 안 하면\n재빨리{ff}떠오른다\n{c05:02}{ff}루어 레벨 최고{06}<END>
+[ETC_TURIMODE.EMI|sec5|body39|@0x84a|58B] 작은 물고기 모양 루어\n수면 근처에서 쓴다\n조금만{ff}가라앉는\n버릇이 있는 듯하다\n{c05:02}{ff}{ff}루어 레벨1{06}<END>
+[ETC_TURIMODE.EMI|sec5|body40|@0x884|55B] 수면에서만{ff}쓸 수 있는\n작은 물고기 모양 루어\n가라앉지 않아서\n범위가 좁다\n{c05:02}{ff}{ff}루어 레벨2{06}<END>
+[ETC_TURIMODE.EMI|sec5|body41|@0x8bb|51B] 작은 물고기 모양 루어\n움직이면{ff}조금만\n잠기게 할 수 있다\n{ff}\n{c05:02}{ff}{ff}루어 레벨3{06}<END>
+[ETC_TURIMODE.EMI|sec5|body42|@0x8ee|48B] 수면에서만{ff}쓸 수 있는\n작은 물고기 모양 루어\n범위는 좁지만\n루어 레벨은 최고<END>
+[ETC_TURIMODE.EMI|sec5|body43|@0x91e|56B] 작은 물고기 모양 루어\n재빨리{ff}가라앉히고\n움직이면{ff}재빨리\n떠오른다\n{c05:02}{ff}{ff}루어 레벨1{06}<END>
+[ETC_TURIMODE.EMI|sec5|body44|@0x956|54B] 작은 물고기 모양 루어\n움직이면{ff}가라앉고\n아무것도 안 하면\n떠오른다\n{c05:02}{ff}{ff}루어 레벨2{06}<END>
+[ETC_TURIMODE.EMI|sec5|body45|@0x98c|50B] 작은 물고기 타입 루어\n뜨고{ff}가라앉는\n밸런스가{ff}좋아\n범위가 넓다\n{c05:02}{ff}{ff}루어 레벨3{06}<END>
+[ETC_TURIMODE.EMI|sec5|body46|@0x9be|61B] 작은 물고기 타입 루어\n움직이면{ff}재빨리\n깊이까지{ff}잠기고\n떠오르는 건{ff}천천히\n{c05:02}{ff}루어 레벨 최고{06}<END>
+[ETC_TURIMODE.EMI|sec5|body47|@0x9fb|40B] 반짝반짝 빛나는{ff}금화\n무거워서{ff}금방\n가라앉아 버린다\n마니로가 좋아하는 것<END>
+[ETC_TURIMODE.EMI|sec5|body48|@0xa23|63B] 온갖 물고기의{ff}식욕을\n돋우는 매혹의 루어\n움직이면{ff}잠기고\n아무것도 안 하면{ff}떠오른다\n{c05:02}{ff}루어 레벨 최고{06}<END>
+[ETC_TURIMODE.EMI|sec5|body49|@0xa62|56B] 그다지 멀리\n노릴 수 없는 데다\n무리하면{ff}금방\n낚싯줄이 끊어진다\n초보자용 한 자루<END>
+[ETC_TURIMODE.EMI|sec5|body50|@0xa9a|40B] 멀리{ff}노릴 수 있지만\n대물이{ff}걸리면\n낚싯줄이{ff}끊길\n우려가 있다<END>
+[ETC_TURIMODE.EMI|sec5|body51|@0xac2|49B] 멀리까지{ff}노릴 수 있고\n대물을{ff}끌어올릴\n힘도 갖추고 있다\n밸런스 좋은 명품<END>
+[ETC_TURIMODE.EMI|sec5|body52|@0xaf3|55B] 가장 멀리까지 노릴 수 있는\n넓은{ff}범위와\n대물에 지지 않는\n힘을{ff}지녔지만\n컨트롤하기 어렵다<END>
+[ETC_TURIMODE.EMI|sec5|body53|@0xb2a|33B] 귀신 같은 힘\n어떤 대물이라도\n가뿐히{ff}낚아올린다<END>
+[ETC_TURIMODE.EMI|sec5|body54|@0xb4b|53B] 최고의 범위와\n최대의 힘을 뽐내는\n최강의 낚싯대\n어떤{ff}대물이라도\n쉽게{ff}낚이리라<END>
+[ETC_TURIMODE.EMI|sec5|body55|@0xb80|8B] CAUTION<END>
+[ETC_TURIMODE.EMI|sec5|body60|@0xb88|3B] 낚시<END>
+[ETC_TURIMODE.EMI|sec5|body61|@0xb8b|6B] RETRY<END>
+[ETC_TURIMODE.EMI|sec5|body62|@0xb91|5B] EXIT<END>
+[ETC_TURIMODE.EMI|sec5|body63|@0xb96|11B] 낚시를{ff}그만둘까요?<END>
+[ETC_TURIMODE.EMI|sec5|body64|@0xba1|34B] 아이템이{ff}가득 찼습니다\n물고기를{ff}놓아줘야\n합니다<END>
+[ETC_TURIMODE.EMI|sec5|body65|@0xbc3|21B] 아이템이{ff}가득 찼습니다\n놓아줍니다<END>
+[ETC_TURIMODE.EMI|sec5|body66|@0xbd8|28B] 어서{ff}오이소\n마니로의\n트레이드 숍이라예<END>
+[ETC_TURIMODE.EMI|sec5|body67|@0xbf4|22B] 뭐 좀{ff}사가실라예?\n{ff}{ff}예\n{ff}{ff}아니오<END>
+[ETC_TURIMODE.EMI|sec5|body68|@0xc0a|24B] 이거{fc}되겠심까?{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}예{ff}아니오<END>
+[ETC_TURIMODE.EMI|sec5|body69|@0xc22|9B] {c07:00}(으)로 되겠심까?<END>
+[ETC_TURIMODE.EMI|sec5|body70|@0xc2b|9B] 교환 상품<END>
+[ETC_TURIMODE.EMI|sec5|body71|@0xc34|7B] 필요 수<END>
+[ETC_TURIMODE.EMI|sec5|body72|@0xc3b|7B] 소지 수<END>
+[ETC_TURIMODE.EMI|sec5|body73|@0xc42|7B] 예{ff}아니오<END>
+[ETC_TURIMODE.EMI|sec5|body74|@0xc49|9B] 가진 수<END>
+[ETC_TURIMODE.EMI|sec5|body75|@0xc52|11B] 장비한 수<END>
+[ETC_TURIMODE.EMI|sec5|body76|@0xc5d|16B] 그래 욕심부리지 마이소<END>
+[ETC_TURIMODE.EMI|sec5|body77|@0xc6d|11B] 몇 개 사실라예?<END>
+[ETC_TURIMODE.EMI|sec5|body78|@0xc78|18B] 낚싯대와 루어를 장비합니다<END>
+[ETC_TURIMODE.EMI|sec5|body80|@0xc8a|11B] 낚싯대를 장비합니다<END>
+[ETC_TURIMODE.EMI|sec5|body81|@0xc95|12B] 루어를 장비합니다<END>
+[ETC_TURIMODE.EMI|sec5|body82|@0xca1|19B] 장비할 낚싯대를{ff}골라주세요<END>
+[ETC_TURIMODE.EMI|sec5|body83|@0xcb4|20B] 장비할 루어를{ff}골라주세요<END>
+[ETC_TURIMODE.EMI|sec5|body84|@0xcc8|13B] 낚시에{ff}대한{ff}데이터<END>
+[ETC_TURIMODE.EMI|sec5|body96|@0xcd5|20B] 방향키로{fe}페이지를{ff}전환합니다<END>
+[ETC_TURIMODE.EMI|sec5|body97|@0xce9|14B] 낚시 설명을 합니다<END>
+[ETC_TURIMODE.EMI|sec5|body111|@0xcf7|20B] 방향키로{ff}페이지를{ff}전환합니다<END>
+[ETC_TURIMODE.EMI|sec5|body112|@0xd0b|7B] 기본 조작<END>
+[ETC_TURIMODE.EMI|sec5|body113|@0xd12|20B] {c05:02}{c15:08}{06}버튼>>던질 힘 결정<END>
+[ETC_TURIMODE.EMI|sec5|body114|@0xd26|12B] {ff}{ff}{ff}{ff}{ff}릴을 감기<END>
+[ETC_TURIMODE.EMI|sec5|body115|@0xd32|16B] 방향키>>낚싯대를 움직이기<END>
+[ETC_TURIMODE.EMI|sec5|body116|@0xd42|8B] 루어를 던지기<END>
+[ETC_TURIMODE.EMI|sec5|body117|@0xd4a|21B] {c05:02}{c15:08}{06}버튼을 눌러 힘을 모으고<END>
+[ETC_TURIMODE.EMI|sec5|body118|@0xd5f|15B] 한 번 더 누르면{ff}던진다<END>
+[ETC_TURIMODE.EMI|sec5|body119|@0xd6e|19B] 방향키로{ff}루어가 나는 방향을<END>
+[ETC_TURIMODE.EMI|sec5|body120|@0xd81|7B] 바꿀 수 있다<END>
+[ETC_TURIMODE.EMI|sec5|body121|@0xd88|10B] 루어를 헤엄치게 하기<END>
+[ETC_TURIMODE.EMI|sec5|body122|@0xd92|17B] {c05:02}{c15:08}{06}버튼으로{ff}릴을 감기<END>
+[ETC_TURIMODE.EMI|sec5|body123|@0xda3|18B] 방향키 아래로{ff}낚싯대를 세우기<END>
+[ETC_TURIMODE.EMI|sec5|body124|@0xdb5|12B] 당기면{ff}떠오르는 루어와<END>
+[ETC_TURIMODE.EMI|sec5|body125|@0xdc1|10B] 가라앉는 루어가 있다<END>
+[ETC_TURIMODE.EMI|sec5|body126|@0xdcb|12B] 바닥에 걸리지 않도록<END>
+[ETC_TURIMODE.EMI|sec5|body127|@0xdd7|14B] 수심 미터를 보자<END>
+[ETC_TURIMODE.EMI|sec5|body128|@0xde5|9B] 루어 테크닉<END>
+[ETC_TURIMODE.EMI|sec5|body129|@0xdee|13B] 루어 테크닉을 써서<END>
+[ETC_TURIMODE.EMI|sec5|body130|@0xdfb|12B] 물고기를{ff}꾀어내기<END>
+[ETC_TURIMODE.EMI|sec5|body131|@0xe07|23B] {c05:02}{c15:08}{06}버튼과 방향키를 리드미컬하게<END>
+[ETC_TURIMODE.EMI|sec5|body132|@0xe1e|14B] 눌렀다{ff}놓았다 한다<END>
+[ETC_TURIMODE.EMI|sec5|body133|@0xe2c|8B] 2박자>><END>
+[ETC_TURIMODE.EMI|sec5|body134|@0xe34|8B] 3박자>><END>
+[ETC_TURIMODE.EMI|sec5|body135|@0xe3c|8B] 5박자>><END>
+[ETC_TURIMODE.EMI|sec5|body136|@0xe44|8B] 7박자>><END>
+[ETC_TURIMODE.EMI|sec5|body137|@0xe4c|10B] 물고기와의 파이트<END>
+[ETC_TURIMODE.EMI|sec5|body138|@0xe56|17B] 피시 마크{ff}가 빠지지 않도록<END>
+[ETC_TURIMODE.EMI|sec5|body139|@0xe67|16B] 낚싯대 커서{ff}{ff}{ff}{ff}를 움직인다<END>
+[ETC_TURIMODE.EMI|sec5|body140|@0xe77|14B] 방향키를{ff}조작해서<END>
+[ETC_TURIMODE.EMI|sec5|body141|@0xe85|17B] 커서를{ff}재빨리 움직이자<END>
+[ETC_TURIMODE.EMI|sec5|body142|@0xe96|16B] {c05:02}{c15:08}{06}버튼으로 릴을 감고<END>
+[ETC_TURIMODE.EMI|sec5|body143|@0xea6|11B] 물고기를{ff}끌어당기기<END>
+[ETC_TURIMODE.EMI|sec5|body144|@0xeb1|13B] 낚싯줄 길이는{ff}60M<END>
+[ETC_TURIMODE.EMI|sec5|body145|@0xebe|18B] 그 이상 벌어지면{ff}끊어진다<END>

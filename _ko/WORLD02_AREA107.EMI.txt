@@ -1,0 +1,1 @@
+[WORLD02_AREA107.EMI|sec11|body0|@0x200|27B] 조수의{ff}간만으로\n해수면이{ff}바뀐 것 같다><END>

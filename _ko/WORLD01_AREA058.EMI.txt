@@ -1,0 +1,90 @@
+[WORLD01_AREA058.EMI|sec11|body0|@0x209|31B] *여기는{fe}기계 길드의 마을\n사람들은{fe}정크 마을이라 부르지<END>
+[WORLD01_AREA058.EMI|sec11|body1|@0x228|23B] *뭔가{fe}쓸 만한 부품\n없으려나>><END>
+[WORLD01_AREA058.EMI|sec11|body2|@0x23f|65B] *기계 길드라고는 해도\n만드는 건{ff}아니야>{02}쓸 만한 부품을{ff}찾아다가\n고치기만 하는 거지<END>
+[WORLD01_AREA058.EMI|sec11|body3|@0x280|78B] *이렇게{fe}캐내다 보면\n가끔{fe}멋대로 움직이는 기계가\n날뛰는 일이{fe}있어{02}그게{fe}고스트 기계병이라\n불리는 녀석이야<END>
+[WORLD01_AREA058.EMI|sec11|body4|@0x2ce|70B] *왜 기계가 움직이냐고?\n그딴 거{fe}난 몰라{02}근데{fe}대충{ff}부품을\n붙이면{ff}쓸 수 있으니까\n괜찮지 않아?<END>
+[WORLD01_AREA058.EMI|sec11|body5|@0x314|60B] *여긴{fe}원래\n정크 더미였다나 봐>{02}부품 캐기에{ff}딱 좋아서\n다들{fe}눌러앉은 거야<END>
+[WORLD01_AREA058.EMI|sec11|body6|@0x350|26B] *정크란>\n고철 쪼가리란 뜻이야{02}알고 있었어?<END>
+[WORLD01_AREA058.EMI|sec11|body7|@0x36a|38B] *근데>{ff}이렇게나\n많은 기계를>{02}대체 누가 만든 걸까?<END>
+[WORLD01_AREA058.EMI|sec11|body8|@0x390|26B] 고스트 기계병이지만\n위험은{ff}없는 것 같다><END>
+[WORLD01_AREA058.EMI|sec11|body9|@0x3aa|28B] *고스트 기계병이야@\n멋지지{c15:07}{c15:07}@<END>
+[WORLD01_AREA058.EMI|sec11|body10|@0x3c6|68B] *이 녀석은{fe}공격 장치가\n고장나서>\n다가가도{ff}안전해요{02}언젠가{fe}개조해서\n뭔가에 쓰려고{fe}생각 중이에요<END>
+[WORLD01_AREA058.EMI|sec11|body11|@0x40a|33B] *이 앞은{fe}길드 관계자\n외엔{fe}삼가 주세요<END>
+[WORLD01_AREA058.EMI|sec11|body12|@0x42b|37B] *배가 고장나서\n라팔라로{ff}못 돌아가네요{fc}{02}바다가 그립네요{fc}<END>
+[WORLD01_AREA058.EMI|sec11|body13|@0x450|56B] *우린{fe}라팔라의 뱃사람>\n인데{fe}배가 고장나 버려서{02}라팔라에선{fe}분명\n걱정하고 있겠지><END>
+[WORLD01_AREA058.EMI|sec11|body14|@0x488|50B] *이런 외진 데까지 와서\n일하는 사람한테{ff}말을 걸다니\n어지간히 중요한 일인가 봐?<END>
+[WORLD01_AREA058.EMI|sec11|body15|@0x4ba|6B] *킁킁<END>
+[WORLD01_AREA058.EMI|sec11|body16|@0x4c0|6B] *삑삑<END>
+[WORLD01_AREA058.EMI|sec11|body17|@0x4c6|47B] *이 마을에 여행자라니\n별일이네>{02}보다시피{fe}아무것도 없어요\n정크 빼고는<END>
+[WORLD01_AREA058.EMI|sec11|body18|@0x4f5|66B] *이 마을을{fe}저쪽으로 빠지면\n바깥 바다와 면한 해변이\n있는데>{02}거기엔{fe}온갖 기계가\n떠밀려 온다나 봐<END>
+[WORLD01_AREA058.EMI|sec11|body19|@0x537|35B] *어서 와>\n기름때 안 묻은{fe}깨끗한\n침대가 있답니다<END>
+[WORLD01_AREA058.EMI|sec11|body20|@0x55a|44B] *이런 마을에 오다니\n당신들{fe}별나>\n다기보단{fe}기계 좋아하는구나<END>
+[WORLD01_AREA058.EMI|sec11|body21|@0x586|61B] *라팔라에서{ff}왔는데요\n짐배가{fe}고장나 버려서>{02}지금{fe}여기 길드 분한테\n수리받고 있어요<END>
+[WORLD01_AREA058.EMI|sec11|body22|@0x5c3|58B] *기계란 건{ff}옛날 사람이\n만든 거라는데>{02}옛날 사람이{ff}지금보다 훨씬\n머리가 좋았나 봐><END>
+[WORLD01_AREA058.EMI|sec11|body23|@0x5fd|47B] *저쪽에 있는 게\n우리 기계 길드의 장이야{02}다들{fe}두목이라고\n부르지만><END>
+[WORLD01_AREA058.EMI|sec11|body24|@0x62c|15B] *무기 좀 보고 가라고<END>
+[WORLD01_AREA058.EMI|sec11|body25|@0x63b|20B] *어서 와@\n도구 좀 사가<END>
+[WORLD01_AREA058.EMI|sec11|body26|@0x64f|73B] *흐음>>{02}기계는{fe}원래\n고스트 광석으로 움직이게\n만들어진 게{fe}아니라>{02}고스트로{ff}대신할 수 있게\n돼 있는 건가><END>
+[WORLD01_AREA058.EMI|sec11|body27|@0x698|29B] *뭔진{fe}몰라도\n움직인다면{fe}됐지 뭐<END>
+[WORLD01_AREA058.EMI|sec11|body28|@0x6b5|63B] *내가 젊었을 적엔\n정크 더미가{ff}더\n컸었단다>{02}깎아서{fe}쓰다 보니\n점점 작아진 거지<END>
+[WORLD01_AREA058.EMI|sec11|body29|@0x6f4|39B] *정크 일로{ff}지친\n다:앙:신>\n도핑으로{fe}힘 좀 내봐<END>
+[WORLD01_AREA058.EMI|sec11|body30|@0x71b|58B] *기계 길드에{fe}볼일>\n있을 리 없나{02}보통 사람이 보기엔\n여기 있는 건{ff}그냥\n고철 쪼가리니까<END>
+[WORLD01_AREA058.EMI|sec11|body31|@0x755|50B] *기계 길드의 마을\n정크 마을에{fe}어서 와@{02}>라고{fe}으스댈 만큼\n뭐 있는 건 아니지만<END>
+[WORLD01_AREA058.EMI|sec11|body32|@0x787|15B] *이건{fe}쓸 만하겠는걸<END>
+[WORLD01_AREA058.EMI|sec11|body33|@0x796|71B] *고철 쪼가리라고\n무시하는 거야?{02}근데{fe}기계 동력부는\n만들 기술이 없으니까>{02}이렇게{fe}찾아내는 수밖에\n없는 거야<END>
+[WORLD01_AREA058.EMI|sec11|body34|@0x7dd|61B] *고스트 기계병{fe}알아?{02}여기선{fe}줄었지만\n기계 해변 쪽엔{fe}지금도\n나온다나 봐<END>
+[WORLD01_AREA058.EMI|sec11|body35|@0x81a|53B] *여기서{fe}파낸\n기계를{ff}조립해서>{02}짐 운반 길드가{fe}여기저기\n실어 나르는 거야<END>
+[WORLD01_AREA058.EMI|sec11|body36|@0x84f|34B] *여행자야?\n뭐{fe}천천히 기계 더미라도\n보고 가라고<END>
+[WORLD01_AREA058.EMI|sec11|body37|@0x871|8B] *삑삑삑<END>
+[WORLD01_AREA058.EMI|sec11|body38|@0x879|45B] *이{fe}정크 더미가\n없어지면>{02}이 마을은{fe}무슨 이름이\n되는 걸까?<END>
+[WORLD01_AREA058.EMI|sec11|body39|@0x8a6|10B] *부이부이부이부이<END>
+[WORLD01_AREA058.EMI|sec11|body40|@0x8b0|41B] *저 기계병하곤\n어릴 적부터\n함께였어요>{02}좋은 녀석이라고요?<END>
+[WORLD01_AREA058.EMI|sec11|body41|@0x8d9|42B] *우리 어릴 적엔\n기계 캐기는{ff}남자 일\n이었지만><END>
+[WORLD01_AREA058.EMI|sec11|body42|@0x903|45B] *짐 운반 길드 배가\n사고가 나서>{02}저쪽 길드에서\n사람이 온다나 봐<END>
+[WORLD01_AREA058.EMI|sec11|body43|@0x930|70B] *찾아내서{fe}고치는\n것만도{ff}큰일인데>{02}옛날 사람은{fe}참 잘도\n이렇게나 많은 기계를\n만들었구나@<END>
+[WORLD01_AREA058.EMI|sec11|body44|@0x976|10B] *킁킁킁킁<END>
+[WORLD01_AREA058.EMI|sec11|body45|@0x980|82B] *이 마을의{fe}서쪽에는>{02}기계 해변이란{ff}바닷가랑\n짐배가 닿는{ff}부두가\n있단다>{02}뭐{fe}길드와 상관없는 사람한텐\n아무래도 상관없는 일이지만<END>
+[WORLD01_AREA058.EMI|sec11|body46|@0x9d2|38B] *어서 오세요{c15:07}\n나사 안 떨어진{ff}깨끗한\n침대가 있어요{c15:07}<END>
+[WORLD01_AREA058.EMI|sec11|body47|@0x9f8|81B] *저는{fe}서쪽 라팔라의\n뱃사람인데요\n배가{fe}고장나 버려서>{02}어{fe}전에도{ff}똑같은 말\n했었다고요@?{02}><PAUSE>><PAUSE>>그럴지도 모르죠<END>
+[WORLD01_AREA058.EMI|sec11|body48|@0xa49|59B] *난{fe}여기저기서\n명물을{ff}먹어치우는 남자{02}여기 명물>\n돼지갈비 기름볶음은\n제법 괜찮다고@<END>
+[WORLD01_AREA058.EMI|sec11|body49|@0xa84|54B] *또{fe}배를 망가뜨렸다고@{02}>짐 운반 길드 녀석들은\n기계한테{ff}안 친절해서\n글러 먹었다니까@<END>
+[WORLD01_AREA058.EMI|sec11|body50|@0xaba|43B] *그게 아니에요{fe}두목님>{02}이번엔{fe}그>\n그{fe}그 커다란 배가>{ff}그><END>
+[WORLD01_AREA058.EMI|sec11|body51|@0xae5|62B] *여기 기계는{fe}서쪽\n라팔라 사람들이\n운반해 주는데>{02}그 녀석들{fe}또 배를\n망가뜨려{ff}버린 모양이야<END>
+[WORLD01_AREA058.EMI|sec11|body52|@0xb23|27B] *정크 마을인 만큼\n노다지가{fe}있을지도 몰라<END>
+[WORLD01_AREA058.EMI|sec11|body53|@0xb3e|20B] *매번 고마워@\n고철 쪼가리와{ff}다르다고@<END>
+[WORLD01_AREA058.EMI|sec11|body54|@0xb52|64B] *고스트의 힘은\n마법에 가까운 거라>{02}기계를 만든 시대엔\n마력이{ff}잔뜩 있었다고\n생각할 수 있지<END>
+[WORLD01_AREA058.EMI|sec11|body55|@0xb92|36B] *흐음{fe}근데\n지금도{ff}마법 쓰는 놈은\n잔뜩{ff}있다고요?<END>
+[WORLD01_AREA058.EMI|sec11|body56|@0xbb6|17B] *부품 모으기는{fe}피곤하구먼<END>
+[WORLD01_AREA058.EMI|sec11|body57|@0xbc7|25B] *주{fe}주{fe}주사로\n파워업{fe}하세요<END>
+[WORLD01_AREA058.EMI|sec11|body58|@0xbe0|66B] *어{fc}디 보자{fe}요즘\n우리 기계 길드 동향은>{02}글쎄요{fe}짐 운반 길드의\n배가 고장나서>\n좀 한가해요<END>
+[WORLD01_AREA058.EMI|sec11|body59|@0xc22|24B] *하아>{ff}저 사람이\n라팔라{ff}길드장이구나><END>
+[WORLD01_AREA058.EMI|sec11|body60|@0xc3a|77B] *라팔라 짐배는{fe}사고를\n냈으니>{02}서쪽에 있는{ff}부두에\n놓여 있단다>{02}참고로{fe}부두란 건\n배를 수리하는 곳이야<END>
+[WORLD01_AREA058.EMI|sec11|body61|@0xc87|51B] *아까{fe}라팔라\n길드장이{fe}와버렸지>{02}젊은데도{fe}제법\n뼈대 있어 보이는{ff}녀석이야<END>
+[WORLD01_AREA058.EMI|sec11|body62|@0xcba|47B] {c0c:05}베이트\n*>>그런{fe}이유로{02}내가{fe}배를{ff}찾으러 온\n라팔라의 베이트입니다><END>
+[WORLD01_AREA058.EMI|sec11|body63|@0xce9|31B] {c0c:05}문지기\n*어{fe}<PAUSE>아>{ff}그러세요\n수고하십니다아<END>
+[WORLD01_AREA058.EMI|sec11|body64|@0xd08|32B] {c0c:05}문지기\n*부두는{fe}서쪽이에요\n어서{fe}지나가세요><END>
+[WORLD01_AREA058.EMI|sec11|body65|@0xd28|63B] *짐 운반 길드 사람은\n통과시키라고{ff}들었지만{02}설마{fe}길드장이\n직접{ff}올 줄은\n몰랐어@<END>
+[WORLD01_AREA058.EMI|sec11|body66|@0xd67|58B] 두목\n*부품을{ff}찾고 싶다고@?\n안 돼{fe}안 돼>{02}외부인은{fe}얌전히\n기다려{ff}줘야지><END>
+[WORLD01_AREA058.EMI|sec11|body67|@0xda1|54B] 두목\n*>라고{fe}말하고 싶지만\n딱히{fe}상관없다고{02}그게 더 빨리{ff}끝난다고\n한다면 말이야>?<END>
+[WORLD01_AREA058.EMI|sec11|body68|@0xdd7|57B] 두목\n*>그렇다면{fe}기계 해변에\n가는 게 좋아{02}배 부품이라면{fe}거기가\n제일{fe}많다는 거지<END>
+[WORLD01_AREA058.EMI|sec11|body69|@0xe10|52B] *근데{fe}직접\n부품까지{fe}찾으러 가다니>{02}짐 운반 길드 녀석들은\n의욕이 넘치는구나@<END>
+[WORLD01_AREA058.EMI|sec11|body70|@0xe44|44B] *멀리서{fe}와 줬는데\n수리가{ff}제때 안 돼서\n어쩐지{fe}미안하네<END>
+[WORLD01_AREA058.EMI|sec11|body71|@0xe70|68B] 윈디아\n*꺄@{02}찾았다{c15:07}{c15:07}@\n아{fc}{fe}두근거렸어>>{02}그럼{fe}난\n윈디아에서{ff}기다릴 테니까\n만나러 와줘@<END>
+[WORLD01_AREA058.EMI|sec11|body74|@0xeb4|58B] *기계 기술 관리>{c16:30}*무기 같은{fe}위험한 기계가\n개발되는 것을\n막아야 합니다><END>
+[WORLD01_AREA058.EMI|sec11|body75|@0xec5|41B] *무기 같은{fe}위험한 기계가\n개발되는 것을\n막아야 합니다><END>
+[WORLD01_AREA058.EMI|sec11|body76|@0xeee|52B] *짐 운반 길드가\n{c15:1e}새 동력선을\n주문해{ff}왔다지>{02}이거{fe}바빠지겠는걸<END>
+[WORLD01_AREA058.EMI|sec11|body80|@0xf22|55B] *그나저나{fe}이렇게나\n기계가{ff}떠밀려 오다니>{02}바다 건너편은{fe}기계 천지\n인 걸까>?<END>
+[WORLD01_AREA058.EMI|sec11|body81|@0xf59|27B] *>이 녀석을{ff}캐내고 나면\n한숨 돌릴까<END>
+[WORLD01_AREA058.EMI|sec11|body82|@0xf74|26B] *{c15:1e}새로 만들 배의\n부품{fe}찾아야 해><END>
+[WORLD01_AREA058.EMI|sec11|body83|@0xf8e|42B] *당분간은{fe}짐 운반 길드한테\n부탁받은>{02}배를 만드느라{fe}손이 모자라<END>
+[WORLD01_AREA058.EMI|sec11|body84|@0xfb8|26B] *그나저나>\n기계병이란{fe}대체 뭘까?<END>
+[WORLD01_AREA058.EMI|sec11|body85|@0xfd2|36B] *새 배를\n만들 수 있다니>{02}짐 운반 길드{fe}돈 잘 버네<END>
+[WORLD01_AREA058.EMI|sec11|body86|@0xff6|24B] *저{ff}젊은 길드장이\n수완가인가 봐><END>
+[WORLD01_AREA058.EMI|sec11|body87|@0x100e|32B] *배라>{02}만든 적은{fe}있어도\n타본 적{ff}없네><END>
+[WORLD01_AREA058.EMI|sec11|body88|@0x102e|56B] *아니{fe}기계 해변에도\n컨테이너선에도{ff}갔던 거냐?{02}흐음>{ff}너희\n길드에서{ff}일해 보지 않겠나?<END>
+[WORLD01_AREA058.EMI|sec11|body89|@0x1066|48B] *{c15:1e}새 짐배를\n부탁받았어>{02}한번{fe}기합 넣어서\n만들어 볼까{ff}싶은 거지@<END>
+[WORLD01_AREA058.EMI|sec11|body90|@0x1096|47B] *짐 운반 길드의{ff}낡은 배>\n너희가{ff}쓰고 있는 거야?{02}소중히{ff}써 줘<END>
+[WORLD01_AREA058.EMI|sec11|body91|@0x10c5|60B] *언젠가{fe}내 손으로\n기계를{ff}만들어 보고 싶어{02}>다시 조립하는 게{fe}아니라\n오리지널 기계를 말이야<END>
+[WORLD01_AREA058.EMI|sec11|body92|@0x1101|31B] *그러려면{fe}우선 기계 문명을\n알아야겠죠><END>
+[WORLD01_AREA058.EMI|sec11|body93|@0x1120|29B] *엔진에 쓸 부품을\n찾아야{fe}하는구먼><END>
+[WORLD01_AREA058.EMI|sec11|body94|@0x113d|56B] *어{fc}{fe}요즘 길드의 동향은{02}짐 운반 길드에서\n{c15:1e}새로{fe}동력선을\n주문해{ff}왔어요><END>

@@ -1,0 +1,160 @@
+[WORLD01_AREA041.EMI|sec11|body0|@0x206|17B] *양 울음소리가{fe}들리나?<END>
+[WORLD01_AREA041.EMI|sec11|body1|@0x217|29B] {c0c:04}산토\n*시끄럽{fc}다@\n찔{fc}짜지 마라@{ff}못된 꼬마놈@<END>
+[WORLD01_AREA041.EMI|sec11|body2|@0x234|48B] {c0c:06}산토\n*네{fc}가{fe}제대로\n드래곤으로{ff}변신 못 해서>{02}우리까지{ff}잡힌 거다@<END>
+[WORLD01_AREA041.EMI|sec11|body3|@0x264|52B] {c0c:06}산토\n*대회도{ff}코앞인데\n어쩔 거야{fe}형님>>{c16:20}{c04:01}\n*>안녕\n나{fe}{c04:01}이야<END>
+[WORLD01_AREA041.EMI|sec11|body4|@0x284|20B] {c04:01}\n*>안녕\n나{fe}{c04:01}이야<END>
+[WORLD01_AREA041.EMI|sec11|body5|@0x298|43B] {c04:01}\n*너>{ff}괴롭힘 당하는 게>{02}불쌍해서\n풀어주려고{ff}했어><END>
+[WORLD01_AREA041.EMI|sec11|body6|@0x2c3|47B] {c0c:04}산토\n*아{fe}{0d}고맙다@{0e}{0f}{c04:02}어{fe}형님@{ff}우리>\n풀어준다는데@<END>
+[WORLD01_AREA041.EMI|sec11|body7|@0x2f2|42B] {c04:01}\n*안 돼{fe}너희는>{02}풀어주면{fe}또\n저 애를{ff}괴롭힐 거잖아?<END>
+[WORLD01_AREA041.EMI|sec11|body8|@0x31c|33B] {c0c:06}바리오\n*그런 일은{ff}없습니다\n{c04:01}공주님>><END>
+[WORLD01_AREA041.EMI|sec11|body9|@0x33d|39B] {c0c:06}바리오\n*이제{fe}절대로\n괴롭히지{ff}않겠으니{02}부디><PAUSE>><PAUSE>><END>
+[WORLD01_AREA041.EMI|sec11|body10|@0x364|15B] {c04:01}\n*><PAUSE>><PAUSE>>정말?<END>
+[WORLD01_AREA041.EMI|sec11|body11|@0x373|12B] {c04:01}\n*>알았어<END>
+[WORLD01_AREA041.EMI|sec11|body12|@0x37f|28B] {c0c:05}바리오\n*>감사합니다\n공주님>><END>
+[WORLD01_AREA041.EMI|sec11|body13|@0x39b|24B] {c0c:06}{c04:01}\n*이제{fe}괴롭히면\n안 돼>?<END>
+[WORLD01_AREA041.EMI|sec11|body14|@0x3b3|32B] {c0c:05}바리오\n*예{fe}이제\n{c05:02}저 꼬마{06}한테는{fe}아무 짓도 안 합니다><END>
+[WORLD01_AREA041.EMI|sec11|body15|@0x3d3|19B] {c0c:06}산토\n*잘됐다{fe}형님@<END>
+[WORLD01_AREA041.EMI|sec11|body16|@0x3e6|58B] {c0c:06}바리오\n*그래>{ff}<PAUSE>저런 기분 나쁜\n꼬마보다>>{02}공주님 쪽이{fe}돈이 된다\n이거지><END>
+[WORLD01_AREA041.EMI|sec11|body17|@0x420|27B] {c0c:04}산토\n*>슬슬{fe}튈까\n형님?<END>
+[WORLD01_AREA041.EMI|sec11|body18|@0x43b|47B] {c0c:06}바리오\n*그래>{ff}공주님을 데리고>{02}몸값을{ff}두둑이\n받아내자고><END>
+[WORLD01_AREA041.EMI|sec11|body19|@0x46a|12B] >>가 버렸다{fd}<END>
+[WORLD01_AREA041.EMI|sec11|body20|@0x476|34B] 문이 잠겨 있다{fd}\n어쩌지?{c14:00}{c0c:12}큰일이다{c15:07}라고{fe}외친다<END>
+[WORLD01_AREA041.EMI|sec11|body21|@0x4a3|56B] 병사\n*응?{ff}뭐야?{02}큰일><PAUSE>><PAUSE>>?\n그래{fe}큰일이네>>\n{0d}하아암{c15:07}{0e}{0f}{c15:00}>>안 되겠어{fd}<END>
+[WORLD01_AREA041.EMI|sec11|body22|@0x4d2|9B] >>안 되겠어{fd}<END>
+[WORLD01_AREA041.EMI|sec11|body23|@0x4db|7B] >>아파{fd}<END>
+[WORLD01_AREA041.EMI|sec11|body24|@0x4e2|61B] 문은{fe}꿈쩍도 안 한다{fd}\n이대로면{fe}공주가\n납치당하고 만다>>{02}어쩌지?{c14:01}{c0c:12}도와줘{c15:07}라고{fe}외친다<END>
+[WORLD01_AREA041.EMI|sec11|body25|@0x52e|39B] 병사\n*응응><PAUSE>><PAUSE>>?{02}도와줘{c15:07}{fe}<PAUSE>라고>\n재미있는 말{ff}하네><END>
+[WORLD01_AREA041.EMI|sec11|body26|@0x555|15B] 안 되겠어>{ff}믿을 수가 없네@<END>
+[WORLD01_AREA041.EMI|sec11|body27|@0x564|8B] >>열렸다{fd}<END>
+[WORLD01_AREA041.EMI|sec11|body28|@0x56c|16B] {c04:01}\n*놔줘>{ff}놔줘@<END>
+[WORLD01_AREA041.EMI|sec11|body29|@0x57c|28B] {c0c:06}산토\n*안 된다{fe}몸값을\n받아야 한다@<END>
+[WORLD01_AREA041.EMI|sec11|body30|@0x598|15B] {c0c:05}바리오\n*이{fe}이놈@?<END>
+[WORLD01_AREA041.EMI|sec11|body31|@0x5a7|27B] {c0c:06}산토\n*또 저 녀석이다{c15:07}\n형님{c15:07}@?<END>
+[WORLD01_AREA041.EMI|sec11|body32|@0x5c2|28B] 바리오\n*정말 짜증나는 꼬마놈\n뭐 어쩌라고@?<END>
+[WORLD01_AREA041.EMI|sec11|body33|@0x5de|45B] 바리오\n*>이제{ff}저 꼬마한테\n휘둘리는 건{ff}질색이다>{02}이번엔 꼭{fe}죽인다>?<END>
+[WORLD01_AREA041.EMI|sec11|body34|@0x60b|31B] {c0c:06}산토\n*근데{fe}형님>\n또{fe}드래곤이 되면>?<END>
+[WORLD01_AREA041.EMI|sec11|body35|@0x62a|32B] {c0c:05}바리오\n*공주가 있잖아\n함부로 뭘{ff}할 수 있겠냐<END>
+[WORLD01_AREA041.EMI|sec11|body36|@0x64a|27B] {c0c:06}산토\n*형님{c15:07}@{ff}고{fe}공주가{c15:07}@@<END>
+[WORLD01_AREA041.EMI|sec11|body37|@0x665|22B] {c0c:05}바리오\n*내버려둬@{ff}이놈 먼저다@<END>
+[WORLD01_AREA041.EMI|sec11|body38|@0x67b|26B] 공주를 휘말리게 한다@\n지금은{fe}안 된다@@<END>
+[WORLD01_AREA041.EMI|sec11|body39|@0x695|29B] {c0c:06}산토\n*혀{fe}형님{c15:07}>\n위{fe}위험한데>?<END>
+[WORLD01_AREA041.EMI|sec11|body40|@0x6b2|43B] {c0c:05}바리오\n*큭>>{ff}이런 데서\n다치는 것도{ff}바보 같다>{02}도망친다{fe}동생아@<END>
+[WORLD01_AREA041.EMI|sec11|body41|@0x6dd|21B] {c0c:06}산토\n*기다려줘{fe}형님@@<END>
+[WORLD01_AREA041.EMI|sec11|body42|@0x6f2|16B] {c0c:06}{c04:01}\n*>>물리쳤어?<END>
+[WORLD01_AREA041.EMI|sec11|body43|@0x702|18B] {c0c:06}{c04:01}\n*정말?{ff}대단해@<END>
+[WORLD01_AREA041.EMI|sec11|body44|@0x714|32B] {c0c:06}{c04:01}\n*다행이다>>{02}납치당하는 줄\n알았거든>><END>
+[WORLD01_AREA041.EMI|sec11|body45|@0x734|26B] {c0c:06}{c04:01}\n*고마워{fe}살았어요\n그러니까>><END>
+[WORLD01_AREA041.EMI|sec11|body46|@0x74e|20B] {c0c:06}{c04:01}\n*>{c04:00}?\n고마워{fe}{c04:00}<END>
+[WORLD01_AREA041.EMI|sec11|body47|@0x762|44B] {c0c:06}{c04:01}\n*아무튼{fe}여기서 나가자{02}이 앞이{fe}마을로\n이어져 있을{ff}거야<END>
+[WORLD01_AREA041.EMI|sec11|body48|@0x78e|14B] {c04:01}이/가{ff}동료가 되었다{fd}<END>
+[WORLD01_AREA041.EMI|sec11|body49|@0x79c|14B] {c04:01}\n*>>괜찮아?<END>
+[WORLD01_AREA041.EMI|sec11|body50|@0x7aa|24B] {c0c:06}{c04:01}\n*다행이다>\n약이{fe}들었나 봐<END>
+[WORLD01_AREA041.EMI|sec11|body51|@0x7c2|41B] {c0c:06}{c04:01}\n*저놈들이{fe}너랑\n싸우는 틈에>{02}숨을 수가{ff}있었어><END>
+[WORLD01_AREA041.EMI|sec11|body52|@0x7eb|60B] {c0c:06}{c04:01}\n*네가{fe}저놈들한테\n맞서{ff}줬으니까>{02}납치당하지{ff}않았어>\n고마워{fe}<PAUSE>그러니까>?<END>
+[WORLD01_AREA041.EMI|sec11|body53|@0x827|28B] >잠깐 쉴 수 있을 것 같지만\n지금은{fe}그럴 때가 아니다@<END>
+[WORLD01_AREA041.EMI|sec11|body58|@0x843|36B] 딱딱한 침대지만\n잠깐 쉴 수 있을 것 같다>>\n쉬겠습니까?{c14:02}{c0c:02}예<END>
+[WORLD01_AREA041.EMI|sec11|body59|@0x86b|25B] *성도{fe}유지보수가\n중요하지요<END>
+[WORLD01_AREA041.EMI|sec11|body64|@0x884|16B] *조금만 더{fe}<PAUSE>어때@?<END>
+[WORLD01_AREA041.EMI|sec11|body65|@0x894|24B] *강화 작물이라\n확실히{fe}싸긴 하네><END>
+[WORLD01_AREA041.EMI|sec11|body66|@0x8ac|46B] *{c04:01}님>>\n나쁜 놈들을{ff}쓰러뜨리고\n도망쳐 왔다는 게{ff}정말이에요?{02}대단하다><END>
+[WORLD01_AREA041.EMI|sec11|body67|@0x8da|25B] *이런 데{ff}무슨 일이세요?\n{c04:01}님>><END>
+[WORLD01_AREA041.EMI|sec11|body68|@0x8f3|44B] *그때{fe}보초였던 제가\n제대로 했더라면>>{02}죄송합니다\n{c04:01}님@<END>
+[WORLD01_AREA041.EMI|sec11|body69|@0x91f|43B] *{c04:01}님>\n잡혀 있을 때{fe}제대로\n먹었어요?{02}먹었으면{fe}다행이고<END>
+[WORLD01_AREA041.EMI|sec11|body70|@0x94a|74B] *저기 있는{fe}하오치{fc} 두목은\n이 근방에서는{ff}최고의\n요리사예요>{02}두목의{ff}식칼로\n못 자르는 건{ff}없다는\n소문도{ff}있어요<END>
+[WORLD01_AREA041.EMI|sec11|body71|@0x994|36B] *>{c04:01}님이\n데려오신{ff}분들\n많이도{ff}먹었네요<END>
+[WORLD01_AREA041.EMI|sec11|body72|@0x9b8|44B] *성의 식사를{ff}대는 건\n큰일이에요>{02}병사들{fe}워낙 잘 먹고<END>
+[WORLD01_AREA041.EMI|sec11|body73|@0x9e4|8B] *우물우물우물<END>
+[WORLD01_AREA041.EMI|sec11|body74|@0x9ec|37B] *닭은{ff}귀엽긴 한데요{02}근데{fe}그중 하나가\n프라이드치킨이{ff}되는 거예요<END>
+[WORLD01_AREA041.EMI|sec11|body75|@0xa11|4B] *꼬꼬<END>
+[WORLD01_AREA041.EMI|sec11|body76|@0xa15|5B] *여긴가<END>
+[WORLD01_AREA041.EMI|sec11|body77|@0xa1a|6B] *꼬꼬?<END>
+[WORLD01_AREA041.EMI|sec11|body78|@0xa20|6B] *꼬꼬꼬<END>
+[WORLD01_AREA041.EMI|sec11|body79|@0xa26|5B] *츄<END>
+[WORLD01_AREA041.EMI|sec11|body80|@0xa2b|17B] *우이이\n여긴{ff}천국인가?<END>
+[WORLD01_AREA041.EMI|sec11|body81|@0xa3c|22B] *뭐야{fe}이 녀석\n어디로{ff}들어온 거야?<END>
+[WORLD01_AREA041.EMI|sec11|body82|@0xa52|12B] *츄?{c14:03}{c0c:02}예<END>
+[WORLD01_AREA041.EMI|sec11|body83|@0xa62|23B] *츄{02}이런{fe}{c05:04}치{fc}즈{06}를{ff}받았다@<END>
+[WORLD01_AREA041.EMI|sec11|body84|@0xa79|25B] *어?{ff}이쪽엔\n아무것도{ff}안 왔는데요?<END>
+[WORLD01_AREA041.EMI|sec11|body85|@0xa92|47B] *하?{ff}작은 녀석?{02}쥐 말이야?\n그거{fe}요리사의 천적이네@\n보면{ff}혼내준다<END>
+[WORLD01_AREA041.EMI|sec11|body86|@0xac1|36B] *뭔가{ff}찾으세요?\n엇{fe}허니{fc}@?{02}>>그게 뭔데요{fe}그건?<END>
+[WORLD01_AREA041.EMI|sec11|body87|@0xae5|24B] {c04:01}\n*허니{fc}>>\n역시{ff}허니{fc}였구나<END>
+[WORLD01_AREA041.EMI|sec11|body88|@0xafd|60B] {c04:01}\n*자{fe}잠깐만@{c16:20}{c04:01}\n*큰일이야>>{02}두목한테{ff}들키면\n쥐로 착각해서\n으깨질 거야@<END>
+[WORLD01_AREA041.EMI|sec11|body89|@0xb0a|47B] {c04:01}\n*큰일이야>>{02}두목한테{ff}들키면\n쥐로 착각해서\n으깨질 거야@<END>
+[WORLD01_AREA041.EMI|sec11|body90|@0xb39|49B] *방금{ff}달려간 거\n쥐는{ff}아니었어요>{02}물론{fe}닭도\n아니었고>>?<END>
+[WORLD01_AREA041.EMI|sec11|body91|@0xb6a|33B] 일기가 있다>\n여기까지의 여정을 기록하시겠습니까?{c14:09}{c0c:02}예<END>
+[WORLD01_AREA041.EMI|sec11|body92|@0xb8f|61B] 하오치{fc}\n*이런?그러고 보니{ff}너희\n그거 맞지?{02}내 소문 듣고\n요리사가{ff}되러\n온 거지?{c14:04}{c0c:02}예<END>
+[WORLD01_AREA041.EMI|sec11|body96|@0xba9|35B] 내 소문 듣고\n요리사가{ff}되러\n온 거지?{c14:04}{c0c:02}예<END>
+[WORLD01_AREA041.EMI|sec11|body97|@0xbd0|104B] 오오{fe}너희들@{02}내가 원하는{ff}재료를\n다들{ff}가지고 있구나@@{02}좋아{fe}특별히\n제자로{ff}삼아주마@{02}나를 따라오면{fe}\n일류 요리사{ff}틀림없고\n힘도 붙는다@<END>
+[WORLD01_AREA041.EMI|sec11|body98|@0xc38|118B] 음{fc}{fe}\n공짜로는{fe}안 되지{02}내가 말하는{ff}재료\n모으면{ff}생각해보마{02}좋으냐?{02}{c05:02}말린고기{06}{ff}와\n{c05:02}제비집{06}{02}거기다\n{c05:02}랜턴캣{06}{ff}와\n{c05:02}화성문어{06}{02}이 네 개{ff}가져오면 된다{02}또 와라{fe}알겠지<END>
+[WORLD01_AREA041.EMI|sec11|body99|@0xca4|10B] 또 와라{fe}알겠지<END>
+[WORLD01_AREA041.EMI|sec11|body100|@0xcae|30B] 하오치{fc}\n*오랜만이다@\n잘{ff}지냈느냐?<END>
+[WORLD01_AREA041.EMI|sec11|body101|@0xccc|31B] {c15:1e}새로{ff}제자로\n들이고 싶은 녀석{fe}있느냐?{c14:05}{c0c:02}예<END>
+[WORLD01_AREA041.EMI|sec11|body102|@0xcef|22B] 어라?다들 벌써\n내 제자{ff}아니냐<END>
+[WORLD01_AREA041.EMI|sec11|body103|@0xd05|23B] 벌써{fe}포기한 녀석\n있느냐?{c14:06}{c0c:02}예<END>
+[WORLD01_AREA041.EMI|sec11|body104|@0xd20|26B] 어라?내 제자{fe}\n한 명도{ff}없구나<END>
+[WORLD01_AREA041.EMI|sec11|body105|@0xd3a|22B] *그럼{ff}{c07:00}{ff}을/를\n제자로 삼겠다<END>
+[WORLD01_AREA041.EMI|sec11|body106|@0xd50|16B] 아직{fe}더 있느냐?{c14:07}{c0c:02}예<END>
+[WORLD01_AREA041.EMI|sec11|body107|@0xd64|48B] *그럼{ff}{c07:00}{ff}은/는\n제자{ff}자격 미달이다{02}요즘 녀석들{ff}다들\n근성이 없어\n한심하구나<END>
+[WORLD01_AREA041.EMI|sec11|body108|@0xd94|23B] 아직{fe}포기한 녀석\n있느냐?{c14:08}{c0c:02}예<END>
+[WORLD01_AREA041.EMI|sec11|body109|@0xdaf|68B] {c07:00}\n아주 잘{fe}하고 있구나{02}나{ff}기쁘다\n특별히{ff}이 기술\n전수해주마@{02}{c07:00}은/는\n{c05:02}{c07:01}{06}을/를\n익혔다@@<END>
+[WORLD01_AREA041.EMI|sec11|body110|@0xdf3|16B] 누가{ff}제자가 되겠습니까?<END>
+[WORLD01_AREA041.EMI|sec11|body111|@0xe03|16B] 누가{ff}제자를 그만두겠습니까?<END>
+[WORLD01_AREA041.EMI|sec11|body112|@0xe13|23B] 이 사람으로{ff}괜찮습니까?{ff}{ff}예{ff}아니오<END>
+[WORLD01_AREA041.EMI|sec11|body113|@0xe2a|22B] 그만두겠습니까?{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}예{ff}아니오<END>
+[WORLD01_AREA041.EMI|sec11|body114|@0xe40|12B] 문이{fe}잠겨 있다><END>
+[WORLD01_AREA041.EMI|sec11|body116|@0xe4c|34B] {c0c:05}{c04:01}\n*여긴{fe}성 지하야>{02}저쪽이{fe}부엌이고>><END>
+[WORLD01_AREA041.EMI|sec11|body117|@0xe6e|24B] {c0c:06}{c04:01}\n*그쪽에는{fe}감옥이\n있어>><END>
+[WORLD01_AREA041.EMI|sec11|body118|@0xe86|43B] {c0c:06}{c04:01}\n*감옥에는 말이야>{02}어릴 때{fe}{c04:00}이/가\n갇힌 적도{fe}있어><END>
+[WORLD01_AREA041.EMI|sec11|body119|@0xeb1|26B] {c04:04}\n*하하{fe}뭔가>\n쪼끄만 게{fe}왔는데?<END>
+[WORLD01_AREA041.EMI|sec11|body120|@0xecb|38B] {c0c:06}{c04:01}\n*어{fe}허니{fc}@?{02}>>너{fe}이번에도\n따라온 거야?<END>
+[WORLD01_AREA041.EMI|sec11|body121|@0xef1|44B] {c0c:06}{c04:01}\n*이 애{fe}전에도\n나한테{ff}붙어서>{02}성 안에{fe}들어왔었어><END>
+[WORLD01_AREA041.EMI|sec11|body122|@0xf1d|46B] {c0c:06}{c04:01}\n*>그때는{fe}도망다니다가{02}결국엔{fe}발코니에서\n떨어진 거야>@<END>
+[WORLD01_AREA041.EMI|sec11|body123|@0xf4b|43B] {c04:04}\n*뭐>{fe}꼬맹이는 꼬맹이대로\n신경 쓰이는 게{fe}있겠지>{02}발코니 같은 거>?<END>
+[WORLD01_AREA041.EMI|sec11|body124|@0xf76|47B] {c0c:06}{c04:01}\n*그럴지도>{02}이번엔{fe}안 떨어뜨리게\n제대로{ff}붙잡아 두기로\n할게><END>
+[WORLD01_AREA041.EMI|sec11|body125|@0xfa5|58B] *나{fe}난 이용당했을\n뿐이야>{02}어둠의 조직의{fe}바리오랑\n산토랑>>\n두목인{fe}미크바랑>><END>
+[WORLD01_AREA041.EMI|sec11|body126|@0xfdf|64B] *조사에 따르면{fe}그 무리는\n다들{fe}이 세상에{ff}없어>{02}잡힌 걸로{fe}끝나서\n운이 좋았던 거야\n맥니르 씨?<END>
+[WORLD01_AREA041.EMI|sec11|body127|@0x101f|36B] *저렇게까지{fe}형편없으면\n뭔가{fe}불쌍하네>\n맥니르라니?<END>
+[WORLD01_AREA041.EMI|sec11|body128|@0x1043|24B] *지금{fe}맥니르를\n취조하는 중입니다<END>
+[WORLD01_AREA041.EMI|sec11|body129|@0x105b|39B] *난{fe}나쁘지 않아요{02}좀{fe}잔머리 굴린 함정에\n걸렸을 뿐이라고요><END>
+[WORLD01_AREA041.EMI|sec11|body130|@0x1082|41B] *멍청한 놈들을{ff}속여서\n한탕 치고 도망치는 게\n우리 사는 방식이라고요@<END>
+[WORLD01_AREA041.EMI|sec11|body131|@0x10ab|42B] *구린 밥 먹고 있어요{02}근데{fe}구린 건 괜찮아요\n뭐든 먹어요{fe}난<END>
+[WORLD01_AREA041.EMI|sec11|body132|@0x10d5|72B] *지금{fe}이 지하 감옥에는>{02}부정 저지른 지주랑\n쪼잔한{ff}허풍쟁이\n맥 3형제 정도라>{02}대단한 놈들은{fe}안 들어와 있어요<END>
+[WORLD01_AREA041.EMI|sec11|body133|@0x111d|31B] *{c04:01}님이{fe}잡은\n지주를{ff}보러 오신 거예요?<END>
+[WORLD01_AREA041.EMI|sec11|body134|@0x113c|37B] *방금{fe}엄청 작은\n기계병 같은 거\n안 가지고 있었어요?<END>
+[WORLD01_AREA041.EMI|sec11|body135|@0x1161|6B] *꼬꼬꼬꼬<END>
+[WORLD01_AREA041.EMI|sec11|body136|@0x1167|49B] *옛날에>{ff}{c04:01}님이\n여기서 빠져나가서>{02}그 뒤로{fe}이쪽도\n감시하게 됐어요>><END>
+[WORLD01_AREA041.EMI|sec11|body137|@0x1198|27B] *제대로{fe}먹고 있냐?\n안 먹으면{fe}힘 안 나<END>
+[WORLD01_AREA041.EMI|sec11|body138|@0x11b3|53B] *하오치{fc} 두목의\n식칼 다루는 솜씨는\n엄청나>{02}기회가 있으면{fe}배워\n두는 게 좋아><END>
+[WORLD01_AREA041.EMI|sec11|body139|@0x11e8|8B] *바리바리바리<END>
+[WORLD01_AREA041.EMI|sec11|body140|@0x11f0|49B] *팍팍 먹고\n힘내지 않으면>{02}{c04:01}님한테{ff}일을\n뺏긴다고{fe}병사님@?<END>
+[WORLD01_AREA041.EMI|sec11|body141|@0x1221|36B] *닭이{fe}부족하네요\n누가{fe}팍팍\n먹어버렸나{fc}?<END>
+[WORLD01_AREA041.EMI|sec11|body142|@0x1245|5B] *꼬꼭<END>
+[WORLD01_AREA041.EMI|sec11|body143|@0x124a|9B] *꼬꼬도르도르<END>
+[WORLD01_AREA041.EMI|sec11|body144|@0x1253|23B] {c04:04}\n*또{fe}발코니에서\n뛰어내리려고@?<END>
+[WORLD01_AREA041.EMI|sec11|body145|@0x126a|53B] {c04:01}\n*무사했어{fe}그땐\n게다가>{ff}여긴{fe}지하야@?{c16:30}{c04:01}\n*아무튼{fe}뒤쫓자@?<END>
+[WORLD01_AREA041.EMI|sec11|body146|@0x128d|18B] {c04:01}\n*아무튼{fe}뒤쫓자@?<END>
+[WORLD01_AREA041.EMI|sec11|body147|@0x129f|27B] {c04:01}\n*뭐 하는 거야{fe}빨리>\n허니{fc}는{fe}저쪽이야@<END>
+[WORLD01_AREA041.EMI|sec11|body148|@0x12ba|28B] *봐{fe}지금도{ff}작은 기계병>\n멋있네{fc}<END>
+[WORLD01_AREA041.EMI|sec11|body149|@0x12d6|21B] 닭이랑 놀고 있을\n틈은{fe}없어@<END>
+[WORLD01_AREA041.EMI|sec11|body150|@0x12eb|44B] *뭐{fe}{c04:01}님\n또{fe}가출하시는 거예요?{02}>조심하시고\n잘 먹어야 됩니다<END>
+[WORLD01_AREA041.EMI|sec11|body151|@0x1317|44B] *두목의{ff}식칼 솜씨\n배우고 싶어지면>{02}언제든지{ff}돌아오세요?<END>
+[WORLD01_AREA041.EMI|sec11|body152|@0x1343|10B] *바리바리>{ff}응?<END>
+[WORLD01_AREA041.EMI|sec11|body153|@0x134d|47B] *그래{fe}{c04:01}님\n또{ff}가출이세요>{02}뭐{fe}언제든지{ff}우린\n{c04:01}님{ff}편이에요><END>
+[WORLD01_AREA041.EMI|sec11|body154|@0x137c|27B] *작은 게{ff}저 아래로\n달려갔지요?<END>
+[WORLD01_AREA041.EMI|sec11|body155|@0x1397|19B] {c04:04}\n*막다른 길{fe}아니야?<END>
+[WORLD01_AREA041.EMI|sec11|body156|@0x13aa|36B] {c04:01}\n*그렇긴 한데{fe}그래도>{c16:20}{c0c:05}{c04:01}\n*잘 될 것 같은 느낌도 들어><END>
+[WORLD01_AREA041.EMI|sec11|body157|@0x13b9|21B] {c0c:05}{c04:01}\n*잘 될 것 같은 느낌도 들어><END>
+[WORLD01_AREA041.EMI|sec11|body158|@0x13ce|29B] *내 마을은>{ff}내 돈은>\n어떻게 된 거요><END>
+[WORLD01_AREA041.EMI|sec11|body160|@0x13eb|27B] *이제{fe}당신 마을이\n아니에요{fe}맥니르 씨<END>
+[WORLD01_AREA041.EMI|sec11|body161|@0x1406|50B] *욕심내서{ff}나쁜 조직과\n손잡거나 하니까{fe}이렇게\n호된 꼴을{ff}당하는 거지><END>
+[WORLD01_AREA041.EMI|sec11|body162|@0x1438|28B] *이 남자는{fe}부정을 저지른\n전 지주입니다><END>
+[WORLD01_AREA041.EMI|sec11|body163|@0x1454|14B] *이 아래는{fe}감옥이에요<END>
+[WORLD01_AREA041.EMI|sec11|body164|@0x1462|52B] *성 지하에{fe}그런 기계가\n있었어요>{02}흐{fc}음{fe}기계란\n정말{ff}수수께끼네요><END>
+[WORLD01_AREA041.EMI|sec11|body165|@0x1496|4B] *여기<END>
+[WORLD01_AREA041.EMI|sec11|body166|@0x149a|74B] *나>{ff}키노시타 료도>{02}언젠가{fe}두목한테 안 지는\n훌륭한 요리사가\n되어 보이겠어>@{02}그러려면{fe}우선\n화성문어{ff}요리다@<END>
+[WORLD01_AREA041.EMI|sec11|body167|@0x14e4|87B] *>{c04:01}님이\n가출하신 건{fe}알지만{02}밖에 나가고 싶다는\n마음을{fe}아니까>{02}여기 사람들은{fe}보고도 못 본\n척하고 있는 거야>\n모규모규<END>
+[WORLD01_AREA041.EMI|sec11|body168|@0x153b|40B] *공주님{fe}제대로\n드시고{ff}계실까>{02}건강하시면{ff}좋겠는데><END>
+[WORLD01_AREA041.EMI|sec11|body169|@0x1563|41B] *성 사람들은{fe}모두\n{c04:01}님{ff}편이에요{02}근데>{ff}왕비님은><END>
+[WORLD01_AREA041.EMI|sec11|body170|@0x158c|5B] *꼬르<END>
+[WORLD01_AREA041.EMI|sec11|body171|@0x1591|6B] *꼬르꼬르<END>
+[WORLD01_AREA041.EMI|sec11|body172|@0x1597|29B] 역시{fe}이 위로 올라가면\n소란이 일{ff}수도 있다><END>

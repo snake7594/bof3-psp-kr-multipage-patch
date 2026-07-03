@@ -1,0 +1,2 @@
+[WORLD03_AREA149.EMI|sec11|body0|@0x207|111B] {c0c:82}{ff}\n{ff}\n{ff}{ff}{ff}{ff}본 적 없는\n{ff}\n{ff}{ff}{ff}거대한 기계가\n{ff}\n{ff}{ff}{c04:00}일행을 태우고{fe}나른다>{c16:50}{c0c:82}{ff}\n{ff}\n{ff}{ff}{ff}{ff}{ff}하늘 높은 곳으로>\n{ff}\n{ff}{ff}{ff}{ff}신과{fe}같은 이름을 가진\n{ff}\n{ff}{ff}{ff}{ff}{ff}그곳으로>{c16:40}
+[WORLD03_AREA149.EMI|sec11|body1|@0x23e|56B] {c0c:82}{ff}\n{ff}\n{ff}{ff}{ff}{ff}{ff}하늘 높은 곳으로>\n{ff}\n{ff}{ff}{ff}{ff}신과{fe}같은 이름을 가진\n{ff}\n{ff}{ff}{ff}{ff}{ff}그곳으로>{c16:40}

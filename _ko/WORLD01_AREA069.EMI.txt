@@ -1,0 +1,29 @@
+[WORLD01_AREA069.EMI|sec11|body0|@0x21c|22B] 산토\n*기다려라>>\n그건{fe}뭐냐?<END>
+[WORLD01_AREA069.EMI|sec11|body1|@0x232|49B] {c0c:06}*저기요>>{ff}이건>{02}플랜트에서{ff}윈디아로\n옮기는 중인>\n짐이에요>><END>
+[WORLD01_AREA069.EMI|sec11|body2|@0x263|52B] 산토\n*짐이라고>>{02}그렇군{fe}그래>\n그럼{fe}나머진{ff}내가 옮겨주마\n수고했구나<END>
+[WORLD01_AREA069.EMI|sec11|body3|@0x297|35B] 산토\n*걱정 말거라@\n잘{ff}옮겨줄 테니{fe}@@{02}가하하하하<END>
+[WORLD01_AREA069.EMI|sec11|body4|@0x2ba|16B] *그 아인{fe}어찌 지내려나<END>
+[WORLD01_AREA069.EMI|sec11|body5|@0x2ca|29B] *분명{fe}지금쯤은\n스타가{ff}돼 있을 거예요\n호호호호><END>
+[WORLD01_AREA069.EMI|sec11|body6|@0x2e7|9B] *호호호호호호><END>
+[WORLD01_AREA069.EMI|sec11|body7|@0x2f0|20B] {c04:01}\n*여기가{fe}길목 입구야<END>
+[WORLD01_AREA069.EMI|sec11|body16|@0x304|38B] {c04:01}\n*저기에{fe}오두막이 있으니까>{02}가서{fe}얘기 좀 들어보자<END>
+[WORLD01_AREA069.EMI|sec11|body17|@0x32a|40B] {c04:01}\n*어디로 갔는지\n모르는 채로>>{02}움직이는 건{ff}안 좋아>><END>
+[WORLD01_AREA069.EMI|sec11|body18|@0x352|22B] *할멈아>\n또{fe}꼬마 손님이 왔어<END>
+[WORLD01_AREA069.EMI|sec11|body19|@0x368|15B] *어머{fe}이런\n오호호호호호호<END>
+[WORLD01_AREA069.EMI|sec11|body20|@0x377|11B] {c0c:05}{c04:01}\n*{c04:00}@@<END>
+[WORLD01_AREA069.EMI|sec11|body21|@0x382|30B] {c0c:05}바리오\n*멍청한 짓은{ff}하지 마라\n꼬마 드래곤아><END>
+[WORLD01_AREA069.EMI|sec11|body22|@0x3a0|18B] {c0c:05}바리오\n*><PAUSE>><PAUSE>>그래야지<END>
+[WORLD01_AREA069.EMI|sec11|body23|@0x3b2|31B] {c0c:05}바리오\n*>너 따위야{fe}내버려둬도\n상관없지만<END>
+[WORLD01_AREA069.EMI|sec11|body24|@0x3d1|54B] {c0c:05}바리오\n*우리가{fe}왕녀를\n납치했단 걸>{02}성에{ff}알리면\n좀{fe}골치 아프거든<END>
+[WORLD01_AREA069.EMI|sec11|body25|@0x407|44B] {c0c:05}바리오\n*하지만{fe}여기서 죽여서>{02}또{fe}드래곤이 환생해도\n곤란하고 말이야>?<END>
+[WORLD01_AREA069.EMI|sec11|body26|@0x433|41B] {c0c:05}바리오\n*그래도{fe}걱정 마라>{02}나중에{fe}천천히\n죽여줄 테니까{fe}응?<END>
+[WORLD01_AREA069.EMI|sec11|body27|@0x45c|121B] {c04:01}\n*다시{fe}유적에 가려면\n동쪽 구름다리를{ff}써야 하지?{c16:30}{c04:01}\n*근데{fe}이번엔>{02}아버님><PAUSE>{ff}왕도 쉽게는\n허락 안 해주실 거야>{02}전에{fe}내가 가출한 게\n{c04:00}들 탓이라고\n여기시거든><END>
+[WORLD01_AREA069.EMI|sec11|body28|@0x484|81B] {c04:01}\n*근데{fe}이번엔>{02}아버님><PAUSE>{ff}왕도 쉽게는\n허락 안 해주실 거야>{02}전에{fe}내가 가출한 게\n{c04:00}들 탓이라고\n여기시거든><END>
+[WORLD01_AREA069.EMI|sec11|body29|@0x4d5|18B] {c04:01}\n*근데{fe}생각이 하나 있어@<END>
+[WORLD01_AREA069.EMI|sec11|body30|@0x4e7|72B] {c04:01}\n*{c04:00}들은\n어둠 조직을{fe}무찔렀잖아?{02}거기에{fe}하나만 더\n공을{ff}세우면>{02}아무도{fe}불평 못 할 거야<END>
+[WORLD01_AREA069.EMI|sec11|body31|@0x52f|43B] {c04:01}\n*>플랜트{ff}기억나?{02}가이스트를 써서{fe}채소를\n기르는 곳>?<END>
+[WORLD01_AREA069.EMI|sec11|body32|@0x55a|57B] {c04:01}\n*요즘{fe}거기도 뭔가\n상태가{ff}이상해서>{02}한 번{fe}조사해야겠다고\n생각하던 참이야><END>
+[WORLD01_AREA069.EMI|sec11|body33|@0x593|64B] {c04:01}\n*있잖아{fe}<PAUSE>협력해줘@{02}어둠 조직에{ff}이어서\n플랜트 일도{fe}해결하면{02}분명{ff}허락이 떨어질 테니까\n>>응?<END>
+[WORLD01_AREA069.EMI|sec11|body34|@0x5d3|16B] {c04:01}\n*정말@?{ff}다행이다@<END>
+[WORLD01_AREA069.EMI|sec11|body35|@0x5e3|44B] {c04:01}\n*그럼{fe}가자@{02}플랜트는{fe}길목을\n동쪽으로 빠져나간{fe}건너편이야@<END>
+[WORLD01_AREA069.EMI|sec11|body36|@0x60f|47B] *윈디아는\n{fe}참{ff}좋은 곳이지만{fe}{02}한 번쯤은{ff}외국에{ff}\n가보고 싶구나<END>

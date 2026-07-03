@@ -1,0 +1,44 @@
+[WORLD00_AREA001.EMI|sec11|body0|@0x208|57B] 광산장\n*아니{c15:07}{c15:07}{fe}이거 참, 고맙수\n{c04:02}님>>{02}드래곤은{ff}쓰러뜨려\n주셨습니까><PAUSE>{ff}응?<END>
+[WORLD00_AREA001.EMI|sec11|body1|@0x241|27B] 광산장\n*아니> 그런데{ff}그쪽\n젊은 분은>?<END>
+[WORLD00_AREA001.EMI|sec11|body2|@0x25c|30B] {c0c:05}{c04:02}\n*아니{fe}아무것도 아니야>\n드래곤은{ff}이제{fe}없어<END>
+[WORLD00_AREA001.EMI|sec11|body3|@0x27a|32B] 광산장\n*아, 그렇습니까@\n그거{fe}정말 고맙수<END>
+[WORLD00_AREA001.EMI|sec11|body4|@0x29a|81B] 광산장\n*하여간{fe}그 드래곤이란 놈\n>>{02}불은 뿜지{fe}사람은 죽이지\n날뛰면서{ff}기계는\n때려부수지>{02}나쁜 짓만{ff}해댔으니까요<END>
+[WORLD00_AREA001.EMI|sec11|body5|@0x2eb|17B] 광산장\n*무슨 일이오>?<END>
+[WORLD00_AREA001.EMI|sec11|body6|@0x2fc|26B] {c0c:05}{c04:02}\n*아니{fe}아무것도 아니야\n좀 피곤할 뿐이야>><END>
+[WORLD00_AREA001.EMI|sec11|body7|@0x316|74B] 광산장\n*>>?{02}뭐{fe}됐수>\n아무튼{fe}수고했수다>{02}오두막 쪽으로 가서\n감독님한테\n사례를{ff}받아 가시오<END>
+[WORLD00_AREA001.EMI|sec11|body8|@0x360|76B] {c04:02}\n*>>신경 쓰지 마{fe}<PAUSE>라고 하는 건\n무리일지도 모르지만{02}드래곤이{ff}돼 있던 동안은\n자신을{ff}잃고 있었던 거야>{02}너무{fe}괴로워하지 마><END>
+[WORLD00_AREA001.EMI|sec11|body9|@0x3ac|37B] *뭐{fe}이걸로 다시\n일을{ff}할 수 있겠구먼>\n아니{c15:07}{c15:07}{fe}다행이야@<END>
+[WORLD00_AREA001.EMI|sec11|body10|@0x3d1|82B] *여기서{fe}기계 광차로\n온 세상에{ff}고스트광을\n실어 나른다는데>{02}자세한 건{fe}나도\n잘 모르지만 말이야>\n그냥 수리공이라서<END>
+[WORLD00_AREA001.EMI|sec11|body11|@0x423|44B] *드래곤{fe}해치웠어?{02}그럼{fe}이 선로에\n광차가{ff}달릴 날도\n가깝겠네><END>
+[WORLD00_AREA001.EMI|sec11|body12|@0x44f|29B] *드래곤 때문에\n오랫동안{fe}일을 못 했지<END>
+[WORLD00_AREA001.EMI|sec11|body13|@0x46c|27B] *일하는 법을 완전히\n잊어버렸지 뭐야@<END>
+[WORLD00_AREA001.EMI|sec11|body14|@0x487|68B] *그러고 보니{fe}훨씬 전에도\n이 광산에서{fe}드래곤이\n발견된 적이{ff}있었지>{02}그때{ff}드래곤은\n어떻게 됐더라?<END>
+[WORLD00_AREA001.EMI|sec11|body15|@0x4cb|80B] *드래곤{fe}해치우는 거\n못 도와줘서{ff}미안했어>{02}옛날에{fe}나왔을 때는\n나도{ff}잡을 수 있었는데>{02}이번 놈은{fe}좀\n감당이 안 되더라고<END>
+[WORLD00_AREA001.EMI|sec11|body16|@0x51b|24B] *감독님이라면\n옆 오두막에 있을 거야><END>
+[WORLD00_AREA001.EMI|sec11|body17|@0x533|74B] *할 일이 없어서{fe}심심하니까\n구멍 파고 있는 거야@{02}드래곤이{ff}없어지면\n또{fe}실컷{ff}고스트광을\n실컷 캐 줄 거야@<END>
+[WORLD00_AREA001.EMI|sec11|body18|@0x57d|46B] *이런 데{fe}깎아 봤자\n아무것도 안 나오는 거{ff}알지만{02}왜인지{fe}하게 되더라고><END>
+[WORLD00_AREA001.EMI|sec11|body19|@0x5ab|61B] *이 광산 지하의\n커다란 드래곤{ff}가이스트를\n다 깎아 버리면>{02}이제{fe}드래곤은\n안 나오려나>{ff}?<END>
+[WORLD00_AREA001.EMI|sec11|body20|@0x5e8|45B] *근데{fe}드래곤이란 놈은\n참 끈질겨>{02}멸종했을 텐데\n아직{fe}있단 말이야><END>
+[WORLD00_AREA001.EMI|sec11|body21|@0x615|69B] *내 친구도\n어디 투기장에서>{02}드래곤 같은 걸\n봤다는 얘기야>{02}아직{fe}몇 마리는\n살아남아 있는지도 몰라<END>
+[WORLD00_AREA001.EMI|sec11|body22|@0x65a|25B] *한동안{ff}안 돌렸더니\n녹슬어 버렸네><END>
+[WORLD00_AREA001.EMI|sec11|body23|@0x673|53B] *왜{fe}살아 있는 드래곤이\n나오는 걸까?{02}>얌전히{fe}고스트광이\n돼 있으면{ff}좋을 텐데<END>
+[WORLD00_AREA001.EMI|sec11|body24|@0x6a8|82B] *그{fe}쪼끄만\n드래곤 때문에>{02}요{fe}몇 년은{ff}제대로\n일을{ff}못 했어>{02}어째서{fe}다른 광산도 아니고\n여기에{ff}나오는 걸까?<END>
+[WORLD00_AREA001.EMI|sec11|body25|@0x6fa|57B] *이 광산 사람들은\n지금{fe}일이 없다면서>\n아무것도{ff}안 사 줘요{02}당신{fe}뭐 좀 사 줘@<END>
+[WORLD00_AREA001.EMI|sec11|body26|@0x733|66B] *당신들{fe}드래곤\n잡으러 와 준 거야?{02}광산 안은{fe}고스트광에\n몬스터가{ff}모여 있어서\n큰일이지?<END>
+[WORLD00_AREA001.EMI|sec11|body27|@0x775|9B] *흠흠흠><END>
+[WORLD00_AREA001.EMI|sec11|body28|@0x77e|73B] *당신들{ff}덕분에\n일을{fe}할 수 있어>{02}고마워{fe}뭐든 말해 줘{02}쉴 거면{fe}이 방을\n써도{fe}괜찮아><END>
+[WORLD00_AREA001.EMI|sec11|body29|@0x7c7|56B] *뭐{fe}드래곤한테 당하는 건\n사고 같은{ff}거지만>{02}그렇게 자주는\n안 나왔으면{ff}좋겠어@<END>
+[WORLD00_AREA001.EMI|sec11|body30|@0x7ff|62B] *기계는{fe}고스트광을\n먹고{ff}움직여>{02}광산 사내들은{fe}내가 만든\n맛있는 걸 먹고{fe}움직이지@<END>
+[WORLD00_AREA001.EMI|sec11|body31|@0x83d|11B] *><PAUSE>><PAUSE>><PAUSE>>으으<END>
+[WORLD00_AREA001.EMI|sec11|body32|@0x848|62B] *몇 년 전에도{fe}한번\n드래곤이{ff}나온 적이 있어서>{02}저기{ff}아저씨는{fe}그때\n드래곤한테{ff}당했지><END>
+[WORLD00_AREA001.EMI|sec11|body33|@0x886|32B] *허겁지겁 먹고\n팍팍 일해>\n거짓말 아니야><END>
+[WORLD00_AREA001.EMI|sec11|body34|@0x8a6|28B] {ff}\n여기까지의 여정을{ff}세이브할 수 있습니다{c14:00}{c0c:02}세이브하기<END>
+[WORLD00_AREA001.EMI|sec11|body35|@0x8c6|61B] {c04:02}\n*잠깐 기다려>\n사례금을{ff}받아 두자>{02}이제부터{fe}긴 여정이 될 거야>\n돈은 있어도{ff}나쁠 거 없겠지<END>
+[WORLD00_AREA001.EMI|sec11|body36|@0x903|82B] {c0c:05}감독\n*정말{fe}잘\n해 주셨습니다@{02}어떻습니까{fe}{c04:02}님\n이대로{fe}여기 남아서>{02}또{fe}드래곤이 나오면\n물리쳐 주시는 게?<END>
+[WORLD00_AREA001.EMI|sec11|body37|@0x955|43B] {c0c:06}{c04:02}\n*아니>{ff}그만두지>{02}게다가{fe}이제>\n드래곤이 나올 일도{ff}없겠지<END>
+[WORLD00_AREA001.EMI|sec11|body38|@0x980|46B] {c0c:05}감독\n*그{fe}그렇습니까>{02}{c04:02}님이\n있어 주신다면{fe}든든할\n텐데 말이죠><END>
+[WORLD00_AREA001.EMI|sec11|body39|@0x9ae|39B] {c0c:06}{c04:02}\n*가야만{ff}해>{02}사례금은{fe}분명히\n받았어>><END>
+[WORLD00_AREA001.EMI|sec11|body40|@0x9d5|56B] {c0c:05}감독\n*아>{ff}{c04:02}님@?{02}산을{ff}내려가실 거면>\n오우거{fc}가도를\n조심하는 게{fe}좋아요<END>
+[WORLD00_AREA001.EMI|sec11|body41|@0xa0d|82B] {c0c:05}감독\n*뭐랄까{fe}그 근처에\n엄청난 몬스터가{ff}나온다나{02}자세한 건{fe}산 내려가서\n서쪽에 있는>{ff}{c05:02}암시장{06}이란\n마을에서 물으면{ff}좋을 거예요><END>
+[WORLD00_AREA001.EMI|sec11|body42|@0xa5f|32B] {c0c:05}감독\n*뭐{fe}<PAUSE>드래곤을 이겼으면>\n무서울 거 없겠죠?<END>
+[WORLD00_AREA001.EMI|sec11|body43|@0xa7f|22B] 여기서{fe}쉬었다 가시겠습니까?{c14:01}{c0c:02}예<END>

@@ -1,0 +1,75 @@
+[WORLD00_AREA015.EMI|sec11|body0|@0x210|68B] *저{fe}수리공이>\n수리비가 싸다고{ff} 하긴 하는데>{02}주인 나리가{fe} 워낙 구두쇠라\n아무리 애써도\n안 될 거야><END>
+[WORLD00_AREA015.EMI|sec11|body1|@0x254|63B] *너희들이{fe} 몬스터를\n쓰러뜨렸다며?\n대단한데>{02}그렇게 강하면\n좀도둑질 같은 건{ff} 안 해도\n될 텐데><END>
+[WORLD00_AREA015.EMI|sec11|body2|@0x293|55B] *>수리한 벽으로\n도둑이 안 들어오면>{02}돈을{ff} 주겠다고\n주인 나리가{ff} 말씀하셨어<END>
+[WORLD00_AREA015.EMI|sec11|body3|@0x2ca|89B] *>그럼{fe} 도둑이 들 때까지\n돈은{ff} 못 받는 건가?{02}>어라?{02}그게 아니라{fe} 도둑이 들면\n돈을{ff} 못 받는다고?{02}>>어느 쪽이든\n못 받는 거잖아{fe} 그거?<END>
+[WORLD00_AREA015.EMI|sec11|body4|@0x323|57B] *몬스터를{ff} 쓰러뜨려 줘서\n살았어>{02}어쩔 수 없는{ff} 좀도둑이라고\n생각했는데>>\n대단한걸@<END>
+[WORLD00_AREA015.EMI|sec11|body5|@0x35c|60B] *오늘은{fe} 뭐 하러 왔냐?{02}우쭐해져서{fe} 맥니르 댁에\n도둑질하러 들어가려고\n생각하는 거냐?<END>
+[WORLD00_AREA015.EMI|sec11|body6|@0x398|50B] *>맥니르가{fe} 벽\n수리비를{ff} 깎는다니까{02}이렇게나{ff} 제대로\n수리했는데 말이야>><END>
+[WORLD00_AREA015.EMI|sec11|body7|@0x3ca|75B] *어{fe} 수리한 벽?{02}아마{fe} 북쪽이었던 것\n같은데>\n거기로는{fe} 무리겠죠?{02}수리공이{fe} 완벽하게\n고쳤다는{ff} 얘기니까요<END>
+[WORLD00_AREA015.EMI|sec11|body8|@0x415|61B] *우헤헤>{ff} 힘내서\n훔쳐 주세요{02}지치면{fe} 여기서\n잠깐 쉴 수{ff} 있으니까요{c14:00}{c0c:12}잠깐 쉬었다 간다<END>
+[WORLD00_AREA015.EMI|sec11|body9|@0x458|68B] 즈루스루\n*기운 차리면{fe} 다시\n힘내 주세요>{02}이렇게{fe} 일 안 하고\n행복하게 사는 게\n제 꿈이거든요><END>
+[WORLD00_AREA015.EMI|sec11|body10|@0x49c|48B] *우리 중에도\n괘씸한 놈이 있어서>>{02}도둑을{ff} 안으로 들인 놈이\n있다는 얘기야<END>
+[WORLD00_AREA015.EMI|sec11|body16|@0x4cc|38B] *도둑한테{ff} 우롱당해서\n주인 나리{fe} 상당히\n열받으신 모양이야>><END>
+[WORLD00_AREA015.EMI|sec11|body17|@0x4f2|61B] *도둑맞은 물건은\n마을 사람들 양심으로{ff} 돌아왔지만>{02}상처받은{ff} 주인 나리의 마음은\n결코{ff} 낫지 않겠죠<END>
+[WORLD00_AREA015.EMI|sec11|body18|@0x52f|43B] *도둑이 들어버렸어@\n이러면 수리비를 못 받아@\n난{ff} 이제 끝장이야@<END>
+[WORLD00_AREA015.EMI|sec11|body19|@0x55a|55B] *확실히{ff} 세금은\n힘들지만>{02}맥니르 님을{ff} 화나게 해서\n일이{ff} 없어지는 것보다\n나아>><END>
+[WORLD00_AREA015.EMI|sec11|body20|@0x591|47B] *여기서만 하는 얘긴데\n맥니르는{ff} 뒤에서>{02}더러운 놈들이랑{ff} 어울린다는\n소문도 있어<END>
+[WORLD00_AREA015.EMI|sec11|body21|@0x5c0|35B] *이{c05:02}완벽{06}한\n벽으로{ff} 숨어 들어왔다니\n거짓말이지@?<END>
+[WORLD00_AREA015.EMI|sec11|body22|@0x5e3|11B] {ff}{ff}{ff}소 훔치지 마@<END>
+[WORLD00_AREA015.EMI|sec11|body23|@0x5ee|53B] *나도{fe} 이제부터는\n성실하게{ff} 지켜야지>{02}실수했다간{ff} 주인 나리한테\n무슨 일 당할지{ff} 몰라<END>
+[WORLD00_AREA015.EMI|sec11|body26|@0x623|42B] *그나저나{fe} 그\n{c04:04}들을>{02}혼내주라고{ff} 한 건\n대체 누구한테{ff} 부탁한 걸까?<END>
+[WORLD00_AREA015.EMI|sec11|body27|@0x64d|46B] *여기서만 하는 얘긴데>{02}역시{ff} 맥니르 님은\n위험한 놈들이랑\n손잡고 있었던 거야><END>
+[WORLD00_AREA015.EMI|sec11|body28|@0x67b|39B] *이 앞 저택에서\n작물 관련 부정에 대해\n조사를{ff} 하고 있습니다<END>
+[WORLD00_AREA015.EMI|sec11|body29|@0x6a2|28B] *그럼{fe} 그{ff} 수상한 남자란\n어떤 자들이었습니까?<END>
+[WORLD00_AREA015.EMI|sec11|body30|@0x6be|11B] *어{fc}{fe} 그{fc}>><END>
+[WORLD00_AREA015.EMI|sec11|body31|@0x6c9|52B] *윈디아 수비병은\n멋있단 말이야>{02}나도{fe} 여기{ff} 그만두고\n윈디아로{ff} 갈까나><END>
+[WORLD00_AREA015.EMI|sec11|body32|@0x6fd|40B] *지주의 길드마스터냐>\n편해 보여서{fe} 좋겠다{02}성은{fe} 답답하거든><END>
+[WORLD00_AREA015.EMI|sec11|body33|@0x725|29B] *헤{fc}{fe} 그렇게나 싼 거야\n성 쪽이{ff} 낫겠는걸><END>
+[WORLD00_AREA015.EMI|sec11|body34|@0x742|57B] *우리{ff} 주인 양반\n구두쇠라서{c15:07}{c15:07}>>{02}4년이나{ff} 이 일 하는데\n{c15:1e}명이랑{ff} 똑같은 월급이라고<END>
+[WORLD00_AREA015.EMI|sec11|body35|@0x77b|73B] *주인 나리를{ff} 조사하러\n윈디아에서{ff} 잔뜩\n사람이{fe} 왔는데>{02}그 리더가{fe} 엄청\n귀여워@{02}역시{fe} 윈디아야@<END>
+[WORLD00_AREA015.EMI|sec11|body36|@0x7c4|34B] *뭐{fe} 여기서만 하는 얘긴데>\n언젠가는{ff} 이렇게 될 거라고\n생각했지{fe} 난<END>
+[WORLD00_AREA015.EMI|sec11|body37|@0x7e6|44B] {c0c:06}{c04:04}\n*저택은{fe} 이 앞이다>{02}나눠서{fe} 입구를\n찾기로{ff} 하자<END>
+[WORLD00_AREA015.EMI|sec11|body48|@0x812|13B] {c0c:06}{c04:04}\n*실수하지 마라<END>
+[WORLD00_AREA015.EMI|sec11|body49|@0x81f|52B] *정면으로{ff} 쳐들어가서>{02};뜯어낸 돈을{ff} 다들한테\n돌려줘@<{ff}라고 하는 건\n어떨까>>?<END>
+[WORLD00_AREA015.EMI|sec11|body50|@0x853|38B] *응?{ff} 무섭냐?{02}>그냥{ff} 부자일 뿐이니까\n누에만큼{ff} 위험하진 않아<END>
+[WORLD00_AREA015.EMI|sec11|body51|@0x879|34B] *난{ff} 이런 거\n넘어갈 수 있지만{fe}{02}{c04:00}한테는{ff} 좀 그렇지><END>
+[WORLD00_AREA015.EMI|sec11|body52|@0x89b|51B] *>누에마저{ff} 해치운\n우리가{ff} 가면>{02}맥니르{ff} 영감탱이\n벌벌 떨겠지<END>
+[WORLD00_AREA015.EMI|sec11|body53|@0x8ce|25B] {c0c:06}{c04:04}\n*무슨 일이야?\n좋은 곳{ff} 있었냐?<END>
+[WORLD00_AREA015.EMI|sec11|body54|@0x8e7|22B] {c04:04}\n*최근에{fe} 수리했다는 곳인가><END>
+[WORLD00_AREA015.EMI|sec11|body55|@0x8fd|18B] {c04:04}\n*흐{fc}음>\n어쩐다지<END>
+[WORLD00_AREA015.EMI|sec11|body56|@0x90f|15B] {c0c:06}{c04:03}\n*혀{fe} 형아@<END>
+[WORLD00_AREA015.EMI|sec11|body57|@0x91e|12B] {c04:03}\n*괜찮아?<END>
+[WORLD00_AREA015.EMI|sec11|body58|@0x92a|39B] {c0c:06}{c04:04}\n*유쾌하군>{02}{c05:02}완벽{06}한 수리야\n우리{ff} 입장에선><END>
+[WORLD00_AREA015.EMI|sec11|body59|@0x951|51B] {c04:04}\n*이런{ff} 이지한 것도\n왠지{ff} 마음에 걸리지만>{02}뭐{fe} 운도 실력의 일부\n라는 거지?<END>
+[WORLD00_AREA015.EMI|sec11|body60|@0x984|10B] {c04:04}\n*가자><END>
+[WORLD00_AREA015.EMI|sec11|body61|@0x98e|14B] >저택은{ff} 이쪽이 아니야<END>
+[WORLD00_AREA015.EMI|sec11|body62|@0x99c|44B] {c04:03}\n*>아니{fe} <PAUSE>그>{02}뭔가{ff} 좋은 거 있을까\n싶어서>{02}있잖아{ff} 형아<END>
+[WORLD00_AREA015.EMI|sec11|body64|@0x9c8|28B] {c04:04}\n*그렇고말고@{02}땡땡이친 게\n아니라고>><END>
+[WORLD00_AREA015.EMI|sec11|body65|@0x9e4|30B] {c04:04}\n*>알았어{02}성실하게 할 테니까\n울지 마>{ff}{c04:00}<END>
+[WORLD00_AREA015.EMI|sec11|body66|@0xa02|27B] {c04:03}\n*에헤헤>{ff} 미안해\n이제{ff} 땡땡이 안 칠게><END>
+[WORLD00_AREA015.EMI|sec11|body67|@0xa1d|145B] {c04:02}\n*하지만{fe} 호랑이>{ff}{c04:04}가\n여기 놈들을{ff} 원망하는 건>{c16:30}{c04:02}\n*이해 못 할 것도{fe} 없지만>{c16:30}{c04:02}\n*정말 나쁜 건\n지주 쪽{fe} 아니었나?{c16:30}{c04:02}\n*용 사냥꾼인{fe} 내가\n할 말은{ff} 아니지만>{02}{c04:00}는{ff} 원한을\n풀 생각은{fe} 없는 건가>?{02}{c04:04}처럼<END>
+[WORLD00_AREA015.EMI|sec11|body68|@0xa3e|112B] {c04:02}\n*이해 못 할 것도{fe} 없지만>{c16:30}{c04:02}\n*정말 나쁜 건\n지주 쪽{fe} 아니었나?{c16:30}{c04:02}\n*용 사냥꾼인{fe} 내가\n할 말은{ff} 아니지만>{02}{c04:00}는{ff} 원한을\n풀 생각은{fe} 없는 건가>?{02}{c04:04}처럼<END>
+[WORLD00_AREA015.EMI|sec11|body69|@0xa52|92B] {c04:02}\n*정말 나쁜 건\n지주 쪽{fe} 아니었나?{c16:30}{c04:02}\n*용 사냥꾼인{fe} 내가\n할 말은{ff} 아니지만>{02}{c04:00}는{ff} 원한을\n풀 생각은{fe} 없는 건가>?{02}{c04:04}처럼<END>
+[WORLD00_AREA015.EMI|sec11|body70|@0xa73|59B] {c04:02}\n*용 사냥꾼인{fe} 내가\n할 말은{ff} 아니지만>{02}{c04:00}는{ff} 원한을\n풀 생각은{fe} 없는 건가>?{02}{c04:04}처럼<END>
+[WORLD00_AREA015.EMI|sec11|body71|@0xaae|35B] {c04:02}\n*그런가>>{02}그 힘을{ff} 쓰면>\n그냥은{ff} 안 끝나니까><END>
+[WORLD00_AREA015.EMI|sec11|body72|@0xad1|40B] *맥니르 님{fe} 당신이\n부정을 저질렀다는 사실은\n확실해졌습니다>><END>
+[WORLD00_AREA015.EMI|sec11|body73|@0xaf9|39B] *그러니{fe} 윈디아 왕의\n이름으로>{ff} 당신을\n여기서 체포합니다><END>
+[WORLD00_AREA015.EMI|sec11|body74|@0xb20|34B] {c0c:06}맥니르\n*아아{fe} 아니오>\n나나 나쁜 건{fe} 내가 아니라><END>
+[WORLD00_AREA015.EMI|sec11|body75|@0xb42|57B] *당신이 말하는{fe} 조직의\n바리오와{fe} 산토라는 인물은\n짐작 가는 데가 있습니다>{02}하지만{fe} 그들은><END>
+[WORLD00_AREA015.EMI|sec11|body76|@0xb7b|30B] {c0c:05}{c04:02}\n*이미{fe} 이 세상에 있을\n리가{fe} 없지>{ff}<PAUSE>그렇지?<END>
+[WORLD00_AREA015.EMI|sec11|body77|@0xb99|21B] {c04:01}\n*{c04:02}씨>?\n게다가>{ff}{c04:00}@?<END>
+[WORLD00_AREA015.EMI|sec11|body78|@0xbae|38B] {c0c:05}{c04:02}\n*오랜만이군>{02}이게{fe} 그>\n지주라는 거냐>?<END>
+[WORLD00_AREA015.EMI|sec11|body79|@0xbd4|72B] {c0c:05}{c04:02}\n*그{fe} 조직인지 뭔지에는\n짐작 가는 데가{fe} 없진 않다>{02}일단{fe} 빠른 시일 내에\n이놈을{ff} 윈디아까지\n데려가는 게 좋겠다><END>
+[WORLD00_AREA015.EMI|sec11|body80|@0xc1c|15B] {c04:01}\n*알았어{fe} {c04:02}씨<END>
+[WORLD00_AREA015.EMI|sec11|body81|@0xc2b|29B] {c04:01}\n*다들{fe} 맥니르를\n데리고{ff} 성으로 돌아가<END>
+[WORLD00_AREA015.EMI|sec11|body82|@0xc48|20B] {c04:01}\n*자{fe} <PAUSE>설명해 주셔야겠어?<END>
+[WORLD00_AREA015.EMI|sec11|body83|@0xc5c|32B] *맥니르 님은{fe}\n위험한 놈들이랑\n손잡고 있는 거야<END>
+[WORLD00_AREA015.EMI|sec11|body84|@0xc7c|14B] *성실하게{ff} 지키고 있습니다<END>
+[WORLD00_AREA015.EMI|sec11|body85|@0xc8a|17B] *조사는{ff} 끝났습니다<END>
+[WORLD00_AREA015.EMI|sec11|body86|@0xc9b|61B] *윈디아 병사는{fe} 꽤\n멋있었어>{02}그에{ff} 비하면\n맥니르 님의\n촌스러웠던 거란@<END>
+[WORLD00_AREA015.EMI|sec11|body87|@0xcd8|44B] *맥니르가{fe} 잡혀서>{02}이제부터는{fe} 좀 더\n세금{fe} 싸지려나?<END>
+[WORLD00_AREA015.EMI|sec11|body88|@0xd04|51B] *앞으로{fe} 어떻게 되려나>{02}저택이{fe} 없어지면\n길드마스터 일도\n없어지겠지><END>
+[WORLD00_AREA015.EMI|sec11|body89|@0xd37|52B] *맥니르 님>\n끌려가 버려서>{02}누가{fe} 내{ff} 남은 월급\n줄까 모르겠네?<END>
+[WORLD00_AREA015.EMI|sec11|body90|@0xd6b|68B] *맥니르 님 일을\n윈디아에{ff} 일러바친 거\n즈루스루 아니야{fe}?{02}교활한 놈일수록\n남의 교활함엔{fe} 까다롭다니까<END>
+[WORLD00_AREA015.EMI|sec11|body91|@0xdaf|38B] *이야{fc}>\n별 볼일 없는 마을이라{ff} 생각했는데{02}이것저것 있어서{fe} 재밌네<END>
+[WORLD00_AREA015.EMI|sec11|body92|@0xdd5|58B] *저택은{ff} 윈디아가\n관리하게{fe} 됐어>{02}그 말은{fe} 나>\n동경하던{fe} 윈디아 병사?<END>

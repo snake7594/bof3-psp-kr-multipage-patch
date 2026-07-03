@@ -1,0 +1,164 @@
+[WORLD01_AREA049.EMI|sec11|body0|@0x242|45B] *고{fc}스트 에너지가\n너무 많이{ff}나오면{02}작물이{ff}너무 크게\n자라버린다니까><END>
+[WORLD01_AREA049.EMI|sec11|body1|@0x26f|50B] *몬듀8{fe}또\n상태가{ff}안 좋은가 봐{02}>아{fe}몬듀8은\n이 반응기의{ff}이름이야<END>
+[WORLD01_AREA049.EMI|sec11|body2|@0x2a1|66B] *요새{fe}계속{ff}몬듀8을\n고치고 있었는데>\n귀찮아서{ff}땡땡이 치는 중이야{02}나이 탓인가?\n머리도{ff}벗겨지기 시작했고><END>
+[WORLD01_AREA049.EMI|sec11|body3|@0x2e3|47B] *플랜트에서 나오는{ff}쓰레기는\n이 아궁이로{ff}태워서>{02}식물 하우스를{ff}\n데우고 있어<END>
+[WORLD01_AREA049.EMI|sec11|body4|@0x312|69B] *내 담당은\n서쪽{ff}처리장인데요>{02}왠지{ff}괴물 같은\n작물 불량품을{ff}\n본 적이{ff}있어요<END>
+[WORLD01_AREA049.EMI|sec11|body5|@0x357|74B] *강화 작물이{fe}위험하냐고?\n그럴 리가 없잖아{02}>근데{fe}가끔{ff}작물이\n너무 커질 때가 있어{02}그건{ff}좀\n징그럽긴 하지><END>
+[WORLD01_AREA049.EMI|sec11|body6|@0x3a1|58B] *고{fc}스트 써서\n작물을{ff}만들다니\n사도라고{ff}생각했는데>{02}이게 의외로{ff}\n잘 팔린대<END>
+[WORLD01_AREA049.EMI|sec11|body7|@0x3db|40B] *크고{fe}빨리 자라서>\n좋은 점만 있는데{02}아무래도{ff}맛이 좀><END>
+[WORLD01_AREA049.EMI|sec11|body8|@0x403|51B] *>저{ff}반응기\n빨리{ff}고쳐야 하는데{02}>이런 때에{ff}소장은\n어디 간 거야?<END>
+[WORLD01_AREA049.EMI|sec11|body9|@0x436|79B] *강화 작물이{ff}위험이 없다는 게\n정말일까요?{02}저{fe}{c05:02}그거{06}를{ff}본 뒤로\n여기 작물을{ff}먹을\n마음은{fe}안 생겨요<END>
+[WORLD01_AREA049.EMI|sec11|body10|@0x485|48B] *그거{fe}봤어요?{02}그런 이상한 게{ff}생기다니\n역시{ff}보통은\n아니죠?<END>
+[WORLD01_AREA049.EMI|sec11|body11|@0x4b5|38B] *소장이 어디 있냐고요?\n그걸::제가 알 리가\n없잖아요<END>
+[WORLD01_AREA049.EMI|sec11|body12|@0x4db|59B] *정말{ff}신세 많이 졌어요>{02}답례라고 하기엔{ff}뭐하지만\n윈디아로 가는{ff}루트는\n저한테{ff}맡겨주세요><END>
+[WORLD01_AREA049.EMI|sec11|body13|@0x516|11B] *장난치지 마{fe}맥<END>
+[WORLD01_AREA049.EMI|sec11|body14|@0x521|15B] *{c04:05}선생님은{fe}아직인가><END>
+[WORLD01_AREA049.EMI|sec11|body15|@0x530|42B] 펠릿\n*오오{fe}{c04:05}선생님@{02}이상체를{ff}처리해\n주셨군요?<END>
+[WORLD01_AREA049.EMI|sec11|body16|@0x55a|47B] *뭔가{ff}신세를\n진 모양이네요>{02}돈은{ff}됐으니까\n푹{ff}쉬세요<END>
+[WORLD01_AREA049.EMI|sec11|body17|@0x589|45B] *여기서{ff}처리 못 하는\n큰 건>{02}서쪽{ff}처리장으로\n가져갑니다<END>
+[WORLD01_AREA049.EMI|sec11|body18|@0x5b6|63B] {c0c:05}펠릿\n*이건{fe}윈디아행\n짐수레예요>>{02}짐 속에{ff}섞여서 가면\n가도를{ff}지날 수 있어요<END>
+[WORLD01_AREA049.EMI|sec11|body19|@0x5f5|23B] {c0c:06}{c04:01}\n*괜찮을까요\n{c04:05}님>?<END>
+[WORLD01_AREA049.EMI|sec11|body20|@0x60c|31B] {c04:05}\n*감시하는{ff}녀석들이\n짐을{ff}안 뒤져{fc}?<END>
+[WORLD01_AREA049.EMI|sec11|body21|@0x62b|42B] {c0c:05}펠릿\n*우후후후>\n괘{fe}<PAUSE>괜찮아요{02}잘{ff}숨어 있으면<END>
+[WORLD01_AREA049.EMI|sec11|body22|@0x655|39B] {c04:05}\n*알겠어\n해보자>>{02}아무것도{ff}없는 것보단\n나을 테니까<END>
+[WORLD01_AREA049.EMI|sec11|body23|@0x67c|9B] {c04:06}\n*뿌큐?<END>
+[WORLD01_AREA049.EMI|sec11|body27|@0x685|8B] {c04:05}\n*그거?<END>
+[WORLD01_AREA049.EMI|sec11|body28|@0x68d|33B] {c04:05}\n*그래{fe}이걸로 가는 거야\n뭐{fe}이거라면 괜찮겠지<END>
+[WORLD01_AREA049.EMI|sec11|body29|@0x6ae|28B] {c04:01}\n*여러모로 고마웠\n습니다{ff}안녕히 계세요<END>
+[WORLD01_AREA049.EMI|sec11|body34|@0x6ca|15B] {c04:01}\n*가요{fe}{c04:00}<END>
+[WORLD01_AREA049.EMI|sec11|body35|@0x6d9|56B] 펠릿\n*우후후>{ff}어휴{02}가도 놈들이{ff}찾는 게\n{c04:05} 일행이라는 건\n잘된{ff}일이었어><END>
+[WORLD01_AREA049.EMI|sec11|body36|@0x711|58B] 펠릿\n*나머진{ff}저 녀석들이\n처리해{ff}주겠지>{02}이상체의 비밀과\n함께 말이야>>{02}우후후후<END>
+[WORLD01_AREA049.EMI|sec11|body37|@0x74b|32B] 펠릿\n*>어디로{ff}가시는 겁니까?\n숙소는{ff}저쪽이에요><END>
+[WORLD01_AREA049.EMI|sec11|body38|@0x76b|59B] 펠릿\n*>아무튼{fe}이 플랜트의\n반응기를{ff}만들 때{02}레프솔 군의{ff}조수를\n하셨으니까요<END>
+[WORLD01_AREA049.EMI|sec11|body39|@0x7a6|26B] {c04:05}\n*>응{fe}그래서\n어느 기계를{ff}고치면 돼{fc}<END>
+[WORLD01_AREA049.EMI|sec11|body40|@0x7c0|49B] 펠릿\n*우후후{fe}그건>\n그거인데{02}>그건{ff}이쪽에서\n어떻게든 수리{ff}하고 있어요<END>
+[WORLD01_AREA049.EMI|sec11|body41|@0x7f1|57B] 펠릿\n*선생님께{ff}부탁드리고 싶은 건\n실은>{ff}저쪽인데요>{c16:30}{c0c:06}{c04:05}\n*귀엽{fc}{fe}네\n뭐야{fe}저거?<END>
+[WORLD01_AREA049.EMI|sec11|body42|@0x815|21B] {c0c:06}{c04:05}\n*귀엽{fc}{fe}네\n뭐야{fe}저거?<END>
+[WORLD01_AREA049.EMI|sec11|body43|@0x82a|30B] 펠릿\n*귀{fe}귀엽다고@?{02}아니{fe}그럴 리가 없잖아요<END>
+[WORLD01_AREA049.EMI|sec11|body44|@0x848|61B] 펠릿\n*>저런{ff}이상한 작물은\n팔 수가{ff}없어서{02}처리장에{ff}가져가서\n버려버려요><END>
+[WORLD01_AREA049.EMI|sec11|body45|@0x885|57B] 펠릿\n*그런데{fe}며칠 전>{02}처분하기 전의{ff}작물을\n모아 뒀더니\n그게{fe}뭐랄까><END>
+[WORLD01_AREA049.EMI|sec11|body46|@0x8be|19B] {c0c:06}{c04:05}\n*>이상화한 거지?<END>
+[WORLD01_AREA049.EMI|sec11|body47|@0x8d1|51B] 펠릿\n*기다리고 있었습니다@{02}>아니{fc}{fe}거기서\n{c04:05}선생님을{ff}만난 건\n행운이었어요<END>
+[WORLD01_AREA049.EMI|sec11|body48|@0x904|30B] *이런 데까지 오시다니\n매입하러 온{ff}손님인가요<END>
+[WORLD01_AREA049.EMI|sec11|body49|@0x922|33B] *우리 플랜트에서{ff}만든\n강화 작물은{ff}어떠세요?<END>
+[WORLD01_AREA049.EMI|sec11|body50|@0x943|55B] *이 플랜트에서{fe}만드는\n감자랑{ff}양파를\n매입하러 왔지{02}일부에선{ff}평판 좋아<END>
+[WORLD01_AREA049.EMI|sec11|body51|@0x97a|71B] *고{fc}스트 에너지를\n잘 이용하면>{02}보통보다{ff}큰 작물을\n더 빨리{ff}만들 수 있어{02}이른바{fe}강화 작물이라는 거지<END>
+[WORLD01_AREA049.EMI|sec11|body52|@0x9c1|75B] *여기서 쓰는{ff}고{fc}스트에\n몬스터가{ff}안 다가오게\n컨베이어를{ff}쓴다나 봐{02}>확실히{ff}마물한텐\n컨베이어는{ff}못 쓰겠지?<END>
+[WORLD01_AREA049.EMI|sec11|body53|@0xa0c|55B] *실험 플랜트에{ff}어서 오세요\n>>견학인가요?{02}고{fc}스트 반응기는\n만지지 마세요{fe}위험하니까<END>
+[WORLD01_AREA049.EMI|sec11|body54|@0xa43|51B] *이건{fe}레프솔:타입의\n고{fc}스트 반응기야>{02}땅에{ff}에너지를 주는\n기계야<END>
+[WORLD01_AREA049.EMI|sec11|body55|@0xa76|36B] *어라{fe}{c04:05} 씨?{02}>레프솔 선생님 댁의\n{c04:05} 씨 아니야@?<END>
+[WORLD01_AREA049.EMI|sec11|body56|@0xa9a|23B] 비정상적으로 큰\n양파{ff}일까>?<END>
+[WORLD01_AREA049.EMI|sec11|body57|@0xab1|47B] 펠릿\n*그래요@{02}무섭게{ff}큰 이상체라서>\n다들{fe}겁먹어 버려서<END>
+[WORLD01_AREA049.EMI|sec11|body58|@0xae0|25B] {c0c:06}{c04:05}\n*>고{fc}스트광이\n섞여 있었구나{fc}?<END>
+[WORLD01_AREA049.EMI|sec11|body59|@0xaf9|40B] 펠릿\n*어{fe}예>{ff}<PAUSE>그래서>{02}워낙 물건이 물건이라\n어떻게 하면{ff}좋을지><END>
+[WORLD01_AREA049.EMI|sec11|body60|@0xb21|60B] {c0c:06}{c04:05}\n*알겠어{fc}>\n내가{fe}어떻게든 할게{02}따지고 보면{fe}아버지\n반응기가{ff}나쁜 거니까><END>
+[WORLD01_AREA049.EMI|sec11|body61|@0xb5d|65B] 펠릿\n*감사합니다\n{c04:05}선생님@{02}장소는{ff}서쪽 산속이에요{02}들어갈 수 있게{ff}준비\n해 두겠습니다@<END>
+[WORLD01_AREA049.EMI|sec11|body62|@0xb9e|58B] *하아{c15:07}{c15:07}{fe}그렇게 큰\n이상체>{ff}라고요?{02}별난{ff}사람이라면\n사 줄지도{ff}모르겠네<END>
+[WORLD01_AREA049.EMI|sec11|body64|@0xbd8|34B] *응{fe}강화 작물은\n윈디아에도\n출하하고 있어><END>
+[WORLD01_AREA049.EMI|sec11|body65|@0xbfa|35B] *근데{fe}컨베이어란 게\n점점{ff}귀찮아져서\n못 해먹겠어><END>
+[WORLD01_AREA049.EMI|sec11|body66|@0xc1d|56B] *고{fc}스트 반응기가 위험하냐고?\n아{fe}별일 아니야{02}사람을{ff}이상화시키거나는\n못 하니까<END>
+[WORLD01_AREA049.EMI|sec11|body67|@0xc55|51B] *그러고 보니{fe}{c04:05} 씨\n레프솔 선생님\n조수를{ff}했었지>{02}그렇구나{fe}부녀였구나><END>
+[WORLD01_AREA049.EMI|sec11|body68|@0xc88|52B] *{c04:05} 씨>\n예뻐졌네{c15:07}{c15:07}{02}레프솔 선생님이랑 있을 땐\n아직{ff}어린애였는데<END>
+[WORLD01_AREA049.EMI|sec11|body69|@0xcbc|8B] {c04:06}랑{ff}닮았어<END>
+[WORLD01_AREA049.EMI|sec11|body70|@0xcc4|31B] {c04:05}\n*뭐{fc}그렇지>>{02}크니까{ff}엄청\n까다로웠어{fc}<END>
+[WORLD01_AREA049.EMI|sec11|body71|@0xce3|33B] 펠릿\n*아이고{fe}정말\n뭐라 감사를 드려야 할지{ff}모르겠네요<END>
+[WORLD01_AREA049.EMI|sec11|body72|@0xd04|27B] {c04:05}\n*>그런 건{fe}필요 없어{02}그럼{fe}소장님<END>
+[WORLD01_AREA049.EMI|sec11|body73|@0xd1f|44B] 펠릿\n*자{fe}<PAUSE>잠깐만요\n{c04:05}선생님@?{02}어디 가시는 거예요?<END>
+[WORLD01_AREA049.EMI|sec11|body74|@0xd4b|45B] 펠릿\n*가도는{fe}못 지나가요@?{02}조금 더{ff}천천히\n계시다 가시는 게>><END>
+[WORLD01_AREA049.EMI|sec11|body75|@0xd78|39B] {c04:05}\n*그게{fc}{fe}우리>{02}윈디아에{ff}안 가면\n안 되거든{fc}<END>
+[WORLD01_AREA049.EMI|sec11|body76|@0xd9f|57B] 펠릿\n*윈디아요@?{02}>그러면{fe}맡겨주세요\n제가{ff}데려다\n드리겠습니다@@<END>
+[WORLD01_AREA049.EMI|sec11|body77|@0xdd8|30B] 펠릿\n*괘{fe}<PAUSE>괜찮습니다\n생각이{fe}있거든요<END>
+[WORLD01_AREA049.EMI|sec11|body78|@0xdf6|68B] 펠릿\n*오오@{ff}그래요@{02}>그러면{ff}내일이라도\n준비할 테니까>{02}오늘은{ff}저기 숙소에서\n쉬세요>><END>
+[WORLD01_AREA049.EMI|sec11|body79|@0xe3a|38B] *소장?\n그러고 보니{fe}안 보이네>{02}저 사람{fe}가끔 사라지더라고<END>
+[WORLD01_AREA049.EMI|sec11|body80|@0xe60|41B] *몬듀의{ff}출력으로는\n이상체가{ff}생기는 일은\n좀처럼{ff}없어<END>
+[WORLD01_AREA049.EMI|sec11|body81|@0xe89|31B] *아{fc}{fe}싫어 싫어\n이제{fe}고{fc}스트광 같은 거\n만지기{ff}싫어<END>
+[WORLD01_AREA049.EMI|sec11|body82|@0xea8|23B] *그{ff}괴물 양파라면\n태워 버렸어<END>
+[WORLD01_AREA049.EMI|sec11|body83|@0xebf|57B] *큰 이상체라면\n본 적은 있지만>{02}역시{ff}말하는 녀석은\n뵌 적{ff}없어요<END>
+[WORLD01_AREA049.EMI|sec11|body84|@0xef8|46B] *살아 있는 이상체?\n움직이거나{fe}말하거나@?{02}>그런 게{ff}될 리가 없잖아<END>
+[WORLD01_AREA049.EMI|sec11|body85|@0xf26|44B] *처리장에{ff}가져갈 만한\n큰 이상체는\n그렇게{ff}흔하진 않아요<END>
+[WORLD01_AREA049.EMI|sec11|body86|@0xf52|29B] *우리 손님은\n대체로{ff}매입하는 상인이야<END>
+[WORLD01_AREA049.EMI|sec11|body87|@0xf6f|54B] *어서 오세요{fe}실험 플랜트에{02}>>네?\n살아 있는 식물을{ff}만드는 실험?\n>그런 건{ff}안 해요@<END>
+[WORLD01_AREA049.EMI|sec11|body88|@0xfa5|31B] *>고{fc}스트광은\n조심하지 않으면{ff}화상 입거나\n해요<END>
+[WORLD01_AREA049.EMI|sec11|body89|@0xfc4|66B] *고{fc}스트광을{ff}이런 식으로\n식물에 주는 걸>{02}생각해낸 게\n레프솔 선생님이야>\n{c04:05} 씨의{ff}아버지지<END>
+[WORLD01_AREA049.EMI|sec11|body90|@0x1006|50B] *내일은{fe}윈디아로\n모셔다 드릴 테니{02}오늘 밤은{ff}저 숙소에서\n쉬세요{fe}네?<END>
+[WORLD01_AREA049.EMI|sec11|body91|@0x1038|32B] *요새{fe}말썽이{ff}이어져서\n작물도{fe}작황이 나빠><END>
+[WORLD01_AREA049.EMI|sec11|body96|@0x1058|70B] *고{fc}스트를 써서>\n크고{fe}싼 게{ff}장점인\n강화 작물을{ff}만들었는데>{02}역시{fe}가짜는\n안 되네>><END>
+[WORLD01_AREA049.EMI|sec11|body97|@0x109e|55B] *고{fc}스트를 써도\n생각만큼{ff}작물이\n안 자란다더라>{02}뭐{fe}애초에 무리가\n있었던 거지><END>
+[WORLD01_AREA049.EMI|sec11|body98|@0x10d5|30B] *더@{02}고{fc}스트 압력을\n더 올리라고@<END>
+[WORLD01_AREA049.EMI|sec11|body99|@0x10f3|24B] *안 돼>\n정비도{ff}제대로 안 했는데@<END>
+[WORLD01_AREA049.EMI|sec11|body100|@0x110b|46B] *기계 정비하는 사람이{fe}말이야>{02}소장이랑{fe}손발이 안 맞는다고\n도망가 버렸어><END>
+[WORLD01_AREA049.EMI|sec11|body101|@0x1139|49B] *>근데{fe}소장은\n여전히{fe}행방불명{02}이러니{fe}말썽이 나도\n어쩔 수 없지<END>
+[WORLD01_AREA049.EMI|sec11|body102|@0x116a|64B] *작물 돌봄이랑{fe}기계 정비\n둘 다 필요하니까>{02}잘 생각해보면>\n귀찮네{fe}강화 작물이란 거<END>
+[WORLD01_AREA049.EMI|sec11|body103|@0x11aa|55B] *정말>\n이 고물 반응기가\n폭발 안 하고{ff}돌아가는 건>{02}{c04:05} 씨가\n봐주기 때문이야><END>
+[WORLD01_AREA049.EMI|sec11|body104|@0x11e1|67B] *이 고{fc}스트 반응기로\n한때는{fe}쑥쑥\n작물이{ff}커졌는데>{02}이제 글렀어>{ff}이렇게\n고물이{ff}돼버리면<END>
+[WORLD01_AREA049.EMI|sec11|body105|@0x1224|53B] *강화 작물{fe}평판 나빠서\n값도{ff}곤두박질>{02}이거{fe}소장님도\n도망가고 싶어지겠네><END>
+[WORLD01_AREA049.EMI|sec11|body106|@0x1259|74B] *여기서만 하는 얘긴데>{02}예전 정비하던 사람은\n고{fc}스트 중독으로{fe}죽었다는\n소문이 있어요>{02}{c04:05} 씨는>\n괜찮을까요?<END>
+[WORLD01_AREA049.EMI|sec11|body107|@0x12a3|52B] *지금{fe}반응기 정비를\n해주는 사람>{02}옛날{fe}여길 만든 사람의\n딸이라며?<END>
+[WORLD01_AREA049.EMI|sec11|body108|@0x12d7|59B] *저 기계 선생님\n예쁜데{fe}덕후라서>{02}내 마음 같은 건\n안 통하겠지>{02}아아{fe}{c04:05} 씨@<END>
+[WORLD01_AREA049.EMI|sec11|body109|@0x1312|60B] *강화 작물은{fe}싸서\n사 먹었는데>{02}이제부턴{fe}안전성도 생각해서\n사야{fe}되겠어><END>
+[WORLD01_AREA049.EMI|sec11|body110|@0x134e|63B] *그건 그렇고>\n펠릿 소장은{fe}어디에?{02}일터가{fe}이렇게\n정신없을 때\n없어지다니{fe}치사해@<END>
+[WORLD01_AREA049.EMI|sec11|body111|@0x138d|65B] *우리 소장은{fe}항상\n중요할 때{ff}없어>{02}언젠가{fe}이상체가 생겼을 때도\n어딘가 가버렸었지><END>
+[WORLD01_AREA049.EMI|sec11|body112|@0x13ce|52B] {c04:05}\n*>이 반응기도{ff}압력이\n부족해{02}밸브 정비를\n서두르지 않으면{fe}안 되겠어{fc}><END>
+[WORLD01_AREA049.EMI|sec11|body128|@0x1402|23B] {c04:05}\n*있잖아{fe}허니\n너도{fe}그렇게 생각해?<END>
+[WORLD01_AREA049.EMI|sec11|body129|@0x1419|36B] {c04:05}\n*응?{02}아{fe}부탁해 둔 부품 말이지\n그 근처에{ff}놔둬>?<END>
+[WORLD01_AREA049.EMI|sec11|body130|@0x143d|25B] {c04:05}\n*어머>{ff}부품이 아니네\n미안해{fc}><END>
+[WORLD01_AREA049.EMI|sec11|body131|@0x1456|27B] {c04:05}\n*아이참{fe}뭐야 허니@{02}지금은{fe}못 놀아{fc}<END>
+[WORLD01_AREA049.EMI|sec11|body132|@0x1471|39B] {c04:05}\n*뭐야{fc}{fe}저 사람?\n허니 친구?{02}><PAUSE>><PAUSE>>어{fe}<PAUSE>{c04:00}@?<END>
+[WORLD01_AREA049.EMI|sec11|body133|@0x1498|27B] {c04:05}\n*{c04:00}라고>>\n{c04:00} 맞잖아@{02}반가워{fc}@<END>
+[WORLD01_AREA049.EMI|sec11|body134|@0x14b3|32B] {c04:05}\n*근데{fe}잠깐만 기다려\n이 일{fe}마저 끝낼 테니까<END>
+[WORLD01_AREA049.EMI|sec11|body135|@0x14d3|76B] {c04:05}\n*>그나저나\n{c04:00}도{ff}많이 컸네{fc}{02}천사의 탑에서{fe}{c04:00}가\n죽고 나서{fe}벌써\n몇 년이나{ff}지났는데{fc}>{02}><PAUSE>><PAUSE>><PAUSE>>응?<END>
+[WORLD01_AREA049.EMI|sec11|body136|@0x151f|91B] {c04:05}\n*응{c15:07}{c15:07}{c15:07}>{02}{c04:00}가{fe}나쁜 용족이라\n그래서{fe}{c04:02}가 죽였는데>{02}근데{fe}정말 용족이 나쁜지\n어떤지 모르니까{fe}신을\n만나러 가려고 한다>?<END>
+[WORLD01_AREA049.EMI|sec11|body137|@0x157a|34B] {c04:01}\n*그{fe}그것보다{fe}{c04:05} 씨\n실험 플랜트 이상은>><END>
+[WORLD01_AREA049.EMI|sec11|body138|@0x159c|65B] {c04:05}\n*그래{fc}{fe}<PAUSE>들어봐@{02}펠릿 소장이{fe}행방불명이라>\n플랜트는{fe}이미 엉망이야{02}작물이고 뭐고 없어{fc}<END>
+[WORLD01_AREA049.EMI|sec11|body139|@0x15dd|41B] {c04:05}\n*그뿐만 아니라>>{02}이대로{fe}내버려 두면\n더 심한 일이{ff}생길지도{fc}<END>
+[WORLD01_AREA049.EMI|sec11|body140|@0x1606|32B] {c04:01}\n*심한 일이라면>\n예전의>{ff}이상체 같은?<END>
+[WORLD01_AREA049.EMI|sec11|body141|@0x1626|92B] {c04:05}\n*>이상체 발생\n고{fc}스트 반응기 폭발{02}뭐가 일어나도\n이상하지{fe}않아{fc}>{02}어쨌든>{ff}자세한 건\n알 수 있는 게{fe}펠릿 소장\n뿐이야{fc}><END>
+[WORLD01_AREA049.EMI|sec11|body142|@0x1682|41B] {c04:01}\n*그{fe}그렇다면>{02}빨리{fe}소장님을{ff}찾아서\n얘기를 들어야 하잖아@?<END>
+[WORLD01_AREA049.EMI|sec11|body143|@0x16ab|60B] {c04:05}\n*그러게{fc}>{02}펠릿 소장은\n가끔{fe}없어지지만>{02}별로 멀리는{ff}안 간다는\n얘기야{fc}?<END>
+[WORLD01_AREA049.EMI|sec11|body144|@0x16e7|41B] {c04:01}\n*그러니까>{ff}<PAUSE>단서는\n근처에{ff}있는 거네?{02}찾아보자{fe}{c04:05} 씨<END>
+[WORLD01_AREA049.EMI|sec11|body145|@0x1710|16B] {ff}\n{c04:05}가{ff}동료가 됐다@<END>
+[WORLD01_AREA049.EMI|sec11|body146|@0x1720|59B] {c04:05}\n*으응{fe}모르겠어>{02}난{fe}물리는{ff}잘하는데\n용족 일은{fe}잘 몰라\n미안해{fc}<END>
+[WORLD01_AREA049.EMI|sec11|body147|@0x175b|11B] {c04:05}\n*자{fe}허니><END>
+[WORLD01_AREA049.EMI|sec11|body148|@0x1766|28B] {c0c:05}{c04:01}\n*그러고 보니{fe}{c04:05} 씨는\n어쩌다{ff}여기에?<END>
+[WORLD01_AREA049.EMI|sec11|body154|@0x1782|58B] {c04:05}\n*>천사의 탑에서{fe}다 같이\n헤어진 뒤{02}{c04:06}에 대해\n알아보려고{ff}생각해서\n같이{ff}돌아왔어{fc}<END>
+[WORLD01_AREA049.EMI|sec11|body155|@0x17bc|53B] {c04:05}\n*근데{fe}혼자선\n감당이 안 돼서>{02}펠릿 소장한테{ff}얘기를 들어보려\n했던 거야><END>
+[WORLD01_AREA049.EMI|sec11|body156|@0x17f1|23B] {c0c:05}{c04:01}\n*{c04:06}@?{02}{c04:06}도{fe}여기 있어?<END>
+[WORLD01_AREA049.EMI|sec11|body157|@0x1808|36B] {c04:05}\n*응>{fe}<PAUSE>동쪽에\n{c05:02}현수의 숲{06}이라고{ff}있는데<END>
+[WORLD01_AREA049.EMI|sec11|body158|@0x182c|50B] {c04:05}\n*요새{fe}{c04:06}가\n숲이{fe}마음에 들어서>{02}맨날{fe};현수<가 있는 데서\n놀고 있어><END>
+[WORLD01_AREA049.EMI|sec11|body159|@0x185e|56B] {c04:05}\n*알아도{fe}아무것도\n말 못 하지만>{02}데려오려면{fe}현수의 숲은\n플랜트{ff}동쪽이야>?<END>
+[WORLD01_AREA049.EMI|sec11|body160|@0x1896|40B] {c0c:05}{c04:01}\n*{c04:06}는{fe}여기서\n태어났으니까>{02}뭔가{fe}알지도 몰라>@?<END>
+[WORLD01_AREA049.EMI|sec11|body161|@0x18be|15B] 뭔가{fe}상태가 이상해>?<END>
+[WORLD01_AREA049.EMI|sec11|body170|@0x18cd|62B] *반응기가{fe}멈추고>\n지하에서{ff}고{fc}스트 가스가\n뿜어 나왔어>{02}위험할 것 같아서{fe}다들\n도망가 버렸어><END>
+[WORLD01_AREA049.EMI|sec11|body171|@0x190b|52B] *여긴{fe}아직{ff}괜찮은\n것 같은데>{02}다른{ff}글라스 하우스에\n고{fc}스트 가스가\n차 있어<END>
+[WORLD01_AREA049.EMI|sec11|body172|@0x193f|56B] *글라스 하우스에{ff}가스가\n뿜어 나오고>{02}고{fc}스트 반응기는{fe}꿈쩍도\n안 해>{02}어떻게 된 거야>?<END>
+[WORLD01_AREA049.EMI|sec11|body173|@0x1977|16B] *뭔가{fe}이제>{ff}글렀어<END>
+[WORLD01_AREA049.EMI|sec11|body174|@0x1987|50B] *소장은{fe}없고\n반응기는{fe}안 돌고\n가스는{fe}뿜어 나오고>{02}여긴{fe}이제 글렀네<END>
+[WORLD01_AREA049.EMI|sec11|body175|@0x19b9|78B] *글라스 하우스의{ff}가스를\n빼야{fe}안전한데>{02}문을{ff}열면\n가스가{fe}덮치니까>{02}난{fe}고{fc}스트 중독으로\n죽는 건{ff}사양이야><END>
+[WORLD01_AREA049.EMI|sec11|body176|@0x1a07|40B] *고{fc}스트로{ff}작물을\n크게 키우다니>{02}역시{fe}무리였던 걸까<END>
+[WORLD01_AREA049.EMI|sec11|body177|@0x1a2f|109B] *글라스 하우스의{ff}가스를\n빼려면>{02}지붕을{ff}깨는 게\n좋을 것 같아서\n돌멩이를{ff}모았는데>{02}체력이{fe}없어서\n이 이상은{ff}무리야\n어떻게 하면{fe}좋을까?{c14:00}{c0c:12}도와줄게<END>
+[WORLD01_AREA049.EMI|sec11|body178|@0x1aad|42B] *도와{ff}준다고@\n방법은{fe}알지?{c14:01}{c0c:12}설명을 들려줘<END>
+[WORLD01_AREA049.EMI|sec11|body179|@0x1ae0|35B] *그런 말 들어도\n이제 와선{ff}못 맞춰>{02}흑흑흑<END>
+[WORLD01_AREA049.EMI|sec11|body180|@0x1b03|118B] *어{fc}그러니까{fe}글라스 하우스\n지붕의>{ff}큰 유리가\n끼워진 곳에>{02}돌멩이를{ff}날려서\n맞추면{ff}되는 거야>{02}기세를{ff}붙여서\n몸통박치기 하면\n돌은{ff}잘 날아가>{02}날릴 곳에는{fe}표시를\n해 뒀으니까<END>
+[WORLD01_AREA049.EMI|sec11|body181|@0x1b79|30B] *힘내서{ff}돌멩이\n날려버려>{02}응원하고 있을게<END>
+[WORLD01_AREA049.EMI|sec11|body182|@0x1b97|21B] *아직{fe}손님이\n오다니>@?<END>
+[WORLD01_AREA049.EMI|sec11|body183|@0x1bac|11B] {c04:06}\n*뿌큐웃?<END>
+[WORLD01_AREA049.EMI|sec11|body184|@0x1bb7|15B] {c0c:04}*이번엔{fe}또 뭐야@<END>
+[WORLD01_AREA049.EMI|sec11|body185|@0x1bc6|13B] {c0c:05}*저 연기 색깔><END>
+[WORLD01_AREA049.EMI|sec11|body186|@0x1bd3|13B] {c0c:03}*고{fc}스트 가스>@?<END>
+[WORLD01_AREA049.EMI|sec11|body187|@0x1be0|14B] {c0c:06}*아궁이가{fe}이상해@<END>
+[WORLD01_AREA049.EMI|sec11|body188|@0x1bee|55B] {c0c:04}{c04:06}\n*뿌큐우우>{02}{c05:02}>자기 탓에{fe}사태가 악화됐다\n{c05:02}고 생각하는 걸까>{06}<END>
+[WORLD01_AREA049.EMI|sec11|body189|@0x1c25|36B] 녹슬어서{fe}덜컹거리고 있다>{02}{c04:05}가{ff}치면\n부서질지도 모른다<END>
+[WORLD01_AREA049.EMI|sec11|body190|@0x1c49|30B] *어떻게 된 거야@?\n누가{fe}좀 어떻게 해줘{c15:07}{c15:07}@<END>
+[WORLD01_AREA049.EMI|sec11|body192|@0x1c67|55B] *이렇게{fe}여기저기서\n가스가{ff}뿜어 나오면>{02}위험해서{ff}이제{fe}작물이\n어떻고 할 처지가 아니지?<END>
+[WORLD01_AREA049.EMI|sec11|body193|@0x1c9e|5B] 뜨거워@<END>
+[WORLD01_AREA049.EMI|sec11|body194|@0x1ca3|20B] {c04:05}\n*안을{ff}조사해 볼까요?<END>
+[WORLD01_AREA049.EMI|sec11|body195|@0x1cb7|40B] *강화 작물 같은 건 이제\n못 만들 테고>{02}어딘가로{ff}갈까<END>
+[WORLD01_AREA049.EMI|sec11|body196|@0x1cdf|54B] *왜{fe}하우스 안에\n가스가 나온 걸까>{02}아궁이에서{ff}가스가 나온 거랑\n관계있는 걸까?<END>
+[WORLD01_AREA049.EMI|sec11|body197|@0x1d15|35B] *여긴{fe}이제 글렀으니까\n펠릿 소장은\n도망친 걸까><END>
+[WORLD01_AREA049.EMI|sec11|body198|@0x1d38|12B] *나도 도망갈래@<END>
+[WORLD01_AREA049.EMI|sec11|body199|@0x1d44|24B] *가스{fe}빼 줬구나\n고마워><END>
+[WORLD01_AREA049.EMI|sec11|body200|@0x1d5c|72B] *일단{fe}가스는\n사라졌지만>{02}반응기는{fe}돌아갈 기미도\n없고>{02}소장은{fe}여길 버리고\n간 거겠죠<END>
+[WORLD01_AREA049.EMI|sec11|body201|@0x1da4|33B] *남은 강화 작물도\n출하 안 하는 게{ff}좋겠네요><END>
+[WORLD01_AREA049.EMI|sec11|body202|@0x1dc5|72B] *지하 설비{fe}말인가요?{02}이것저것{fe}여기가 이상했던 건\n그 탓이었던 거군요>{02}근데{fe}여기도{ff}끝이니까\n이제{ff}아무래도 상관없네요<END>
+[WORLD01_AREA049.EMI|sec11|body203|@0x1e0d|41B] *크기만 하고{fe}싸기만 한\n강화 작물이었지만>{02}그것도{ff}이제 끝인가><END>
+[WORLD01_AREA049.EMI|sec11|body204|@0x1e36|17B] *다른 일{fe}찾아야겠네><END>

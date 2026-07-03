@@ -1,0 +1,164 @@
+[WORLD01_AREA039.EMI|sec11|body0|@0x208|392B] {c0c:81}{ff}\n{ff}\n{ff}{ff}{ff}{ff}윈디아 성{c16:30}{c0c:03}윈디아 왕\n*정말로{fe}용<PAUSE>이라고 하는 게냐?{c16:20}{c0c:06}바리오\n*틀림없습니다>{ff}왕이시여{c16:20}{c0c:06}산토\n*정말입니다{fe}정말이라고요\n용이 맞다고요@{c16:20}{c0c:05}윈디아 왕\n*음>{ff}만약{fe}그게\n사실이라면>>{02}이건 중대한 일이다>\n무엇보다>{c16:20}바리오\n*세상을 멸망시킨\n용의 생존자>{ff}이니까요{c16:20}{c0c:06}산토\n*형님>\n잘될 것 같죠?{c16:20}바리오\n*>왕이시여{fe}보십시오\n이것이><PAUSE>><PAUSE>>{ff}용입니다@{c16:20}{c0c:06}산토\n*어{fe}형님@?{c16:10}{c0c:05}윈디아 왕\n*뭐><PAUSE>{ff}이{fe}이건>{c16:20}바리오\n*윽@{ff}이 녀석\n인간으로{ff}돌아가 버렸잖아@{c16:10}{c0c:06}산토\n*어{fe}형님@\n때려 봅시다@@{c16:10}바리오\n*제기랄@{ff}이 꼬맹이@\n변신해@{ff}<PAUSE>안 하냐@@{c16:20}{c0c:05}윈디아 왕\n*{0d}이제 됐다@{0e}{0f}<END>
+[WORLD01_AREA039.EMI|sec11|body1|@0x21c|372B] {c0c:03}윈디아 왕\n*정말로{fe}용<PAUSE>이라고 하는 게냐?{c16:20}{c0c:06}바리오\n*틀림없습니다>{ff}왕이시여{c16:20}{c0c:06}산토\n*정말입니다{fe}정말이라고요\n용이 맞다고요@{c16:20}{c0c:05}윈디아 왕\n*음>{ff}만약{fe}그게\n사실이라면>>{02}이건 중대한 일이다>\n무엇보다>{c16:20}바리오\n*세상을 멸망시킨\n용의 생존자>{ff}이니까요{c16:20}{c0c:06}산토\n*형님>\n잘될 것 같죠?{c16:20}바리오\n*>왕이시여{fe}보십시오\n이것이><PAUSE>><PAUSE>>{ff}용입니다@{c16:20}{c0c:06}산토\n*어{fe}형님@?{c16:10}{c0c:05}윈디아 왕\n*뭐><PAUSE>{ff}이{fe}이건>{c16:20}바리오\n*윽@{ff}이 녀석\n인간으로{ff}돌아가 버렸잖아@{c16:10}{c0c:06}산토\n*어{fe}형님@\n때려 봅시다@@{c16:10}바리오\n*제기랄@{ff}이 꼬맹이@\n변신해@{ff}<PAUSE>안 하냐@@{c16:20}{c0c:05}윈디아 왕\n*{0d}이제 됐다@{0e}{0f}<END>
+[WORLD01_AREA039.EMI|sec11|body2|@0x23a|342B] {c0c:06}바리오\n*틀림없습니다>{ff}왕이시여{c16:20}{c0c:06}산토\n*정말입니다{fe}정말이라고요\n용이 맞다고요@{c16:20}{c0c:05}윈디아 왕\n*음>{ff}만약{fe}그게\n사실이라면>>{02}이건 중대한 일이다>\n무엇보다>{c16:20}바리오\n*세상을 멸망시킨\n용의 생존자>{ff}이니까요{c16:20}{c0c:06}산토\n*형님>\n잘될 것 같죠?{c16:20}바리오\n*>왕이시여{fe}보십시오\n이것이><PAUSE>><PAUSE>>{ff}용입니다@{c16:20}{c0c:06}산토\n*어{fe}형님@?{c16:10}{c0c:05}윈디아 왕\n*뭐><PAUSE>{ff}이{fe}이건>{c16:20}바리오\n*윽@{ff}이 녀석\n인간으로{ff}돌아가 버렸잖아@{c16:10}{c0c:06}산토\n*어{fe}형님@\n때려 봅시다@@{c16:10}바리오\n*제기랄@{ff}이 꼬맹이@\n변신해@{ff}<PAUSE>안 하냐@@{c16:20}{c0c:05}윈디아 왕\n*{0d}이제 됐다@{0e}{0f}<END>
+[WORLD01_AREA039.EMI|sec11|body3|@0x251|319B] {c0c:06}산토\n*정말입니다{fe}정말이라고요\n용이 맞다고요@{c16:20}{c0c:05}윈디아 왕\n*음>{ff}만약{fe}그게\n사실이라면>>{02}이건 중대한 일이다>\n무엇보다>{c16:20}바리오\n*세상을 멸망시킨\n용의 생존자>{ff}이니까요{c16:20}{c0c:06}산토\n*형님>\n잘될 것 같죠?{c16:20}바리오\n*>왕이시여{fe}보십시오\n이것이><PAUSE>><PAUSE>>{ff}용입니다@{c16:20}{c0c:06}산토\n*어{fe}형님@?{c16:10}{c0c:05}윈디아 왕\n*뭐><PAUSE>{ff}이{fe}이건>{c16:20}바리오\n*윽@{ff}이 녀석\n인간으로{ff}돌아가 버렸잖아@{c16:10}{c0c:06}산토\n*어{fe}형님@\n때려 봅시다@@{c16:10}바리오\n*제기랄@{ff}이 꼬맹이@\n변신해@{ff}<PAUSE>안 하냐@@{c16:20}{c0c:05}윈디아 왕\n*{0d}이제 됐다@{0e}{0f}<END>
+[WORLD01_AREA039.EMI|sec11|body4|@0x26d|291B] {c0c:05}윈디아 왕\n*음>{ff}만약{fe}그게\n사실이라면>>{02}이건 중대한 일이다>\n무엇보다>{c16:20}바리오\n*세상을 멸망시킨\n용의 생존자>{ff}이니까요{c16:20}{c0c:06}산토\n*형님>\n잘될 것 같죠?{c16:20}바리오\n*>왕이시여{fe}보십시오\n이것이><PAUSE>><PAUSE>>{ff}용입니다@{c16:20}{c0c:06}산토\n*어{fe}형님@?{c16:10}{c0c:05}윈디아 왕\n*뭐><PAUSE>{ff}이{fe}이건>{c16:20}바리오\n*윽@{ff}이 녀석\n인간으로{ff}돌아가 버렸잖아@{c16:10}{c0c:06}산토\n*어{fe}형님@\n때려 봅시다@@{c16:10}바리오\n*제기랄@{ff}이 꼬맹이@\n변신해@{ff}<PAUSE>안 하냐@@{c16:20}{c0c:05}윈디아 왕\n*{0d}이제 됐다@{0e}{0f}<END>
+[WORLD01_AREA039.EMI|sec11|body5|@0x29e|242B] 바리오\n*세상을 멸망시킨\n용의 생존자>{ff}이니까요{c16:20}{c0c:06}산토\n*형님>\n잘될 것 같죠?{c16:20}바리오\n*>왕이시여{fe}보십시오\n이것이><PAUSE>><PAUSE>>{ff}용입니다@{c16:20}{c0c:06}산토\n*어{fe}형님@?{c16:10}{c0c:05}윈디아 왕\n*뭐><PAUSE>{ff}이{fe}이건>{c16:20}바리오\n*윽@{ff}이 녀석\n인간으로{ff}돌아가 버렸잖아@{c16:10}{c0c:06}산토\n*어{fe}형님@\n때려 봅시다@@{c16:10}바리오\n*제기랄@{ff}이 꼬맹이@\n변신해@{ff}<PAUSE>안 하냐@@{c16:20}{c0c:05}윈디아 왕\n*{0d}이제 됐다@{0e}{0f}<END>
+[WORLD01_AREA039.EMI|sec11|body6|@0x2bf|209B] {c0c:06}산토\n*형님>\n잘될 것 같죠?{c16:20}바리오\n*>왕이시여{fe}보십시오\n이것이><PAUSE>><PAUSE>>{ff}용입니다@{c16:20}{c0c:06}산토\n*어{fe}형님@?{c16:10}{c0c:05}윈디아 왕\n*뭐><PAUSE>{ff}이{fe}이건>{c16:20}바리오\n*윽@{ff}이 녀석\n인간으로{ff}돌아가 버렸잖아@{c16:10}{c0c:06}산토\n*어{fe}형님@\n때려 봅시다@@{c16:10}바리오\n*제기랄@{ff}이 꼬맹이@\n변신해@{ff}<PAUSE>안 하냐@@{c16:20}{c0c:05}윈디아 왕\n*{0d}이제 됐다@{0e}{0f}<END>
+[WORLD01_AREA039.EMI|sec11|body7|@0x2d9|183B] 바리오\n*>왕이시여{fe}보십시오\n이것이><PAUSE>><PAUSE>>{ff}용입니다@{c16:20}{c0c:06}산토\n*어{fe}형님@?{c16:10}{c0c:05}윈디아 왕\n*뭐><PAUSE>{ff}이{fe}이건>{c16:20}바리오\n*윽@{ff}이 녀석\n인간으로{ff}돌아가 버렸잖아@{c16:10}{c0c:06}산토\n*어{fe}형님@\n때려 봅시다@@{c16:10}바리오\n*제기랄@{ff}이 꼬맹이@\n변신해@{ff}<PAUSE>안 하냐@@{c16:20}{c0c:05}윈디아 왕\n*{0d}이제 됐다@{0e}{0f}<END>
+[WORLD01_AREA039.EMI|sec11|body8|@0x2fb|149B] {c0c:06}산토\n*어{fe}형님@?{c16:10}{c0c:05}윈디아 왕\n*뭐><PAUSE>{ff}이{fe}이건>{c16:20}바리오\n*윽@{ff}이 녀석\n인간으로{ff}돌아가 버렸잖아@{c16:10}{c0c:06}산토\n*어{fe}형님@\n때려 봅시다@@{c16:10}바리오\n*제기랄@{ff}이 꼬맹이@\n변신해@{ff}<PAUSE>안 하냐@@{c16:20}{c0c:05}윈디아 왕\n*{0d}이제 됐다@{0e}{0f}<END>
+[WORLD01_AREA039.EMI|sec11|body9|@0x30c|132B] {c0c:05}윈디아 왕\n*뭐><PAUSE>{ff}이{fe}이건>{c16:20}바리오\n*윽@{ff}이 녀석\n인간으로{ff}돌아가 버렸잖아@{c16:10}{c0c:06}산토\n*어{fe}형님@\n때려 봅시다@@{c16:10}바리오\n*제기랄@{ff}이 꼬맹이@\n변신해@{ff}<PAUSE>안 하냐@@{c16:20}{c0c:05}윈디아 왕\n*{0d}이제 됐다@{0e}{0f}<END>
+[WORLD01_AREA039.EMI|sec11|body10|@0x324|108B] 바리오\n*윽@{ff}이 녀석\n인간으로{ff}돌아가 버렸잖아@{c16:10}{c0c:06}산토\n*어{fe}형님@\n때려 봅시다@@{c16:10}바리오\n*제기랄@{ff}이 꼬맹이@\n변신해@{ff}<PAUSE>안 하냐@@{c16:20}{c0c:05}윈디아 왕\n*{0d}이제 됐다@{0e}{0f}<END>
+[WORLD01_AREA039.EMI|sec11|body11|@0x340|80B] {c0c:06}산토\n*어{fe}형님@\n때려 봅시다@@{c16:10}바리오\n*제기랄@{ff}이 꼬맹이@\n변신해@{ff}<PAUSE>안 하냐@@{c16:20}{c0c:05}윈디아 왕\n*{0d}이제 됐다@{0e}{0f}<END>
+[WORLD01_AREA039.EMI|sec11|body12|@0x35a|54B] 바리오\n*제기랄@{ff}이 꼬맹이@\n변신해@{ff}<PAUSE>안 하냐@@{c16:20}{c0c:05}윈디아 왕\n*{0d}이제 됐다@{0e}{0f}<END>
+[WORLD01_AREA039.EMI|sec11|body13|@0x37a|22B] {c0c:05}윈디아 왕\n*{0d}이제 됐다@{0e}{0f}<END>
+[WORLD01_AREA039.EMI|sec11|body14|@0x3aa|130B] {c0c:05}윈디아 왕\n*이 사기꾼들을\n당장 잡아들여라@@{c16:20}{c0c:04}윈디아 왕\n*>>그런 일이 있었구나\n그것 참{fe}고생이 많았겠구나{c16:30}{c04:01}\n*>저는{fe}여러분께\n정말{ff}신세를 졌어요{02}{c04:00}이들이{ff}없었다면\n지금쯤{fe}어찌 됐을지><END>
+[WORLD01_AREA039.EMI|sec11|body15|@0x3cb|97B] {c0c:04}윈디아 왕\n*>>그런 일이 있었구나\n그것 참{fe}고생이 많았겠구나{c16:30}{c04:01}\n*>저는{fe}여러분께\n정말{ff}신세를 졌어요{02}{c04:00}이들이{ff}없었다면\n지금쯤{fe}어찌 됐을지><END>
+[WORLD01_AREA039.EMI|sec11|body16|@0x3f3|57B] {c04:01}\n*>저는{fe}여러분께\n정말{ff}신세를 졌어요{02}{c04:00}이들이{ff}없었다면\n지금쯤{fe}어찌 됐을지><END>
+[WORLD01_AREA039.EMI|sec11|body17|@0x42c|82B] {c0c:06}윈디아 왕\n*음><PAUSE>{ff}언젠가는\n사기꾼이라{ff}의심해서{02}미안한 짓을{ff}했구려\n{c04:00}공>>{02}왕녀를 대신해{fe}다시 한번\n예를{ff}표하겠소<END>
+[WORLD01_AREA039.EMI|sec11|body18|@0x47e|56B] {c0c:06}기사\n*>하오나{fe}왕이시여\n저는{ff}믿을 수 없습니다{02}>>이런{ff}아이들이\n무얼 할 수 있겠습니까@?<END>
+[WORLD01_AREA039.EMI|sec11|body19|@0x4b6|102B] {c04:01}\n*아니요@{ff}{c04:00}은\n그냥 아이가{ff}아니에요{02}>>아버님{fe}{c04:00}은\n드래>{c16:10}{c0c:05}{c04:02}\n*콜록{fe}콜록>{02}그건 그렇고{fe}왕이시여>\n저희는{ff}동쪽 땅으로\n향할까{ff}생각하는데요><END>
+[WORLD01_AREA039.EMI|sec11|body20|@0x4e4|56B] {c0c:05}{c04:02}\n*콜록{fe}콜록>{02}그건 그렇고{fe}왕이시여>\n저희는{ff}동쪽 땅으로\n향할까{ff}생각하는데요><END>
+[WORLD01_AREA039.EMI|sec11|body21|@0x51c|59B] {c0c:06}윈디아 왕\n*오오{fe}<PAUSE>다리의 통행 증서 말인가>{02}갈 길이{ff}급하다 했었지\n바로{ff}가져오게 하겠네<END>
+[WORLD01_AREA039.EMI|sec11|body22|@0x557|26B] {c04:01}\n*다들><PAUSE>{ff}벌써>\n가 버리는 거야>>?<END>
+[WORLD01_AREA039.EMI|sec11|body23|@0x571|29B] {c04:05}\n*>{c04:01}{ff}>왕녀님{02}또{fe}만날 수 있을 거예요>><END>
+[WORLD01_AREA039.EMI|sec11|body24|@0x58e|56B] {c0c:06}윈디아 왕\n*>잘 알겠네{02}모두들{fe}또 무슨 일이 있거든\n윈디아 성에\n들러 주시게>><END>
+[WORLD01_AREA039.EMI|sec11|body25|@0x5c6|28B] {c04:01}\n*><PAUSE>><PAUSE>>아{c15:07}{c15:07}아\n다들{ff}가 버렸어<END>
+[WORLD01_AREA039.EMI|sec11|body26|@0x5e2|47B] {c04:01}\n*그래도{fe}어쩔 수 없지{02}왕녀가{ff}따라가 버리면\n다들{ff}곤란해지니까><END>
+[WORLD01_AREA039.EMI|sec11|body27|@0x611|12B] {c04:01}\n*무슨 일이지@?<END>
+[WORLD01_AREA039.EMI|sec11|body28|@0x61d|34B] *객실 쪽에서{ff}소리가 났어요\n무슨 일이 있었을까요>?<END>
+[WORLD01_AREA039.EMI|sec11|body29|@0x63f|25B] *앗{fe}{c04:01}님@\n가까이 가면{fe}위험해요><END>
+[WORLD01_AREA039.EMI|sec11|body30|@0x658|39B] *얍{c15:07}{c15:07}@{02}열심히{fe}레벨 올려서\n기술을{ff}배워야지@<END>
+[WORLD01_AREA039.EMI|sec11|body31|@0x67f|37B] *그러고 보니>>\n{c04:01}님을{ff}찾으러 간\n병사는{ff}돌아왔으려나?<END>
+[WORLD01_AREA039.EMI|sec11|body32|@0x6a4|88B] *이 스승님 밑에서{ff}수련하면\n체력이{ff}붙는단 말이지>{02}하지만{fe}난{ff}머리로 승부하는\n타입이라>{02}마법을{ff}가르쳐 주는 스승님\n쪽이{ff}고마운데><END>
+[WORLD01_AREA039.EMI|sec11|body33|@0x6fc|55B] *{c05:02}스승님{06}에 따라{ff}여러 가지\n능력이 오르거나{ff}내려가거나\n한답니다>{02}알고 계시죠?<END>
+[WORLD01_AREA039.EMI|sec11|body34|@0x733|62B] *세상에는{ff}저 같은\n{c05:02}스승{06}이라 불리는{ff}사람들이>{02}다양한 기술이나{ff}능력을\n가르치고 있답니다<END>
+[WORLD01_AREA039.EMI|sec11|body35|@0x771|15B] *이 아래는{ff}주방이에요<END>
+[WORLD01_AREA039.EMI|sec11|body36|@0x780|38B] *정리하던{ff}도중에\n뭔가에{ff}놀라서>{02}접시를{ff}깨뜨린 것 같아요<END>
+[WORLD01_AREA039.EMI|sec11|body37|@0x7a6|38B] *무{fe}<PAUSE>뭔가 이상한 게{ff}\n발에{ff}부딪혀서>{02}그래서>{ff}접시를>><END>
+[WORLD01_AREA039.EMI|sec11|body38|@0x7cc|10B] 만지면{ff}위험해<END>
+[WORLD01_AREA039.EMI|sec11|body39|@0x7d6|39B] *그 애도 참{ff}덜렁대긴>{02}어차피{fe}쥐 같은 거에\n놀란 거겠지만><END>
+[WORLD01_AREA039.EMI|sec11|body40|@0x7fd|60B] *{c04:01}님이{ff}사라져서\n이 늙은이는{fe}<PAUSE>이 늙은이는{ff}얼마나\n걱정했는지 몰라요@{02}>흑<PAUSE>{ff}잘도{ff}돌아오셨어요@<END>
+[WORLD01_AREA039.EMI|sec11|body41|@0x839|52B] *그건 그렇고{ff}그\n{c04:00}이라는 소년>{02}{c04:01}님을{ff}지켜내다니\n제법{ff}대단한 자로군요<END>
+[WORLD01_AREA039.EMI|sec11|body42|@0x86d|33B] *왕녀님{fe}함부로\n외출하시면\n안 됩니다?<END>
+[WORLD01_AREA039.EMI|sec11|body43|@0x88e|91B] *>지난번엔{ff}{c04:01}님을\n지켜 드리지{ff}못해서\n정말{ff}유감입니다>{02}다음엔{ff}꼭\n지켜 드리겠습니다@{02}>라지만{fe}그런 일이{ff}그렇게\n자주 있을 리 없겠죠<END>
+[WORLD01_AREA039.EMI|sec11|body44|@0x8e9|34B] *이쪽으로{ff}올라가면\n왕과{ff}왕비님의\n방이에요<END>
+[WORLD01_AREA039.EMI|sec11|body45|@0x90b|26B] *이 위는{ff}성에서 일하는\n사람들의 방입니다<END>
+[WORLD01_AREA039.EMI|sec11|body46|@0x925|20B] *{c04:01}>>\n무사해서>{ff}다행이야><END>
+[WORLD01_AREA039.EMI|sec11|body47|@0x939|39B] *{c04:01}님이{ff}돌아오셨으니\n분명{fe}실라 님도\n좋아지실 거예요<END>
+[WORLD01_AREA039.EMI|sec11|body48|@0x960|61B] *왕비님은>\n{c04:01}님이{ff}걱정된 나머지\n쓰러지고{ff}마셨답니다{02}>이제{ff}걱정 끼치지\n마세요><END>
+[WORLD01_AREA039.EMI|sec11|body49|@0x99d|44B] *아{fe}{c04:01}님>{02}왕께서라면{fe}기사\n비제넥트 님과{ff}이쪽에\n계세요<END>
+[WORLD01_AREA039.EMI|sec11|body50|@0x9c9|39B] *>{c04:01}도{ff}보통\n아이처럼{ff}놀고 싶은 건지도\n모르겠구나>><END>
+[WORLD01_AREA039.EMI|sec11|body51|@0x9f0|40B] *>어쨌든{ff}{c04:01}님께서는\n경솔한 행동을\n삼가 주셔야 할 텐데>><END>
+[WORLD01_AREA039.EMI|sec11|body52|@0xa18|44B] *>악당들은\n{c04:01}님을{ff}납치해서{02}몸값을{ff}받을 작정\n이었던 거군요<END>
+[WORLD01_AREA039.EMI|sec11|body53|@0xa44|62B] *왕녀님의{ff}은인이라곤 해도\n품위 없는{ff}자들이었지>{02}{c04:02}라는{ff}사람은\n완전{ff}건달 같았다니까><END>
+[WORLD01_AREA039.EMI|sec11|body54|@0xa82|67B] *{c04:01}님이>\n사라진 일은\n비밀로{ff}돼 있어서>{02}돌아오셨어도\n대놓고{ff}기뻐할 수는\n없는 거예요<END>
+[WORLD01_AREA039.EMI|sec11|body55|@0xac5|50B] *{c04:01}님>\n악당 손에서{ff}어떻게\n도망쳐 나왔는지>{02}나중에{fe}들려주세요<END>
+[WORLD01_AREA039.EMI|sec11|body56|@0xaf7|39B] *엇{fe}{c04:01}님이\n행방불명이었다고@?{02}전혀{ff}몰랐어<END>
+[WORLD01_AREA039.EMI|sec11|body57|@0xb1e|52B] *이 기계로{ff}바람의 상태를\n조사해서>>{02}세상의 대략을{ff}알아보려고\n하고 있는 거라우><END>
+[WORLD01_AREA039.EMI|sec11|body58|@0xb52|56B] {ff}\n{ff}{ff}{ff}{ff};용 대전>1<{02}>세상을{ff}그 손에\n넣으려고{fe}용 일족은\n전쟁을 일으켜>><END>
+[WORLD01_AREA039.EMI|sec11|body59|@0xb8a|65B] {ff}\n{ff}{ff}{ff}{ff};날개의 서>1<{02}>우리{fe}윈디아의\n긍지 높은 일족은{fe}옛날\n창공을{ff}자유로이 오갔다{fd}<END>
+[WORLD01_AREA039.EMI|sec11|body60|@0xbcb|58B] {ff}\n{ff}{ff}{ff}{ff};용 대전>2<{02}>온 세상을{ff}적으로 둔\n저주받은 일족은{ff}싸웠고\n그리고{fe}멸망했다>><END>
+[WORLD01_AREA039.EMI|sec11|body61|@0xc05|54B] {ff}\n{ff}{ff}{ff}{ff};날개의 서>2<{02}>이윽고{fe}우리의 힘은\n쇠하여>\n변신 능력은{ff}사라졌다{fd}<END>
+[WORLD01_AREA039.EMI|sec11|body62|@0xc3b|70B] {ff}\n{ff}{ff}{ff}{ff};날개의 서>3<{02}>이동하는 능력을{ff}잃은\n종족은{fe}우리뿐만이 아니라>\n많은 종족이{fe}힘을{ff}잃었다<END>
+[WORLD01_AREA039.EMI|sec11|body63|@0xc81|39B] *아니요{fe}쥐 같은 게\n아니었어요>{02}좀 더{fe}뭔가>><PAUSE>{ff}앗@<END>
+[WORLD01_AREA039.EMI|sec11|body64|@0xca8|16B] {c04:01}\n*방금 건>{ff}허니@?<END>
+[WORLD01_AREA039.EMI|sec11|body65|@0xcb8|34B] 병사\n*아아{fe}<PAUSE>안 돼요\n{c04:01}님@{02}왕께{ff}혼나요@<END>
+[WORLD01_AREA039.EMI|sec11|body66|@0xcda|31B] {c04:01}\n*>네{fe}<PAUSE>어머님{02}걱정을{ff}끼쳐 드렸어요><END>
+[WORLD01_AREA039.EMI|sec11|body67|@0xcf9|68B] 실라\n*>너는{ff}>나의 보물\n윈디아의{fe}보물이란다>{02}부디{ff}이 어미를\n슬프게 하는 일은\n하지 말아 다오><END>
+[WORLD01_AREA039.EMI|sec11|body68|@0xd3d|24B] {c04:01}\n*네>{ff}어머님>\n죄송해요>><END>
+[WORLD01_AREA039.EMI|sec11|body69|@0xd55|20B] *{c04:01}>\n이제{fe}어디에도 가지 마><END>
+[WORLD01_AREA039.EMI|sec11|body70|@0xd69|31B] *왕녀님>{ff}저건 뭐예요?\n생물인가요@?<END>
+[WORLD01_AREA039.EMI|sec11|body71|@0xd88|38B] *어?{ff}<PAUSE>이상한 거@?{02}아니요{fe}이쪽에는\n아무것도{ff}안 왔는데요?<END>
+[WORLD01_AREA039.EMI|sec11|body72|@0xdae|37B] *어라>{ff}뭔가 방금\n작은 게{ff}저기를\n달려간 것 같은데>?<END>
+[WORLD01_AREA039.EMI|sec11|body73|@0xdd3|35B] *음음{fe}뭔가가\n눈앞을{ff}지나간 것 같은\n느낌이 드는데>?<END>
+[WORLD01_AREA039.EMI|sec11|body74|@0xdf6|51B] *뭔가{ff}작은 게\n여기를{ff}지나갔어요@?{02}저건{ff}뭘까요\n{c04:01}왕녀님?<END>
+[WORLD01_AREA039.EMI|sec11|body75|@0xe29|20B] *뭐였지{fe}방금 그거>\n쥐였으려나?<END>
+[WORLD01_AREA039.EMI|sec11|body76|@0xe3d|41B] *쥐는 아니었어>{02}>작은{ff}기계 같던데\n대체{ff}뭐였던 걸까?<END>
+[WORLD01_AREA039.EMI|sec11|body77|@0xe66|43B] *무{fe}<PAUSE>뭔가가{ff}방금\n{c04:01}님의{ff}방으로\n올라갔어요@<END>
+[WORLD01_AREA039.EMI|sec11|body78|@0xe91|120B] {c0c:03}윈디아 왕\n*><PAUSE>><PAUSE>>그래서\n플랜트 쪽은{fe}어떻더냐?{c16:20}{c0c:04}{c04:01}\n*네><PAUSE>><PAUSE>>{c16:20}{c0c:05}윈디아 왕\n*흠><PAUSE>{ff}강화 작물의\n위험성{fe}이라>>{02}당분간은{fe}플랜트 사용을\n금지해야겠구나><END>
+[WORLD01_AREA039.EMI|sec11|body80|@0xeb9|80B] {c0c:04}{c04:01}\n*네><PAUSE>><PAUSE>>{c16:20}{c0c:05}윈디아 왕\n*흠><PAUSE>{ff}강화 작물의\n위험성{fe}이라>>{02}당분간은{fe}플랜트 사용을\n금지해야겠구나><END>
+[WORLD01_AREA039.EMI|sec11|body81|@0xec8|65B] {c0c:05}윈디아 왕\n*흠><PAUSE>{ff}강화 작물의\n위험성{fe}이라>>{02}당분간은{fe}플랜트 사용을\n금지해야겠구나><END>
+[WORLD01_AREA039.EMI|sec11|body82|@0xf09|37B] {c0c:05}윈디아 왕\n*잘 알겠다{fe}{c04:01}\n잘 조사하고{fe}돌아왔구나>@<END>
+[WORLD01_AREA039.EMI|sec11|body83|@0xf2e|29B] {c04:01}\n*저 혼자만의 힘으로\n이뤄낸 건{fe}아니에요<END>
+[WORLD01_AREA039.EMI|sec11|body84|@0xf4b|31B] {c04:01}\n*저쪽의>{02}{c04:04}님의\n도움이{fe}있었기에><END>
+[WORLD01_AREA039.EMI|sec11|body85|@0xf6a|46B] {c0c:05}윈디아 왕\n*음{fe}고개를 들게나\n{c04:04}공>{02}협력{fe}감사하오<END>
+[WORLD01_AREA039.EMI|sec11|body86|@0xf98|37B] {c0c:05}윈디아 왕\n*듣자 하니{fe}동쪽으로의 여행을\n바라고 있다 하는데><END>
+[WORLD01_AREA039.EMI|sec11|body87|@0xfbd|64B] {c0c:05}윈디아 왕\n*관문 통행 증서는\n곧{fe}준비시킬 터이니>{02}그때까지{fe}이 성에서\n편히 쉬도록 하시게>@<END>
+[WORLD01_AREA039.EMI|sec11|body88|@0xffd|35B] {c04:01}\n*그러면{fe}{c04:04}님\n이쪽으로>{02}성을{ff}안내해 드릴게요<END>
+[WORLD01_AREA039.EMI|sec11|body89|@0x1020|24B] 아직{fe}통행 증서를\n받지 못했어>>@<END>
+[WORLD01_AREA039.EMI|sec11|body90|@0x1038|48B] *>{c04:01}에게 준 도움\n고맙네{02}증서 서면을{ff}작성할 터이니\n잠시만 기다리게>><END>
+[WORLD01_AREA039.EMI|sec11|body91|@0x1068|61B] *이런저런{fe}일을 해내는\n네 성장은{fe}기쁘다만>{02}가끔은{fe}얌전하게 있어서\n어미를{ff}기쁘게 해 주렴>?<END>
+[WORLD01_AREA039.EMI|sec11|body92|@0x10a5|46B] *맥니르 마을의{fe}부정이나\n어둠의 조직에 대해>\n무용담을{ff}여쭙고 싶군요<END>
+[WORLD01_AREA039.EMI|sec11|body93|@0x10d3|28B] *{c04:01}님의{ff}활약\n참으로{ff}훌륭하기 그지없습니다><END>
+[WORLD01_AREA039.EMI|sec11|body94|@0x10ef|36B] *잘만 되면>\n기사가{ff}될 수 있는 길도\n있지 않겠소이까?<END>
+[WORLD01_AREA039.EMI|sec11|body95|@0x1113|43B] *활약은{fe}무척\n기쁩니다만>{02}무리는{ff}하지 마시기를\n{c04:01}님><END>
+[WORLD01_AREA039.EMI|sec11|body96|@0x113e|61B] *어딘가에{fe}사람 잡아먹는\n괴물이{ff}나온다는\n소문도>{02}혹시{fe}그것도\n두 분이서{fe}쓰러뜨리신 건지>?<END>
+[WORLD01_AREA039.EMI|sec11|body97|@0x117b|26B] *맥니르는{fe}지하\n감옥에 들어가 있어요><END>
+[WORLD01_AREA039.EMI|sec11|body98|@0x1195|52B] *강화 작물이{fe}그렇게나\n위험한 거였나요>{02}그냥{ff}맛없는 것뿐인 줄\n알았어요<END>
+[WORLD01_AREA039.EMI|sec11|body99|@0x11c9|48B] *암시장이라면{fe}서쪽에 있는\n수상한 마을이죠>{02}거기도{fe}혼내 주고\n오신 거군요?<END>
+[WORLD01_AREA039.EMI|sec11|body100|@0x11f9|36B] *성의 요리에는\n강화 작물이>\n쓰이고 있었던 걸까?<END>
+[WORLD01_AREA039.EMI|sec11|body101|@0x121d|39B] *잘도{fe}{c04:01}님께\n힘을{ff}빌려주셨어요@{02}감사합니다요<END>
+[WORLD01_AREA039.EMI|sec11|body102|@0x1244|39B] *오오{fe}{c04:01}님\n잘도 무사히{ff}돌아오셨어요@{02}이 늙은이는{fe}기쁩니다요@<END>
+[WORLD01_AREA039.EMI|sec11|body103|@0x126b|38B] *{c04:01}님은{fe}성 안보다\n밖에 나가시는 걸\n좋아하세요><END>
+[WORLD01_AREA039.EMI|sec11|body104|@0x1291|54B] *한꺼번에{fe}여러 개\n해치워 버리면>{02}한동안{fe}밖에 나갈 구실이\n없어져 버리겠네요@?<END>
+[WORLD01_AREA039.EMI|sec11|body105|@0x12c7|36B] *{c04:01}님{fe}대단하네>\n근처{ff}문제를\n여러 개{fe}해결하시다니><END>
+[WORLD01_AREA039.EMI|sec11|body106|@0x12eb|30B] *아아>{fe}멍하니 있다간\n우리 일도{fe}없어지겠어<END>
+[WORLD01_AREA039.EMI|sec11|body107|@0x1309|27B] *이 위는{fe}성에서 일하는\n사람들의 방입니다<END>
+[WORLD01_AREA039.EMI|sec11|body108|@0x1324|22B] *이 위는{fe}{c04:01}님의\n방이랍니다<END>
+[WORLD01_AREA039.EMI|sec11|body109|@0x133a|17B] *{c04:01}님>\n어서 오세요<END>
+[WORLD01_AREA039.EMI|sec11|body110|@0x134b|14B] *이 아래는{fe}주방입니다<END>
+[WORLD01_AREA039.EMI|sec11|body111|@0x1359|25B] *스승님은{fe}많이\n찾으셨나요>?<END>
+[WORLD01_AREA039.EMI|sec11|body112|@0x1372|34B] *우리 스승님은\n일대일이{ff}되고 나서\n더 엄격해졌어><END>
+[WORLD01_AREA039.EMI|sec11|body113|@0x1394|56B] *{c04:01}님이\n열심히{ff}하고 계시니\n우리도{fe}열심히 해야지@{02}>라며{fe}무작정 걸어다녀\n보기도 하고<END>
+[WORLD01_AREA039.EMI|sec11|body114|@0x13cc|32B] *지금{fe}통행 증서\n서면을{ff}작성 중이에요><END>
+[WORLD01_AREA039.EMI|sec11|body115|@0x13ec|26B] *증서{fe}곧 되니까\n조금만 기다려 주세요><END>
+[WORLD01_AREA039.EMI|sec11|body116|@0x1406|45B] *나도>\n{c04:01}님처럼\n밖에 나가서>{02}괜찮은 남자라도{fe}하나 낚아\n올까나><END>
+[WORLD01_AREA039.EMI|sec11|body117|@0x1433|30B] *뭔가{fe}멋진 사람\n데려오지\n않으셨어요>?<END>
+[WORLD01_AREA039.EMI|sec11|body118|@0x1451|18B] *{c04:01}님이\n돌아오셨네>?<END>
+[WORLD01_AREA039.EMI|sec11|body119|@0x1463|42B] *내가{fe}여기서 보는 것보다\n세상은{ff}넓은 걸까\n좁은 걸까>?<END>
+[WORLD01_AREA039.EMI|sec11|body120|@0x148d|32B] *{c04:01}을{ff}도와\n주었다 들었네>{02}수고가 많았네<END>
+[WORLD01_AREA039.EMI|sec11|body121|@0x14ad|22B] *네가 돌아와\n정말{fe}다행이구나><END>
+[WORLD01_AREA039.EMI|sec11|body122|@0x14c3|94B] *예전에{fe}나쁜 자들이\n{c04:00}님을{ff}꾀어서>{02}성에서{ff}데리고 나간 일이\n있었어요>{02}그 후로{fe}저는\n밖에서 온 사람을{ff}믿지 않기로\n했답니다@<END>
+[WORLD01_AREA039.EMI|sec11|body123|@0x1521|51B] *{c04:00}님>\n속으시면{fe}안 돼요@{02}어서{fe}증서를 주어서\n내쫓아{ff}버립시다><END>
+[WORLD01_AREA039.EMI|sec11|body124|@0x1554|32B] *왕비님은{fe}언제나\n{c04:01}님을>\n걱정하시기만 해<END>
+[WORLD01_AREA039.EMI|sec11|body125|@0x1574|55B] *순찰 같은 건\n병사들에게{ff}맡기고>{02}실라 님을{ff}안심시켜\n드리세요\n{c04:01}님>><END>
+[WORLD01_AREA039.EMI|sec11|body126|@0x15ab|14B] *돌아왔구나\n{c04:01}야><END>
+[WORLD01_AREA039.EMI|sec11|body127|@0x15b9|27B] {c04:01}\n*네><PAUSE>><PAUSE>>\n걱정을{ff}끼쳐 드렸어요<END>
+[WORLD01_AREA039.EMI|sec11|body128|@0x15d4|52B] 실라\n*네가{fe}훌륭하게\n임무를{ff}해냈다 들으니>{02}이 어미는{fe}기쁘구나\n허나>><END>
+[WORLD01_AREA039.EMI|sec11|body129|@0x1608|45B] 실라\n*너의 몸은>\n윈디아의 것>{02}이{fe}어미의 것이기도\n하단다>><END>
+[WORLD01_AREA039.EMI|sec11|body130|@0x1635|14B] {c04:01}\n*하지만{fe}어머님><END>
+[WORLD01_AREA039.EMI|sec11|body131|@0x1643|69B] 실라\n*나는{fe}네 일을\n생각해서{fe}하는 말이란다{02}경솔한 행동은\n이제 그만하렴>{02}알겠지\n{c04:01}>>?<END>
+[WORLD01_AREA039.EMI|sec11|body132|@0x1688|50B] {c0c:06}{c04:01}\n*잠깐>@{02}본인 눈앞에서\n레이디의 방을{ff}뒤지는 건\n그만둬 주실래@?<END>
+[WORLD01_AREA039.EMI|sec11|body133|@0x16ba|36B] {c04:04}\n*>이런{fe}이거 실례{02}워낙{fe}천성이 도둑이라\n말이지>><END>
+[WORLD01_AREA039.EMI|sec11|body134|@0x16de|26B] {c04:01}\n*슬슬{fe}준비가\n됐으려나>>?<END>
+[WORLD01_AREA039.EMI|sec11|body135|@0x16f8|20B] {c0c:05}*그러면{fe}통행 증서요><END>
+[WORLD01_AREA039.EMI|sec11|body136|@0x170c|24B] {ff}\n{c05:02}통행 증서{06}를{ff}손에 넣었다@<END>
+[WORLD01_AREA039.EMI|sec11|body137|@0x1724|65B] {c0c:06}윈디아 왕\n*기다리게 해서{fe}미안했네\n{c04:04}공>>{02}자{fe}볼일도 끝났으니\n이젠{fe}편히 쉬다 가시게>?<END>
+[WORLD01_AREA039.EMI|sec11|body138|@0x1765|64B] {c0c:03}{c04:01}\n*하지만{fe}아버님>{02}{c04:04}님은{fe}갈 길을\n서두르시는{ff}모양이에요>{02}붙잡아 두는 건\n실례가 아닐까요?<END>
+[WORLD01_AREA039.EMI|sec11|body139|@0x17a5|27B] {c04:01}\n*저는{fe}문까지\n{c04:04}님을{ff}배웅할게요<END>
+[WORLD01_AREA039.EMI|sec11|body140|@0x17c0|49B] {c04:04}\n*왕이시여{fe}황송하옵\n니다만>{02}이만{fe}물러가도록\n하겠사옵니다요<END>
+[WORLD01_AREA039.EMI|sec11|body141|@0x17f1|46B] 윈디아 왕\n*흠>{fe}그렇다면\n어쩔 수{ff}없겠지>{02}{c04:04}공\n여행의 무사를>@<END>
+[WORLD01_AREA039.EMI|sec11|body142|@0x181f|25B] {c0c:05}{c04:04}\n*왜냐고>\n맛있어 보이는데>>@?<END>
+[WORLD01_AREA039.EMI|sec11|body143|@0x1838|37B] {c0c:06}{c04:01}\n*{c04:00}이들 일이\n들통나기 전에>>{02}서두르는 게{fe}좋겠어><END>
+[WORLD01_AREA039.EMI|sec11|body144|@0x185d|69B] {c0c:06}{c04:01}\n*이번엔{fe}나>\n따라갈 수 없을 것 같지만>{02}{c04:00}에게>\n나쁜 드래곤이{fe}아니라고\n믿는다고{fe}<PAUSE>전해 줘>?<END>
+[WORLD01_AREA039.EMI|sec11|body145|@0x18a2|16B] {c0c:04}실라\n*기다리거라@<END>
+[WORLD01_AREA039.EMI|sec11|body146|@0x18b2|50B] 실라\n*{c04:04}라고 했나>{02}그대{fe}예전에\n{c04:01}을{ff}유괴한\n자들의{ff}일당이렷다@?<END>
+[WORLD01_AREA039.EMI|sec11|body147|@0x18e4|24B] {c0c:06}윈디아 왕\n*그것이{fe}정말이렷다@?<END>
+[WORLD01_AREA039.EMI|sec11|body148|@0x18fc|62B] {c0c:05}병사\n*트{fe}틀림없습니다@{02}예전에{fe}성에 찾아왔던\n자들과{fe}함께 있는 것을\n목격했사옵니다@<END>
+[WORLD01_AREA039.EMI|sec11|body149|@0x193a|53B] {c04:01}\n*아버님{fe}<PAUSE>숨긴 것은\n사죄드릴게요>@{02}하지만{fe}{c04:00}이들은\n아무 잘못도 없어요@<END>
+[WORLD01_AREA039.EMI|sec11|body150|@0x196f|47B] 실라\n*너는>\n속고{ff}있는 거란다>{02}정체{ff}모를\n사기꾼들에게>>@<END>
+[WORLD01_AREA039.EMI|sec11|body151|@0x199e|52B] {c0c:05}{c04:01}\n*{c04:00}은>\n사기꾼 같은 거랑은{fe}달라요{02}뭔가{fe}커다란 힘과\n의지를 가진>><END>
+[WORLD01_AREA039.EMI|sec11|body152|@0x19d2|76B] 실라\n*너는{fe}아무것도\n모르고 있어@{02}누구인지는{fe}모르겠다만\n윈디아의 왕녀가>{02}가까이해도 좋을{fe}인물이\n아니란다@<END>
+[WORLD01_AREA039.EMI|sec11|body153|@0x1a1e|97B] {c0c:05}{c04:01}\n*모르고 있는 건\n어머님이야@{02}>용족 일@\n악당들의{fe}어둠의 조직@\n기계 문명의 유적@{02}>성 밖에{fe}뭐가 있는지\n어머님은{fe}알고 있어?<END>
+[WORLD01_AREA039.EMI|sec11|body154|@0x1a7f|61B] {c0c:05}{c04:04}\n*그렇게{fe}쏘아붙이지 마>{c16:20}{c0c:05}{c04:04}\n*언젠가 아이는>\n부모에게서{ff}떠나가는 법이지{02}안 그래>?<END>
+[WORLD01_AREA039.EMI|sec11|body155|@0x1a94|40B] {c0c:05}{c04:04}\n*언젠가 아이는>\n부모에게서{ff}떠나가는 법이지{02}안 그래>?<END>
+[WORLD01_AREA039.EMI|sec11|body156|@0x1abc|20B] {c0c:06}실라\n*{0d}이{0e}{0f}{02}{fe}무례하구나@<END>
+[WORLD01_AREA039.EMI|sec11|body157|@0x1ad0|58B] {c0c:05}{c04:04}\n*그야{fe}확실히>{02}나는{fe}말씀하신 대로\n정체 모를{fe}도둑이지만{02}>>{c04:00}은{fe}달라<END>
+[WORLD01_AREA039.EMI|sec11|body158|@0x1b0a|64B] {c0c:05}{c04:04}\n*{c04:00}은{fe}어쩌면\n세상을 바꿀 수도 있는{ff}녀석이야>{02}왕녀님이{fe}관심을\n가져도{fe}이상할 거 없지<END>
+[WORLD01_AREA039.EMI|sec11|body159|@0x1b4a|37B] {c0c:06}윈디아 왕\n*뭐{fe}뭣들 하느냐@\n저놈을{ff}잡지 못할까@<END>
+[WORLD01_AREA039.EMI|sec11|body160|@0x1b6f|14B] {c0c:05}{c04:04}\n*튀자고>?<END>
+[WORLD01_AREA039.EMI|sec11|body161|@0x1b7d|92B] {c04:01}\n*앗{fe}{c04:04}씨\n허니를{ff}쫓아@{c16:30}{c04:01}\n*저번에도{fe}허니를\n따라갔더니>>{c16:30}{c04:01}\n*성 밖으로{ff}나갈 수가\n있었어@{c16:30}이건{fe}{c04:01}의 장롱이다><END>
+[WORLD01_AREA039.EMI|sec11|body162|@0x1b94|69B] {c04:01}\n*저번에도{fe}허니를\n따라갔더니>>{c16:30}{c04:01}\n*성 밖으로{ff}나갈 수가\n있었어@{c16:30}이건{fe}{c04:01}의 장롱이다><END>
+[WORLD01_AREA039.EMI|sec11|body163|@0x1bb1|40B] {c04:01}\n*성 밖으로{ff}나갈 수가\n있었어@{c16:30}이건{fe}{c04:01}의 장롱이다><END>
+[WORLD01_AREA039.EMI|sec11|body164|@0x1bcc|13B] 이건{fe}{c04:01}의 장롱이다><END>

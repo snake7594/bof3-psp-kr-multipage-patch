@@ -1,0 +1,99 @@
+[WORLD03_AREA143.EMI|sec11|body0|@0x207|30B] {c0c:06}*오옷{fe}<PAUSE>너희들>{ff}지금>\n여기서 나온 거냐?<END>
+[WORLD03_AREA143.EMI|sec11|body1|@0x225|12B] {c0c:06}*음{fe}이건>><END>
+[WORLD03_AREA143.EMI|sec11|body2|@0x231|16B] {c0c:06}*모두들{fe}연회다@<END>
+[WORLD03_AREA143.EMI|sec11|body3|@0x241|39B] {c0c:05}*부디{fe}편히 쉬세요>\n저는{fe}이 마을의 촌장\n그리올이라고 합니다<END>
+[WORLD03_AREA143.EMI|sec11|body4|@0x268|52B] {c0c:05}그리올\n*그리고{fe}여기 있는 이들은>{02}전부{fe}당신과 같은\n용의 일족입니다>>\n{c04:00}님<END>
+[WORLD03_AREA143.EMI|sec11|body5|@0x29c|76B] {c0c:05}그리올\n*놀라실 것{fe}없습니다\n가디언 님>{02}우리는{fe}대전 와중에\n용의 힘을{ff}버리고\n이 땅으로{ff}도망쳐 왔습니다<END>
+[WORLD03_AREA143.EMI|sec11|body6|@0x2e8|30B] {c04:02}\n*우리{fe}가디언에게\n들키지 않으려고{fe}말이냐>?<END>
+[WORLD03_AREA143.EMI|sec11|body7|@0x306|42B] {c0c:06}할멈\n*헤헤{fe}그렇다네>{02}모든 건{fe}이 때를\n기다리기 위해서{fe}라네@<END>
+[WORLD03_AREA143.EMI|sec11|body8|@0x330|26B] {c0c:06}{c04:01}\n*>이 때라니\n무슨 말이에요{fe}할머니?<END>
+[WORLD03_AREA143.EMI|sec11|body9|@0x34a|25B] {c0c:05}그리올\n*머잖아>\n알게 되실 겁니다<END>
+[WORLD03_AREA143.EMI|sec11|body10|@0x363|48B] {c0c:05}그리올\n*>그보다도{fe}지금은\n편히 쉬세요{02}용의 자손과>{ff}그 동료들이여<END>
+[WORLD03_AREA143.EMI|sec11|body11|@0x393|52B] {c0c:06}할멈\n*자자{fe}드시구려>{02}이 고기는{fe}사막의{ff}더위에\n제일{ff}잘 듣는답니다><END>
+[WORLD03_AREA143.EMI|sec11|body12|@0x3c7|62B] *줄곧{fe}당신을\n기다려 왔습니다>\n용의 자손{fe}{c04:00}이여>{02}줄곧>{ff}몇 대에 걸쳐\n당신이 오기를><END>
+[WORLD03_AREA143.EMI|sec11|body13|@0x405|103B] {c0c:04}*용의 일족은\n숙적과의 싸움에{ff}패하고>\n멸족당할{ff}뻔했다{02}>>살아남으려면\n우리처럼{fe}힘을 버리거나{02}적의 눈을 피해\n지하로 숨는 수밖에{fe}없었다><END>
+[WORLD03_AREA143.EMI|sec11|body14|@0x46c|95B] {c0c:06}*땅 밑의{ff}동료들\n몇몇은{fe}그 몸에>{02}아이를 품고{fe}잠들었다{02}우리 용의 일족이{fe}다시\n이 세상에{ff}되살아날\n기회를 엿보며{fe}잠든 자손이><END>
+[WORLD03_AREA143.EMI|sec11|body15|@0x4cb|23B] *이제{fe}그 자손이\n깨어날 때가>@<END>
+[WORLD03_AREA143.EMI|sec11|body16|@0x4e2|45B] {c0c:05}*{c04:00}이여>{ff}당신은\n여기 왔습니다>{02}잊혀진{fe}용족의 도시\n드라그니르로><END>
+[WORLD03_AREA143.EMI|sec11|body17|@0x50f|72B] {c0c:05}*운명>>{fe}그래>{02}우리는{fe}지금>\n당신이{ff}찾는 자가\n있는 곳을{ff}가르쳐 줄 수 있다{02}숙적{fe}여신 미리아의><END>
+[WORLD03_AREA143.EMI|sec11|body18|@0x557|36B] {c0c:05}*{c04:00}이여>\n진정한 용의 힘을{ff}깨우고>{02}여신을><PAUSE>><PAUSE>><END>
+[WORLD03_AREA143.EMI|sec11|body19|@0x57b|18B] *{c04:00}님>\n깨어나셨습니까>?<END>
+[WORLD03_AREA143.EMI|sec11|body20|@0x58d|51B] {c0c:05}할멈\n*{c04:00}님은>\n연회 후{fe}쉬고 계셔서>{02}>>다들{fe}밖에\n나가 계신답니다?<END>
+[WORLD03_AREA143.EMI|sec11|body21|@0x5c0|28B] *그건 그렇고{fe}용의 자손이여\n용케도{ff}여기까지>><END>
+[WORLD03_AREA143.EMI|sec11|body22|@0x5dc|17B] {c0c:05}{c04:04}\n*야{fe}일어났냐?<END>
+[WORLD03_AREA143.EMI|sec11|body23|@0x5ed|48B] {c0c:05}{c04:04}\n*대단하네{fe}용족은>{02}멸종 안 하고{fe}이런 데서\n살아남았다니<END>
+[WORLD03_AREA143.EMI|sec11|body24|@0x61d|40B] {c0c:05}{c04:04}\n*근데{fe}뭐>\n{c04:02} 아저씨는{02}심정이 복잡하겠지><END>
+[WORLD03_AREA143.EMI|sec11|body25|@0x645|34B] {c0c:05}{c04:04}\n*옛날에{fe}적이던 놈들\n한복판{ff}이니까 말야?<END>
+[WORLD03_AREA143.EMI|sec11|body26|@0x667|32B] {c0c:05}{c04:04}\n*저쪽에서{fe}풀죽어 있던데\n놀리러 가자>?<END>
+[WORLD03_AREA143.EMI|sec11|body27|@0x687|82B] *우리에겐{fe}자손 같은\n용의 힘은>{ff}없다>{02}언젠가{fe}이 땅에 올 자손을\n인도한다는{ff} 사명을 위해>{02}힘을 버리고{fe}살아남은 것이다<END>
+[WORLD03_AREA143.EMI|sec11|body28|@0x6d9|80B] *가디언은\n오랜 적이라고{fe}전해 듣지만\n지금은{fe}자손의 동료지>{02}허나{fe}자손이여>\n가디언에게{ff}마음을 놓는 건\n위험하지 않은가>?<END>
+[WORLD03_AREA143.EMI|sec11|body29|@0x729|34B] *봐 봐{fe}{c04:00}\n귀엽지>\n모래돼지라고{ff} 한대@<END>
+[WORLD03_AREA143.EMI|sec11|body30|@0x74b|54B] *빛의 길을 통해\n우리 용사가{fe}찾아온다고\n전설은 말한다>>{02}너희가{fe}그 용사냐>><END>
+[WORLD03_AREA143.EMI|sec11|body31|@0x781|6B] *모프모프<END>
+[WORLD03_AREA143.EMI|sec11|body32|@0x787|8B] *모프후모프후<END>
+[WORLD03_AREA143.EMI|sec11|body33|@0x78f|8B] *모프후후후후<END>
+[WORLD03_AREA143.EMI|sec11|body34|@0x797|50B] *뿌우{fe}뿌우>{02}{c05:06}아무래도{fe}여기 침대에서\n쉴 수 있을 것 같지만\n지금은{fe}그만두자{06}<END>
+[WORLD03_AREA143.EMI|sec11|body35|@0x7c9|57B] *용의 자손{fe}이라니>{02}분명{fe}일족의 부활을\n믿고{fe}줄곧 기다렸을 거야>\n참 끈기 있네{fc}?<END>
+[WORLD03_AREA143.EMI|sec11|body36|@0x802|23B] *뭔가 필요한 게\n있으십니까>?<END>
+[WORLD03_AREA143.EMI|sec11|body37|@0x819|32B] 마을 밖으로 나가기 전에\n{c04:02}의 상태를\n보러 가자>><END>
+[WORLD03_AREA143.EMI|sec11|body38|@0x839|63B] {c04:02}\n*><PAUSE>><PAUSE>>대전을{ff}직접\n보진 못했다 해도{02}나는{fe}이곳 용족에게도\n일족의 적이다>><END>
+[WORLD03_AREA143.EMI|sec11|body39|@0x878|52B] {c04:02}\n*이곳 사람들은{fe}모두>{02}{c04:00}이{fe}나를\n데리고 다니는 걸>\n못마땅하게 여길 것이다><END>
+[WORLD03_AREA143.EMI|sec11|body40|@0x8ac|62B] {c04:02}\n*나는{fe}내가 한 일을\n믿어 온 것을>{02}이제 와서{fe}의심하며\n{c04:00}과{ff}함께\n여행을 계속해 왔지만><END>
+[WORLD03_AREA143.EMI|sec11|body41|@0x8ea|42B] {c04:02}\n*여기 살아 있는\n용족에게{fe} 있어선>{02}그런 제멋대로는{fe}통하지 않는다<END>
+[WORLD03_AREA143.EMI|sec11|body42|@0x914|28B] {c04:02}\n*여기서는{fe}아직 대전이\n끝나지 않은 것이다><END>
+[WORLD03_AREA143.EMI|sec11|body43|@0x930|49B] {c0c:06}{c04:04}\n*그야{fe}그럴지도 모르지만\n아저씨>>{02}당신{fe}뭘 그렇게 기죽어\n있는 거야@?<END>
+[WORLD03_AREA143.EMI|sec11|body44|@0x961|73B] {c0c:06}{c04:04}\n*하긴>{02}이곳 녀석들은{fe}{c04:00}의\n힘을 노리고>{02}당신네{ff}신한테\n한 방 먹이려고\n생각할지도 모르지><END>
+[WORLD03_AREA143.EMI|sec11|body45|@0x9aa|62B] {c0c:06}{c04:04}\n*이제 와서{fe}신을 만나서\n진실을 알고 싶다니>{02}속 편한 소리라고\n생각하겠지{fe}뭐><END>
+[WORLD03_AREA143.EMI|sec11|body46|@0x9e8|46B] {c0c:06}{c04:04}\n*근데{fe}진실을 알고 싶으면\n따라오라고>{02}말한 건{fe}당신이잖아@?<END>
+[WORLD03_AREA143.EMI|sec11|body47|@0xa16|33B] {c0c:06}{c04:04}\n*참나{fe}덩치는 커가지고\n시시콜콜 고민하기는><END>
+[WORLD03_AREA143.EMI|sec11|body48|@0xa37|48B] {c0c:06}{c04:04}\n*게다가>{ff}다른 용족이\n어떻게 생각하든>{02}결국{fe}{c04:00}이\n어쩌느냐{fe}겠지?<END>
+[WORLD03_AREA143.EMI|sec11|body49|@0xa67|53B] {c0c:03}그리올\n*{c04:00}님이여>{02}최장로님께서{fe}당신을\n뵙고 싶다고\n말씀하십니다>><END>
+[WORLD03_AREA143.EMI|sec11|body50|@0xa9c|62B] {c0c:03}그리올\n*일족 중에서\n가장{fe}오래 사신 분>{02}그 대전을{ff}아는\n단 한 분의{fe}용족입니다<END>
+[WORLD03_AREA143.EMI|sec11|body51|@0xada|59B] {c0c:03}그리올\n*마을 한가운데{fe}우물로\n들어가세요>{02}거기서{fe}최장로님이\n기다리고 계십니다<END>
+[WORLD03_AREA143.EMI|sec11|body52|@0xb15|44B] *용족의{fe}살아 있는{ff}역사>\n최장로님은{fe}마을\n우물 아래서 기다리십니다<END>
+[WORLD03_AREA143.EMI|sec11|body53|@0xb41|37B] *장로님은{fe}이 아래다\n준비가 됐으면{fe}언제든\n우물로 들어가>>><END>
+[WORLD03_AREA143.EMI|sec11|body54|@0xb66|28B] *가디언은{fe}잘못된\n신을 믿었던 것이지><END>
+[WORLD03_AREA143.EMI|sec11|body55|@0xb82|36B] {c0c:06}그리올\n*진정한 힘{fe}앙피니를\n발현하신 모양이군요><END>
+[WORLD03_AREA143.EMI|sec11|body56|@0xba6|39B] {c0c:06}그리올\n*그럼{fe}가르쳐 드리지요\n여신이{fe}있는 곳을><END>
+[WORLD03_AREA143.EMI|sec11|body57|@0xbcd|58B] {c0c:06}그리올\n*여러분은>\n떠나셔야{ff}합니다{02}여기서{fe}저 멀리 북쪽의\n{c05:02}죽음의 사막{06}으로>@<END>
+[WORLD03_AREA143.EMI|sec11|body58|@0xc07|49B] {c0c:03}그리올\n*자세한 건>{ff}저쪽의>{02}호이스라는 사내에게{ff}말해\n두었으니>><END>
+[WORLD03_AREA143.EMI|sec11|body59|@0xc38|45B] {c0c:05}{c04:01}\n*>출발하기 전에{fe}저\n호이스라는 사람한테{02}말을 걸면{fe}되는 거죠?<END>
+[WORLD03_AREA143.EMI|sec11|body60|@0xc65|49B] {c0c:05}{c04:02}\n*>고맙소{02}여기를 떠나기 전에{fe}저쪽의\n호이스 님에게 말하면\n되는 거군요>?<END>
+[WORLD03_AREA143.EMI|sec11|body61|@0xc96|30B] {c0c:05}{c04:04}\n*출발 전에{fe}저 녀석한테\n말을 걸면 되는 거지?<END>
+[WORLD03_AREA143.EMI|sec11|body62|@0xcb4|24B] {c0c:05}{c04:05}\n*저 사람한테 물으면\n되는 거구나{fc}>?<END>
+[WORLD03_AREA143.EMI|sec11|body63|@0xccc|34B] {c0c:06}그리올\n*그렇습니다>{fe}호이스가\n여러분을{ff}안내할 겁니다<END>
+[WORLD03_AREA143.EMI|sec11|body64|@0xcee|75B] {c0c:06}그리올\n*모든 건>{ff}이 때를 위해{02}용의 자손이{fe}우리 일족의\n비원을{ff}이루기 위해@{02}><PAUSE>><PAUSE>>부탁드립니다\n{c04:00}님<END>
+[WORLD03_AREA143.EMI|sec11|body65|@0xd39|52B] *이{fe}모래돼지들은>{02}사막을{ff}여행할 때\n짐을 날라 주는\n믿음직한 녀석들입니다><END>
+[WORLD03_AREA143.EMI|sec11|body66|@0xd6d|54B] *지하에서{fe}최장로님도>\n우리 비원에 대해\n말씀해{ff}주셨습니까?{c14:05}{c0c:02}들었다<END>
+[WORLD03_AREA143.EMI|sec11|body67|@0xdaa|64B] *너희{fe}출발 준비\n됐냐>?{02}나{fe}너희와{ff}함께\n사막까지{fe}간다>{c14:06}{c0c:12}출발하자<END>
+[WORLD03_AREA143.EMI|sec11|body68|@0xdf3|5B] *모프후<END>
+[WORLD03_AREA143.EMI|sec11|body69|@0xdf8|6B] *모프노프<END>
+[WORLD03_AREA143.EMI|sec11|body70|@0xdfe|7B] *모옷프모프<END>
+[WORLD03_AREA143.EMI|sec11|body71|@0xe05|75B] *죽음의 사막은>{02}북쪽의{c05:02}팩토리{06}라고 불리는\n커다란{ff}건물을\n빠져나간 곳이라네>{02}거기서부터는{fe}호이스가\n알려 줄 겁니다<END>
+[WORLD03_AREA143.EMI|sec11|body72|@0xe50|53B] *그렇겠지요>{02}여신을 쓰러뜨리는 건{fe}대대로\n우리 용의 일족{fe}용사의\n사명이니까요><END>
+[WORLD03_AREA143.EMI|sec11|body73|@0xe85|47B] *뭐라고>@{02}여신을{ff}쓰러뜨리지 않아도 된다고\n말했단 말이오?{02}>그런{fe}농담을@<END>
+[WORLD03_AREA143.EMI|sec11|body74|@0xeb4|16B] *그런가>\n그럼{fe}나와>><END>
+[WORLD03_AREA143.EMI|sec11|body75|@0xec4|23B] *그런가>\n준비가 되면{fe}말해 다오<END>
+[WORLD03_AREA143.EMI|sec11|body76|@0xedb|28B] 호이스\n*이 모래돼지가{fe}너희\n길동무가 될 거다><END>
+[WORLD03_AREA143.EMI|sec11|body77|@0xef7|68B] 호이스\n*너희{fe}출발 준비\n됐냐>?{02}나{fe}너희와{ff}함께\n사막까지{fe}간다>{c14:06}{c0c:12}출발하자<END>
+[WORLD03_AREA143.EMI|sec11|body78|@0xf44|29B] 침대에서 쉴 수 있을 것 같다>\n잠깐 쉬어 갈까요?{c14:07}{c0c:02}예<END>
+[WORLD03_AREA143.EMI|sec11|body79|@0xf65|158B] 용의 신\n*응><PAUSE>><PAUSE>?{02}이제는{fe}아는 자조차 몇 안 되는\n나를{ff}부르는 건\n대체 누구냐?{02}음?너는{fe}<PAUSE><PAUSE>{ff}{c04:00}이로구나@{02}그렇군{fe}마침내 이 날이\n찾아왔구나{02}나는 오래된 신{fe}<PAUSE>용의 신이다{02}네가{ff}이제부터\n하려는 일은\n나도{ff}알고 있다{02}힘을{ff}원하느냐?{c14:00}{c0c:02}예<END>
+[WORLD03_AREA143.EMI|sec11|body80|@0xfd0|51B] 네가{ff}이제부터\n하려는 일은\n나도{ff}알고 있다{02}힘을{ff}원하느냐?{c14:00}{c0c:02}예<END>
+[WORLD03_AREA143.EMI|sec11|body81|@0x1007|78B] ><PAUSE>><PAUSE>좋다@\n아무래도{fe}너는\n몸에 숨겨진{02}모든 용의 힘을\n깨우고{ff}있는 모양이로구나{02}너라면{ff}내 힘을\n맡길 수 있겠지@<END>
+[WORLD03_AREA143.EMI|sec11|body82|@0x1055|77B] ><PAUSE>><PAUSE>아직이다{02}너는 아직{fe}용의 힘을\n능숙히 다루지 못한다{02}모든 힘을 능숙히 다뤘을 때\n다시 오너라{02}그럼{ff}잠시 동안\n작별이다<END>
+[WORLD03_AREA143.EMI|sec11|body83|@0x1091|17B] 그럼{ff}잠시 동안\n작별이다<END>
+[WORLD03_AREA143.EMI|sec11|body84|@0x10a2|36B] 용의 신\n*오랜만이로구나{fe}{c04:00}\n내 자손이여{fe}마지막 아이여<END>
+[WORLD03_AREA143.EMI|sec11|body85|@0x10c6|30B] 누군가{fe}내 힘을\n필요로 하고 있느냐?{c14:01}{c0c:02}예<END>
+[WORLD03_AREA143.EMI|sec11|body86|@0x10e8|25B] 누구나{ff}이미\n내{ff}힘을 가지고 있는 모양이로구나<END>
+[WORLD03_AREA143.EMI|sec11|body87|@0x1101|26B] 내 힘이{ff}짐스럽게\n느껴지느냐?{c14:02}{c0c:02}예<END>
+[WORLD03_AREA143.EMI|sec11|body88|@0x111f|22B] 아무도{ff}내 힘을\n가지고 있지 않은 모양이로구나<END>
+[WORLD03_AREA143.EMI|sec11|body89|@0x1135|31B] *좋다{fe}그럼\n{c07:00}에게{ff}\n내 힘의 일부를 빌려주마@<END>
+[WORLD03_AREA143.EMI|sec11|body90|@0x1154|32B] 아직{fe}내 힘을\n필요로 하는 자가{ff}있느냐?{c14:03}{c0c:02}예<END>
+[WORLD03_AREA143.EMI|sec11|body91|@0x1178|25B] *그럼{ff}{c07:00}에게서{ff}\n내 힘을{ff}거두마<END>
+[WORLD03_AREA143.EMI|sec11|body92|@0x1191|33B] 아직{fe}내 힘을 짐스럽게\n느끼는 자가 있느냐?{c14:04}{c0c:02}예<END>
+[WORLD03_AREA143.EMI|sec11|body93|@0x11b6|55B] 그렇군{fe}슬슬\n{c07:00}이라면{fe}이 기술을\n능숙히 다룰 수 있겠지{02}{c07:00}은(는)\n{c05:02}{c07:01}{ff}{06}을(를)\n익혔다@@<END>
+[WORLD03_AREA143.EMI|sec11|body94|@0x11ed|16B] 누가{ff}제자가 됩니까?<END>
+[WORLD03_AREA143.EMI|sec11|body95|@0x11fd|16B] 누가{ff}제자를 그만둡니까?<END>
+[WORLD03_AREA143.EMI|sec11|body96|@0x120d|23B] 이 사람으로{ff}괜찮습니까?{ff}{ff}예/아니오<END>
+[WORLD03_AREA143.EMI|sec11|body97|@0x1224|22B] 그만둘까요?{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}예/아니오<END>
+[WORLD03_AREA143.EMI|sec11|body98|@0x123a|66B] 원래는{fe}용의 신을 모시던\n곳이었던 모양이다>{02}지금은{fe}여행의 신으로 알려져 있다\n여기까지의 기록을 하시겠습니까?{c14:08}{c0c:02}예<END>

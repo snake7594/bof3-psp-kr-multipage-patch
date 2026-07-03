@@ -1,0 +1,45 @@
+[WORLD04_AREA172.EMI|sec11|body0|@0x200|35B] 목적지를 입력하시고\n엘리베{fc}터에 탑승해 주세요{c14:00}{c0c:02}에덴<END>
+[WORLD04_AREA172.EMI|sec11|body1|@0x227|10B] {c04:01}\n*우와>@?<END>
+[WORLD04_AREA172.EMI|sec11|body2|@0x231|10B] {c04:02}\n*으음>@?<END>
+[WORLD04_AREA172.EMI|sec11|body3|@0x23b|12B] {c04:05}\n*대단{fe}하다{fc}@<END>
+[WORLD04_AREA172.EMI|sec11|body4|@0x247|14B] {c04:04}\n*와{fe}여긴 뭐지@?<END>
+[WORLD04_AREA172.EMI|sec11|body5|@0x255|36B] {c0c:06}{c04:04}\n*밖에 나온 줄{fe}알았더니>\n방 안이잖아{fe}이거<END>
+[WORLD04_AREA172.EMI|sec11|body6|@0x279|42B] {c0c:06}{c04:05}\n*밖은 사막인데>\n방 안에{fe}초록이 가득해{02}대단해{fc}<END>
+[WORLD04_AREA172.EMI|sec11|body7|@0x2a3|22B] {c0c:06}{c04:02}\n*방 안에{fe}이런 것이><END>
+[WORLD04_AREA172.EMI|sec11|body8|@0x2b9|20B] {c0c:06}{c04:01}\n*바깥 같은 방이네><END>
+[WORLD04_AREA172.EMI|sec11|body9|@0x2cd|44B] {c0c:06}*자기가 있는 곳을\n분별하지 못한 채>{02}멀리{ff}날아가려 하면\n저렇게 된다>><END>
+[WORLD04_AREA172.EMI|sec11|body10|@0x2f9|15B] {c0c:06}*알겠지{fe}{c04:00}?<END>
+[WORLD04_AREA172.EMI|sec11|body11|@0x308|34B] {c0c:06}*>>여기까지{fe}오다니\n역시 용족이라고{fe}해야 하나?<END>
+[WORLD04_AREA172.EMI|sec11|body12|@0x32a|29B] {c04:04}\n*너>{fe}<PAUSE><PAUSE>{c04:03}야?{02}{c04:03}가{fe}아닌 거냐@?<END>
+[WORLD04_AREA172.EMI|sec11|body13|@0x347|18B] {c0c:06}{c04:03}\n*그래{fe}<PAUSE>형아><END>
+[WORLD04_AREA172.EMI|sec11|body14|@0x359|33B] {c04:04}\n*{c04:03}@\n살아 있었구나{fe}너>@{02}다행이다>{ff}난><END>
+[WORLD04_AREA172.EMI|sec11|body15|@0x37a|33B] {c0c:06}{c04:03}\n*시끄러워>{02}난{fe}{c04:00}한테\n할 얘기가>{ff}있어><END>
+[WORLD04_AREA172.EMI|sec11|body16|@0x39b|43B] {c0c:06}{c04:03}\n*잘도{fe}여기까지 왔네\n{c04:00}>>{02}하지만{fe}네 여행은\n여기서 끝이야><END>
+[WORLD04_AREA172.EMI|sec11|body17|@0x3c6|36B] {c0c:06}{c04:03}\n*네가{fe}찾고 있는 것>\n그건{fe}내가 가르쳐 주지>><END>
+[WORLD04_AREA172.EMI|sec11|body18|@0x3ea|37B] {c0c:06}{c04:03}\n*왜{fe}우리>{ff}용족이\n멸망해야만{ff}했는지<END>
+[WORLD04_AREA172.EMI|sec11|body19|@0x40f|31B] {c0c:06}{c04:03}\n*용족은{fe}너무 위험해>\n세계에 있어서><END>
+[WORLD04_AREA172.EMI|sec11|body20|@0x42e|56B] {c0c:06}{c04:03}\n*존재하는 것만으로\n세계를{ff}위협하는 힘>{02}그리고{fe}사람들을\n다툼에{ff}끌어들이는 숙명><END>
+[WORLD04_AREA172.EMI|sec11|body21|@0x466|59B] {c04:04}\n*그래서>{fe}{c04:03}{c05:02}씨{06}는>{02}여신한테{fe}뭔가{ff}세뇌당해서>\n{c04:00}를{ff}죽이려고\n기다리고 있었던 거냐?<END>
+[WORLD04_AREA172.EMI|sec11|body22|@0x4a1|47B] {c0c:06}{c04:03}\n*아냐@{02}그분은{fe}누구도\n멸망시키려는{fe}생각 따윈\n하지 않으셔@<END>
+[WORLD04_AREA172.EMI|sec11|body23|@0x4d0|62B] {c0c:06}{c04:03}\n*용의 힘 같은\n무서운 것이>{02}제어되지 못한 채\n세상에 있는 것을\n걱정하실 뿐이야@<END>
+[WORLD04_AREA172.EMI|sec11|body24|@0x50e|48B] {c0c:06}{c04:03}\n*>>{c04:00}\n우리는{fe}다른 놈들과는 달라{02}함께 있어선\n안 되는 거야>><END>
+[WORLD04_AREA172.EMI|sec11|body25|@0x53e|38B] {c0c:06}{c04:03}\n*그러니까>\n나와{fe}여기 남아>{02}미리아 님과{fe}함께 있는 거야<END>
+[WORLD04_AREA172.EMI|sec11|body26|@0x564|25B] {c0c:06}{c04:03}\n*역시>{fe}금방은\n모르겠나>><END>
+[WORLD04_AREA172.EMI|sec11|body27|@0x57d|39B] {c0c:06}{c04:03}\n*그럼{fe}천천히\n생각해 봐{fe}좋아>{02}마음{fe}깊숙한 곳에서>@<END>
+[WORLD04_AREA172.EMI|sec11|body28|@0x5a4|18B] {c0c:03}{c04:03}\n*>>돌아왔구나{fe}{c04:00}<END>
+[WORLD04_AREA172.EMI|sec11|body29|@0x5b6|51B] {c0c:05}{c04:03}\n*악몽에{fe}먹혔다면>\n용의 힘을{ff}잃을 뿐>{02}목숨은{fe}건졌을 텐데>><END>
+[WORLD04_AREA172.EMI|sec11|body30|@0x5e9|47B] {c0c:05}{c04:03}\n*네가{fe}끝까지\n용의 힘을{ff}버리지 않고>{02}미리아 님께{fe}따르지 않겠다면<END>
+[WORLD04_AREA172.EMI|sec11|body31|@0x618|17B] {c0c:05}{c04:03}\n*난{fe}너를>><END>
+[WORLD04_AREA172.EMI|sec11|body32|@0x629|18B] {c0c:05}{c04:03}\n*너를>{ff}죽인다>><END>
+[WORLD04_AREA172.EMI|sec11|body33|@0x63b|28B] {c0c:01}{c04:03}와 싸울\n멤버{fc}를{ff}정해 주세요{fd}<END>
+[WORLD04_AREA172.EMI|sec11|body34|@0x657|42B] {c0c:05}{c04:03}\n*><PAUSE>><PAUSE>>{c04:00}{02}역시>{ff}미리아 님은>\n틀리지>>{ff}않았어><END>
+[WORLD04_AREA172.EMI|sec11|body35|@0x681|66B] {c0c:05}{c04:03}\n*우리>{fe}용족은\n이렇게>>{02}서로 죽이>{ff}기만 하는>\n위험한{fe}생물>{ff}이야>{02}하지만><PAUSE>><PAUSE>><END>
+[WORLD04_AREA172.EMI|sec11|body36|@0x6c3|35B] {c0c:05}{c04:03}\n*난>>{ff}용의 힘 같은 거\n갖고>{ff}<PAUSE>싶지 않았어>><END>
+[WORLD04_AREA172.EMI|sec11|body37|@0x6e6|57B] {c0c:05}{c04:03}\n*난><PAUSE>><PAUSE>>{ff}계속>{02}형아<PAUSE>랑{fe}{c04:00}><PAUSE>랑\n함께<PAUSE>{ff}도둑질{fc}하면서\n좋았<PAUSE>어>{ff}>><END>
+[WORLD04_AREA172.EMI|sec11|body38|@0x71f|22B] {c0c:05}{c04:04}\n*하하><PAUSE>하>\n유쾌하구나>><END>
+[WORLD04_AREA172.EMI|sec11|body39|@0x735|52B] {c04:04}\n*있잖아{fe}{c04:00}>{02}용족이란 건{fe}정말로\n피로 물든>\n저주받은 종족인 걸까{fe}응?<END>
+[WORLD04_AREA172.EMI|sec11|body40|@0x769|23B] {c04:04}\n*아니길 바라{fe}그치>{02}응{fe}{c04:00}>><END>
+[WORLD04_AREA172.EMI|sec11|body41|@0x780|31B] {c05:02}카{fc}드키{fc}:A{06}라고 적혀 있는\n중요한 열쇠인 것 같다><END>
+[WORLD04_AREA172.EMI|sec11|body42|@0x79f|58B] {c0c:82}{ff}\n{ff}\n{ff}\n{ff}{ff}{c04:00}는{fe}자신의 몸을\n{ff}\n{ff}{ff}{ff}여신 미리아에게 맡기고>\n{ff}\n{ff}용의 힘을{ff}스스로 봉인했다{fd}<END>
+[WORLD04_AREA172.EMI|sec11|body43|@0x7d9|20B] {c0c:81}{ff}\n{ff}{ff}{ff}그리고{fe}시간은 흐른다><END>
+[WORLD04_AREA172.EMI|sec11|body44|@0x7ed|19B] {c0c:81}{ff}\n{ff}{ff}{ff}{ff}아무것도 그리지 못한 채{fd}{c16:50}

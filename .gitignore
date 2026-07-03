@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+PSP_GAME/
+_emi_bak/
+*.BIN
+*.EMI
+*.iso
+*.ISO
+*.cso
+*.CSO
+BOOT_multipage.BIN
+ENDKANJI_multipage.EMI

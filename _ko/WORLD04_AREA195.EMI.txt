@@ -1,0 +1,13 @@
+[WORLD04_AREA195.EMI|sec11|body0|@0x205|45B] *이 길은{fe}못 지나가요{02}얼마 전{ff}화산이 폭발해서\n길이 막혀 버렸거든요<END>
+[WORLD04_AREA195.EMI|sec11|body1|@0x232|74B] *동쪽으로 가려면>\n항구 마을에서 나가는{ff}짐배에\n태워 달라고 하는{ff}수밖에 없어요{02}얼마 전{fe}화산이 폭발해서\n길을{ff}못 쓰거든요<END>
+[WORLD04_AREA195.EMI|sec11|body2|@0x27c|59B] *우린{ff}라팔라\n짐 운반 길드 사람이에요{02}이 근방 통행은{ff}전부\n길드가{ff}맡아서 관리해요<END>
+[WORLD04_AREA195.EMI|sec11|body3|@0x2b7|69B] *이{fe}사당>\n무슨 신을 모시나 본데\n자세한 건{ff}나도 몰라{02}이 길을{ff}낼 때\n우연히{ff}발견했대<END>
+[WORLD04_AREA195.EMI|sec11|body4|@0x2fc|73B] *엇{fe}길드장 편지?{02}>>당신들{fe}샛길로\n갈 생각이에요?{02}가는 건{ff}상관없지만\n마그마가 있어서\n위험해요?<END>
+[WORLD04_AREA195.EMI|sec11|body5|@0x345|28B] *샛길로{ff}갈 거면\n마그마{ff}조심해요<END>
+[WORLD04_AREA195.EMI|sec11|body6|@0x361|62B] *>길이 나기 전엔\n화산 속을 지나는\n샛길을{ff}썼다고 하던데{02}길이 난 뒤로는\n안 쓰네요<END>
+[WORLD04_AREA195.EMI|sec11|body7|@0x39f|32B] *요샌{fe}화산도 잠잠하고\n길도{ff}안전해요><END>
+[WORLD04_AREA195.EMI|sec11|body8|@0x3bf|38B] *울칸 쪽으로\n가실 거라면>\n이 길을{ff}이용하세요<END>
+[WORLD04_AREA195.EMI|sec11|body9|@0x3e5|14B] *뭔가{fe}반짝하지 않았어?<END>
+[WORLD04_AREA195.EMI|sec11|body10|@0x3f3|40B] *이 길로{fe}사람이 온다는 건\n또{fe}길드 배가\n망가졌단 소리네><END>
+[WORLD04_AREA195.EMI|sec11|body11|@0x41b|35B] *이 사당>\n아무도 없을 텐데\n가끔{fe}소리가 들려>><END>
+[WORLD04_AREA195.EMI|sec11|body12|@0x43e|42B] *길드가{fe}배를 잔뜩\n쓰게 되면>{02}이 길도{ff}한산해지겠죠<END>

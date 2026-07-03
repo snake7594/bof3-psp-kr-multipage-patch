@@ -1,0 +1,64 @@
+[WORLD00_AREA027.EMI|sec11|body0|@0x20b|30B] {c0c:05}{c04:03}\n*누군가{ff}보고 있는 것\n같은 기분이>?<END>
+[WORLD00_AREA027.EMI|sec11|body1|@0x229|22B] {c0c:05}{c04:03}\n*>망보는 놈은\n없는 것{ff}같지만<END>
+[WORLD00_AREA027.EMI|sec11|body2|@0x23f|23B] {c0c:05}{c04:03}\n*>왠지{ff}으스스한\n느낌인데<END>
+[WORLD00_AREA027.EMI|sec11|body3|@0x256|20B] {c0c:05}{c04:03}\n*>>기{fe}<PAUSE>기분 탓이겠지<END>
+[WORLD00_AREA027.EMI|sec11|body4|@0x26a|45B] {c0c:81}{ff}\n{ff}>괘씸한 놈\n{ff}우리{fe}맥니{fc}르 가에\n{ff}함부로 들어오는 건{fe}용서 못 한다@<END>
+[WORLD00_AREA027.EMI|sec11|body16|@0x297|31B] {c0c:06}{c04:03}\n*뭐{fe}뭐{fe}뭐야@?\n누구냐고{fe}<PAUSE>나와봐@<END>
+[WORLD00_AREA027.EMI|sec11|body17|@0x2b6|44B] {c0c:04}*>내 이름은{ff}트러스트\n명문 맥니{fc}르 가\n5대째의>><PAUSE>{ff}영혼이다<END>
+[WORLD00_AREA027.EMI|sec11|body18|@0x2e2|54B] {c0c:06}{c04:03}\n*겁주려고{ff}해봤자\n그렇겐 안 되지@{02}>이쪽은{ff}누에도\n해치웠다고@<END>
+[WORLD00_AREA027.EMI|sec11|body19|@0x318|67B] {c0c:04}트러스트\n*흥@{ff}어리석은 것@{02}우리 맥니{fc}르 가를\n그런{ff}짐승 따위와\n똑같이 여기다니>>{02}저승에서{ff}후회나 해라@<END>
+[WORLD00_AREA027.EMI|sec11|body20|@0x35b|50B] {c0c:04}트러스트\n*뭐{fe}<PAUSE>뭐 이런 놈들이@?{02}조{fe}조상님>>\n죄송합니다>{02}끄윽<END>
+[WORLD00_AREA027.EMI|sec11|body21|@0x38d|66B] {c0c:06}{c04:03}\n*>>저거{fe}역시\n유령인가?{02}그렇다면>>{ff}<PAUSE>싫은데>\n질색이란 말야\n으스스한 거 말이지>><END>
+[WORLD00_AREA027.EMI|sec11|body22|@0x3cf|47B] {ff}\n;맥니{fc}르 가의 사람들>1<{02}>초대 맥니{fc}르의\n고생담이{ff}적혀 있다<END>
+[WORLD00_AREA027.EMI|sec11|body23|@0x3fe|47B] {ff}\n;맥니{fc}르 가의 사람들>2<{02}>2대째 맥니{fc}르의\n자랑담이{ff}적혀 있다<END>
+[WORLD00_AREA027.EMI|sec11|body24|@0x42d|47B] {ff}\n;맥니{fc}르 가의 사람들>3<{02}>3대째 맥니{fc}르의\n설교가{ff}적혀 있다<END>
+[WORLD00_AREA027.EMI|sec11|body25|@0x45c|51B] {ff}\n;맥니{fc}르 가의 사람들>4<{02}>4대째 맥니{fc}르의\n뜻밖의 일면이{ff}적혀 있다<END>
+[WORLD00_AREA027.EMI|sec11|body26|@0x48f|46B] {ff}\n;맥니{fc}르 가의 사람들>5<{02}>5대째 맥니{fc}르의\n체험담이{ff}적혀 있다<END>
+[WORLD00_AREA027.EMI|sec11|body27|@0x4bd|64B] {ff}\n;맥니{fc}르 가의 사람들>6<{02}>6대째 맥니{fc}르의\n딱히 쓸 만한 것도 없는\n시시한 얘기가{fe}장황하게>><END>
+[WORLD00_AREA027.EMI|sec11|body28|@0x4fd|47B] {ff}\n{ff};맥니{fc}르 가 전집<{02}>훌륭한 책이지만\n내용은{ff}별로\n대단치 않다<END>
+[WORLD00_AREA027.EMI|sec11|body29|@0x52c|71B] >돈의 출입이\n적힌{ff}노{fc}트다{02}세금이{ff}높은 것치고는\n맥니{fc}르 본인이{ff}가진\n금액은{ff}적은 것 같다>?<END>
+[WORLD00_AREA027.EMI|sec11|body30|@0x573|16B] {c04:03}\n*>>누구{ff}>>있어?<END>
+[WORLD00_AREA027.EMI|sec11|body31|@0x583|40B] {c0c:06}맥니{fc}르\n*어서 오게{fe}작은 손님\n내가{fe}당주 맥니{fc}르일세<END>
+[WORLD00_AREA027.EMI|sec11|body32|@0x5ab|40B] {c0c:05}{c04:03}\n*>>정말이야?{02}그럼{ff}얘기 빠르겠네\n이 악당아>>@?<END>
+[WORLD00_AREA027.EMI|sec11|body33|@0x5d3|47B] {c0c:06}맥니{fc}르\n*호호호호{fe}뭐라고?{02}지주가{ff}세금을 걷는데\n뭐가 나쁘단 말이냐?<END>
+[WORLD00_AREA027.EMI|sec11|body34|@0x602|21B] {c0c:05}{c04:03}\n*어{fe}어이{c04:00}\n무슨 일이야?<END>
+[WORLD00_AREA027.EMI|sec11|body35|@0x617|22B] {c0c:05}{c04:03}\n*>어@?\n이 자식{fe}가짜@?<END>
+[WORLD00_AREA027.EMI|sec11|body36|@0x62d|69B] {c0c:06}맥니{fc}르\n*호호호{fe}가짜라니\n듣기 거북하구나>{02}나는{ff}진짜 맥니{fc}르>\n3대째{fe}캇센의>\n영혼이니라@<END>
+[WORLD00_AREA027.EMI|sec11|body37|@0x672|59B] {c0c:06}캇센\n*>우리가{ff}선조 대대로\n지켜온 것을{02}그리{ff}쉽사리\n빼앗길 수는{ff}없지<END>
+[WORLD00_AREA027.EMI|sec11|body38|@0x6ad|78B] {c0c:06}캇센\n*우오{c15:07}{c15:07}@@\n이 내가{ff}지다니@?{02}>>하지만{fe}맥니{fc}르 가는\n13대 이어온{ff}명가다\n선조는{ff}나뿐만이{fe}아니다@<END>
+[WORLD00_AREA027.EMI|sec11|body39|@0x6fb|59B] {c0c:05}{c04:03}\n*>여기{fe}귀신의 집\n이었던 거구나{02}>>그건{ff}그렇고{ff}{c04:00}\n귀신{fe}안 무서워?\n울보 주제에<END>
+[WORLD00_AREA027.EMI|sec11|body40|@0x736|14B] {c0c:81}{ff}\n{ff}{ff}거기까지다@@<END>
+[WORLD00_AREA027.EMI|sec11|body48|@0x744|47B] {c0c:05}*우리 선조의 수비를\n뚫고>{02}여기까지 온 것은\n칭찬해 주마>{ff}하지만@<END>
+[WORLD00_AREA027.EMI|sec11|body49|@0x773|28B] {c0c:06}{c04:03}\n*>여기 귀신들은\n다들{ff}말 참 많네<END>
+[WORLD00_AREA027.EMI|sec11|body50|@0x78f|56B] {c0c:05}>이 12대째{fe}카르텔 님이\n나선 이상{02}너희들의{ff}난동도\n여기까지라고{ff}여겨라@?<END>
+[WORLD00_AREA027.EMI|sec11|body51|@0x7c7|45B] {c0c:06}{c04:03}\n*나{fe}귀신이란 건\n좀 더{fe}이렇게>>{02}으스스한 거라고{ff}생각했는데<END>
+[WORLD00_AREA027.EMI|sec11|body52|@0x7f4|45B] {c0c:06}{c04:03}\n*>여기 녀석들 같은\n귀신이라면{02}나도{fe}별로\n안 무섭겠어>><END>
+[WORLD00_AREA027.EMI|sec11|body53|@0x821|51B] {c0c:85}네놈들{c15:07}{c15:07}>\n이 앞으로{ff}살아서 지나갈 수\n있다고 생각 마라{c15:07}{c15:07}{02}이 몸{ff}8대째><END>
+[WORLD00_AREA027.EMI|sec11|body64|@0x854|40B] {c0c:05}{c04:03}\n*>그러니까{fe}다들\n맥니{fc}르란 거지?{02}그럼{fe}해치워 주마@<END>
+[WORLD00_AREA027.EMI|sec11|body65|@0x87c|32B] {c0c:05}{c04:03}\n*이름 정도는{ff}말하게 해줄걸\n그랬나?<END>
+[WORLD00_AREA027.EMI|sec11|body66|@0x89c|28B] {c0c:05}{c04:03}\n*또{fe}또 나오면{ff}생각하자\n가자{ff}{c04:00}<END>
+[WORLD00_AREA027.EMI|sec11|body67|@0x8b8|30B] ;엘리베이터 사용법<\n>스위치를{ff}누릅시다<END>
+[WORLD00_AREA027.EMI|sec11|body68|@0x8d6|25B] {c0c:05}{c04:03}\n*{0d}끝내준다@{0e}{0f}{03}\n엘리베이터다@<END>
+[WORLD00_AREA027.EMI|sec11|body74|@0x8ef|31B] {c0c:06}{c04:03}\n*>쉬는 동안에\n귀신 안 나와서{ff}다행이었어<END>
+[WORLD00_AREA027.EMI|sec11|body80|@0x90e|34B] {c0c:05}{c04:04}\n*::얼른 해치우고\n돌아가서 푹 자야겠다<END>
+[WORLD00_AREA027.EMI|sec11|body81|@0x930|14B] >이런 곳에{ff}침대가@<END>
+[WORLD00_AREA027.EMI|sec11|body82|@0x93e|29B] >잠깐 쉴 수 있겠다\n어떻게 할까?{c14:02}{c0c:12}쉬었다 간다<END>
+[WORLD00_AREA027.EMI|sec11|body83|@0x962|195B] {c0c:85}카르텔\n*증조할아버지도\n안 됐단 말인가>>{c16:20}{c0c:80}독센\n*{c05:01}크크>{06}{ff}이름 대기 전에\n당하고 말았다>{c16:20}{c0c:80}트러스트\n*맥니{fc}르 가의 위기다>\n이대로는>>{c16:20}{c0c:86}캇센\n*이제는{ff}당주>{ff}13대째에\n기대할 수밖에>>{c16:20}{c0c:81}칸제이\n*음>>{ff}하지만{fe}그 녀석\n좀{ff}해이해져 있으니 말이지>{c16:20}아직{fe}달아날 수는\n없겠지><END>
+[WORLD00_AREA027.EMI|sec11|body96|@0x97d|168B] {c0c:80}독센\n*{c05:01}크크>{06}{ff}이름 대기 전에\n당하고 말았다>{c16:20}{c0c:80}트러스트\n*맥니{fc}르 가의 위기다>\n이대로는>>{c16:20}{c0c:86}캇센\n*이제는{ff}당주>{ff}13대째에\n기대할 수밖에>>{c16:20}{c0c:81}칸제이\n*음>>{ff}하지만{fe}그 녀석\n좀{ff}해이해져 있으니 말이지>{c16:20}아직{fe}달아날 수는\n없겠지><END>
+[WORLD00_AREA027.EMI|sec11|body97|@0x9a0|133B] {c0c:80}트러스트\n*맥니{fc}르 가의 위기다>\n이대로는>>{c16:20}{c0c:86}캇센\n*이제는{ff}당주>{ff}13대째에\n기대할 수밖에>>{c16:20}{c0c:81}칸제이\n*음>>{ff}하지만{fe}그 녀석\n좀{ff}해이해져 있으니 말이지>{c16:20}아직{fe}달아날 수는\n없겠지><END>
+[WORLD00_AREA027.EMI|sec11|body98|@0x9c1|100B] {c0c:86}캇센\n*이제는{ff}당주>{ff}13대째에\n기대할 수밖에>>{c16:20}{c0c:81}칸제이\n*음>>{ff}하지만{fe}그 녀석\n좀{ff}해이해져 있으니 말이지>{c16:20}아직{fe}달아날 수는\n없겠지><END>
+[WORLD00_AREA027.EMI|sec11|body99|@0x9e7|62B] {c0c:81}칸제이\n*음>>{ff}하지만{fe}그 녀석\n좀{ff}해이해져 있으니 말이지>{c16:20}아직{fe}달아날 수는\n없겠지><END>
+[WORLD00_AREA027.EMI|sec11|body100|@0xa0e|23B] 아직{fe}달아날 수는\n없겠지><END>
+[WORLD00_AREA027.EMI|sec11|body111|@0xa25|22B] 문은{ff}단단히\n못 박혀 있다>><END>
+[WORLD00_AREA027.EMI|sec11|body112|@0xa3b|11B] 험상궂은 얼굴이다>><END>
+[WORLD00_AREA027.EMI|sec11|body113|@0xa46|27B] {c0c:81}{ff}{c16:00}{ff}\n엘리베이터를 타시겠습니까?{c14:00}{c0c:02}예<END>
+[WORLD00_AREA027.EMI|sec11|body128|@0xa4b|22B] {ff}\n엘리베이터를 타시겠습니까?{c14:00}{c0c:02}예<END>
+[WORLD00_AREA027.EMI|sec11|body129|@0xa65|22B] {ff}\n엘리베이터를 타시겠습니까?{c14:01}{c0c:02}예<END>
+[WORLD00_AREA027.EMI|sec11|body130|@0xa7f|75B] *왠지{ff}집 안이\n으스스해서>>\n잠이 안 와{02}침대{ff}쓸 거면\n빌려줘도{ff}괜찮아?{c14:03}{c0c:12}침대를 빌려{fe}한숨 잔다<END>
+[WORLD00_AREA027.EMI|sec11|body131|@0xad1|57B] *주인 나리께선\n구두쇠인 데다{ff}걱정도 많아서>{02}도둑 막는다고\n여기저기{ff}문을\n못 박아 버렸지 뭐야<END>
+[WORLD00_AREA027.EMI|sec11|body132|@0xb0a|62B] *아{fc}아{fe}일이라곤 해도\n고약한 집에{ff}왔네>{02}쓸데없이{ff}크기만 하고\n구조는{ff}으스스하고\n정말{ff}기분 나빠<END>
+[WORLD00_AREA027.EMI|sec11|body133|@0xb48|41B] *저쪽 방에서\n한밤중에{ff}소리가 나>{02}사람은{ff}없을 텐데?<END>
+[WORLD00_AREA027.EMI|sec11|body134|@0xb71|68B] *이것 좀 봐\n조리장{ff}문까지\n걸어 잠가 버려서>{02}도둑 막는 건지{ff}뭔지\n모르겠지만>\n좀{fe}보통이 아니야<END>
+[WORLD00_AREA027.EMI|sec11|body135|@0xbb5|51B] *예전엔{fe}하인도\n많이{ff}있었는데>{02}너무{ff}구두쇠라서\n다들{ff}그만뒀어<END>
+[WORLD00_AREA027.EMI|sec11|body136|@0xbe8|41B] >한숨 쉬고{ff}기운이 났다{02}여기까지의 여정을\n세{fc}이브하시겠습니까?{c14:04}{c0c:02}예<END>
+[WORLD00_AREA027.EMI|sec11|body137|@0xc15|24B] 여기까지의 여정을\n세{fc}이브하시겠습니까?{c14:04}{c0c:02}예<END>

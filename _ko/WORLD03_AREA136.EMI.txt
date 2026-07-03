@@ -1,0 +1,24 @@
+[WORLD03_AREA136.EMI|sec11|body0|@0x209|27B] {10}{ff}\n{ff}{ff}{ff}부{fc}스트:카운터{11}{02}>라고 {fe}적혀 있다<END>
+[WORLD03_AREA136.EMI|sec11|body1|@0x224|33B] 배를 움직이기 위한\n장치인 것 같은데>\n{03}는 {ff}잘 모르겠다<END>
+[WORLD03_AREA136.EMI|sec11|body2|@0x245|39B] {c04:05}\n*흐{fc}음>{ff}이걸로>{02}배의 행선지를 {ff}설정할 수 있는\n것 같네<END>
+[WORLD03_AREA136.EMI|sec11|body3|@0x26c|65B] {c04:05}\n*이걸 {fe}다시 가동하니까\n쿠쿠루스 씨 말대로>{02}자동으로 {fe}외해를 건너도록\n세팅돼 있는 것 같아<END>
+[WORLD03_AREA136.EMI|sec11|body4|@0x2ad|60B] {c04:05}\n*그런데 {fe}이걸 움직이려면>{02}아무래도 {fe}{c05:02}부{fc}스트:카운터{06}라는\n걸 {ff}모르면\n안 되는 것 같아<END>
+[WORLD03_AREA136.EMI|sec11|body5|@0x2e9|41B] {c04:05}\n*분명히>{fe}아래층에\n모니터{fc}룸{fc}이 {fe}있었으니까{02}거기로 가서><END>
+[WORLD03_AREA136.EMI|sec11|body6|@0x312|38B] {c0c:05}{c04:05}\n*부{fc}스트:카운터 수를\n보고 와서>{02}알려 줬으면 해?<END>
+[WORLD03_AREA136.EMI|sec11|body7|@0x338|89B] {c0c:05}{c04:05}\n*그럼 {fe}내가 {ff}여기서\n부{fc}스트를 {ff}스타{fc}트할 테니까{02}너희는 {fe}한달음에\n모니터{fc}룸{fc}으로 가>{02}카운터가 {fe}{c05:02}100{06}이 되면\n알려 줘<END>
+[WORLD03_AREA136.EMI|sec11|body8|@0x391|110B] {c0c:05}{c04:05}\n*알고 있겠지만>{02}모니터{fc}룸{fc}에 가는 동안도\n돌아오는 동안도 {fe}계속\n카운터는 {ff}돌아가니까>{02}딱 100이 {ff}아니라\n돌아오는 시간을 {ff}계산해서\n{c05:02}미리 끊지 않으면{06} 안 돼?<END>
+[WORLD03_AREA136.EMI|sec11|body9|@0x3ff|32B] {c0c:05}{c04:05}\n*그럼 {fe}스타{fc}트할게\n됐어>?{c14:02}{c0c:02}좋아@<END>
+[WORLD03_AREA136.EMI|sec11|body10|@0x427|225B] {c0c:05}{c04:05}\n*><PAUSE>>먼저 {fe}내가\n{c05:02}스타{fc}트{06}라고 하면{02}너희는 {fe}아래층\n모니터{fc}룸{fc}까지 가서{02}{c05:02}부{fc}스트:카운터{06}라는\n카운터 수를 {ff}봐>{02}그게 {c05:02}100{06}이 되면\n알려 줬으면 하는데{02}너희가 {fe}여기까지\n돌아오는 동안에도\n카운터는 {ff}돌아가니까>{02}그걸 {ff}계산해서\n일찍 {ff}돌아오기 시작 안 하면\n못 맞춘다는 거야{02}>알았어?\n그럼 {fe}시작할게{c14:03}{c0c:02}좋아@<END>
+[WORLD03_AREA136.EMI|sec11|body11|@0x510|17B] {c0c:05}{c04:05}\n*부{fc}스트:스타{fc}트@<END>
+[WORLD03_AREA136.EMI|sec11|body12|@0x521|17B] {10}{ff}\n{ff}{ff}{ff}부{fc}스트:카운터{11}<END>
+[WORLD03_AREA136.EMI|sec11|body13|@0x532|20B] {c04:05}\n*지금 {fe}시스템 가동{fc}중@<END>
+[WORLD03_AREA136.EMI|sec11|body14|@0x546|29B] 카운터가 {fe}안 맞았어>\n가동에 실패했습니다{fd}<END>
+[WORLD03_AREA136.EMI|sec11|body15|@0x563|15B] {c0c:05}{c04:05}\n*안 됐네><END>
+[WORLD03_AREA136.EMI|sec11|body16|@0x572|36B] {c0c:05}{c04:05}\n*뭐 {fe}마음 다시 가다듬고\n한 번 더 {fe}해 보자>?<END>
+[WORLD03_AREA136.EMI|sec11|body17|@0x596|12B] {c0c:05}{c04:05}\n*해냈다@<END>
+[WORLD03_AREA136.EMI|sec11|body18|@0x5a2|28B] 우선은 {fe}부{fc}스트 카운터를\n조사하는 게 먼저다>@<END>
+[WORLD03_AREA136.EMI|sec11|body19|@0x5be|39B] {ff}{ff}부{fc}스트:카운터{fc}\n{ff}{ff}{ff}{ff}{ff}스톱@{02}>가동에 실패했습니다<END>
+[WORLD03_AREA136.EMI|sec11|body127|@0x5e5|50B] 엘리베이터를 사용하려면\nID 체크가 {ff}필요합니다{02}ID 체크를 {ff}진행할까요?{c14:00}{c0c:02}예<END>
+[WORLD03_AREA136.EMI|sec11|body128|@0x61b|50B] 엘리베이터를 사용하려면\nID 체크가 {ff}필요합니다{02}ID 체크를 {ff}진행할까요?{c14:01}{c0c:02}예<END>
+[WORLD03_AREA136.EMI|sec11|body129|@0x651|34B] *ID:<PAUSE>:<PAUSE>244:12:56\n33:85:664::<PAUSE><PAUSE>OK@<END>
+[WORLD03_AREA136.EMI|sec11|body130|@0x673|20B] *ID 체크<PAUSE>:<PAUSE>:<PAUSE>:ERROR@<END>

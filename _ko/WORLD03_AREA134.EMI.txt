@@ -1,0 +1,11 @@
+[WORLD03_AREA134.EMI|sec11|body0|@0x208|25B] {c05:02}뱃머리{06}에{fe}뭔가가\n부딪히고 있는 것 같다><END>
+[WORLD03_AREA134.EMI|sec11|body1|@0x221|41B] {c0c:06}{c04:04}\n*재밌네>{02}이런{fe}발판도 나쁜 데서\n싸우자는 거냐>>?<END>
+[WORLD03_AREA134.EMI|sec11|body2|@0x24a|39B] {c0c:06}{c04:05}\n*자, {fe}잠깐{ff}싸우기엔\n발판이 나빠{0d}{fc}{0e}{0f}{02}{fe}>{fc}?<END>
+[WORLD03_AREA134.EMI|sec11|body3|@0x271|47B] {c0c:06}{c04:01}\n*이, {fe}<PAUSE>이런 데서{ff}싸우다\n발이라도{ff}미끄러지면>{02}빠져 죽잖아@?<END>
+[WORLD03_AREA134.EMI|sec11|body4|@0x2a0|34B] {c0c:06}{c04:02}\n*흠>{ff}좀 물러나서\n발판을{ff}다지자{fe}>?<END>
+[WORLD03_AREA134.EMI|sec11|body5|@0x2c2|57B] {c0c:01}뒷걸음질 쳐서{fe}배 한가운데까지\n물러나 싸우자>>{02}한가운데까지{fe}물러나면\n싸우기 편해진다>>?<END>
+[WORLD03_AREA134.EMI|sec11|body6|@0x2fb|62B] {ff}\n방향키{fc}{c05:02}오른쪽{06}으로{fe}뒷걸음질{02}적을{ff}잘 보고\n적이{fe}움직이기 시작하면\n발을 멈추고{fe}상황을 살피자><END>
+[WORLD03_AREA134.EMI|sec11|body7|@0x339|19B] {10}{ff}\n적이{fe}덮쳐 왔다@{11}<END>
+[WORLD03_AREA134.EMI|sec11|body8|@0x34c|26B] 배의{fe}방어 기능이\n작동했습니다@<END>
+[WORLD03_AREA134.EMI|sec11|body9|@0x366|95B] {c0c:82}{ff}\n{ff}\n{ff}\n{ff}{ff}{ff}그리고{fe}며칠 후\n{ff}\n{ff}{ff}{ff}그들을 태운 배는\n{ff}\n{ff}{ff}무사히{fe}바다를 건넜다>{c16:50}{c0c:81}{ff}{ff}{ff}아무도 모르는{fe}\n{ff}\n{ff}{ff}{ff}{ff}땅끝의 땅으로{c16:40}
+[WORLD03_AREA134.EMI|sec11|body10|@0x3a3|34B] {c0c:81}{ff}{ff}{ff}아무도 모르는{fe}\n{ff}\n{ff}{ff}{ff}{ff}땅끝의 땅으로{c16:40}

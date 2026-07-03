@@ -1,0 +1,18 @@
+[WORLD02_AREA113.EMI|sec11|body0|@0x24a|96B] 이제 그대들에게 묻노라\n우리 조상인 {ff}물고기의 인도가\n우리 앞에 {ff}있으리라 보느냐?{02}거듭 {fe}묻노라\n낚싯줄 끝에 {ff}물고기의 생을 느끼는\n놀이를 {ff}자랑하겠는가?{c14:00}{c0c:12}예 {fe}그렇습니다<END>
+[WORLD02_AREA113.EMI|sec11|body1|@0x2bc|63B] 그렇다면 {fe}이제부터 나를 스승으로 모시고\n날마다 이 {c15:1f}을 닦을지어다{02}솜씨가 이제부터 강해진다면\n그 여정 또한 즐겁지 아니한가<END>
+[WORLD02_AREA113.EMI|sec11|body2|@0x2fb|74B] 그대의 낚시 {ff}배움이라 하는 것은\n말뿐이요 {ff}거짓이로다{02}그 말이 옳다면 {ff}이제부터 정진하여\n{c05:02}낚시{06}를 할지어다{02}잘 가거라>\n은혜에 {ff}보답하리라<END>
+[WORLD02_AREA113.EMI|sec11|body3|@0x331|20B] 잘 가거라>\n은혜에 {ff}보답하리라<END>
+[WORLD02_AREA113.EMI|sec11|body4|@0x345|35B] *물결에 젖은 {ff}그 강도\n오래도록 {ff}눈에 선하구나>{02}참으로 {fe}바다는 좋구나<END>
+[WORLD02_AREA113.EMI|sec11|body5|@0x368|43B] 무궁한 것은 {fe}{c15:1e}이라\n나를 스승으로 우러를 {ff}자가\n있느냐 {fe}없느냐?{c14:01}{c0c:02}있다<END>
+[WORLD02_AREA113.EMI|sec11|body6|@0x396|40B] 오, {fe}있느냐@?{02}그대들 {fe}마땅히\n내 제자가 {ff}되려는 게로구나@<END>
+[WORLD02_AREA113.EMI|sec11|body7|@0x3be|45B] 말하거라 {fe}좋도다@\n그대들 {fe}내 제자를\n그만두겠다 {ff}하는 것이냐?{c14:02}{c0c:02}그렇다<END>
+[WORLD02_AREA113.EMI|sec11|body8|@0x3f1|37B] 내 제자가 아니로다@{02}애초에 {fe}있었느냐고\n되묻고 싶을 {ff}따름이로다><END>
+[WORLD02_AREA113.EMI|sec11|body9|@0x416|16B] *제자가 {ff}되었노라<END>
+[WORLD02_AREA113.EMI|sec11|body10|@0x426|34B] 다른 이 중 {ff}내 제자가 되려고\n바라는 자는 {fe}있느냐?{c14:03}{c0c:02}있다<END>
+[WORLD02_AREA113.EMI|sec11|body11|@0x44b|23B] *제자가 {ff}흩어져\n쓸쓸하니 {fe}슬프도다<END>
+[WORLD02_AREA113.EMI|sec11|body12|@0x462|34B] 다른 이 중 {ff}내 제자를\n그만두려 바라는 자는 {fe}있느냐?{c14:04}{c0c:02}있다<END>
+[WORLD02_AREA113.EMI|sec11|body13|@0x487|72B] {c07:00}여 {fe}내 제자여\n그대를 받아들여 {fe}내 손수\n기예를 전하리라@{02}{c07:00}{ff}은\n{c05:02}{c07:01}{06}을\n배웠다고>{ff}<PAUSE><PAUSE>하더구나@?<END>
+[WORLD02_AREA113.EMI|sec11|body14|@0x4cf|16B] 누가 {ff}제자가 되겠느냐?<END>
+[WORLD02_AREA113.EMI|sec11|body15|@0x4df|16B] 누가 {ff}제자를 그만두겠느냐?<END>
+[WORLD02_AREA113.EMI|sec11|body16|@0x4ef|23B] 이 사람으로 {ff}괜찮으냐?{ff}{ff}예{ff}아니오<END>
+[WORLD02_AREA113.EMI|sec11|body17|@0x506|22B] 그만두겠느냐?{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}예{ff}아니오<END>

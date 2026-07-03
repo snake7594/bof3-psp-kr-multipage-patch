@@ -1,0 +1,34 @@
+[WORLD00_AREA007.EMI|sec11|body0|@0x209|24B] *뭐냐{ff}꼬맹이\n어디서 왔냐?<END>
+[WORLD00_AREA007.EMI|sec11|body1|@0x221|105B] *올해는{ff}작물이\n잘 안 돼서>{02}일할 마음이 안 생겨\n여기서{ff}땡땡이 치는 중이야>{02}참{fe}이런\n틈새를{ff}보고 싶을 땐>{02}시점 버튼을{ff}누른 채\n방향키{fc}를{ff}움직이면 돼<END>
+[WORLD00_AREA007.EMI|sec11|body2|@0x28a|59B] *여기는{fe}지주\n맥니르 씨의 마을이야>{02}그래서{fe}마을 이름이\n맥니르 마을{ff}이라고 해\n간단하지?<END>
+[WORLD00_AREA007.EMI|sec11|body3|@0x2c5|43B] *어서 오세>\n뭐냐{fe}꼬마잖아>>{02}손님 아니면\n저리 가{fe}훠이 훠이<END>
+[WORLD00_AREA007.EMI|sec11|body4|@0x2f0|41B] *꺅{ff}깜짝이야{02}또{ff}{c04:03}이/가{ff}뭔가\n훔치러 온 줄\n알았잖아>><END>
+[WORLD00_AREA007.EMI|sec11|body5|@0x319|58B] *시{fc}다 숲의{ff}악동들이\n가끔{ff}매상을\n슬쩍해 가서>{02}맘 편히{ff}졸지도\n못한다니까>><END>
+[WORLD00_AREA007.EMI|sec11|body6|@0x353|9B] *{0d}으어{c15:07}{0e}{0f}<END>
+[WORLD00_AREA007.EMI|sec11|body7|@0x375|41B] *난{fe}이렇게\n땡땡이는 쳐도>{02}너희{ff}같이\n훔치진{ff}않아<END>
+[WORLD00_AREA007.EMI|sec11|body8|@0x39e|91B] *어머, 음식을 훔치러 왔니?\n그거 참, 안됐네{02}이 마을엔 훔칠 만한\n음식 같은 건 없거든<END>
+[WORLD00_AREA007.EMI|sec11|body9|@0x3f9|50B] *뭐냐{fe}악동들이냐>\n여긴{ff}아무것도 없어{02}도둑이면{ff}딴 데로\n가{fe}어서 가@<END>
+[WORLD00_AREA007.EMI|sec11|body10|@0x42b|21B] *뭐야{fe}훔칠 물건 따위\n없거든>?<END>
+[WORLD00_AREA007.EMI|sec11|body11|@0x440|27B] *뭐냐{fe}너희\n여관에서{ff}쉬겠다는 거냐?<END>
+[WORLD00_AREA007.EMI|sec11|body12|@0x45b|46B] *하아>?{ff}글라우스 산?{02}그런 소리 하면서\n이번엔 또 뭘\n꾸미는{ff}거냐?<END>
+[WORLD00_AREA007.EMI|sec11|body13|@0x489|31B] *배고프다아>{02}역시{ff}좀은\n일해 볼까나><END>
+[WORLD00_AREA007.EMI|sec11|body14|@0x4a8|63B] *글라우스 산?{02}그럼{ff}북쪽 숲을 지나\n동쪽이긴 한데>{02}어?<PAUSE>{ff}북쪽이 어디냐고?\n아마{ff}왼쪽 위쯤일걸<END>
+[WORLD00_AREA007.EMI|sec11|body15|@0x4e7|50B] *>진짜{02}나쁜 짓만{ff}하지 말고\n가끔은{ff}남한테 도움이\n돼 보는 건{ff}어때?<END>
+[WORLD00_AREA007.EMI|sec11|body16|@0x519|44B] *{0d}꺅{c15:07}{0e}{0f}{03}\n또 왔어{c15:07}{02}하아{ff}하아>\n비명 지르는 것도{ff}지쳤어<END>
+[WORLD00_AREA007.EMI|sec11|body17|@0x545|28B] *뭐냐{fe}건방지게\n여관에{ff}묵겠다는 거냐?<END>
+[WORLD00_AREA007.EMI|sec11|body18|@0x561|14B] {c0c:05}*이 악동 녀석들@@<END>
+[WORLD00_AREA007.EMI|sec11|body21|@0x56f|56B] {c0c:03}{c04:03}\n*헤헤{c15:07}{c15:07}응{fe}뭘\n잡히겠어@{c16:30}{c0c:05}{c04:03}\n*안 되겠어{fe}형\n다들{fe}경비{fc}가 삼엄해><END>
+[WORLD00_AREA007.EMI|sec11|body22|@0x589|30B] {c0c:05}{c04:03}\n*안 되겠어{fe}형\n다들{fe}경비{fc}가 삼엄해><END>
+[WORLD00_AREA007.EMI|sec11|body23|@0x5a7|47B] {c0c:06}{c04:04}\n*>흉작이라{fe}먹을 게\n적어서 말이야{02}그것보다{fe}{c04:03}>\n봐{fe}이 녀석>><END>
+[WORLD00_AREA007.EMI|sec11|body24|@0x5d6|27B] {c0c:05}{c04:03}\n*어{fe}뭐야>\n눈을 떴잖아{fe}너><END>
+[WORLD00_AREA007.EMI|sec11|body25|@0x5f1|42B] {c0c:06}{c04:04}\n*>재밌네{02}먹을 걸{ff}더 찾아야\n되게 생겼어>?<END>
+[WORLD00_AREA007.EMI|sec11|body26|@0x61b|29B] {c0c:05}{c04:03}\n*이놈한테도{fe}돕게 시키자\n형>?<END>
+[WORLD00_AREA007.EMI|sec11|body27|@0x638|28B] {c0c:06}{c04:04}\n*그러게>{ff}그럼>\n잠옷은{fe}좀 그런가><END>
+[WORLD00_AREA007.EMI|sec11|body28|@0x654|20B] {c0c:05}{c04:03}\n*와봐{fe}장비시켜 줄게<END>
+[WORLD00_AREA007.EMI|sec11|body29|@0x668|48B] *먹을 걸{ff}훔치는 건\n무리일 것 같지만>{02}무기 정도면{fe}아직\n어떻게든 될까?<END>
+[WORLD00_AREA007.EMI|sec11|body30|@0x698|11B] >열쇠가 잠겨 있다<END>
+[WORLD00_AREA007.EMI|sec11|body31|@0x6a3|28B] {c0c:01}{c04:03}\n*어디 가는 거야\n이쪽으로{ff}오라니까><END>
+[WORLD00_AREA007.EMI|sec11|body32|@0x6bf|38B] *기다려>{ff}{c04:00}{02}지금{fe}형이 무기점에\n숨어들 테니까><END>
+[WORLD00_AREA007.EMI|sec11|body33|@0x6e5|11B] {c04:04}\n*튀어@@<END>
+[WORLD00_AREA007.EMI|sec11|body34|@0x6f0|40B] {c04:03}\n*어라>>{fe}방금 내가\n{c04:00}라고 했어?{02}><PAUSE>><PAUSE>>네{fe}이름?<END>
+[WORLD00_AREA007.EMI|sec11|body35|@0x718|31B] {c04:03}\n*왜 내가{fe}알고 있지\n꿈이라도 꿨나>>?<END>

@@ -1,0 +1,8 @@
+[WORLD04_AREA167.EMI|sec11|body0|@0x200|36B] 에너지가 공급되지 않고 있습니다\n브레이커를 점검해\n주십시오<END>
+[WORLD04_AREA167.EMI|sec11|body1|@0x224|39B] 목적지를 입력하고\n엘리베이터에 탑승해 주십시오{c14:00}{c0c:13}워커 구역<END>
+[WORLD04_AREA167.EMI|sec11|body2|@0x259|39B] 목적지를 입력하고\n엘리베이터에 탑승해 주십시오{c14:01}{c0c:13}발착 홈<END>
+[WORLD04_AREA167.EMI|sec11|body3|@0x28e|39B] 목적지를 입력하고\n엘리베이터에 탑승해 주십시오{c14:02}{c0c:13}발착 홈<END>
+[WORLD04_AREA167.EMI|sec11|body4|@0x2c1|41B] 목적지를 입력하고\n엘리베이터에 탑승해 주십시오{c14:03}{c0c:12}정비 데크<END>
+[WORLD04_AREA167.EMI|sec11|body5|@0x2ee|39B] 목적지를 입력하고\n엘리베이터에 탑승해 주십시오{c14:04}{c0c:12}워커 구역<END>
+[WORLD04_AREA167.EMI|sec11|body6|@0x319|46B] 정문 게이트는{ff}잠금 작동 중>\n관계자는{fe}워커 구역으로\n돌아가 주십시오<END>
+[WORLD04_AREA167.EMI|sec11|body7|@0x347|37B] {c0c:02}*>종점{fe}고공 정거장\n{c05:02}미리아{06}:발착 홈입니다<END>

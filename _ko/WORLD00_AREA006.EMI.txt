@@ -1,0 +1,15 @@
+[WORLD00_AREA006.EMI|sec11|body0|@0x216|49B] 남자\n*이봐{fe}왜 그래@?{02}모{fc}그\n*><PAUSE>><PAUSE>>역시{fe}그만둘래?\n그만두자{fe}기리{fc}<END>
+[WORLD00_AREA006.EMI|sec11|body1|@0x247|46B] 기리{fc}\n*이제 와서{fe}무슨 소리야@?{02}모{fc}그\n*그치만>>\n왠지 느낌이{ff}안 좋단 말야<END>
+[WORLD00_AREA006.EMI|sec11|body2|@0x275|36B] 기리{fc}\n*죽은 드래곤이{fe}무섭냐?\n지금까지도{fe}몇 번이나><END>
+[WORLD00_AREA006.EMI|sec11|body3|@0x299|36B] 모{fc}그\n*조그만 어린 드래곤\n같은 거{fe}불쌍하잖아@<END>
+[WORLD00_AREA006.EMI|sec11|body4|@0x2bd|53B] 기리{fc}\n*>어차피{fe}죽은 거잖아?\n죽으면{fe}그냥 유령이지?{02}모{fc}그\n*><PAUSE>><PAUSE>>그건 그렇지만<END>
+[WORLD00_AREA006.EMI|sec11|body5|@0x2f2|35B] 기리{fc}\n*어느 쪽이든{fe}이미\n맡아 버린 일이야>{02}자{fe}가자고<END>
+[WORLD00_AREA006.EMI|sec11|body6|@0x315|77B] 모{fc}그\n*하지만{fe}애를 말야>{c16:40}기리{fc}\n*그러니까{fe}유령이라니까>{c16:40}기리{fc}\n*애초에{ff}넌 말이야{02}맨날 기리기리\n불평만 하는 녀석이라니까<END>
+[WORLD00_AREA006.EMI|sec11|body7|@0x327|59B] 기리{fc}\n*그러니까{fe}유령이라니까>{c16:40}기리{fc}\n*애초에{ff}넌 말이야{02}맨날 기리기리\n불평만 하는 녀석이라니까<END>
+[WORLD00_AREA006.EMI|sec11|body8|@0x33a|40B] 기리{fc}\n*애초에{ff}넌 말이야{02}맨날 기리기리\n불평만 하는 녀석이라니까<END>
+[WORLD00_AREA006.EMI|sec11|body9|@0x362|28B] 모{fc}그\n*난{fe}불평하는 게\n아니잖아@?<END>
+[WORLD00_AREA006.EMI|sec11|body10|@0x37e|59B] 모{fc}그\n*그냥{fe}애까지 날려 버리는 건\n좀 꺼림칙해서>{02}기리{fc}\n*괜찮잖아\n애든{fe}뭐든@?<END>
+[WORLD00_AREA006.EMI|sec11|body11|@0x3b9|20B] 모{fc}그\n*>기리{fc}는{fe}모른다니까<END>
+[WORLD00_AREA006.EMI|sec11|body12|@0x3cd|11B] 기리{fc}\n*뭘 말야<END>
+[WORLD00_AREA006.EMI|sec11|body13|@0x3d8|28B] 모{fc}그\n*>누구든{ff}처음엔\n애였다고>><END>
+[WORLD00_AREA006.EMI|sec11|body14|@0x3f4|10B] 기리{fc}\n*그래서?<END>

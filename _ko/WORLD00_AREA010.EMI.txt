@@ -1,0 +1,70 @@
+[WORLD00_AREA010.EMI|sec11|body0|@0x21f|28B] {c0c:05}{c04:04}\n*근데>{ff}얘 왜\n저런 데 있었던 거야>>?<END>
+[WORLD00_AREA010.EMI|sec11|body1|@0x23b|16B] {c04:04}\n*게다가>{ff}<PAUSE>알몸으로><END>
+[WORLD00_AREA010.EMI|sec11|body2|@0x24b|89B] *><PAUSE>><PAUSE>>형아{ff}늦네{c16:30}*배고프다아>>{c16:30}*형아다@{c16:20}{c0c:02}*형아{fe}어서 와@\n그거{fe}사냥감>?{c16:30}{c04:04}\n*>뭐든지{fe}먹고 싶어 하네\n{c04:03}는?<END>
+[WORLD00_AREA010.EMI|sec11|body3|@0x25d|71B] *배고프다아>>{c16:30}*형아다@{c16:20}{c0c:02}*형아{fe}어서 와@\n그거{fe}사냥감>?{c16:30}{c04:04}\n*>뭐든지{fe}먹고 싶어 하네\n{c04:03}는?<END>
+[WORLD00_AREA010.EMI|sec11|body4|@0x269|59B] *형아다@{c16:20}{c0c:02}*형아{fe}어서 와@\n그거{fe}사냥감>?{c16:30}{c04:04}\n*>뭐든지{fe}먹고 싶어 하네\n{c04:03}는?<END>
+[WORLD00_AREA010.EMI|sec11|body5|@0x273|49B] {c0c:02}*형아{fe}어서 와@\n그거{fe}사냥감>?{c16:30}{c04:04}\n*>뭐든지{fe}먹고 싶어 하네\n{c04:03}는?<END>
+[WORLD00_AREA010.EMI|sec11|body6|@0x28d|23B] {c04:04}\n*>뭐든지{fe}먹고 싶어 하네\n{c04:03}는?<END>
+[WORLD00_AREA010.EMI|sec11|body7|@0x2a4|14B] {c0c:02}{c04:03}\n*뭐{fe}그거>?<END>
+[WORLD00_AREA010.EMI|sec11|body8|@0x2b2|33B] {c04:04}\n*몰라>{ff}일단\n네 침대{fe}좀 비워 줘라?<END>
+[WORLD00_AREA010.EMI|sec11|body9|@0x2d3|15B] {c0c:06}{c04:03}\n*얘>{ff}누구야?<END>
+[WORLD00_AREA010.EMI|sec11|body10|@0x2e2|24B] {c0c:05}{c04:04}\n*>>글쎄\n숲에{fe}쓰러져 있더라<END>
+[WORLD00_AREA010.EMI|sec11|body11|@0x2fa|25B] {c0c:06}{c04:03}\n*흐응>\n왠지{fe}나랑 닮았네?<END>
+[WORLD00_AREA010.EMI|sec11|body12|@0x313|28B] {c0c:05}{c04:04}\n*버려진 애>{fe}인가\n흉년이고{fe}말이지>>?<END>
+[WORLD00_AREA010.EMI|sec11|body13|@0x32f|46B] {c04:04}\n*일단{fe}재워 두고\n마을로 갈까>{02}먹을 거를{ff}구해야{fe}하니까<END>
+[WORLD00_AREA010.EMI|sec11|body14|@0x35d|34B] {c0c:06}{c04:03}\n*버려졌>{ff}구나>{02}진짜{fe}나랑 똑같네?<END>
+[WORLD00_AREA010.EMI|sec11|body15|@0x37f|139B] {c0c:06}*알 거 아냐>{ff}{c04:00}?{c16:30}{c0c:06}*나랑 같은{fe}피를 가진\n너라면{ff}알 수 있을 거다>{c16:30}{c0c:06}*그놈들은>{fe}약해@\n어쩔 도리{fe}없을 만큼>>{c16:30}{c0c:06}*{c04:00}><PAUSE>><PAUSE>>{c16:30}*나의>{ff}<PAUSE><PAUSE>{c04:00}{c16:30}{c0c:81}{10}{ff}\n{ff}{ff}{ff}{ff}{ff}{c04:00}{11}{c16:40}*으{fe}<PAUSE><PAUSE><PAUSE>으응>{c16:20}오두막 안<END>
+[WORLD00_AREA010.EMI|sec11|body16|@0x390|122B] {c0c:06}*나랑 같은{fe}피를 가진\n너라면{ff}알 수 있을 거다>{c16:30}{c0c:06}*그놈들은>{fe}약해@\n어쩔 도리{fe}없을 만큼>>{c16:30}{c0c:06}*{c04:00}><PAUSE>><PAUSE>>{c16:30}*나의>{ff}<PAUSE><PAUSE>{c04:00}{c16:30}{c0c:81}{10}{ff}\n{ff}{ff}{ff}{ff}{ff}{c04:00}{11}{c16:40}*으{fe}<PAUSE><PAUSE><PAUSE>으응>{c16:20}오두막 안<END>
+[WORLD00_AREA010.EMI|sec11|body17|@0x3b3|87B] {c0c:06}*그놈들은>{fe}약해@\n어쩔 도리{fe}없을 만큼>>{c16:30}{c0c:06}*{c04:00}><PAUSE>><PAUSE>>{c16:30}*나의>{ff}<PAUSE><PAUSE>{c04:00}{c16:30}{c0c:81}{10}{ff}\n{ff}{ff}{ff}{ff}{ff}{c04:00}{11}{c16:40}*으{fe}<PAUSE><PAUSE><PAUSE>으응>{c16:20}오두막 안<END>
+[WORLD00_AREA010.EMI|sec11|body18|@0x3d1|57B] {c0c:06}*{c04:00}><PAUSE>><PAUSE>>{c16:30}*나의>{ff}<PAUSE><PAUSE>{c04:00}{c16:30}{c0c:81}{10}{ff}\n{ff}{ff}{ff}{ff}{ff}{c04:00}{11}{c16:40}*으{fe}<PAUSE><PAUSE><PAUSE>으응>{c16:20}오두막 안<END>
+[WORLD00_AREA010.EMI|sec11|body19|@0x3dd|45B] *나의>{ff}<PAUSE><PAUSE>{c04:00}{c16:30}{c0c:81}{10}{ff}\n{ff}{ff}{ff}{ff}{ff}{c04:00}{11}{c16:40}*으{fe}<PAUSE><PAUSE><PAUSE>으응>{c16:20}오두막 안<END>
+[WORLD00_AREA010.EMI|sec11|body20|@0x3e9|33B] {c0c:81}{10}{ff}\n{ff}{ff}{ff}{ff}{ff}{c04:00}{11}{c16:40}*으{fe}<PAUSE><PAUSE><PAUSE>으응>{c16:20}오두막 안<END>
+[WORLD00_AREA010.EMI|sec11|body21|@0x3f8|18B] *으{fe}<PAUSE><PAUSE><PAUSE>으응>{c16:20}오두막 안<END>
+[WORLD00_AREA010.EMI|sec11|body22|@0x404|6B] 오두막 안<END>
+[WORLD00_AREA010.EMI|sec11|body23|@0x40a|18B] 이 아래는{fe}{c05:02}창고{06}인 것 같다<END>
+[WORLD00_AREA010.EMI|sec11|body24|@0x41c|60B] *이런 데{ff}어슬렁거리면\n위험해{fe}꼬마야>{02}이 숲에는{fe}{c04:04}랑\n{c04:03}라는{ff}불량배들이\n살고 있으니까><END>
+[WORLD00_AREA010.EMI|sec11|body25|@0x458|27B] *뭐야{fe}악동들아>\n한 명 늘었잖아<END>
+[WORLD00_AREA010.EMI|sec11|body26|@0x476|19B] 침대에서 쉬시겠습니까?{c14:00}{c0c:02}{ff}예<END>
+[WORLD00_AREA010.EMI|sec11|body27|@0x48e|45B] {c0c:05}{c04:04}\n*><PAUSE>><PAUSE>>흐음{02}그럼{fe}왜 쓰러져 있었는지\n전혀{ff}기억 안 나는 거야>?<END>
+[WORLD00_AREA010.EMI|sec11|body28|@0x4bb|30B] {c0c:05}{c04:04}\n*재밌네>>\n골칫거리가{ff}늘어 버렸어><END>
+[WORLD00_AREA010.EMI|sec11|body29|@0x4d9|30B] {c0c:06}{c04:03}\n*뭐야{fe}형아\n나에 대해{fe}뭐라 그랬어?<END>
+[WORLD00_AREA010.EMI|sec11|body30|@0x4f7|14B] {c0c:03}{c04:04}\n*아냐{fe}아무것도><END>
+[WORLD00_AREA010.EMI|sec11|body31|@0x505|22B] {c0c:05}{c04:03}\n*흐응><PAUSE>><PAUSE>>\n뭐{fe}됐어><END>
+[WORLD00_AREA010.EMI|sec11|body32|@0x51b|48B] {c0c:05}{c04:03}\n*그보다{fe}형아{02}역시{fe}먹을 거 따위\n부스러기 한 조각도\n안 남았어><END>
+[WORLD00_AREA010.EMI|sec11|body33|@0x54b|46B] {c0c:03}{c04:04}\n*그래><PAUSE>><PAUSE>>{02}노상강도도{ff}좀처럼\n잘 안 풀리고>\n어쩌나<END>
+[WORLD00_AREA010.EMI|sec11|body34|@0x579|47B] {c0c:05}{c04:03}\n*>이러고 있어도\n배만{ff}고프지>{02}어디 좀{ff}찾으러 가자\n형아><END>
+[WORLD00_AREA010.EMI|sec11|body35|@0x5a8|37B] {c0c:03}{c04:04}\n*그래>{02}바바델 영감 있는 데라도\n가 볼까?<END>
+[WORLD00_AREA010.EMI|sec11|body36|@0x5cd|26B] {c0c:03}{c04:04}\n*좋아{fe}{c04:03}{02}{c04:00} 장비 좀 챙겨 줘라<END>
+[WORLD00_AREA010.EMI|sec11|body37|@0x5e7|32B] {c0c:04}{c04:03}\n*잠옷은{ff}좀 그렇지\n내{ff}헌 옷{ff}줄게@<END>
+[WORLD00_AREA010.EMI|sec11|body38|@0x607|11B] {c04:04}\n*딱 좋네<END>
+[WORLD00_AREA010.EMI|sec11|body39|@0x612|26B] {c0c:05}{c04:04}\n*자{fe}바바델 있는 데로\n가 볼까<END>
+[WORLD00_AREA010.EMI|sec11|body40|@0x62c|64B] {c0c:06}{c04:03}\n*바바델 영감은\n숲 속에{ff}살고 있는데>{02}사냥을 잘하니까\n먹을 거를{ff}갖고 있을지도\n몰라><END>
+[WORLD00_AREA010.EMI|sec11|body41|@0x66c|49B] {c0c:05}{c04:04}\n*뭐{fe}<PAUSE>훔치는 건\n안 좋지만>{02}우리도{ff}먹어야\n살아갈 수 있으니까<END>
+[WORLD00_AREA010.EMI|sec11|body42|@0x69d|24B] {c0c:06}{c04:03}\n*그런 거지\n자{fe}<PAUSE>가자 {c04:00}<END>
+[WORLD00_AREA010.EMI|sec11|body43|@0x6b5|3B] 빔<END>
+[WORLD00_AREA010.EMI|sec11|body44|@0x6b8|32B] {c0c:03}{c04:03}\n*>>라고는{fe}했지만\n역시{fe}걱정되네><END>
+[WORLD00_AREA010.EMI|sec11|body45|@0x6d8|78B] {c04:03}\n*형아 혼자서\n괜찮을까>>{c16:20}{c04:03}\n*으응>>{c16:20}{c04:30}\n*형아{fe}세긴 한데\n역시{fe}말이야>>{c16:20}*신경 쓰이네{fe}{c04:00}<END>
+[WORLD00_AREA010.EMI|sec11|body46|@0x6f4|50B] {c04:03}\n*으응>>{c16:20}{c04:30}\n*형아{fe}세긴 한데\n역시{fe}말이야>>{c16:20}*신경 쓰이네{fe}{c04:00}<END>
+[WORLD00_AREA010.EMI|sec11|body47|@0x6ff|39B] {c04:30}\n*형아{fe}세긴 한데\n역시{fe}말이야>>{c16:20}*신경 쓰이네{fe}{c04:00}<END>
+[WORLD00_AREA010.EMI|sec11|body48|@0x71a|12B] *신경 쓰이네{fe}{c04:00}<END>
+[WORLD00_AREA010.EMI|sec11|body49|@0x726|16B] {c0c:04}{c04:03}\n*그래 맞아{fe}{c04:00}@<END>
+[WORLD00_AREA010.EMI|sec11|body50|@0x736|43B] {c0c:04}{c04:03}\n*역시{fe}형아\n혼자 둘 순 없어>{02}쫓아가자@@<END>
+[WORLD00_AREA010.EMI|sec11|body51|@0x761|25B] {c0c:06}{c04:03}\n*헤헤{fe}역시\n그렇게 생각했구나@<END>
+[WORLD00_AREA010.EMI|sec11|body52|@0x77a|44B] {c0c:06}{c04:03}\n*>형아 혼자\n고생시킬 순 없잖아@{02}{c04:00}@{ff}쫓아가자<END>
+[WORLD00_AREA010.EMI|sec11|body53|@0x7a6|3B] 빔<END>
+[WORLD00_AREA010.EMI|sec11|body54|@0x7a9|48B] *응?{ff}글라우스 산에?{02}>몬스터를{ff}해치워\n주면{ff}고맙긴 한데\n괜찮겠어?<END>
+[WORLD00_AREA010.EMI|sec11|body55|@0x7d9|21B] 지금은{fe}침대에서 쉴\n필요는 없다><END>
+[WORLD00_AREA010.EMI|sec11|body56|@0x7ee|69B] *아{fe}<PAUSE>수상한 사람 아냐\n;눈깔 구미<라고 해>{02}싸우는 법에 대해\n가르쳐 줄 테니까>{02}제대로 장비하고\n오렴><END>
+[WORLD00_AREA010.EMI|sec11|body57|@0x833|68B] *아{fe}<PAUSE>수상한 사람 아냐\n;눈깔 구미<라고 해>{02}갑작스럽지만{fe}너한테\n좋은 거 알려 줄게{c14:02}{c0c:14};보기< 커맨드에 대해<END>
+[WORLD00_AREA010.EMI|sec11|body58|@0x894|143B] *싸울 때{fe}몬스터가\n여러 기술을{ff}써 올\n때가 있는데>{02}그럴 때\n이 ;보기< 커맨드로\n그 기술을{ff}배울 수 있어{02}한 번에{fe}안 되더라도\n몇 번 도전하면\n배울 수 있을지도 몰라>{02}또{ff}있어?{c14:02}{c0c:14};보기< 커맨드에 대해<END>
+[WORLD00_AREA010.EMI|sec11|body59|@0x940|120B] *몬스터가 써 오는\n기술인데>{02}뭔가{fe}계기가 없으면\n안 쓰는 기술도{ff}있으니까\n조심해>{02}예를 들면{fe}체력이 적을 때\n만 쓰는 기술 같은 거{fe}말이야{02}또{ff}있어?{c14:02}{c0c:14};보기< 커맨드에 대해<END>
+[WORLD00_AREA010.EMI|sec11|body60|@0x9d5|126B] *싸울 때{fe}상대보다\n엄청 빠를 때는>{02}적이 움직이기 전에\n한 번 더{fe}움직일 수 있어>{02}그러니까{fe}장비를{ff}가볍게 해서\n민첩성을{ff}올려 두는 것도\n하나의 방법이지{02}또{ff}있어?{c14:02}{c0c:14};보기< 커맨드에 대해<END>
+[WORLD00_AREA010.EMI|sec11|body61|@0xa70|18B] *그래>\n그럼{fe}조심해<END>
+[WORLD00_AREA010.EMI|sec11|body62|@0xa82|18B] {ff}\n잠깐 쉬고{fe}기운이 났다<END>
+[WORLD00_AREA010.EMI|sec11|body64|@0xa94|42B] 일기가 있다>{02}여기까지의 여정을\n기록할 수 있습니다{c14:01}{c0c:02}기록한다<END>
+[WORLD00_AREA010.EMI|sec11|body65|@0xac5|74B] *수상한 사람 아니다\n이래 봬도{fe}나는\n캠프의 달인이지>{02}나중에{fe}동료들과 같이 오면\n캠프에 대해{ff}가르쳐 주마<END>
+[WORLD00_AREA010.EMI|sec11|body66|@0xb0f|53B] *수상한 사람 아니다\n갑작스럽지만{fe}캠프에 대해\n가르쳐 주마{c14:03}{c0c:14}체력 회복에 대해<END>
+[WORLD00_AREA010.EMI|sec11|body67|@0xb62|163B] *전투 불능이 되어서{fe}그대로\n전투에서 빠지면>{02}{c05:02}최대 HP가{fe}줄어 버리는{06} 건\n알고 있겠지?{02}실은{fe}캠프에서는\n이 최대 HP를{fe}회복할 수 없다{02}>그러니까{fe}제대로 HP를\n회복하고 싶을 때는\n여관을 이용하는 거다{02}또{fe}알고 싶은 건?{c14:03}{c0c:14}체력 회복에 대해<END>
+[WORLD00_AREA010.EMI|sec11|body68|@0xc23|154B] *전투 중에{fe};보기< 커맨드로\n모은 기술을{ff}저장하는\n노트다>{02}저장한 기술은{fe}파티의\n다른 멤버에게\n배우게 할 수{fe}있다{02}단{fe}그러려면\n;스킬 잉크<라는 도구가\n필요하지만{fe}말이지{02}또{fe}알고 싶은 건?{c14:03}{c0c:14}체력 회복에 대해<END>
+[WORLD00_AREA010.EMI|sec11|body69|@0xcdb|197B] *이 세계{ff}여기저기에\n{c05:02}스승{06}이라 불리는 사람이\n몇 명 있는데>{02}캠프에서는{fe}너희가\n찾아낸 스승을\n확인할 수{fe}있다>{02}참고로{fe}스승을 따르면\n레벨이{ff}오를 때마다\n그 스승에{ff}따라서>{02}여러 능력이{ff}오르내리니까\n레벨 업 때는\n조심하도록{02}또{fe}알고 싶은 건?{c14:03}{c0c:14}체력 회복에 대해<END>
+[WORLD00_AREA010.EMI|sec11|body70|@0xdbe|20B] *그런가>{ff}그럼\n조심하는 거다><END>

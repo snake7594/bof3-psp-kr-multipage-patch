@@ -1,0 +1,214 @@
+[WORLD02_AREA094.EMI|sec11|body0|@0x20c|53B] *여긴{fe}선착장이야>{02}근데{fe}지금은 배가 없으니까\n>그냥 착장이지{02}나{ff}유식하지?<END>
+[WORLD02_AREA094.EMI|sec11|body1|@0x241|48B] *등대엔{ff}몬스터가\n모여 있고>{02}배는{ff}안 돌아오고>{02}대체 어찌 된 거야@?<END>
+[WORLD02_AREA094.EMI|sec11|body2|@0x271|44B] *배는{fe}안 돌아오고>\n지그 녀석은{ff}끈질기고>{02}샤드 씨도{ff}고생이 많네<END>
+[WORLD02_AREA094.EMI|sec11|body3|@0x29d|39B] *어{fe}<PAUSE>정어리를{ff}고양이한테?{02}>>줄까 보냐@\n전부{ff}내 저녁밥이야@<END>
+[WORLD02_AREA094.EMI|sec11|body4|@0x2c4|6B] *뀨잉<END>
+[WORLD02_AREA094.EMI|sec11|body5|@0x2ca|83B] *지금{fe}이 선착장을\n관리하는 건>{02}길드장의{ff}딸인\n샤드 씨예요{02}아{fe}근데{ff}자잘한 일은\n회계인{ff}베이트가\n더 잘 알아<END>
+[WORLD02_AREA094.EMI|sec11|body6|@0x31d|73B] *알아?{02}세상에{ff}나도는 기계의\n대부분은{fe}여기>{02}라팔라 항구에서\n운반 길드가{ff}실어 나른\n거라고<END>
+[WORLD02_AREA094.EMI|sec11|body7|@0x366|42B] *바다 근처 기계는\n금방{ff}녹스니까>\n부지런히{ff}정비해야 돼<END>
+[WORLD02_AREA094.EMI|sec11|body8|@0x390|64B] *대등대에{ff}몬스터가 나와서\n불을{ff}꺼버렸다더라{02}배가{ff}안 돌아오는 것도\n그 탓일지{ff}몰라<END>
+[WORLD02_AREA094.EMI|sec11|body9|@0x3d0|54B] *등대에{ff}불 붙이러>?{02}가고는{ff}싶은데\n몬스터가{ff}잔뜩\n있다는 얘기잖아?<END>
+[WORLD02_AREA094.EMI|sec11|body10|@0x406|57B] *이 근처 물길은\n꽤{ff}복잡해서>{02}부표나{fe}등대로{ff}항로를\n배에{ff}알려주는 거야<END>
+[WORLD02_AREA094.EMI|sec11|body11|@0x43f|30B] *왜 그러는 걸까>\n빨리{fe}안 돌아오나>{ff}배<END>
+[WORLD02_AREA094.EMI|sec11|body12|@0x45d|7B] *쳇>><END>
+[WORLD02_AREA094.EMI|sec11|body13|@0x464|43B] *>그러니까{fe}이거지{02}샤드한텐{fe}나 같은\n믿음직한 남자가{ff}어울리는 거라고@<END>
+[WORLD02_AREA094.EMI|sec11|body14|@0x48f|57B] *원래{fe}바다 사나이란 건\n지그 형님 같은\n강한 녀석을{ff}말하는 거야{02}알겠냐{fe}베이트@?<END>
+[WORLD02_AREA094.EMI|sec11|body15|@0x4c8|32B] *그래도>{ff}지그>\n아직{ff}정해진 것도\n아니잖아>>?<END>
+[WORLD02_AREA094.EMI|sec11|body16|@0x4e8|17B] {0d}꼼지락꼼지락꼼지락{0e}{0f}{02}<END>
+[WORLD02_AREA094.EMI|sec11|body17|@0x4f9|9B] *나{fe}갯강구<END>
+[WORLD02_AREA094.EMI|sec11|body18|@0x502|77B] *이 앞은{fe}등대인데>\n길드 기밀과{ff}관련돼서\n출입이{ff}안 됩니다{02}게다가{fe}지금은>\n몬스터가{ff}잔뜩이라\n다가갈 수 없어요<END>
+[WORLD02_AREA094.EMI|sec11|body19|@0x54f|48B] {c0c:06}츠네키치\n*>애초에{fe}그 싱커 씨도{02}지그 형님 일은\n인정하고 계시잖아@<END>
+[WORLD02_AREA094.EMI|sec11|body20|@0x57f|44B] 베이트\n*그{fe}그건{ff}그렇지만>{02}난{ff}길드 살림을\n맡은 몸으로서>><END>
+[WORLD02_AREA094.EMI|sec11|body21|@0x5ab|69B] {c0c:05}지그\n*걱정 마라{fe}베이트@{02}샤드랑{ff}함께\n이 몸이>{02}운반 길드도{ff}꾸려\n나갈 테니까@<END>
+[WORLD02_AREA094.EMI|sec11|body22|@0x5f0|17B] {c0c:05}지그\n*>>그치{fe}샤드?<END>
+[WORLD02_AREA094.EMI|sec11|body23|@0x601|44B] {c0c:05}지그\n*가하하하하\n부끄러워 마{fe}샤드@?{02}우리{fe}분명\n잘될 거야?<END>
+[WORLD02_AREA094.EMI|sec11|body24|@0x62d|24B] {c0c:05}지그\n*>그런 거지{02}그럼 또 봐{fe}베이트<END>
+[WORLD02_AREA094.EMI|sec11|body25|@0x645|57B] 베이트\n*>창피한 꼴을\n보여드려서>>{02}길드에{ff}볼일 있으셨나요\n>회계인{ff}베이트입니다<END>
+[WORLD02_AREA094.EMI|sec11|body26|@0x67e|33B] {c0c:06}베이트\n*배 일이라면\n저쪽 샤드에게{ff}말씀을><END>
+[WORLD02_AREA094.EMI|sec11|body27|@0x69f|50B] {c0c:05}샤드\n*배도{ff}없는데\n짐도{fe}손님도{ff}줄줄이>{02}흥{fe}골치 아파@<END>
+[WORLD02_AREA094.EMI|sec11|body28|@0x6d1|19B] {c0c:06}베이트\n*어{fe}어이{ff}샤드>><END>
+[WORLD02_AREA094.EMI|sec11|body29|@0x6e4|43B] {c0c:06}베이트\n*>기분이{ff}나쁘다고{02}손님 앞에서\n태도가 그게 뭐야@?<END>
+[WORLD02_AREA094.EMI|sec11|body30|@0x70f|50B] {c0c:05}샤드\n*내가{fe}기분이 나쁘다고?{02}>누구 탓인 줄{ff}알아\n이{fe}멍청한 베이트@?<END>
+[WORLD02_AREA094.EMI|sec11|body31|@0x741|56B] {c0c:05}샤드\n*내가{fe}지그 같은 남자랑\n맺어져도>{02}아무래도 좋다고{ff}생각하지\n어차피>><END>
+[WORLD02_AREA094.EMI|sec11|body32|@0x779|71B] 베이트\n*죄{ff}죄송합니다\n쟤가{fe}신경이 곤두서서>{02}아무튼{fe}보시다시피\n여러분을{ff}태워드리는 건\n무리인 것 같네요><END>
+[WORLD02_AREA094.EMI|sec11|body33|@0x7c0|59B] *죄송해요{fe}여러분\n배에{ff}못 태워드려서>{02}어{fe}다른 무슨\n얘기 있으세요>>@?{c14:00}{c0c:26}{ff}딱히 없어<END>
+[WORLD02_AREA094.EMI|sec11|body34|@0x839|50B] *그렇군요>>{02}배 일은{fe}입항을 기다렸다가\n다시 한번{ff}샤드에게\n얘기해 보세요<END>
+[WORLD02_AREA094.EMI|sec11|body35|@0x86b|67B] *쟤는{fe}길드장의\n외동딸이에요>{02}길드장한테{ff}배 일을\n맡고 있죠{02}아직{fe}뭔가>?{c14:00}{c0c:26}{ff}딱히 없어<END>
+[WORLD02_AREA094.EMI|sec11|body36|@0x8ec|95B] *지그는{ff}이 근처에서\n제일{ff}솜씨 좋은\n뱃사람이라>{02}길드장 마음에 들어서\n샤드와{ff}결혼할 생각으로\n있는 것 같아요>{02}아직{fe}뭔가>?{c14:00}{c0c:26}{ff}딱히 없어<END>
+[WORLD02_AREA094.EMI|sec11|body37|@0x989|125B] *길드장은{ff}샤드에게\n뒤를 잇게 하려고{ff}생각하는\n것 같지만>{02}여자 몸으로{ff}남자들을\n통솔하는 건{ff}어려우니까{02}빨리{ff}샤드를\n결혼시키고 싶어 하는\n것 같네요>{02}아직{fe}뭔가>?{c14:00}{c0c:26}{ff}딱히 없어<END>
+[WORLD02_AREA094.EMI|sec11|body38|@0xa44|85B] *전{fe}샤드와는\n어릴 적부터의{fe}<PAUSE>그>\n친구라서>{02}지금은{ff}운반 길드의\n회계를{ff}맡고 있어요{02}아직{fe}뭔가>?{c14:00}{c0c:26}{ff}딱히 없어<END>
+[WORLD02_AREA094.EMI|sec11|body39|@0xad7|82B] *길드는{fe}이 근처의\n바다와{ff}가도 통행을\n관리하면서>{02}주로{ff}기계를 나르는\n조합이에요{02}아직{fe}뭔가>?{c14:00}{c0c:26}{ff}딱히 없어<END>
+[WORLD02_AREA094.EMI|sec11|body40|@0xb67|19B] 샤드\n*아까는{fe}미안했어><END>
+[WORLD02_AREA094.EMI|sec11|body41|@0xb7a|99B] 샤드\n*>이것저것{fe}복잡해서\n짜증이 났었어{02}>>배 일은{fe}미안하지만\n지금은{fe}뭐라 말 못 하겠어{02}급하면{ff}아버지한테 말해서\n가도를{ff}쓰게\n해 달라고{ff}하면 돼>><END>
+[WORLD02_AREA094.EMI|sec11|body42|@0xbdd|49B] *뭐{fe}배가 없으면\n얘기가{ff}안 되지>{02}어{fe}아직 뭔가 더 있어?{c14:01}{c0c:26}{ff}딱히 없어<END>
+[WORLD02_AREA094.EMI|sec11|body43|@0xc42|34B] *그래?>\n아버지는{fe}아마 여관 술집에\n있을 거야><END>
+[WORLD02_AREA094.EMI|sec11|body44|@0xc64|64B] *베이트?\n어릴{ff}적부터의\n친구지만>>{02}>알 게 뭐야{fe}저런 바보{02}아직{fe}더 있어?{c14:01}{c0c:26}{ff}딱히 없어<END>
+[WORLD02_AREA094.EMI|sec11|body45|@0xcd8|84B] *멀대같이 크고@{02}>근데{fe}아버지는{ff}쟤를\n마음에 들어 하는{ff}것 같아{02}뭐니 뭐니 해도{ff}솜씨 좋은\n뱃사람이니까{02}아직{fe}더 있어?{c14:01}{c0c:26}{ff}딱히 없어<END>
+[WORLD02_AREA094.EMI|sec11|body46|@0xd60|85B] *아버지는>>\n나를{ff}뱃사람 남자랑\n결혼{ff}시키고 싶어 해>{02}길드 일은{ff}여자한텐\n힘드니까{fe}하고>{02}아직{fe}더 있어?{c14:01}{c0c:26}{ff}딱히 없어<END>
+[WORLD02_AREA094.EMI|sec11|body47|@0xde9|94B] *나는>{ff}이 일이\n마음에 드는데>{02}가끔{fe}의지할 만한 녀석이\n있으면 좋겠다{fe}하고\n생각할 때도{ff}있어>>{02}가끔{fe}말이야{02}아직{fe}더 있어?{c14:01}{c0c:26}{ff}딱히 없어<END>
+[WORLD02_AREA094.EMI|sec11|body48|@0xe7b|65B] *글쎄{fe}이것만은\n잘 모르겠네>{02}워낙{fe}배가 이렇게 오래\n안 돌아오는 일은\n좀처럼{ff}없으니까<END>
+[WORLD02_AREA094.EMI|sec11|body49|@0xf2b|60B] *두고 보라고{fe}츠네키치@{02}이{fe}무적의 몸으로\n샤드도{fe}길드도 전부\n내 것으로{ff}만들어 주마@<END>
+[WORLD02_AREA094.EMI|sec11|body50|@0xf67|49B] *아아아 형님@\n멋있어요{fe}<PAUSE>죽여줘요@{02}제가 여자였으면\n절대로{ff}반했을 거예요@<END>
+[WORLD02_AREA094.EMI|sec11|body51|@0xf98|40B] {c04:01}\n*저기{fe}베이트 씨>>{02}베이트 씨는>\n샤드 씨를{fe}좋아하세요?<END>
+[WORLD02_AREA094.EMI|sec11|body52|@0xfc0|39B] 베이트\n*무{fe}<PAUSE>무무무무{fe}뭐 뭐>{02}무슨{ff}소리 하는 겁니{0d}까{0e}{0f}{19}@?<END>
+[WORLD02_AREA094.EMI|sec11|body53|@0xfe7|45B] {c04:01}\n*어머{fe}괜찮아요{02}샤드 씨도{fe}분명\n베이트 씨를{ff}좋아할 테니까요?<END>
+[WORLD02_AREA094.EMI|sec11|body54|@0x1014|37B] 베이트\n*자{fe}<PAUSE>잠깐만요{02}자<PAUSE>자{fe}장소를{ff}옮깁시다><END>
+[WORLD02_AREA094.EMI|sec11|body55|@0x1039|52B] 베이트\n*가{fe}갑자기 뭐예요?{02}그야{fe}물론>\n샤드를{ff}싫어하지는\n않습니다만>>?<END>
+[WORLD02_AREA094.EMI|sec11|body56|@0x106d|26B] {c0c:06}베이트\n*우엑@?\n프프프프{fe}<PAUSE>프러포즈?<END>
+[WORLD02_AREA094.EMI|sec11|body57|@0x1087|68B] {c0c:06}베이트\n*아아{fe}<PAUSE>안 돼요@{02}쟤는{fe}야무진 사람이랑\n맺어져서>{02}운반 길드를\n이끌어{ff}줘야 하는데><END>
+[WORLD02_AREA094.EMI|sec11|body58|@0x10cb|32B] {c0c:05}{c04:01}\n*그러니까>{ff}베이트 씨가\n야무지면{fe}되잖아요<END>
+[WORLD02_AREA094.EMI|sec11|body59|@0x10eb|26B] {c0c:06}베이트\n*그{fe}<PAUSE>그렇게 말해도>\n전>><END>
+[WORLD02_AREA094.EMI|sec11|body60|@0x1105|42B] {c0c:05}{c04:01}\n*괜찮아요@{02}우리가{ff}베이트 씨를\n수련시켜{ff}드릴게요<END>
+[WORLD02_AREA094.EMI|sec11|body61|@0x112f|17B] {c0c:06}베이트\n*수{fe}수련@?<END>
+[WORLD02_AREA094.EMI|sec11|body62|@0x1140|63B] {c0c:05}{c04:01}\n*맞아요{02}배가 올 때까지{fe}시간이\n있을 것 같으니>{02}베이트 씨가{ff}강해지는 거\n도와드릴게요<END>
+[WORLD02_AREA094.EMI|sec11|body63|@0x117f|32B] {c0c:06}베이트\n*아니><PAUSE>{ff}그런>>\n저한텐>><PAUSE>{ff}무리><END>
+[WORLD02_AREA094.EMI|sec11|body64|@0x119f|27B] {c0c:05}{c04:01}\n*해보지 않으면\n모르는 거예요{fe}<PAUSE>그쵸?<END>
+[WORLD02_AREA094.EMI|sec11|body65|@0x11ba|23B] {c0c:06}베이트\n*>>일하러{fe}<PAUSE><PAUSE>돌아갈게요<END>
+[WORLD02_AREA094.EMI|sec11|body66|@0x11d1|26B] {c0c:06}{c04:01}\n*쓸데없는 짓>\n해버린 걸까>>?<END>
+[WORLD02_AREA094.EMI|sec11|body67|@0x11eb|19B] {c0c:05}{c04:05}\n*그렇다고도 할 수 있{fe}겠네><END>
+[WORLD02_AREA094.EMI|sec11|body68|@0x11fe|16B] {c0c:04}지그\n*가하하하하하핫@<END>
+[WORLD02_AREA094.EMI|sec11|body69|@0x120e|22B] {c0c:06}{c04:01}\n*뭔가{fe}<PAUSE>소란스럽네요?<END>
+[WORLD02_AREA094.EMI|sec11|body70|@0x1224|19B] *>알았으니까\n저리 가@<END>
+[WORLD02_AREA094.EMI|sec11|body71|@0x1237|71B] *가하핫{fe}샤드@\n이제{fe}내 것이나{ff}다름없는\n셈이지@{02}이 몸이{fe}완벽하게{ff}등대를\n수리해 올 테니까@?<END>
+[WORLD02_AREA094.EMI|sec11|body72|@0x127e|102B] *지그가>{ff}등대 수리를\n자청했어요>{02}이게{ff}성공하면\n싱커 씨는{ff}지그를\n후계자로{ff}인정하겠죠>{02}전>{ff}{c04:01}씨가\n말했던 것처럼>{02}아무것도{ff}안 하는 사이에><END>
+[WORLD02_AREA094.EMI|sec11|body73|@0x12e4|88B] *지그 형님이{fe}등대를\n수리하고 돌아오면>\n이건{fe}이제{ff}길드의 영웅이야{02}싱커 씨도{fe}틀림없이\n형님을{ff}후계자로\n삼을 게 분명해@{ff}우캬앗<END>
+[WORLD02_AREA094.EMI|sec11|body74|@0x133c|22B] {c04:01}\n*베이트 씨>>\n무슨 일이에요?<END>
+[WORLD02_AREA094.EMI|sec11|body75|@0x1352|35B] 베이트\n*>지그가{fe}등대를\n수리하러 가게 됐어요<END>
+[WORLD02_AREA094.EMI|sec11|body76|@0x1375|74B] 베이트\n*등대엔{ff}마물이 있어서\n무척{ff}위험해요>{02}무사히{fe}수리하면\n누구나{fe}지그의 힘을\n인정하게 되겠죠><END>
+[WORLD02_AREA094.EMI|sec11|body77|@0x13bf|54B] {c04:01}\n*그럼>{ff}지그 씨가\n길드 후계자>{02}샤드 씨와{ff}결혼하게\n되는 건가요?<END>
+[WORLD02_AREA094.EMI|sec11|body78|@0x13f5|31B] {c0c:05}베이트\n*>>여러분{02}저{fe}<PAUSE>저를>{ff}단련시켜 주세요<END>
+[WORLD02_AREA094.EMI|sec11|body79|@0x1414|35B] 베이트\n*아무것도 안 하고>>\n포기하다니{02}역시{fe}못 하겠어요<END>
+[WORLD02_AREA094.EMI|sec11|body80|@0x1437|51B] 베이트\n*>지그보다 먼저{ff}등대를\n수리하러 갈 수 있게{02}저를{ff}수련시켜 주세요@<END>
+[WORLD02_AREA094.EMI|sec11|body81|@0x146a|91B] 베이트\n*전{fe}검을 잡아본 적도\n없으니까>{02}우선{fe}제 장비를\n여러분께{ff}부탁드려요>{02}이{ff}1000{c15:06}으로\n되도록{ff}가벼운 검과 갑옷을\n사다 주세요<END>
+[WORLD02_AREA094.EMI|sec11|body82|@0x14c5|16B] 1000{c15:06}{ff}손에 넣었다@<END>
+[WORLD02_AREA094.EMI|sec11|body83|@0x14d5|66B] *장비를{ff}부탁드려요{02}{c04:00}씨가\n장비할 수 있는{ff}거라면\n저도{ff}장비할 수 있어요{c14:02}{c0c:22}{ff}아직 준비 못 했어<END>
+[WORLD02_AREA094.EMI|sec11|body84|@0x1528|41B] *그래요?>{02}전{fe}힘이 없으니까\n되도록{ff}가벼운 걸로\n부탁드려요><END>
+[WORLD02_AREA094.EMI|sec11|body85|@0x1551|45B] *그럼>>{02}당장{ff}수련을 시작해\n주시겠어요?{c14:03}{c0c:12}{ff}잠깐만<END>
+[WORLD02_AREA094.EMI|sec11|body86|@0x158a|71B] *낮에는{fe}일이 있으니까\n수련은{fe}밤에 하고\n싶어요>>{02}준비가 되면{fe}다시 한번\n저한테 말 걸어 주세요<END>
+[WORLD02_AREA094.EMI|sec11|body87|@0x15d1|62B] *알겠어요@{02}그럼{fe}일이 끝나고 나서\n갈 테니까>{02}먼저{ff}마을 집회소에서\n기다려 주세요@<END>
+[WORLD02_AREA094.EMI|sec11|body88|@0x160f|65B] *지그 녀석이{ff}등대를\n수리하러 간대@{02}이게 잘되면\n샤드 씨도{ff}프러포즈를\n거절 못 하게 되겠네<END>
+[WORLD02_AREA094.EMI|sec11|body89|@0x1650|87B] *샤드 씨랑\n맺어지면\n지그가{ff}길드장인가>{02}저 녀석{fe}힘은 있어도\n머리가{fe}원>{02}뭐{fe}지금까지처럼{ff}베이트가\n회계라면{ff}괜찮으려나<END>
+[WORLD02_AREA094.EMI|sec11|body90|@0x16a7|38B] *지그가 등대에?{02}흐음>{ff}<PAUSE>이걸로 배가\n돌아오면{ff}좋겠는데><END>
+[WORLD02_AREA094.EMI|sec11|body91|@0x16cd|57B] *등대에{ff}있는 건\n엄청난 몬스터{ff}라더라>{02}아무리 지그가{ff}강해도\n정말{ff}괜찮을까?<END>
+[WORLD02_AREA094.EMI|sec11|body92|@0x1706|42B] *아아{fe}여러분>\n오늘 밤도 수련을{ff}부탁드려요{c14:04}{c0c:13}{ff}잠깐만<END>
+[WORLD02_AREA094.EMI|sec11|body93|@0x174b|35B] 베이트\n*드드{fe}<PAUSE>등대요@?{02}아직>{ff}좀{ff}자신이><END>
+[WORLD02_AREA094.EMI|sec11|body94|@0x176e|42B] {c0c:05}지그\n*뭐라고@?{02}>>어이{fe}베이트\n너{fe}등대에 갈 생각이냐?<END>
+[WORLD02_AREA094.EMI|sec11|body95|@0x1798|50B] 츠네키치\n*등대에 가는 건>\n지그 형님으로{ff}정해져 있어{02}부르지도 않았다{fe}베이트@?<END>
+[WORLD02_AREA094.EMI|sec11|body96|@0x17ca|47B] {c0c:05}지그\n*그렇고말고@{02}이 몸을{ff}못 이기는 녀석이\n등대에 가봤자{fe}의미 없어@<END>
+[WORLD02_AREA094.EMI|sec11|body97|@0x17f9|33B] 츠네키치\n*정 그렇게{fe}가고 싶으면\n형님이랑 승부해@<END>
+[WORLD02_AREA094.EMI|sec11|body98|@0x181a|34B] 츠네키치\n*>아직{fe}할 마음이냐?\n어쩔 수 없네{fe}<PAUSE>승부다@<END>
+[WORLD02_AREA094.EMI|sec11|body99|@0x183c|48B] *몬스터를{ff}해치우고\n등대를{ff}수리하면>{02}배가{fe}돌아온다>\n면{fe}좋겠다<END>
+[WORLD02_AREA094.EMI|sec11|body100|@0x186c|38B] *샤드 씨는{fe}원래\n베이트를{ff}좋아했으니까\n뭐{fe}잘됐네<END>
+[WORLD02_AREA094.EMI|sec11|body101|@0x1892|32B] *등대?\n그보다도{fe}지금은\n정어리가{ff}더 중요해@<END>
+[WORLD02_AREA094.EMI|sec11|body102|@0x18b2|61B] *베이트가{fe}길드장인가>{02}지금까진{ff}좀\n미덥지 않다고{ff}생각했는데>{02}지그를 이겼으면\n괜찮겠지<END>
+[WORLD02_AREA094.EMI|sec11|body103|@0x18ef|51B] *어{fe}이번엔\n베이트가{fe}등대에 간다고?{02}누구든 상관없으니까\n빨리 수리해 달라고<END>
+[WORLD02_AREA094.EMI|sec11|body104|@0x1922|49B] *지그든{fe}베이트든\n등대에 간다면>{02}몬스터한테{ff}안 먹히게\n조심해<END>
+[WORLD02_AREA094.EMI|sec11|body105|@0x1953|43B] *잘됐다{fe}샤드 씨>{02}이걸로{fe}배가 돌아오면\n더{ff}좋겠는데<END>
+[WORLD02_AREA094.EMI|sec11|body106|@0x197e|44B] *여러분{fe}고마워요>{02}베이트와{ff}함께라면\n분명{fe}잘해 나갈 수 있을 거예요<END>
+[WORLD02_AREA094.EMI|sec11|body107|@0x19aa|67B] *이만한 몸을 가진\n이 몸이{fe}지다니@?{02}>>하지만{fe}나도 남자다\n샤드는{fe}깨끗이\n포기하겠어@<END>
+[WORLD02_AREA094.EMI|sec11|body108|@0x19ed|24B] *아아 형님@\n사나이답네요{fe}<PAUSE>반하겠어요@<END>
+[WORLD02_AREA094.EMI|sec11|body109|@0x1a05|35B] *아{fe}여러분@\n이번엔{ff}정말\n신세를 지고 말아서><END>
+[WORLD02_AREA094.EMI|sec11|body110|@0x1a28|45B] 베이트\n*이거요?{02}익숙지 않은 일에{fe}무리했더니\n좀{fe}<PAUSE>그래요>\n아야야야><END>
+[WORLD02_AREA094.EMI|sec11|body111|@0x1a55|35B] 베이트\n*그래서>{ff}<PAUSE>등대에 가는 게\n당분간{ff}무리라>><END>
+[WORLD02_AREA094.EMI|sec11|body112|@0x1a78|60B] 베이트\n*근데{fe}여러분이\n앞길을{ff}서두르신다면>{02}사실은{fe}길드 관계자 외엔\n부탁 못 하는 일이지만><END>
+[WORLD02_AREA094.EMI|sec11|body113|@0x1ab4|58B] 베이트\n*여러분께{ff}등대 수리를\n부탁드리고 싶어요>>{02}그래서{fe}우선은>\n이걸{ff}받아 주세요<END>
+[WORLD02_AREA094.EMI|sec11|body114|@0x1aee|17B] {c05:02}길드 배지{06}를{ff}받았다@<END>
+[WORLD02_AREA094.EMI|sec11|body115|@0x1aff|30B] 베이트\n*그게 있으면{fe}등대에\n들어갈 수 있어요><END>
+[WORLD02_AREA094.EMI|sec11|body116|@0x1b1d|67B] 베이트\n*등대를 수리해도>{02}배가 돌아온다고는\n할 수 없지만>{02}아무것도{fe}안 하면>\n아무 일도{fe}안 일어나니까{fe}<PAUSE>요<END>
+[WORLD02_AREA094.EMI|sec11|body117|@0x1b60|65B] *아{fe}<PAUSE>거기 있는 건\n제가 쓰던{ff}장비예요{02}사례라고 하긴{ff}뭣하지만\n좀{fe}좋은 걸로\n해뒀어요><END>
+[WORLD02_AREA094.EMI|sec11|body118|@0x1ba1|14B] *어서{ff}들어가세요<END>
+[WORLD02_AREA094.EMI|sec11|body119|@0x1baf|68B] 길드마스터\n*자{fe}잠깐{ff}기다리세요@{02}등대는{fe}기밀이 많아서\n관계자 외엔{ff}출입을\n삼가>><PAUSE>?<END>
+[WORLD02_AREA094.EMI|sec11|body120|@0x1bf3|60B] 길드마스터\n*아{fe}<PAUSE>그 배지는>\n뭐야{fe}관계자였습니까@?{02}근데>{ff}등대는{ff}몬스터가\n잔뜩이에요<END>
+[WORLD02_AREA094.EMI|sec11|body121|@0x1c2f|16B] 길드마스터\n*조심하세요><END>
+[WORLD02_AREA094.EMI|sec11|body122|@0x1c3f|43B] *등대가{ff}고쳐졌다고\n바로 배가{ff}돌아오는\n건{ff}아니지><END>
+[WORLD02_AREA094.EMI|sec11|body123|@0x1c6a|26B] *등대를{ff}고쳐주셔서\n감사합니다<END>
+[WORLD02_AREA094.EMI|sec11|body124|@0x1c84|50B] *등대가{ff}고쳐졌다고\n기뻐하고 있지만>{02}배가{ff}돌아올 때까지\n안심은{ff}못 하지<END>
+[WORLD02_AREA094.EMI|sec11|body125|@0x1cb6|52B] *>그래서{fe}결국\n당신들이{ff}등대에 갔던 거냐{02}뭐{fe}어쨌든\n등대가{ff}켜져서 다행이야<END>
+[WORLD02_AREA094.EMI|sec11|body126|@0x1cea|44B] *몬스터한테{ff}안 먹혀서\n다행이네{02}이제{ff}배가 돌아오길\n기다릴 뿐이지><END>
+[WORLD02_AREA094.EMI|sec11|body127|@0x1d16|32B] *이걸로{fe}배도{ff}항로에서\n안 벗어나고{ff}돌아올 수 있으려나?<END>
+[WORLD02_AREA094.EMI|sec11|body128|@0x1d36|55B] *고맙습니다\n여러분@{02}이제{ff}당분간 기다려\n주시면>>{02}분명{ff}배는 돌아올 거예요@<END>
+[WORLD02_AREA094.EMI|sec11|body129|@0x1d6d|39B] *등대에{ff}불을 켜고 왔나{02}당신들한테{ff}맡기길\n잘했던 것 같네><END>
+[WORLD02_AREA094.EMI|sec11|body130|@0x1d94|48B] *엄청난{ff}눈깔의\n몬스터가{ff}있었다지 뭐예요{02}안 가길{ff}잘한 거겠죠\n형님?<END>
+[WORLD02_AREA094.EMI|sec11|body131|@0x1dc4|39B] *대단하네요\n정말로{ff}등대 몬스터를\n해치워 버리다니@?<END>
+[WORLD02_AREA094.EMI|sec11|body132|@0x1deb|54B] *감사했습니다@{02}배만{ff}돌아오면>\n여러분이{ff}원하는 곳으로\n모셔다 드릴게요@<END>
+[WORLD02_AREA094.EMI|sec11|body133|@0x1e21|27B] *배{fe}안 돌아오네>\n물고기도{ff}안 잡히고>><END>
+[WORLD02_AREA094.EMI|sec11|body134|@0x1e3c|45B] *>역시{ff}배가 안 돌아오네{02}길드장이{ff}되겠다는 사람이\n베이트도{ff}고생이네><END>
+[WORLD02_AREA094.EMI|sec11|body135|@0x1e69|37B] *기계를 나르려 해도\n배가{ff}없으니 원>{02}난감하네{fe}참><END>
+[WORLD02_AREA094.EMI|sec11|body136|@0x1e8e|26B] *분명{fe}어딘가에서\n고장 난 거야>{ff}배><END>
+[WORLD02_AREA094.EMI|sec11|body137|@0x1ea8|55B] *아직 안 돌아온다>\n는 건\n등대 탓이{ff}아니었던 거야{02}뭔가{ff}안 좋은 일이\n생긴 걸까><END>
+[WORLD02_AREA094.EMI|sec11|body138|@0x1edf|38B] *등대가 있으니까\n항로는{ff}안 틀릴 텐데>{02}무슨 일이 있었던 걸까><END>
+[WORLD02_AREA094.EMI|sec11|body139|@0x1f05|42B] *무슨 문제로\n못 돌아오는 거라면>{02}시간이{ff}걸릴지도\n모르겠네요<END>
+[WORLD02_AREA094.EMI|sec11|body140|@0x1f2f|37B] 베이트\n*죄{fe}<PAUSE>죄송합니다{02}아무래도{ff}배가 안 돌아오는\n것 같아요><END>
+[WORLD02_AREA094.EMI|sec11|body141|@0x1f54|49B] 베이트\n*여러분이{ff}고생해서\n등대를{ff}고쳐주셨는데{02}뭐라 말해야 할지><END>
+[WORLD02_AREA094.EMI|sec11|body142|@0x1f85|72B] 베이트\n*아무튼{fe}동쪽으로 가는\n루트는{ff}마련하겠어요>{02}싱커 씨와{ff}얘기해 주세요{02}가도를{ff}쓰게 해줄 거라\n생각해요>><END>
+[WORLD02_AREA094.EMI|sec11|body143|@0x1fcd|64B] *배가{ff}언제 돌아올지\n알 수 없으니>>{02}술집에 있는{fe}싱커 씨와\n얘기해서>{02}가도를{ff}쓰도록\n해 주세요<END>
+[WORLD02_AREA094.EMI|sec11|body144|@0x200d|41B] *하지만>{02}배가{ff}없으면\n이 몸이{ff}나설 차례도\n없는{ff}셈이지<END>
+[WORLD02_AREA094.EMI|sec11|body145|@0x2036|36B] *배에{ff}못 타도\n형님은{ff}세계 제일의\n뱃사람이에요@<END>
+[WORLD02_AREA094.EMI|sec11|body146|@0x205a|23B] *힘이 못 돼서\n미안해요{fe}여러분><END>
+[WORLD02_AREA094.EMI|sec11|body147|@0x2071|13B] {c07:00}을\n손에 넣었다@<END>
+[WORLD02_AREA094.EMI|sec11|body148|@0x207e|13B] {c07:01}을\n손에 넣었다@<END>
+[WORLD02_AREA094.EMI|sec11|body149|@0x208b|32B] 베이트\n*수고하셨습니다{fe}여러분\n라팔라에{ff}도착했어요<END>
+[WORLD02_AREA094.EMI|sec11|body150|@0x20ab|61B] {c0c:05}베이트\n*여러모로{fe}수고를\n끼쳐드렸지만>>{02}드디어{fe}여러분 마음대로\n배를 쓰실 수 있어요<END>
+[WORLD02_AREA094.EMI|sec11|body151|@0x20e8|44B] {c0c:05}베이트\n*여기 두 사람에게\n말씀하시면>{02}어디든지{fe}배를 움직일게요<END>
+[WORLD02_AREA094.EMI|sec11|body152|@0x2114|36B] {c0c:06}{c04:01}\n*감사합니다\n베이트 씨>{02}우리{fe}바다 건너<END>
+[WORLD02_AREA094.EMI|sec11|body153|@0x2138|12B] {c0c:43}*기다려어@<END>
+[WORLD02_AREA094.EMI|sec11|body154|@0x2144|53B] {c0c:05}지그\n*그분들을{ff}나르는 건\n이 몸한테{ff}맡겨@{02}베이트><PAUSE>{ff}가 아니라\n길드장@<END>
+[WORLD02_AREA094.EMI|sec11|body155|@0x2179|28B] 베이트\n*아{fe}<PAUSE>아아>{ff}지그\n그건{fe}상관없지만>?<END>
+[WORLD02_AREA094.EMI|sec11|body156|@0x2195|45B] {c0c:05}지그\n*언젠가는{fe}베이트한테\n납작해졌고>{02}등대 수리도{fe}가로채였지만><END>
+[WORLD02_AREA094.EMI|sec11|body157|@0x21c2|51B] {c0c:05}지그\n*배에 관해서는{fe}이 몸>{02}누구한테도 안 진다는 걸\n보여줘야 하니까@<END>
+[WORLD02_AREA094.EMI|sec11|body158|@0x21f5|59B] {c0c:06}지그\n*뭐 그런 거니까{fe}여러분>\n나{fe}브리지에 있을 테니{02}출발할 때는{fe}나한테\n말 걸어줘@<END>
+[WORLD02_AREA094.EMI|sec11|body159|@0x2230|56B] {c0c:05}베이트\n*아니><PAUSE>><PAUSE>>{ff}지그는\n저런 녀석이지만>{02}실력 쪽은{fe}확실하니까\n안심하세요>@<END>
+[WORLD02_AREA094.EMI|sec11|body160|@0x2268|50B] {c0c:05}베이트\n*아무튼{fe}여러분\n조심하세요@{02}배를{ff}돌려주는 건\n언제든{ff}상관없으니까요<END>
+[WORLD02_AREA094.EMI|sec11|body161|@0x229a|54B] *여긴{fe}라팔라 선착장{02}>근데{fe}배는{ff}가끔씩만\n돌아온다니까{02}참{ff}저 고물@<END>
+[WORLD02_AREA094.EMI|sec11|body162|@0x22d0|51B] *길드장한테{ff}볼일이세요?{02}베이트 씨는{fe}지금\n동쪽{ff}기계 길드에\n나가 있어요><END>
+[WORLD02_AREA094.EMI|sec11|body163|@0x2303|35B] *기계를 나르는 배가\n고장 났으니\n속수무책이지><END>
+[WORLD02_AREA094.EMI|sec11|body164|@0x2326|37B] *우리 배{fe}또{ff}고장 나서\n기계 길드에{ff}맡겨놨다고\n하더라><END>
+[WORLD02_AREA094.EMI|sec11|body165|@0x234b|83B] *몇 년 전에도{ff}이렇게\n배가 안 돌아온 적이 있었어>{02}그때는{fe}등대 탓이라고\n생각했는데>{02}사실은{ff}배가 고장 났었다는\n얘기더라고>?<END>
+[WORLD02_AREA094.EMI|sec11|body166|@0x239e|51B] *기계란 건{fe}튼튼해\n보이지만>\n꽤{ff}약하다니까{02}만들어 낼 수도{ff}없고<END>
+[WORLD02_AREA094.EMI|sec11|body167|@0x23d1|49B] *기계는{fe}만드는 게\n아니라>{02}찾아 와서{ff}조립하는\n것뿐이라더라<END>
+[WORLD02_AREA094.EMI|sec11|body168|@0x2402|23B] *대체 언제쯤{ff}짐이\n도착하는 거야@<END>
+[WORLD02_AREA094.EMI|sec11|body169|@0x2419|36B] *그{fe}그건>\n지금{ff}길드장이\n향하고 있으니{fe}네><END>
+[WORLD02_AREA094.EMI|sec11|body170|@0x243d|58B] *여긴{fe}등대예요{02}배에{ff}항로를 알려주기\n위한 거지만>{02}배가{fe}고장 났으면\n의미 없죠<END>
+[WORLD02_AREA094.EMI|sec11|body171|@0x2477|13B] *뭐{fe}느긋하게 기다려야지<END>
+[WORLD02_AREA094.EMI|sec11|body172|@0x2484|24B] *으힛@\n아기가{fe}일어섰어어@<END>
+[WORLD02_AREA094.EMI|sec11|body173|@0x249c|60B] *샤드의 아이>\n이 몸처럼\n훌륭하게 되면{ff}좋겠다>{02}근데{fe}분명{ff}베이트 녀석을\n닮겠지><END>
+[WORLD02_AREA094.EMI|sec11|body174|@0x24d8|25B] *자아{fe}아가\n이쪽이에요{c15:07}{c15:07}><END>
+[WORLD02_AREA094.EMI|sec11|body175|@0x24f1|7B] *부우바부<END>
+[WORLD02_AREA094.EMI|sec11|body176|@0x24f8|15B] {0d}꼬물꼬물꼬물꼬물{0e}{0f}{02}<END>
+[WORLD02_AREA094.EMI|sec11|body177|@0x2507|15B] {0d}소곤소곤소곤소곤{0e}{0f}{02}<END>
+[WORLD02_AREA094.EMI|sec11|body178|@0x2516|22B] 샤드\n*{03}씨\n아니세요>>@?<END>
+[WORLD02_AREA094.EMI|sec11|body179|@0x252c|35B] 샤드\n*오랜만이에요@\n예전엔{fe}신세 많이 졌어요><END>
+[WORLD02_AREA094.EMI|sec11|body180|@0x254f|56B] 샤드\n*베이트요>?{02}그이는 지금{fe}고장 난 배를\n인수하러>\n정크 마을에{ff}가 있어요<END>
+[WORLD02_AREA094.EMI|sec11|body181|@0x2587|45B] 샤드\n*잠시{ff}기다려 주시면>{02}배를 타고{ff}돌아올 거라\n생각해요>?<END>
+[WORLD02_AREA094.EMI|sec11|body182|@0x25b4|58B] 샤드\n*미안해요>{02}전{fe}요즘 길드 일을\n안 해서요>{02}그이가 돌아올 때까지{fe}기다려 주세요<END>
+[WORLD02_AREA094.EMI|sec11|body183|@0x25ee|66B] *>길드에{ff}볼일이시면\n베이트한테{ff}말씀하세요{02}이 아이요>?\n아기{fe}라고 해요\n우리{ff}딸이에요<END>
+[WORLD02_AREA094.EMI|sec11|body184|@0x2630|49B] 샤드\n*미안해요>{02}이 아이가{ff}생기고 나서\n저{fe}길드 일{ff}아무것도\n안 해서><END>
+[WORLD02_AREA094.EMI|sec11|body185|@0x2661|34B] 샤드\n*길드 일이시면\n그이한테>{ff}베이트한테 부탁하세요<END>
+[WORLD02_AREA094.EMI|sec11|body186|@0x2683|38B] *이 아이요>?{02}아기{fe}라고 해요\n우리{ff}딸이에요<END>
+[WORLD02_AREA094.EMI|sec11|body187|@0x26a9|61B] *어{fe}베이트요?{02}그이{fe}고장 난 배{ff}인수하러\n기계 길드가 있는>{02}동쪽{ff}정크 마을에\n가 있어요<END>
+[WORLD02_AREA094.EMI|sec11|body188|@0x26e6|38B] *길드장은{ff}고생이네>{02}또{fe}배가{ff}안\n돌아온다더라>@<END>
+[WORLD02_AREA094.EMI|sec11|body189|@0x270c|42B] *이제{fe}배가 낡았나 봐>{02}한번{ff}제대로\n수리하는 게{ff}좋을 텐데<END>
+[WORLD02_AREA094.EMI|sec11|body190|@0x2736|29B] *배가{ff}안 돌아와>\n끝내{ff}망가져 버린 건가?<END>
+[WORLD02_AREA094.EMI|sec11|body191|@0x2753|32B] *설마{fe}내 짐을 실은 채로\n가라앉거나{ff}하진 않았겠지@?<END>
+[WORLD02_AREA094.EMI|sec11|body192|@0x2773|39B] *죄죄{fe}죄송합니다>\n지금{ff}알아보고 있으니\n잠시 기다려 주세요>@<END>
+[WORLD02_AREA094.EMI|sec11|body193|@0x279a|32B] *여긴{ff}등대예요>{ff}라고\n여러분{ff}아시겠죠<END>
+[WORLD02_AREA094.EMI|sec11|body194|@0x27ba|48B] *출발{ff}준비가 되면\n배에 타서>{02}브리지의{ff}지그에게\n말 걸어 주세요<END>
+[WORLD02_AREA094.EMI|sec11|body195|@0x27ea|47B] *여러분은{ff}길드의\n은인이니까>{02}지그 나름대로{ff}도움이 되고\n싶은 걸지도 모르죠<END>
+[WORLD02_AREA094.EMI|sec11|body196|@0x2819|59B] *>지그 씨{fe}저래 봬도\n라팔라 제일의{ff}뱃사람이에요{02}그러니까{fe}저희가{ff}하는 것보다\n훨씬 안심돼요<END>
+[WORLD02_AREA094.EMI|sec11|body197|@0x2854|68B] *여러분{ff}조심하세요@{02}앞으로는{fe}운반 길드의\n배를 늘릴{ff}생각이니까>{02}저 배는{ff}자유롭게\n쓰세요<END>
+[WORLD02_AREA094.EMI|sec11|body198|@0x2898|61B] *여긴{fe}라팔라 선착장>{02}배를 더{ff}늘려서\n언제든>{ff}선착장이라고\n가슴 펴고{ff}말하고 싶네요<END>
+[WORLD02_AREA094.EMI|sec11|body199|@0x28d5|15B] *길드장{fe}바쁘네><END>
+[WORLD02_AREA094.EMI|sec11|body200|@0x28e4|23B] *과감하게{ff}배를\n늘려야 하는데><END>
+[WORLD02_AREA094.EMI|sec11|body201|@0x28fb|34B] *배{fe}드디어{ff}돌아왔어>\n제대로 수리는{ff}한 걸까?<END>
+[WORLD02_AREA094.EMI|sec11|body202|@0x291d|62B] *길드장이{ff}일부러\n정크 마을까지{ff}찾아간 건{02}{c15:1e}로운 배를{ff}만들어 달라\n주문하기{ff}위해서라더라><END>
+[WORLD02_AREA094.EMI|sec11|body203|@0x295b|39B] *어{fe}수리한 지\n얼마 안 된 배를>\n남한테{ff}줘버린 거야?<END>
+[WORLD02_AREA094.EMI|sec11|body204|@0x2982|42B] *아아{fe}근데{ff}그게\n몇 번이나{ff}길드를 도와준\n사람들이라더라<END>
+[WORLD02_AREA094.EMI|sec11|body205|@0x29ac|52B] *길드장이{fe}어떻게든\n배를 돌려놓은{ff}덕분에>{02}시끄러운 손님한테서\n해방됐어{fe}휴<END>
+[WORLD02_AREA094.EMI|sec11|body206|@0x29e0|20B] *배도 돌아왔고>\n일이나 할까?<END>
+[WORLD02_AREA094.EMI|sec11|body207|@0x29f4|74B] *지그 형님이\n당신들 배에{ff}탄다고>{02}난{ff}도움이 안 되니까\n이렇게{ff}아기가\n일어서도록{ff}응원하지@<END>
+[WORLD02_AREA094.EMI|sec11|body208|@0x2a3e|49B] *배는{fe}길드한테\n중요하지만>{02}여러분께는{ff}정말\n신세 많이{ff}졌으니까요><END>
+[WORLD02_AREA094.EMI|sec11|body209|@0x2a6f|6B] *네에@<END>
+[WORLD02_AREA094.EMI|sec11|body210|@0x2a75|21B] *준비는{ff}됐나요?{c14:05}{c0c:02}됐어<END>
+[WORLD02_AREA094.EMI|sec11|body211|@0x2a8e|32B] 지그\n*>당신들한테{ff}도움이 될\n때가{fe}온 모양이군<END>
+[WORLD02_AREA094.EMI|sec11|body212|@0x2aae|16B] 지그\n*그럼{fe}가자고@<END>
+[WORLD02_AREA094.EMI|sec11|body213|@0x2abe|39B] {c0c:05}{c04:01}\n*나{fe}베이트 씨한테>{02}용기를 내라고\n말할 테니까>?<END>

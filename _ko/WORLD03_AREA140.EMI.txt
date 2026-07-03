@@ -1,0 +1,9 @@
+[WORLD03_AREA140.EMI|sec11|body0|@0x200|50B] 블록에 사람이 타고 있습니다@{02}위험하니{fe}사람이 내린 후에\n조작을{ff}해 주세요<END>
+[WORLD03_AREA140.EMI|sec11|body1|@0x232|24B] 워{fc}크:로봇\n리모{fc}트 컨트롤;포치<<END>
+[WORLD03_AREA140.EMI|sec11|body2|@0x24a|32B] 워{fc}크:로봇;포치<\n컨트롤{fc}패널{c14:00}{c0c:13}설명<END>
+[WORLD03_AREA140.EMI|sec11|body3|@0x273|128B] {ff};포치<는{fe}받침대 위\n사람의 움직임을{ff}트레{fc}스해서\n움직이는{ff}로봇입니다{02}{ff};포치<가{ff}스위치 앞에\n오면{fe}{c05:01}액션{06}버튼을\n눌러 주세요{02}작업을{ff}그만두고 싶을 땐\n받침대에서 내리거나{fe}한 번 더\n패널을{ff}조작해 주세요<END>
+[WORLD03_AREA140.EMI|sec11|body4|@0x2f3|32B] *포치+는{fe}몸이 큰 쪽의\n움직임은{ff}트레{fc}스 못 합니다<END>
+[WORLD03_AREA140.EMI|sec11|body5|@0x313|13B] 조작을{ff}종료합니다<END>
+[WORLD03_AREA140.EMI|sec11|body6|@0x320|54B] {c05:02};비상구<{06}{ff}라고\n문 위에{ff}쓰여 있다{02}기계로{ff}잠겨 있어서\n열릴 것 같지 않다><END>
+[WORLD03_AREA140.EMI|sec11|body7|@0x356|68B] {c05:02}비상용{ff}문:콕{06}{02}비상시엔{ff}패널을 부수고\n안의{ff}콕을 돌려 주세요\n{c05:02}비상구{06}가{ff}열립니다<END>
+[WORLD03_AREA140.EMI|sec11|body8|@0x39a|38B] 부서져 있다>\n이걸로{fe}비상구로\n언제든{ff}드나들 수 있겠지<END>

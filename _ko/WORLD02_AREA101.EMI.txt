@@ -1,0 +1,19 @@
+[WORLD02_AREA101.EMI|sec11|body0|@0x205|25B] {c0c:05}*알고 있어{fe}문이라>\n손님이군?<END>
+[WORLD02_AREA101.EMI|sec11|body1|@0x21e|40B] {c0c:05}*>길드의 배{fe}로군?{02}운송 길드가{fe}이 늙은이한테\n무슨 볼일이>?<END>
+[WORLD02_AREA101.EMI|sec11|body2|@0x246|24B] {c0c:05}*뭐{fe}들어와>>\n차라도{ff}끓여주마<END>
+[WORLD02_AREA101.EMI|sec11|body3|@0x25e|55B] {c0c:06}{c04:01}\n*><PAUSE>><PAUSE>>그래서{fe}바깥바다 얘기를{02}전설의 뱃사람>님께\n여쭤보려고{ff}했어요>><END>
+[WORLD02_AREA101.EMI|sec11|body4|@0x295|40B] {c0c:05}*전설의 뱃사람>{02}아직도{fe}나를{ff}그렇게\n부르고 있나><END>
+[WORLD02_AREA101.EMI|sec11|body5|@0x2bd|51B] {c0c:05}*내 이름은{fe}쿠쿠루스>\n뱃사람은>{fe}아니야{02}나는>{ff}바깥바다를 탐험 같은 건\n한 적 없어<END>
+[WORLD02_AREA101.EMI|sec11|body6|@0x2f0|35B] {c04:05}\n*어{c15:07}{c15:07}그럼{fe}그러면\n바깥바다용 배도{fe}없는 거{c15:07}{c15:07}?<END>
+[WORLD02_AREA101.EMI|sec11|body7|@0x313|44B] {c0c:05}쿠쿠루스\n*><PAUSE>><PAUSE>>나는{02}바깥바다{fe}저편에서\n여기로{fe}흘러들어온 거다><END>
+[WORLD02_AREA101.EMI|sec11|body8|@0x33f|72B] {c04:01}\n*그렇다면{fe}역시\n바깥바다 일을{ff}알고 계신 거죠?{02}>>가르쳐 주세요\n우리는{fe}바깥바다를{ff}건너지 않으면\n안 되거든요@?<END>
+[WORLD02_AREA101.EMI|sec11|body9|@0x387|54B] {c0c:05}쿠쿠루스\n*무리다>{02}미드:시{fc}의 배로는\n바깥바다에 나가는 건{fe}불가능해>{02}게다가><PAUSE>><PAUSE>><END>
+[WORLD02_AREA101.EMI|sec11|body10|@0x3bd|22B] {c0c:05}쿠쿠루스\n*저편엔{fe}아무것도 없어><END>
+[WORLD02_AREA101.EMI|sec11|body11|@0x3d3|50B] {c04:05}\n*거짓말이야{fc}>@{02}여기로{ff}흘러들어오는 것 같은\n기계가{ff}잔뜩\n있는 거 아니야{fc}?<END>
+[WORLD02_AREA101.EMI|sec11|body12|@0x405|68B] {c0c:06}{c04:01}\n*쿠쿠루스 님이\n여기로{ff}올 수 있었으니까>{02}우리가{ff}바깥바다로 나갈 방법도\n분명 있을 거예요>{02}가르쳐 주세요>@<END>
+[WORLD02_AREA101.EMI|sec11|body13|@0x449|49B] {c0c:05}쿠쿠루스\n*><PAUSE>><PAUSE>><PAUSE>정 그렇게{02}>정 그렇게{fe}가겠다고 한다면\n방법이{fe}없는 건 아니지<END>
+[WORLD02_AREA101.EMI|sec11|body14|@0x47a|19B] {c0c:05}쿠쿠루스\n*저쪽의>{ff}배다><END>
+[WORLD02_AREA101.EMI|sec11|body15|@0x48d|32B] {c0c:05}쿠쿠루스\n*>검은 배는{fe}원래\n자동선이야<END>
+[WORLD02_AREA101.EMI|sec11|body17|@0x4ad|53B] {c0c:05}쿠쿠루스\n*즉{fe}저 배에 타면>{02}자동으로{fe}바깥바다 저편에\n도착하게 된다는 거지<END>
+[WORLD02_AREA101.EMI|sec11|body18|@0x4e2|28B] *검은 배는{fe}저쪽에서\n기계를{ff}실어 나르지><END>
+[WORLD02_AREA101.EMI|sec11|body19|@0x4fe|7B] *구르륵<END>

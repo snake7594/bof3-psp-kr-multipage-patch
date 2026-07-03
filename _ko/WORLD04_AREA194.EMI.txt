@@ -1,0 +1,27 @@
+[WORLD04_AREA194.EMI|sec11|body0|@0x279|29B] {c04:04}\n*여기 녀석들\n생기가{fe}없다고 할까><END>
+[WORLD04_AREA194.EMI|sec11|body1|@0x296|21B] {c0c:06}{c04:05}\n*어쩐지{fe}기계병 같아<END>
+[WORLD04_AREA194.EMI|sec11|body2|@0x2ab|41B] {c04:04}\n*>재밌네{02}이 앞에{fe}뭐가 나올지\n알 수가{fe}없어><END>
+[WORLD04_AREA194.EMI|sec11|body3|@0x2d4|13B] {c0c:80}{ff}*>>무서운 거냐?<END>
+[WORLD04_AREA194.EMI|sec11|body4|@0x2e1|37B] {c0c:06}{c04:04}\n*웃기지 마@?{02}난{fe}내 발로>\n여기까지 온 거야?<END>
+[WORLD04_AREA194.EMI|sec11|body5|@0x306|54B] {c0c:06}{c04:04}\n*저쪽에서{fe}편하게\n도둑질이라도{ff}했으면>>{02}여기 올{ff}필요 같은 건\n없었던 거야><END>
+[WORLD04_AREA194.EMI|sec11|body6|@0x33c|30B] {c0c:06}{c04:04}\n*칫>{fe}<PAUSE>확실히\n쫄았는지도{ff}모르지><END>
+[WORLD04_AREA194.EMI|sec11|body7|@0x35a|67B] {c0c:06}{c04:04}\n*신을{ff}찾으러\n아무도 모르는 곳에{fe}오다니{02}제정신이{fe}아냐>{02}대체 뭐냐고\n용의 힘이란 건>@?<END>
+[WORLD04_AREA194.EMI|sec11|body8|@0x39d|44B] {c04:01}\n*대단해>>{02}아무도{fe}온 적 없는 곳을\n우리가{fe}탐험하는 거지?<END>
+[WORLD04_AREA194.EMI|sec11|body9|@0x3c9|61B] {c04:01}\n*멸종한{fe}용족>\n울칸의{fe}신>>{02}세계가 변해버릴{ff}정도의\n커다란{ff}수수께끼일지도><END>
+[WORLD04_AREA194.EMI|sec11|body10|@0x406|36B] {c04:01}\n*이런 건{fe}윈디아에\n있었으면>{02}절대{fe}몰랐을 거야<END>
+[WORLD04_AREA194.EMI|sec11|body11|@0x42a|37B] {c04:01}\n*근데>{ff}어머니나>{02}성 모두에게\n폐를{ff}끼쳤어><END>
+[WORLD04_AREA194.EMI|sec11|body12|@0x44f|42B] {c0c:86}*지금{fe}여기 있는 게\n공주로{fe}있던 것보다\n대단한 일 아니야>?<END>
+[WORLD04_AREA194.EMI|sec11|body13|@0x479|27B] {c04:01}\n*나>{ff}<PAUSE>제멋대로\n구는 것뿐인걸><END>
+[WORLD04_AREA194.EMI|sec11|body14|@0x494|33B] {c0c:86}*중요한 건{fe}네가\n스스로 정했다는 거야>@<END>
+[WORLD04_AREA194.EMI|sec11|body15|@0x4b5|53B] {c0c:06}{c04:05}\n*근데{fe}대단해{fc}>{02}우리가{ff}쓰던 기계가\n어디서 오는지\n알게 되면><END>
+[WORLD04_AREA194.EMI|sec11|body16|@0x4ea|10B] {c0c:05}{c04:02}\n*>음<END>
+[WORLD04_AREA194.EMI|sec11|body17|@0x4f4|30B] {c0c:86}*아버지가{ff}여기 있었다면\n어떻게 생각했을까{fc}@?<END>
+[WORLD04_AREA194.EMI|sec11|body18|@0x512|54B] {c0c:86}*아버지뿐만이{ff}아니야{02}기술자라면{fe}누구나 꿈꾸는\n기계의 수수께끼에{ff}다가가고 있어?<END>
+[WORLD04_AREA194.EMI|sec11|body19|@0x548|37B] {c04:05}\n*맞아{fc}>@{02}내<PAUSE>가{fe}그 수수께끼를\n밝혀낼 거니까{fc}>@<END>
+[WORLD04_AREA194.EMI|sec11|body20|@0x56d|62B] {c04:01}\n*좀{ff}단서가\n적지만>{02}분명{fe}또>\n디{fc}스 씨가{ff}준 힘이\n길을{ff}알려줄 거야><END>
+[WORLD04_AREA194.EMI|sec11|body21|@0x5ab|24B] {c04:01}\n*내일도{fe}힘내자\n{c04:00}>><END>
+[WORLD04_AREA194.EMI|sec11|body22|@0x5c3|45B] {c0c:06}{c04:02}\n*>모습은{fe}다르지만{02}난{fe}원래{ff}녀석들과 같은\n울칸의 백성이다><END>
+[WORLD04_AREA194.EMI|sec11|body29|@0x5f0|66B] {c0c:06}{c04:02}\n*가{fc}디언이란\n나 같은>{02}전투용{ff}울칸인을\n부르는 이름이다>{02}사악한 것으로부터{ff}백성을 지키는 자<END>
+[WORLD04_AREA194.EMI|sec11|body30|@0x632|26B] {c0c:04}{c04:01}\n*>{c04:00}{fe}{c04:02} 씨\n아직{ff}안 쉬어요?<END>
+[WORLD04_AREA194.EMI|sec11|body31|@0x64c|35B] {c0c:06}{c04:02}\n*여기 오기 전에>\n네가{ff}죽는다는 얘기 말인데><END>
+[WORLD04_AREA194.EMI|sec11|body32|@0x66f|34B] {c0c:06}{c04:02}\n*아니>{ff}됐어>>{02}유적에 가면{ff}알게 될 일이다><END>

@@ -1,0 +1,59 @@
+[WORLD01_AREA040.EMI|sec11|body0|@0x212|17B] {c04:01}\n*무{fe}<PAUSE>무무{fe}뭐야@?<END>
+[WORLD01_AREA040.EMI|sec11|body1|@0x223|30B] {c04:01}\n*궁금해>>\n저 방{ff}한번 들여다보자?<END>
+[WORLD01_AREA040.EMI|sec11|body2|@0x241|29B] {c04:01}\n*>>저기{fe}저 방\n뭔가{ff}신경 쓰이지 않아?<END>
+[WORLD01_AREA040.EMI|sec11|body3|@0x25e|39B] {c0c:05}*으{c15:07}음>>\n고순도 고{fc}스트의 안정화가\n관건인 걸까{fc}>><END>
+[WORLD01_AREA040.EMI|sec11|body4|@0x285|30B] {c0c:05}*그렇구나{fe}기화 압력을\n낮추면{fc}>><PAUSE>{ff}응?<END>
+[WORLD01_AREA040.EMI|sec11|body5|@0x2a3|12B] {c0c:05}*{0d}뭐{fc}야?{0e}{0f}{09}<END>
+[WORLD01_AREA040.EMI|sec11|body6|@0x2af|55B] {c0c:05}*{0d}너희들@?{0e}{0f}{09}{02}{0d}허니{fc}{0e}{0f}{09}{02}{0d}친구{fc}?{0e}{0f}{09}{02}{0d}처음 뵙겠어{0e}{0f}{09}{02}{0d}{c04:05}야{0e}{0f}{09}<END>
+[WORLD01_AREA040.EMI|sec11|body7|@0x2e6|47B] {c0c:06}{c04:01}\n*아니{fe}<PAUSE>저{fe}<PAUSE>저야말로\n처음 뵙겠어요>{02}가 아니라{fe}어{fc}\n실은 말이죠>><END>
+[WORLD01_AREA040.EMI|sec11|body8|@0x315|13B] {c0c:05}{c04:05}\n*{0d}응?{0e}{0f}{0a}<END>
+[WORLD01_AREA040.EMI|sec11|body9|@0x322|46B] {c0c:06}{c04:01}\n*그러니까{fe}저>\n친구가{fe}아니고요>{02}윈디아로 가는{ff}길을\n저>><END>
+[WORLD01_AREA040.EMI|sec11|body10|@0x350|52B] {c0c:05}{c04:05}\n*{0d}뭐{fc}야?{0e}{0f}{09}{02}{0d}미안해{fc}{0e}{0f}{09}{02}{0d}아까{0e}{0f}{09}{02}{0d}폭음에{0e}{0f}{09}{02}{0d}귀가{0e}{0f}{09}<END>
+[WORLD01_AREA040.EMI|sec11|body11|@0x384|34B] {c0c:06}{c04:01}\n*{0d}저기요{0e}{0f}{09}{02}{0d}길을{0e}{0f}{09}{02}{0d}가르쳐@{0e}{0f}{09}<END>
+[WORLD01_AREA040.EMI|sec11|body12|@0x3a6|57B] {c0c:05}{c04:05}\n*{0d}뭐{fc}야?{0e}{0f}{09}{c16:30}{c0c:05}{c04:05}\n*미안해{fe}아까는{02}폭음 때문에{ff}귀가\n멍{fc}했었거든{fc}><END>
+[WORLD01_AREA040.EMI|sec11|body13|@0x3b6|41B] {c0c:05}{c04:05}\n*미안해{fe}아까는{02}폭음 때문에{ff}귀가\n멍{fc}했었거든{fc}><END>
+[WORLD01_AREA040.EMI|sec11|body14|@0x3df|38B] {c0c:05}{c04:05}\n*>맡겨 둬{fc}{02}제대로{ff}윈디아까지\n데려다{ff}줄게{fc}<END>
+[WORLD01_AREA040.EMI|sec11|body15|@0x405|40B] {c0c:06}{c04:01}\n*고맙습니다{02}이 답례는{ff}성에\n도착하면{ff}꼭><END>
+[WORLD01_AREA040.EMI|sec11|body16|@0x42d|16B] {c0c:05}{c04:05}\n*><PAUSE>><PAUSE>>성?<END>
+[WORLD01_AREA040.EMI|sec11|body17|@0x43d|26B] {c0c:05}{c04:05}\n*앗@{ff}{c04:01}이라고>{02}{c04:01} 왕녀오@?<END>
+[WORLD01_AREA040.EMI|sec11|body18|@0x457|47B] {c0c:05}{c04:05}\n*고{fe}고{fe}고{fe}공주님@{02}몰랐다고는 하나\n무례를{ff}저질렀습니다@<END>
+[WORLD01_AREA040.EMI|sec11|body19|@0x486|32B] {c04:01}\n*아{fe}아니요>{02}도와{ff}주시는데>\n{c04:01}라고{ff}하면 돼요<END>
+[WORLD01_AREA040.EMI|sec11|body20|@0x4a6|33B] {c0c:05}{c04:05}\n*>어머{fe}그래?{02}그럼{fe}{c04:01}\n출발할까>?<END>
+[WORLD01_AREA040.EMI|sec11|body21|@0x4c7|30B] {c04:05}\n*난{fe}준비하고 올 테니까\n잠깐{fe}쉬고 있어<END>
+[WORLD01_AREA040.EMI|sec11|body22|@0x4e5|14B] {c04:05}\n*가자{fe}허니{fc}<END>
+[WORLD01_AREA040.EMI|sec11|body23|@0x4f3|44B] {c04:05}\n*오래 기다렸지><PAUSE><PAUSE>{ff}저기>{02}너희들 말이야{ff}나쁜 놈들한테\n쫓기고 있는 거였지?<END>
+[WORLD01_AREA040.EMI|sec11|body24|@0x51f|62B] {c04:05}\n*그럼{fe}그건가{fc}>{02}밖의 상인한테\n장 보러{ff}가려고 했더니\n있었어>>{02}험상궂은 놈들이><END>
+[WORLD01_AREA040.EMI|sec11|body25|@0x55d|39B] {c04:05}\n*어머{fe}<PAUSE>그렇게\n무서워할{ff}거 없어>{02}왜냐면{fe}이 탑에는>><END>
+[WORLD01_AREA040.EMI|sec11|body26|@0x584|30B] {c04:05}\n*내 실험용\n고{fc}스트광에{ff}이끌려서>><END>
+[WORLD01_AREA040.EMI|sec11|body27|@0x5a2|112B] {c04:05}\n*>모여든\n몬스터{fc}라든가>>{c16:30}{c04:05}\n*>고{fc}스트 기계병이라든가{c16:30}{c04:05}\n*>그걸{ff}해치우려는\n함정 같은 게>>{c16:30}{c04:05}\n*>가{c15:07}득{ff}있으니까{02}그리 쉽게는\n올라올 수 없어@<END>
+[WORLD01_AREA040.EMI|sec11|body28|@0x5bb|87B] {c04:05}\n*>고{fc}스트 기계병이라든가{c16:30}{c04:05}\n*>그걸{ff}해치우려는\n함정 같은 게>>{c16:30}{c04:05}\n*>가{c15:07}득{ff}있으니까{02}그리 쉽게는\n올라올 수 없어@<END>
+[WORLD01_AREA040.EMI|sec11|body29|@0x5ce|68B] {c04:05}\n*>그걸{ff}해치우려는\n함정 같은 게>>{c16:30}{c04:05}\n*>가{c15:07}득{ff}있으니까{02}그리 쉽게는\n올라올 수 없어@<END>
+[WORLD01_AREA040.EMI|sec11|body30|@0x5eb|39B] {c04:05}\n*>가{c15:07}득{ff}있으니까{02}그리 쉽게는\n올라올 수 없어@<END>
+[WORLD01_AREA040.EMI|sec11|body31|@0x612|43B] {c04:01}\n*><PAUSE>><PAUSE>>그런데{ff}{c04:05}씨{02}저희{fe}여기까지\n들어왔는데요>?<END>
+[WORLD01_AREA040.EMI|sec11|body32|@0x63d|39B] {c04:05}\n*헉@<PAUSE><PAUSE>{ff}정말이네>{02}>>어{fe}어떻게\n들어온 거야{fc}@?<END>
+[WORLD01_AREA040.EMI|sec11|body33|@0x664|27B] {c04:01}\n*저기{fe}그런 것보다\n빨리 도망쳐야@?<END>
+[WORLD01_AREA040.EMI|sec11|body34|@0x67f|46B] {c04:05}\n*그{fe}<PAUSE>그래>{02}><PAUSE>><PAUSE>>아래로 나가는 건\n위험하니까>\n위로 가자<END>
+[WORLD01_AREA040.EMI|sec11|body35|@0x6ad|35B] {c04:05}\n*괜찮아>\n도망갈 길이{ff}있어{02}>자{fe}가자@<END>
+[WORLD01_AREA040.EMI|sec11|body36|@0x6d0|43B] {c0c:01}{ff}\n{c04:05}이(가){ff}동료가 되었다@{02}>여기까지의 여정을\n저{fc}장하시겠습니까?{c14:00}{c0c:02}예<END>
+[WORLD01_AREA040.EMI|sec11|body37|@0x6ff|39B] {c04:05}\n*여기서{ff}나가버리면>{02}나쁜 놈들과\n딱 마주{ff}치게 돼{fc}@<END>
+[WORLD01_AREA040.EMI|sec11|body38|@0x726|30B] 침대에서{fe}쉴 수 있을 것 같다>\n한숨 돌리시겠습니까?{c14:06}{c0c:02}예<END>
+[WORLD01_AREA040.EMI|sec11|body39|@0x748|32B] 일기가 있다>\n여기까지의 기록을{ff}하시겠습니까?{c14:07}{c0c:02}예<END>
+[WORLD01_AREA040.EMI|sec11|body40|@0x76c|52B] 허니{fc}에 대한 노{fc}트3\n{ff}{ff}{ff}{ff}{ff}{ff}>{c04:05}{02}고{fc}스트를 주면\n나를{ff}따르는 것 같다\n귀엽다<END>
+[WORLD01_AREA040.EMI|sec11|body42|@0x7a0|61B] 허니{fc}에 대한 노{fc}트4\n{ff}{ff}{ff}{ff}{ff}{ff}>{c04:05}{02}하지만{fe}구조는 모르겠다\n너무 고도라서{ff}응용조차\n못 할 것 같다<END>
+[WORLD01_AREA040.EMI|sec11|body43|@0x7dd|111B] {10}{ff}\n패널 키{fc}{11}{02}바닥의{ff}패널 키{fc} 위를\n걸으면{ff}스위치가 켜집니다{02}일단{ff}패널 밖으로\n나가면{ff}리셋됩니다{02}모든 키{fc}를{ff}그레이로\n바꾸면{ff}문이 열립니다{02}도전하시겠습니까?{c14:05}{c0c:02}예<END>
+[WORLD01_AREA040.EMI|sec11|body44|@0x850|67B] 허니{fc}에 대한 노{fc}트1\n{ff}{ff}{ff}{ff}{ff}{ff}>{c04:05}{02}>고{fc}스트에 이끌려\n작은 기계병이{ff}찾아왔다\n이것을{ff}허니{fc}라고 이름 붙인다<END>
+[WORLD01_AREA040.EMI|sec11|body45|@0x893|63B] 허니{fc}에 대한 노{fc}트2\n{ff}{ff}{ff}{ff}{ff}{ff}>{c04:05}{02}>허니{fc}는{fe}다른 기계병과\n달리{fe}공격 능력이\n없는 것 같다><END>
+[WORLD01_AREA040.EMI|sec11|body46|@0x8d2|86B] {ff}\n{ff};고{fc}스트 광석과 몬스터{fc}<{02}어떤 종류의 몬스터{fc}는\n고{fc}스트 에너지{fc}에\n강하게 반응한다>{02}고{fc}스트의 마력 패턴{fc}에\n마물이 싱크로하는 것이다{fd}<END>
+[WORLD01_AREA040.EMI|sec11|body47|@0x928|104B] {ff}\n{ff}{ff}{ff};마력 광물<{02}고{fc}스트의 힘은{fe}\n그 공급원인 생물이\n생전에 지녔던 마력이다{02}죽은 뒤{fe}마력이\n광물화하는 과정은\n현재로선 불명이다><END>
+[WORLD01_AREA040.EMI|sec11|body48|@0x990|71B] {ff}\n{ff}{ff};고{fc}스트 기계<{02}많은 고{fc}스트 기계는\n극히 고도여서{fe}{02}현재로선{ff}우리에게는\n만들어 낼 수가 없다{fd}<END>
+[WORLD01_AREA040.EMI|sec11|body49|@0x9d7|88B] {ff}\n{ff}{ff};기계와 그 응용<{02}기계는{fe}다양한 도구의\n동력으로{ff}이용할 수 있다{fd}{02}다만{fe}시스템이\n불명이라{fe}정비는\n매우 어렵다{fd}<END>
+[WORLD01_AREA040.EMI|sec11|body50|@0xa2f|97B] {ff}\n{ff}{ff}{ff};기계의 발견<{02}많은 기계는{fe}발견 시에는\n작동하지 않는 상태다{fd}{02}이것을 수리하고{fe}고{fc}스트를\n공급해야{ff}비로소\n동력으로 이용할 수 있다{fd}<END>
+[WORLD01_AREA040.EMI|sec11|body51|@0xa90|99B] {ff}\n{ff}{ff}{ff}{ff};기계병<{02}드물게{fe}자동 기동하는 기체가\n발견되는 경우가 있다{fd}{02}그것들 대부분은{fe}움직이는 것에\n반응해{fe}공격을 가해 오기에\n기계병이라 불린다{fd}<END>
+[WORLD01_AREA040.EMI|sec11|body52|@0xaf3|25B] 스위치인 것 같다\n눌러 보시겠습니까?{c14:01}{c0c:02}예<END>
+[WORLD01_AREA040.EMI|sec11|body53|@0xb10|25B] 스위치인 것 같다\n눌러 보시겠습니까?{c14:02}{c0c:02}예<END>
+[WORLD01_AREA040.EMI|sec11|body54|@0xb2d|25B] 스위치인 것 같다\n눌러 보시겠습니까?{c14:03}{c0c:02}예<END>
+[WORLD01_AREA040.EMI|sec11|body55|@0xb4a|25B] 스위치인 것 같다\n눌러 보시겠습니까?{c14:04}{c0c:02}예<END>
+[WORLD01_AREA040.EMI|sec11|body56|@0xb67|18B] 스위치는{ff}이미\n눌려 있다<END>
+[WORLD01_AREA040.EMI|sec11|body57|@0xb79|20B] 이 패널에는\n올라설 수 없다><END>
+[WORLD01_AREA040.EMI|sec11|body58|@0xb8d|40B] 회전하는 네 개의 큐{fc}브\n어느 것이{fe}어느 것과 같은지\n구별할 수 있다면><END>
+[WORLD01_AREA040.EMI|sec11|body59|@0xbb5|35B] 몸집이 큰 {c04:02}은(는)\n이 퍼즐을{ff}풀기에는\n적합하지 않은 것 같다><END>

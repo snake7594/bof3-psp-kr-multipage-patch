@@ -1,0 +1,54 @@
+[WORLD02_AREA098.EMI|sec11|body0|@0x208|44B] 뭐라고 적혀 있는지\n알 수 없지만>{02}{c04:00}은/는 {ff}어쩐지\n그리움을 {ff}느꼈다><END>
+[WORLD02_AREA098.EMI|sec11|body1|@0x234|30B] {03}에는\n뭐라고 적혀 있는지\n도무지 {ff}알 수가 없다><END>
+[WORLD02_AREA098.EMI|sec11|body2|@0x252|33B] {c0c:05}{c04:02}\n*디스가 {fe}말했던 건\n여기인 것 같은데>?<END>
+[WORLD02_AREA098.EMI|sec11|body3|@0x273|28B] {c0c:05}{c04:01}\n*여기로 오라{fe}고\n들었던 거지>?<END>
+[WORLD02_AREA098.EMI|sec11|body4|@0x28f|21B] {c0c:05}{c04:04}\n*아무도 {fe}없잖아>?<END>
+[WORLD02_AREA098.EMI|sec11|body5|@0x2a4|28B] {c0c:05}{c04:05}\n*화산의 사당>{ff}이라는 게\n여기 맞지>?<END>
+[WORLD02_AREA098.EMI|sec11|body6|@0x2c0|34B] {c0c:05}{c04:06}\n*페코가 {fe}여기서 말한다는 건\n논리적으로 불가능해<END>
+[WORLD02_AREA098.EMI|sec11|body7|@0x2e2|15B] {c0c:04}*왔구나 {fe}용이 꼬마야><END>
+[WORLD02_AREA098.EMI|sec11|body8|@0x2f1|63B] {c0c:06}디스\n*놀랄 거 {fe}없어\n이게 {fe}내 진짜 모습이야>{02}또 {fe}홀딱 벗고\n나올 줄 {ff}알았어?<END>
+[WORLD02_AREA098.EMI|sec11|body9|@0x330|65B] {c0c:06}디스\n*봉인됐을 때의 {ff}모습으론>\n마력을 {fe}다 못 쓰거든{02}아쉽지만>>{c14:00}{c0c:12}그건 {fe}아쉽네<END>
+[WORLD02_AREA098.EMI|sec11|body10|@0x37d|49B] {c0c:06}디스\n*뭐 {fe}어쩔 수 없지>{02}이제부터 할 일에는 {ff}좀\n마력을 쓰니까 {fe}말이야<END>
+[WORLD02_AREA098.EMI|sec11|body11|@0x3ae|30B] {c0c:06}디스\n*어머@{ff}귀여운 말\n해 주는걸><END>
+[WORLD02_AREA098.EMI|sec11|body12|@0x3cc|28B] {c0c:06}디스\n*좋아 {fe}이걸로>\n배우는 다 모였네<END>
+[WORLD02_AREA098.EMI|sec11|body13|@0x3e8|21B] {c0c:05}{c04:02}\n*여기에>{ff} 우리의 신이>?<END>
+[WORLD02_AREA098.EMI|sec11|body14|@0x3fd|49B] {c0c:06}디스\n*아니야 {fe}바보 같긴>{02}이제부터 {fe}거기로 가는 길을\n알려 주려는 {fe}거야@?<END>
+[WORLD02_AREA098.EMI|sec11|body15|@0x42e|63B] {c0c:06}디스\n*봉인되기 전이라면\n데려갈 수도 {ff}있었지만>{02}지금은 {fe}그런 힘 따위\n남아 있지 않거든@<END>
+[WORLD02_AREA098.EMI|sec11|body16|@0x46d|70B] {c0c:06}디스\n*자 {fe}<PAUSE>그런 이유로>\n{c04:00} 꼬마야>>{02}이제부터 {fe}네\n;눈<을 {ff}뜨게 해서>{02}길이 {ff}보이도록\n해 줄 테니까 {fe}말이야<END>
+[WORLD02_AREA098.EMI|sec11|body17|@0x4b3|36B] {c0c:06}디스\n*조금 {fe}아플지도\n모르지만>{02}참는 거야?<END>
+[WORLD02_AREA098.EMI|sec11|body18|@0x4d7|92B] {c0c:81}{ff}\n{ff}나의>{ff}{c04:00}>{c16:30}{c0c:06}디스\n*그게 {fe}신의 눈이야\n{c04:00} 꼬마야>{02}저 빛의 끝에>>{02}가디언들을 {ff}이용해서\n용족을 {ff}멸하려 했던\n신이 {fe}있어<END>
+[WORLD02_AREA098.EMI|sec11|body19|@0x4e6|77B] {c0c:06}디스\n*그게 {fe}신의 눈이야\n{c04:00} 꼬마야>{02}저 빛의 끝에>>{02}가디언들을 {ff}이용해서\n용족을 {ff}멸하려 했던\n신이 {fe}있어<END>
+[WORLD02_AREA098.EMI|sec11|body20|@0x533|14B] {c0c:05}{c04:02}\n*북쪽>>{fe}인가?<END>
+[WORLD02_AREA098.EMI|sec11|body21|@0x541|31B] {c0c:06}디스\n*아주 멀리>>\n바다 건너>{ff}일 거야<END>
+[WORLD02_AREA098.EMI|sec11|body22|@0x560|63B] {c0c:06}디스\n*어떻게 {fe}거기로 갈지\n까지는 {fe}못 챙겨줘>{02}미안해>{ff} 지금의 나로선\n이게 {fe}최선이야<END>
+[WORLD02_AREA098.EMI|sec11|body23|@0x59f|44B] {c0c:06}디스\n*나머진>{ff} 너희가\n힘내는 거야>{02}그럼 {fe}다녀와\n{c04:00}>><END>
+[WORLD02_AREA098.EMI|sec11|body24|@0x5cb|37B] {c0c:06}디스\n*{c04:02}{fe} 저 아이를\n부탁해>{02}죽게 하면 {fe}안 돼?<END>
+[WORLD02_AREA098.EMI|sec11|body25|@0x5f0|56B] {c04:02}\n*내가 죽인 {fe}수많은\n용족들에게 {ff}맹세코>{02}저 녀석이 {fe}나보다 먼저\n죽는 일은>{ff} 있을 수 없다<END>
+[WORLD02_AREA098.EMI|sec11|body26|@0x628|40B] {c0c:06}디스\n*휴{c15:07}{c15:07}>{02}이 정도로 {fe}지치다니\n나도 {ff}나이 들었나봐><END>
+[WORLD02_AREA098.EMI|sec11|body27|@0x650|32B] {c0c:06}디스\n*>>뭐 {fe}그만큼\n너도 {fe}힘들다는 거겠지?<END>
+[WORLD02_AREA098.EMI|sec11|body28|@0x670|16B] {c0c:05}{c04:01}\n*{c04:00}@{ff}{c04:02} 씨@<END>
+[WORLD02_AREA098.EMI|sec11|body29|@0x680|68B] {c0c:05}{c04:01}\n*{c04:00}에 {ff}이어서>{02}{c04:02} 씨까지 {fe}{c15:1d}바뀌어서\n깜짝 놀랐잖아>{02}>그래서 {fe}디스 씨는?\n신은 {fe}만났어?<END>
+[WORLD02_AREA098.EMI|sec11|body30|@0x6c4|29B] {c0c:06}{c04:02}\n*신은>{ff} 멀고>\n바다 {fe}건너에 있다나봐><END>
+[WORLD02_AREA098.EMI|sec11|body31|@0x6e1|34B] {c0c:06}{c04:02}\n*배를 {ff}구할 방법을\n생각해야 {fe}겠군>?<END>
+[WORLD02_AREA098.EMI|sec11|body32|@0x703|55B] 여기에 {fe}닿으면\n디스에게로 갈 수 있다{02}디스를 {fe}만나러\n갈까요>?{c14:05}{c0c:02}예<END>
+[WORLD02_AREA098.EMI|sec11|body33|@0x73e|55B] 여기서 {fe}디스에게로\n갈 수 {ff}있지만>{02}지금은 {fe}그녀도 {ff}지쳐\n있는 것 같으니 {fe}그만두자><END>
+[WORLD02_AREA098.EMI|sec11|body34|@0x775|58B] *드디어>{ff} 고대하던\n신과 {ff}대면이구나>{02}만나서 {ff}어쩔지는\n네가 {ff}정하는 거야\n{c04:00} 꼬마야?<END>
+[WORLD02_AREA098.EMI|sec11|body42|@0x7af|27B] *이제 곧이야 {fe}너희\n긴장 늦추지 마<END>
+[WORLD02_AREA098.EMI|sec11|body43|@0x7ca|49B] *어라 {fe}{c04:00} 꼬마야>\n어쩐지 {fe}훌륭해졌네{02}그 모습이면 {fe}사막도\n괜찮겠어<END>
+[WORLD02_AREA098.EMI|sec11|body44|@0x7fb|37B] *바깥 바다 건너까지\n갔다 왔구나?{02}그 기세야 {fe}너희<END>
+[WORLD02_AREA098.EMI|sec11|body45|@0x820|42B] *내가 {fe}이렇게나\n녹초가 됐으니까>{02}너희도 {ff}힘내는 거야?<END>
+[WORLD02_AREA098.EMI|sec11|body46|@0x84a|29B] 그럼 {ff}한가할 때라도\n또 와>{02}힘내>><END>
+[WORLD02_AREA098.EMI|sec11|body47|@0x867|35B] *어머 {fe}무슨 일이야\n너희>>?{02}내가 {ff}그리워졌어?<END>
+[WORLD02_AREA098.EMI|sec11|body48|@0x88a|81B] 나한테>{ff} 뭔가\n배우고 싶은 사람이 {fe}있어?{02}나를 {ff}스승님이라고\n부른다면 {fe}생각해 보겠는데?{c14:01}{c0c:12}스승님이라 {fe}부르게 해 주세요<END>
+[WORLD02_AREA098.EMI|sec11|body49|@0x8ea|27B] >근데 {fe}너희\n다들 {ff}내 제자잖아@?<END>
+[WORLD02_AREA098.EMI|sec11|body50|@0x905|43B] 뭐야 {fe}농담이야?\n나한테 {ff}배울 거 따위\n없다는 거야?{c14:02}{c0c:02}예<END>
+[WORLD02_AREA098.EMI|sec11|body51|@0x934|26B] 응?\n내 제자가\n어디에 {ff}있다는 거야?<END>
+[WORLD02_AREA098.EMI|sec11|body52|@0x94e|54B] *아하하하하>{ff} 그럼\n{c07:00}{ff}을/를 {ff}내\n제자로 {ff}삼아 주마{02}할 거면 {fe}제대로\n하는 거야>?<END>
+[WORLD02_AREA098.EMI|sec11|body53|@0x984|34B] *또 다른 {fe}내\n제자가 되고 싶은 애는?{c14:03}{c0c:02}있어요<END>
+[WORLD02_AREA098.EMI|sec11|body54|@0x9ab|59B] *그럼 {fe}{c07:00}{ff} 따위\n이젠 {fc}모른다>{02}이 {ff}디스 님의\n제자를 {ff}그만두다니\n잘난 {ff}몸이 됐구나@?<END>
+[WORLD02_AREA098.EMI|sec11|body55|@0x9e6|53B] *또 다른 애도 {ff}어수선한\n틈에 {ff}그만두고 싶다고\n하는 건 아니겠지?{c14:04}{c0c:12}그만두고 싶은데요><END>
+[WORLD02_AREA098.EMI|sec11|body56|@0xa28|87B] 흐{fc}음>>\n아무래도 {ff}{c07:00}은/는>\n잘 {ff}하고 있는 모양이네?{02}좋아@{ff} 기특해 {fe}기특해>\n그럼 {fe}이 마법을 {ff}가르쳐 줄게@{02}{c07:00}{ff}은/는\n{c05:02}{c07:01}{06}{ff}을/를\n배웠다@@<END>
+[WORLD02_AREA098.EMI|sec11|body57|@0xa7f|16B] 누가 {ff}제자가 될래요?<END>
+[WORLD02_AREA098.EMI|sec11|body58|@0xa8f|16B] 누가 {ff}제자를 그만둘래요?<END>
+[WORLD02_AREA098.EMI|sec11|body59|@0xa9f|23B] 이 사람으로 {ff}괜찮나요?{ff}{ff}예{ff}아니오<END>
+[WORLD02_AREA098.EMI|sec11|body60|@0xab6|22B] 그만둘까요?{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}예{ff}아니오<END>

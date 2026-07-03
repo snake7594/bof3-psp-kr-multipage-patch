@@ -1,0 +1,1 @@
+[WORLD02_AREA095.EMI|sec11|body0|@0x21e|27B] {ff}{ff}{ff}{ff}{ff}{ff}위험@\n{ff}{ff}{ff}이 앞은{fe}글라우스 산<END>

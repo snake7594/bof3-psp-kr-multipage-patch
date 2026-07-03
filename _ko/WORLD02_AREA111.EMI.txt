@@ -1,0 +1,7 @@
+[WORLD02_AREA111.EMI|sec11|body0|@0x208|42B] 포{fc}트:드라이버{fc}\n안테나 조정에 관하여{02}>라고 적혀 있다{c14:00}{c0c:02}읽어 본다<END>
+[WORLD02_AREA111.EMI|sec11|body1|@0x237|108B] 방향키로\n안테나의{ff}방향을 바꿔>{02}노이즈가{fe}가장 적어지는\n지점을{ff}찾습니다{fd}{02}지점이 정해지면\n{c05:02}{c15:08}{06}버튼을 눌러{fe}조정 종료{02}안테나를 조정하시겠습니까?{c14:01}{c0c:02}한다<END>
+[WORLD02_AREA111.EMI|sec11|body2|@0x28d|22B] 안테나를 조정하시겠습니까?{c14:01}{c0c:02}한다<END>
+[WORLD02_AREA111.EMI|sec11|body3|@0x2a7|29B] ><PAUSE>><PAUSE>>아무 일도 일어나지 않는다\n아무래도{fe}실패한 모양이다<END>
+[WORLD02_AREA111.EMI|sec11|body4|@0x2c4|46B] 안테나 방향 조정{fe}종료\n포{fc}트:드라이버{fc}는\n인터랙티브:모{fc}드 작동<END>
+[WORLD02_AREA111.EMI|sec11|body5|@0x2f2|42B] 안테나는 정상적으로 작동하고 있다\n이걸로{fe}포{fc}트 간 이동이\n가능할 것이다><END>
+[WORLD02_AREA111.EMI|sec11|body6|@0x31c|69B] 문:스위치는\n개구부{ff}센터{fc}의\n터{fc}미널에{ff}있습니다{fd}{02}터{fc}미널로는{fe}3대의\n무{fc}빙:플레{fc}트를\n이용할 것{fd}<END>

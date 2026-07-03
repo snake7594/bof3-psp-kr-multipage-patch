@@ -1,0 +1,7 @@
+[WORLD02_AREA097.EMI|sec11|body0|@0x205|45B] *이 길은{fe}못 지나가요{02}저번{ff}화산 폭발 때문에\n길이 막혔거든요<END>
+[WORLD02_AREA097.EMI|sec11|body1|@0x232|74B] *동쪽으로 가려면>\n항구 마을에서 나가는{ff}짐배에\n태워 달라고{ff}하는 수밖에 없어요{02}얼마 전{fe}화산이 폭발해서\n길이{ff}못 쓰게 됐거든요<END>
+[WORLD02_AREA097.EMI|sec11|body2|@0x27c|59B] *우리는{ff}라팔라\n짐 운반 길드 사람들이에요{02}이 근처 통행은{ff}전부\n길드가{ff}관리하고 있죠<END>
+[WORLD02_AREA097.EMI|sec11|body3|@0x2b7|69B] *이{fe}사당>\n무슨 신을 모시는 것 같은데\n자세한 건{ff}잘 몰라{02}여기 길을{ff}낼 때\n우연히{ff}발견했다더라<END>
+[WORLD02_AREA097.EMI|sec11|body4|@0x2fc|73B] *엇{fe}길드장 편지?{02}>>너희{fe}샛길로\n지나갈 셈이야?{02}가는 건{ff}상관없는데\n마그마가 있어서\n위험하다고?<END>
+[WORLD02_AREA097.EMI|sec11|body5|@0x345|28B] *샛길로{ff}지나갈 거면\n마그마{ff}조심해<END>
+[WORLD02_AREA097.EMI|sec11|body6|@0x361|92B] *화산 속을 지나는\n동굴에는>{02}불 공격을{ff}흡수해서\n파워{fc}업 하는 마물이\n있대요>{02}대신{fe}받을 수 있는\nEXP도{ff}배가 된다는\n얘기지만요<END>

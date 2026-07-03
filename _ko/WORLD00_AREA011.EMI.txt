@@ -1,0 +1,39 @@
+[WORLD00_AREA011.EMI|sec11|body0|@0x219|21B] {c0c:06}{c04:03}\n*왓@\n{fe}형아@@<END>
+[WORLD00_AREA011.EMI|sec11|body1|@0x22e|15B] {c0c:04}{c04:04}\n*제기랄>>><END>
+[WORLD00_AREA011.EMI|sec11|body2|@0x23d|28B] {c0c:05}{c04:03}\n*맥니르야@{02}저 녀석이>{ff}복수하러><END>
+[WORLD00_AREA011.EMI|sec11|body3|@0x259|14B] {c0c:04}{c04:04}\n*><PAUSE>><PAUSE>><PAUSE>><END>
+[WORLD00_AREA011.EMI|sec11|body4|@0x267|47B] {c0c:05}{c04:03}\n*{0d}죽여 버리겠어@{0e}{0f}{03}{02}맥니르><PAUSE>{ff}감히>\n반드시>><PAUSE><PAUSE>{ff}저 녀석><END>
+[WORLD00_AREA011.EMI|sec11|body5|@0x296|10B] {c0c:04}{c04:04}\n*{c04:03}@<END>
+[WORLD00_AREA011.EMI|sec11|body6|@0x2a0|40B] {c0c:04}{c04:04}\n*><PAUSE>><PAUSE>>{c04:00}{02}내가 너무 안일했어{fe}<PAUSE>내가>>\n설마>{ff}<PAUSE><PAUSE>이런><END>
+[WORLD00_AREA011.EMI|sec11|body7|@0x2c8|39B] {c0c:06}{c04:03}\n*{fe}<PAUSE>형아@{02}무서운 놈들이>>\n아랫길을{ff}막고><END>
+[WORLD00_AREA011.EMI|sec11|body8|@0x2ef|41B] {c0c:06}{c04:03}\n*못 지나가{fe}<PAUSE>형아{02}난>>{ff}<PAUSE>무서워>\n어떡하면>><END>
+[WORLD00_AREA011.EMI|sec11|body9|@0x318|19B] {c0c:04}{c04:04}\n*헷><PAUSE>><PAUSE>>{ff}그래><END>
+[WORLD00_AREA011.EMI|sec11|body10|@0x32b|19B] {c0c:06}{c04:03}\n*>우리{fe}어떻게 되는 거야?<END>
+[WORLD00_AREA011.EMI|sec11|body11|@0x33e|44B] {c0c:04}{c04:04}\n*>>걱정 마{02}너희들만은>\n죽게 안 둬>>{02}>>절대로@<END>
+[WORLD00_AREA011.EMI|sec11|body12|@0x36a|106B] 바리오\n*온 모양이군>>{c16:20}산토\n*자{fe}잠깐만요{ff}형님{c16:20}{c04:04}\n*뭐><PAUSE>{ff}라고@?{c16:30}{c0c:06}*호오>{ff}강도라길래\n어떤 놈인가{ff}했더니>{02}아직{fe}애송이잖아\n바리오 형님>?<END>
+[WORLD00_AREA011.EMI|sec11|body13|@0x379|91B] 산토\n*자{fe}잠깐만요{ff}형님{c16:20}{c04:04}\n*뭐><PAUSE>{ff}라고@?{c16:30}{c0c:06}*호오>{ff}강도라길래\n어떤 놈인가{ff}했더니>{02}아직{fe}애송이잖아\n바리오 형님>?<END>
+[WORLD00_AREA011.EMI|sec11|body14|@0x38e|70B] {c04:04}\n*뭐><PAUSE>{ff}라고@?{c16:30}{c0c:06}*호오>{ff}강도라길래\n어떤 놈인가{ff}했더니>{02}아직{fe}애송이잖아\n바리오 형님>?<END>
+[WORLD00_AREA011.EMI|sec11|body15|@0x39d|55B] {c0c:06}*호오>{ff}강도라길래\n어떤 놈인가{ff}했더니>{02}아직{fe}애송이잖아\n바리오 형님>?<END>
+[WORLD00_AREA011.EMI|sec11|body16|@0x3d4|58B] 바리오\n*>방심하지 마{fe}산토{02}손버릇 나쁜{ff}애들한텐\n세상의{ff}냉혹함을\n가르쳐 줘야지{fe}안 그래>?<END>
+[WORLD00_AREA011.EMI|sec11|body17|@0x40e|22B] {c0c:04}{c04:03}\n*>제기랄{fe}{0d}너희들이{0e}{0f}<END>
+[WORLD00_AREA011.EMI|sec11|body18|@0x425|58B] 바리오\n*그런 거란다\n장난이{ff}지나친 애들아>{02}자{fe}따끔하게{ff}혼내 줄 테니\n얌전히{ff}따라와<END>
+[WORLD00_AREA011.EMI|sec11|body19|@0x45f|31B] {c0c:06}산토\n*형님{fe}<PAUSE>저 녀석들\n할 마음이{ff}생긴 모양인데요<END>
+[WORLD00_AREA011.EMI|sec11|body20|@0x47e|31B] {c0c:05}바리오\n*>그럼{fe}설교는\n이쯤에서{ff}끝내 둘까<END>
+[WORLD00_AREA011.EMI|sec11|body21|@0x49d|68B] {c0c:06}쿠라게\n*제기랄{fc}{fe}맥 녀석@{02}좀 더{fe}제대로 체크\n했어야 했는데>>{02}어째서{fe}이렇게\n수정이{ff}많은 거야@<END>
+[WORLD00_AREA011.EMI|sec11|body22|@0x4e1|61B] {c0c:06}산토\n*이 정도 일을\n우리한테{ff}맡기다니>{02}맥니르 녀석은\n정말로{ff}겁쟁이로구먼\n형님>><END>
+[WORLD00_AREA011.EMI|sec11|body33|@0x51e|42B] {c0c:05}바리오\n*흠>><PAUSE>{ff}하지만>{02}단련시키면{fe}이놈들>\n전력이{ff}됐을지도 모르지<END>
+[WORLD00_AREA011.EMI|sec11|body34|@0x548|33B] {c0c:06}산토\n*그렇군요{fe}형님@\n아까운 짓{ff}했나 보네요><END>
+[WORLD00_AREA011.EMI|sec11|body35|@0x569|53B] {c0c:05}바리오\n*어쩔 수 없지>{02}몰랐다고는 해도{ff}우리\n조직 돈에{ff}손을 댔으니까><END>
+[WORLD00_AREA011.EMI|sec11|body36|@0x59e|33B] {c0c:06}산토\n*><PAUSE>><PAUSE>>그렇군요{02}근데{fe}얘들{ff}어쩌죠?<END>
+[WORLD00_AREA011.EMI|sec11|body37|@0x5bf|16B] {c0c:05}바리오\n*>>버려 버리자<END>
+[WORLD00_AREA011.EMI|sec11|body38|@0x5cf|94B] {c0c:81}{ff}\n{ff}{ff}{c04:03}><PAUSE><PAUSE>{ff}{c04:00}>?{c16:30}{c0c:81}{ff}\n{ff}{ff}으윽><PAUSE>{ff}으으으>>{c16:20}{c0c:81}{ff}\n{ff}{ff}우오오오오오오오>>{c16:20}{c0c:81}{ff}{ff}{ff}내가{fe}내 용의 힘을\n{ff}\n{ff}{ff}깨달은 건{fe}그때였다><END>
+[WORLD00_AREA011.EMI|sec11|body39|@0x5e1|76B] {c0c:81}{ff}\n{ff}{ff}으윽><PAUSE>{ff}으으으>>{c16:20}{c0c:81}{ff}\n{ff}{ff}우오오오오오오오>>{c16:20}{c0c:81}{ff}{ff}{ff}내가{fe}내 용의 힘을\n{ff}\n{ff}{ff}깨달은 건{fe}그때였다><END>
+[WORLD00_AREA011.EMI|sec11|body40|@0x5f3|58B] {c0c:81}{ff}\n{ff}{ff}우오오오오오오오>>{c16:20}{c0c:81}{ff}{ff}{ff}내가{fe}내 용의 힘을\n{ff}\n{ff}{ff}깨달은 건{fe}그때였다><END>
+[WORLD00_AREA011.EMI|sec11|body41|@0x605|40B] {c0c:81}{ff}{ff}{ff}내가{fe}내 용의 힘을\n{ff}\n{ff}{ff}깨달은 건{fe}그때였다><END>
+[WORLD00_AREA011.EMI|sec11|body42|@0x62d|30B] {c04:03}\n*><PAUSE>><PAUSE>>으{fe}<PAUSE>으으{02}형아>>?\n{c04:00}>>?<END>
+[WORLD00_AREA011.EMI|sec11|body43|@0x64b|19B] {c04:03}\n*큭<PAUSE>젠장>>{ff}저 녀석들>><END>
+[WORLD00_AREA011.EMI|sec11|body44|@0x65e|15B] {c04:03}\n*형아>{fe}{c04:00}><END>
+[WORLD00_AREA011.EMI|sec11|body45|@0x66d|26B] {c04:03}\n*우왓{fe}뭐야\n나{fe}내 몸>@?<END>
+[WORLD00_AREA011.EMI|sec11|body46|@0x687|15B] {c04:03}\n*뭐야{fe}이거@?<END>
+[WORLD00_AREA011.EMI|sec11|body47|@0x696|31B] {c0c:81}{ff}{ff}{ff}{ff}{ff}그 후는>\n{ff}\n{ff}{ff}너와 똑같다{fe}{c04:00}><END>
+[WORLD00_AREA011.EMI|sec11|body48|@0x6b5|41B] *너희들{fe}무슨 짓 한 거야@?{02}봐 봐{fe}너희들 몸@\n타 버리고 있잖아@@<END>

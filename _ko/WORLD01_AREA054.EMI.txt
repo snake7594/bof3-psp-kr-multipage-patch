@@ -1,0 +1,7 @@
+[WORLD01_AREA054.EMI|sec11|body0|@0x200|17B] {c0c:05}{c04:05}\n*아><PAUSE>{ff}아>{ff}<PAUSE>야<END>
+[WORLD01_AREA054.EMI|sec11|body1|@0x211|33B] {c0c:05}{c04:05}\n*>>착지가{fe}아무래도\n잘 안 되네{fc}{ff}<PAUSE>>>응?<END>
+[WORLD01_AREA054.EMI|sec11|body2|@0x232|29B] {c0c:05}{c04:05}\n*로켓{ff}설명서네\n어{fc}디><PAUSE>><PAUSE>><END>
+[WORLD01_AREA054.EMI|sec11|body3|@0x24f|31B] {c0c:05}{c04:05}\n*이거{fe}한 명밖에\n못 탄다는 거잖아{fc}@<END>
+[WORLD01_AREA054.EMI|sec11|body4|@0x26e|48B] {c0c:05}{c04:05}\n*>>게다가{02}먼저{ff}탑 지붕을\n열어 둬야\n했었나{ff}봐{fc}><END>
+[WORLD01_AREA054.EMI|sec11|body5|@0x29e|47B] {c0c:05}{c04:05}\n*근데{fe}나머지는\n잘 됐어>>{02}뭐{fe}대체로 오케이{fc}<PAUSE>{ff}랄까\n그 정도?<END>
+[WORLD01_AREA054.EMI|sec11|body6|@0x2cd|38B] {c0c:05}{c04:05}\n*자{fe}<PAUSE>가자{02}우물쭈물하다간\n따라잡혀 버린다고?<END>

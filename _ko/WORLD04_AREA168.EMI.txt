@@ -1,0 +1,18 @@
+[WORLD04_AREA168.EMI|sec11|body0|@0x200|32B] 기계로{ff}잠겨 있다@\n{c04:04}(으)로도\n열 수 없을 것 같다<END>
+[WORLD04_AREA168.EMI|sec11|body1|@0x220|27B] 라보라토리{fc}로의\n입장 규제를\n해제했습니다<END>
+[WORLD04_AREA168.EMI|sec11|body2|@0x23b|26B] 정면 입구의{ff}잠금이\n해제되었습니다<END>
+[WORLD04_AREA168.EMI|sec11|body3|@0x255|28B] 이 문을{ff}열려면\n카{fc}드 키{fc}가{ff}필요한 것 같다<END>
+[WORLD04_AREA168.EMI|sec11|body4|@0x271|47B] {0a}{0a}{c05:02}기밀 LEVEL-A{06}\n{0a}<PAUSE>카{fc}드 키{fc}의{ff}ID 체크를\n실시해 주세요{0a}{c0c:14}<END>
+[WORLD04_AREA168.EMI|sec11|body5|@0x2ab|91B] {0a}{0a}ID 체크<PAUSE>:<PAUSE>:<PAUSE>:OK@\n{0a}<PAUSE>문의{ff}잠금을\n해제합니다{0a}{c0c:00}{0a}<PAUSE>ID 체크<PAUSE>:<PAUSE>:<PAUSE>:NG@{0a}{c0c:00}{ff}\n메뉴{fc}를{ff}골라 주세요{c14:01}{c0c:25}동료 교체<END>
+[WORLD04_AREA168.EMI|sec11|body6|@0x2d2|52B] {0a}<PAUSE>ID 체크<PAUSE>:<PAUSE>:<PAUSE>:NG@{0a}{c0c:00}{ff}\n메뉴{fc}를{ff}골라 주세요{c14:01}{c0c:25}동료 교체<END>
+[WORLD04_AREA168.EMI|sec11|body7|@0x2e6|32B] {ff}\n메뉴{fc}를{ff}골라 주세요{c14:01}{c0c:25}동료 교체<END>
+[WORLD04_AREA168.EMI|sec11|body8|@0x327|35B] 침대가 있다@\n여기라면{ff}쉴 수 있을 것 같다{02}어떻게 할까요?{c14:02}{c0c:02}쉰다<END>
+[WORLD04_AREA168.EMI|sec11|body9|@0x34e|48B] {c05:02}기밀 LEVEL-A{06}\n카{fc}드 키{fc}의{ff}ID 체크를\n실시해 주세요{c14:03}{c0c:02}실시한다<END>
+[WORLD04_AREA168.EMI|sec11|body11|@0x382|48B] {c05:02}기밀 LEVEL-B{06}\n카{fc}드 키{fc}의{ff}ID 체크를\n실시해 주세요{c14:04}{c0c:02}실시한다<END>
+[WORLD04_AREA168.EMI|sec11|body12|@0x3b6|53B] 오{fc}토 잠금 시스템 작동\n정면 입구는{ff}잠금 중{02}잠금을{ff}해제할까요?{c14:05}{c0c:02}네<END>
+[WORLD04_AREA168.EMI|sec11|body14|@0x3ef|64B] 레{fc}이저 잠금 시스템 작동 중\n라보라토리{fc}로의{ff}입장은\n규제되어 있습니다{02}잠금을{ff}해제할까요?{c14:06}{c0c:02}네<END>
+[WORLD04_AREA168.EMI|sec11|body15|@0x433|12B] 허니{fc}와{fe}꼭 닮았다@<END>
+[WORLD04_AREA168.EMI|sec11|body16|@0x43f|38B] *>손님{fe}내비게이터{fc}를\n찾으시나요?{c14:07}{c0c:13}내비게이터{fc}가 뭐야?<END>
+[WORLD04_AREA168.EMI|sec11|body17|@0x470|100B] *내비게이터{fc}란>\n저쪽에{ff}늘어서 있는>{02}고공 정거장{ff}미리아를\n안내하기 위한 기계로>{02}다양한{ff}안전 장치와\n내비게이터:코{fc}드라 불리는\n열쇠를{ff}장비하고 있습니다<END>
+[WORLD04_AREA168.EMI|sec11|body18|@0x4d4|34B] *>>어머{fe}손님\n이미{fe}내비게이터{fc}를\n가지고 계신 모양이네요<END>
+[WORLD04_AREA168.EMI|sec11|body19|@0x4f6|8B] *그러신가요?<END>

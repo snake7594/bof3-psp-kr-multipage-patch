@@ -1,0 +1,60 @@
+[WORLD00_AREA008.EMI|sec11|body0|@0x208|44B] *뭐냐{fe}꼬마야>>{02}그런{ff}꼴로\n어슬렁대다간>{02}들개한테{ff}잡아먹힌다<END>
+[WORLD00_AREA008.EMI|sec11|body1|@0x234|69B] *이{fe}시{fc}다 숲에는\n바바델이란{ff}영감이\n살고 있어>{02}이런 숲에{ff}혼자 있다니\n좀{ff}별난 사람이지<END>
+[WORLD00_AREA008.EMI|sec11|body2|@0x279|44B] *올해는{fe}이 숲에도\n먹을 게{ff}부족하네>{02}정말{ff}짜증나 죽겠어<END>
+[WORLD00_AREA008.EMI|sec11|body3|@0x2a5|56B] *바바델 영감\n사냥은{ff}엄청 잘한다는데{02}이렇게{ff}사냥감이{ff}적을 땐\n어떻게 하려나<END>
+[WORLD00_AREA008.EMI|sec11|body4|@0x2dd|53B] *글라우스 산의{ff}몬스터가\n이 숲의{ff}동물을\n다 먹어치웠어>{02}정말{ff}짜증나 죽겠어<END>
+[WORLD00_AREA008.EMI|sec11|body5|@0x312|56B] *도둑질이{ff}용서되는 건\n먹을 게 많을 때뿐이야>{02}흉년에는{ff}너희를\n봐줄{ff}여유는{fe}없다<END>
+[WORLD00_AREA008.EMI|sec11|body6|@0x34a|33B] 자물쇠가 잠겨 있다>\n{c04:04}이라면{ff}자물쇠를\n풀 수 있을지도{ff}모른다<END>
+[WORLD00_AREA008.EMI|sec11|body7|@0x36b|13B] {c04:04}은{ff}자물쇠를 풀었다@<END>
+[WORLD00_AREA008.EMI|sec11|body8|@0x378|12B] 07{c15:07}2B까지{ff}빔<END>
+[WORLD00_AREA008.EMI|sec11|body43|@0x384|20B] {c04:04}\n*생각대로{fe}아무도 없네><END>
+[WORLD00_AREA008.EMI|sec11|body44|@0x398|45B] {c04:03}\n*방심하지 마{fe}{c04:00}{02}시끄럽게 굴면\n누구한테{ff}들킬지도\n모르니까?<END>
+[WORLD00_AREA008.EMI|sec11|body45|@0x3c5|24B] {c04:04}\n*>나눠서{fe}찾아보자\n조용히 하고<END>
+[WORLD00_AREA008.EMI|sec11|body46|@0x3dd|30B] {c0c:05}{c04:04}\n*어딘가에{ff}먹을 게\n있을 것 같은데><END>
+[WORLD00_AREA008.EMI|sec11|body47|@0x3fb|44B] {c04:04}\n*{c04:00}{ff}{0d}시{c15:07}{c15:07}{c15:07}끄@@{0e}{0f}{c0c:06}{c04:03}\n*침착하게{ff}찾아보자고\n{c04:00}@<END>
+[WORLD00_AREA008.EMI|sec11|body48|@0x411|22B] {c0c:06}{c04:03}\n*침착하게{ff}찾아보자고\n{c04:00}@<END>
+[WORLD00_AREA008.EMI|sec11|body49|@0x427|22B] *먹을 건{fe}어디 있어?\n찾아라{fe}찾아><END>
+[WORLD00_AREA008.EMI|sec11|body50|@0x43d|18B] *이젠{ff}넘어지면 안 돼\n{c04:00}>><END>
+[WORLD00_AREA008.EMI|sec11|body51|@0x44f|27B] {c0c:03}{c04:03}\n*>튀려고 하기엔\n아직 이르다고{fe}{c04:00}<END>
+[WORLD00_AREA008.EMI|sec11|body52|@0x46a|17B] {c0c:05}{c04:04}\n*뭐 좀 찾았어?<END>
+[WORLD00_AREA008.EMI|sec11|body53|@0x47b|21B] {c0c:05}{c04:03}\n*엇{fe}먹을 거 있었어@?<END>
+[WORLD00_AREA008.EMI|sec11|body54|@0x490|22B] {c0c:05}{c04:03}\n*해냈다@{ff}빨리\n튀자>><END>
+[WORLD00_AREA008.EMI|sec11|body55|@0x4a6|50B] {c04:04}\n*바바델 영감\n돌아와 버렸어{0f}{c04:04}\n*><PAUSE>><PAUSE>큰일이네{ff}상황을 보고 올게<END>
+[WORLD00_AREA008.EMI|sec11|body56|@0x4c0|24B] {c04:04}\n*><PAUSE>><PAUSE>큰일이네{ff}상황을 보고 올게<END>
+[WORLD00_AREA008.EMI|sec11|body57|@0x4d8|44B] {c0c:04}{c04:04}\n*혹시 모를 땐>\n내가{ff}미끼가 될게>{02}너희는{fe}도망쳐\n알았지>><END>
+[WORLD00_AREA008.EMI|sec11|body58|@0x504|11B] {c04:03}\n*>>{0d}야{0e}{0f}<END>
+[WORLD00_AREA008.EMI|sec11|body59|@0x527|26B] {c04:03}\n*><PAUSE>><PAUSE>>나{fe}내가\n상황을{ff}보고 올게<END>
+[WORLD00_AREA008.EMI|sec11|body60|@0x541|33B] {c0c:04}{c04:03}\n*괜찮아>>\n무조건{ff}도망칠 수 있어{fe}{0d}응{0e}{0f}<END>
+[WORLD00_AREA008.EMI|sec11|body61|@0x563|30B] 바바델\n*역시{ff}내 집에\n훔치러 왔구나><END>
+[WORLD00_AREA008.EMI|sec11|body62|@0x581|52B] 바바델\n*흉년이라{fe}다들 힘들 때에>{02}일 안 하는 놈은{ff}먹지 말랬다는 말\n들어본 적 없냐?<END>
+[WORLD00_AREA008.EMI|sec11|body63|@0x5b5|26B] {c0c:06}{c04:03}\n*시끄러워@\n일 제대로{fe}하고 있다고@<END>
+[WORLD00_AREA008.EMI|sec11|body64|@0x5cf|16B] 이 대사를 잘라 주세요<END>
+[WORLD00_AREA008.EMI|sec11|body65|@0x5df|69B] 바바델\n*멍청한 놈들>{02}노상강도나{ff}좀도둑질이\n일에 들기나{ff}하냐>{02}원래라면{fe}이 숲에서\n쫓아낼{ff}참이지만><END>
+[WORLD00_AREA008.EMI|sec11|body66|@0x624|46B] 바바델\n*너희가>>\n마음을 고쳐먹겠다고{ff}한다면{02}용서 못 할 것도{fe}없지<END>
+[WORLD00_AREA008.EMI|sec11|body67|@0x652|19B] {c0c:05}{c04:04}\n*>>뭘 시킬 셈인데?<END>
+[WORLD00_AREA008.EMI|sec11|body68|@0x665|45B] 바바델\n*{c04:04}>{ff}너>\n실력에{ff}자신 있다고 했지?{02}일을{ff}맡기마>><END>
+[WORLD00_AREA008.EMI|sec11|body69|@0x692|38B] 바바델\n*>글라우스 산{fe}알지?\n숲을 빠져나가{fe}북쪽에 있는 산이다<END>
+[WORLD00_AREA008.EMI|sec11|body70|@0x6b8|39B] 바바델\n*어쨌든{fe}가 보면 안다>{02}넌{fe}거기로 가라\n알았지>?<END>
+[WORLD00_AREA008.EMI|sec11|body71|@0x6df|28B] {c0c:06}{c04:04}\n*나>{ff}혼자만?\n꼬맹이들은{fe}어쩌고?<END>
+[WORLD00_AREA008.EMI|sec11|body72|@0x6fb|38B] 바바델\n*걱정 마라>>{02}이놈들한테는{fe}다른\n일을{ff}시킬 거다><END>
+[WORLD00_AREA008.EMI|sec11|body73|@0x721|31B] {c0c:06}{c04:04}\n*내가{fe}도망 못 가게\n인질로 잡을 셈이냐>?<END>
+[WORLD00_AREA008.EMI|sec11|body74|@0x740|60B] {c0c:06}{c04:04}\n*좋아>{02}무슨 속셈인진{fe}모르겠지만\n글라우스 산에{ff}가 주마>{02}{c04:03}{fe}{c04:00}을\n부탁한다>><END>
+[WORLD00_AREA008.EMI|sec11|body75|@0x77c|28B] {c0c:05}{c04:03}\n*야{fe}영감탱이@\n뭘 시키려는 거야@?<END>
+[WORLD00_AREA008.EMI|sec11|body76|@0x798|43B] 바바델\n*일이다>{ff}{c04:03}{02}먹고 싶으면{fe}일하는 게\n당연한 거 아니냐?<END>
+[WORLD00_AREA008.EMI|sec11|body77|@0x7c3|185B] 바바델\n*이제부터{fe}너희에게\n장작 패기를{ff}시키겠다>{02}*방법은{fe}간단하다\n{c04:03}이{fe}장작을 놓고\n{c04:00}이{fe}그걸 벤다>{02}검 휘두르는 법은{fe}알지\n{c05:01}{c15:09}{06}버튼이다>?{02}타이밍이 빠르면\n{c04:03}이{fe}다친다{02}타이밍이{ff}늦으면\n장작은{ff}안 쪼개진다>{02}정해진 시간에{fe}최대한\n많이{ff}쪼개는 거다>{02}>>알았냐?{c14:00}{c0c:02}알았다<END>
+[WORLD00_AREA008.EMI|sec11|body78|@0x7e2|154B] *방법은{fe}간단하다\n{c04:03}이{fe}장작을 놓고\n{c04:00}이{fe}그걸 벤다>{02}검 휘두르는 법은{fe}알지\n{c05:01}{c15:09}{06}버튼이다>?{02}타이밍이 빠르면\n{c04:03}이{fe}다친다{02}타이밍이{ff}늦으면\n장작은{ff}안 쪼개진다>{02}정해진 시간에{fe}최대한\n많이{ff}쪼개는 거다>{02}>>알았냐?{c14:00}{c0c:02}알았다<END>
+[WORLD00_AREA008.EMI|sec11|body79|@0x883|27B] {c0c:05}{c04:03}\n*칫{fe}뭐야\n이런 거{ff}식은 죽 먹기지@<END>
+[WORLD00_AREA008.EMI|sec11|body80|@0x89e|23B] {c0c:05}{c04:03}\n*후딱 끝내 버리자고\n{c04:00}><END>
+[WORLD00_AREA008.EMI|sec11|body81|@0x8b5|28B] 바바델\n*그럼{fe}시작한다\n><PAUSE>><PAUSE>><PAUSE>>시작@<END>
+[WORLD00_AREA008.EMI|sec11|body82|@0x8d1|12B] 바바델\n*거기까지@<END>
+[WORLD00_AREA008.EMI|sec11|body83|@0x8dd|44B] 바바델\n*고작{fe}{c07:00}개냐>{02}이런 식으로는{fe}아직\n용서해 줄 수는{ff}없겠구나><END>
+[WORLD00_AREA008.EMI|sec11|body84|@0x909|37B] 바바델\n*>>다시 한번{fe}해라{02}간다><PAUSE>><PAUSE>><PAUSE>{fe}시작@<END>
+[WORLD00_AREA008.EMI|sec11|body85|@0x92e|25B] 바바델\n*>흠{fe}{c07:00}개냐{02}뭐{fe}괜찮겠지<END>
+[WORLD00_AREA008.EMI|sec11|body86|@0x947|42B] {c0c:05}{c04:03}\n*제대로{fe}일했다고@{02}이걸로{fe}도둑질해도\n뭐라 안 하는 거지?<END>
+[WORLD00_AREA008.EMI|sec11|body87|@0x971|51B] 바바델\n*그런 짓만{ff}하고 다니면>{02}언젠가{ff}정말\n호되게 당하는 걸{ff}모르겠냐<END>
+[WORLD00_AREA008.EMI|sec11|body88|@0x9a4|66B] {c0c:05}{c04:03}\n*흥이다@{02}우린{fe}대도둑이 돼서\n언젠가{fe}이런 데서\n떠날 거라고>{02}하나도{ff}안 무섭다고@<END>
+[WORLD00_AREA008.EMI|sec11|body89|@0x9e6|26B] {c0c:05}{c04:03}\n*{c04:00}{fe}형 좀\n쫓아가 보자고><END>
+[WORLD00_AREA008.EMI|sec11|body90|@0xa00|34B] *뭐{fe}한 번쯤은{ff}호되게\n당해 봐야{fe}알려나><END>
+[WORLD00_AREA008.EMI|sec11|body91|@0xa22|47B] {ff}{ff}글라우스 산 방면\n>산에는 위험이 가득\n출발 전에{ff}장비를 체크하자<END>
+[WORLD00_AREA008.EMI|sec11|body253|@0xa51|9B] 쓰레기 무단투기 금지@<END>
+[WORLD00_AREA008.EMI|sec11|body254|@0xa5a|29B] {ff}{ff}숲을 소중히@\n>나무를 걷어차면\n안 됩니다<END>

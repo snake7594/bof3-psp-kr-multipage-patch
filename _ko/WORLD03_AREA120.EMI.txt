@@ -1,0 +1,74 @@
+[WORLD03_AREA120.EMI|sec11|body0|@0x204|39B] *너희도{fe}어디선가\n도망쳐 온 거냐?{02}>>그래 보이진\n않지만 말이야<END>
+[WORLD03_AREA120.EMI|sec11|body1|@0x22b|29B] *여긴{fe}클리프>{02}따돌림받은 놈들이\n모인 마을이야><END>
+[WORLD03_AREA120.EMI|sec11|body2|@0x248|57B] *여긴{fe}다른 데서\n적응 못한{fe}이상한 놈들이\n모여 있지>{02}나 같은{fe}거 말이야\n케케케케<END>
+[WORLD03_AREA120.EMI|sec11|body3|@0x281|42B] *난{fe}위험한 짓 하고\n도망쳐 왔어>{02}여기라면{fe}아무도\n쫓아오지 않으니까><END>
+[WORLD03_AREA120.EMI|sec11|body4|@0x2ab|22B] *어라{fe}너희\n어디서 만난 적 없냐?<END>
+[WORLD03_AREA120.EMI|sec11|body5|@0x2c1|49B] *너흰{fe}뭐하러 왔어?{02}사람 찾으러?{02}가이스트라면{fe}마을\n제일 안쪽에 있어{02}크흐흐흐<END>
+[WORLD03_AREA120.EMI|sec11|body6|@0x2f2|5B] *쉬어<END>
+[WORLD03_AREA120.EMI|sec11|body7|@0x2f7|6B] *있냐?<END>
+[WORLD03_AREA120.EMI|sec11|body8|@0x2fd|71B] *변신 실험을 하다가\n원래대로 못 돌아왔지>{02}옛날엔{fe}우리 종족이\n마음대로 변신할 수 있었다고\n하긴 하다만<END>
+[WORLD03_AREA120.EMI|sec11|body9|@0x344|42B] *여행자냐?\n신기하네>>{02}아무것도 없지만{fe}편하게\n쉬다 가라고>?<END>
+[WORLD03_AREA120.EMI|sec11|body10|@0x36e|29B] *어어{fe}{c04:02}냐?\n너{fe}투기장은\n그만둔 거냐?<END>
+[WORLD03_AREA120.EMI|sec11|body11|@0x38b|11B] {c0c:05}*누구냐>>?<END>
+[WORLD03_AREA120.EMI|sec11|body12|@0x396|26B] {c0c:06}{c04:02}\n*>>>>>>\n가{fc}디언:가이스트><END>
+[WORLD03_AREA120.EMI|sec11|body13|@0x3b0|15B] {c0c:05}가이스트\n*>>{c04:02}냐?<END>
+[WORLD03_AREA120.EMI|sec11|body14|@0x3bf|37B] {c0c:06}가이스트\n*용족의>생존자라고?{02}><PAUSE>><PAUSE>이놈이 말이냐@?<END>
+[WORLD03_AREA120.EMI|sec11|body16|@0x3e4|76B] {c04:02}\n*우리는{fe}신의 명에 따라\n용족을 죽였다>{02}그것이{fe}잘못이\n아니었는지{ff}어떤지를\n알기 위한{fe}마지막 열쇠다>{02}이놈이><END>
+[WORLD03_AREA120.EMI|sec11|body17|@0x430|32B] {c0c:06}가이스트\n*>또{fe}그런\n복잡한 소리{fe}하는 거냐?<END>
+[WORLD03_AREA120.EMI|sec11|body18|@0x450|45B] {c0c:06}가이스트\n*신을{fe}못 믿게 되면\n도망치면 그만이야>{02}나처럼 말이지><END>
+[WORLD03_AREA120.EMI|sec11|body19|@0x47d|36B] {c0c:06}가이스트\n*대체{fe}그놈 하나\n데려가서{fe}뭐{fc}하려고>?<END>
+[WORLD03_AREA120.EMI|sec11|body20|@0x4a1|69B] {c0c:06}가이스트\n*용족의 원한을 풀려고\n돕는다고>?{02}설마{fe}그놈 하나로\n어떻게든 될 거라고\n생각하는 건 아니겠지@?<END>
+[WORLD03_AREA120.EMI|sec11|body21|@0x4e6|49B] {c04:02}\n*나는>{fe}진실이 알고 싶다>{02}어째서{fe}용족은 멸망해야만\n했단 말인가?<END>
+[WORLD03_AREA120.EMI|sec11|body22|@0x517|52B] {c0c:06}가이스트\n*하{fc}하>@\n변함없구만{fc}{fe}{c04:02}{02}진지한 얼굴로\n그런 소리{fe}하다니 말이야><END>
+[WORLD03_AREA120.EMI|sec11|body23|@0x54b|59B] {c0c:06}가이스트\n*뭐{fe}됐고>>{fe}그래>{02}진지하신 가{fc}디언 님이\n도망친 나한테\n뭘 해 주길 바라는 거냐?<END>
+[WORLD03_AREA120.EMI|sec11|body24|@0x586|25B] {c04:02}\n*>디스의 봉인을\n풀어 주었으면 한다<END>
+[WORLD03_AREA120.EMI|sec11|body25|@0x59f|35B] {c04:02}\n*신을 만나기 위해서>{02}디스의 도움이\n필요하다고>><END>
+[WORLD03_AREA120.EMI|sec11|body26|@0x5c2|39B] {c0c:06}가이스트\n*디스>{fe}말이지>{02}그거{fe}확실히\n내 일이긴 하지>><END>
+[WORLD03_AREA120.EMI|sec11|body27|@0x5e9|23B] {c0c:06}가이스트\n*알았어>>\n어떻게든 해 보지<END>
+[WORLD03_AREA120.EMI|sec11|body28|@0x600|46B] {c0c:06}가이스트\n*근데{fe}그 전에>{02}용족 형씨랑\n둘이서{ff}얘기 좀 하게 해 줄래?<END>
+[WORLD03_AREA120.EMI|sec11|body29|@0x62e|53B] {c0c:06}가이스트\n*>>{c04:02}한테\n들었겠지만{02}우리 가{fc}디언은\n용족과{ff}전쟁을 했었지<END>
+[WORLD03_AREA120.EMI|sec11|body30|@0x663|70B] {c0c:06}가이스트\n*그것도{fe}셀 수 없는\n용족을{ff}죽여 댔어>{02}미안하다고{fe}생각해>>{fe}<PAUSE>근데{02}이제 와서{fe}싸울 생각은 없겠지?<END>
+[WORLD03_AREA120.EMI|sec11|body31|@0x6a9|71B] {c0c:06}가이스트\n*>그렇겠지{02}우리가 죽인 용족도\n그랬어>{02}엄청난 힘을{ff}지녔으면서\n손도 안 대고{fe}죽어 갔지><END>
+[WORLD03_AREA120.EMI|sec11|body32|@0x6f0|89B] {c0c:06}가이스트\n*세상에선{fe}용족이 일으킨\n전쟁이라고들 하지만>{02}사실은{fe}달라>{02}우리 가{fc}디언이\n일방적으로{fe}용족을\n사냥했던 거야><END>
+[WORLD03_AREA120.EMI|sec11|body33|@0x749|75B] {c0c:06}가이스트\n*난{fe}그게 싫어져서\n도망쳤지>{02}{c04:02}는{fe}끝까지\n신을 믿고{fe}따라갔지만{02}계속{fe}헤매고 있었을 거야<END>
+[WORLD03_AREA120.EMI|sec11|body34|@0x794|41B] {c0c:06}가이스트\n*그런 까닭에>{02}{c04:02}의 마음도\n모르는 바는 아니야>{fe}<PAUSE>하지만<END>
+[WORLD03_AREA120.EMI|sec11|body35|@0x7bd|78B] {c0c:06}가이스트\n*난{fe}저 녀석처럼\n진지하지 않으니까>{02}신의 진실 따윈\n아무래도 좋아>{02}아니{fe}귀찮아서\n알고 싶지도 않아<END>
+[WORLD03_AREA120.EMI|sec11|body36|@0x80b|50B] {c0c:06}가이스트\n*그러니{fe}한 번 더\n다시 생각해 봐>>{02}밖에 있는{fe}{c04:02}랑\n잘{fc}얘기해 보고><END>
+[WORLD03_AREA120.EMI|sec11|body37|@0x83d|56B] {c0c:06}가이스트\n*>그래도{fe}역시 진심이라고\n한다면{02}여기로 와>\n너{fe}혼자서 말이야{02}알겠지>?<END>
+[WORLD03_AREA120.EMI|sec11|body38|@0x875|19B] {c0c:06}가이스트\n*좋아{fe}<PAUSE>그럼 가><END>
+[WORLD03_AREA120.EMI|sec11|body39|@0x888|52B] *시간은{fe}걸려도 괜찮아\n난{fe}여기 있을 테니까>{02}얘기가 정해지면\n혼자서 오라고>?<END>
+[WORLD03_AREA120.EMI|sec11|body40|@0x8bc|12B] {c04:02}\n*어떻게 됐지>?<END>
+[WORLD03_AREA120.EMI|sec11|body41|@0x8c8|39B] {c04:02}\n*흠>{fe}가이스트가\n그런 소리를>>{02}시험할 셈인가>\n{c04:00}를<END>
+[WORLD03_AREA120.EMI|sec11|body42|@0x8ef|85B] {c04:02}\n*예전부터{fe}가이스트는\n납득할 때까진{fe}움직이지 않아>{02}나나{fe}{c04:00}가\n용족을{ff}얼마나 진지하게\n생각하는지>{02}가이스트는{fe}알고 싶은 거겠지<END>
+[WORLD03_AREA120.EMI|sec11|body43|@0x944|63B] {c04:02}\n*{c04:00}는{fe}어떠냐>{02}네가 가진{fe}힘>{02}네 몸에 흐르는{fe}피>{02}종족을{ff}멸망시킨\n신의 진의><END>
+[WORLD03_AREA120.EMI|sec11|body44|@0x983|54B] {c04:02}\n*알고 싶다고 바라는\n그 강함으로>{02}가이스트를{ff}움직일 수 있겠나?{c14:00}{c0c:12}진실을 알아야만 한다<END>
+[WORLD03_AREA120.EMI|sec11|body45|@0x9c4|42B] {c04:02}\n*그렇다면{fe}걱정 없겠군>{02}채비를 갖추고\n가이스트를{ff}만나러 가라><END>
+[WORLD03_AREA120.EMI|sec11|body46|@0x9ee|58B] {c04:02}\n*뭐>{fe}뭐라고>@?{02}그{fe}그러면>{ff}신을\n만나는 걸{ff}포기한다고?{c14:01}{c0c:12}역시{fe}진실을 알고 싶다<END>
+[WORLD03_AREA120.EMI|sec11|body47|@0xa32|58B] {c04:02}\n*자{fe}<PAUSE>잠깐 기다려 봐>{02}그건{fe}역시>{ff}그>\n알아야{ff}하는 거 아닐까\n응>><END>
+[WORLD03_AREA120.EMI|sec11|body48|@0xa6c|55B] {c04:02}\n*그래{fe}여기서 여행을 끝낸다고>{02}아직{fe}{c04:00}를\n죽일 뻔했던 일의\n빚도{ff}안 갚았는데{fe}말이지?<END>
+[WORLD03_AREA120.EMI|sec11|body49|@0xaa3|70B] {c04:02}\n*그{fe}그런가>{ff}다행이군>{02}역시{fe}용족의>\n마지막 생존자로서{02}진실을 알 필요가{fe}있다>\n그런 거로군<END>
+[WORLD03_AREA120.EMI|sec11|body50|@0xae9|69B] {c04:02}\n*그렇다면{fe}그 사실을\n가이스트에게{ff}알리고>{02}저 녀석이{fe}움직이게\n해야겠군>{02}채비를 갖추고\n만나러 가야지>><END>
+[WORLD03_AREA120.EMI|sec11|body51|@0xb2e|40B] *어때{fe}결심은\n굳혀졌나>?{c14:02}{c0c:12}신을 만나{fe}진실을 안다<END>
+[WORLD03_AREA120.EMI|sec11|body52|@0xb5f|19B] *아{fe}그{fc}>\n뭐{fe}찬찬히 생각해 봐?<END>
+[WORLD03_AREA120.EMI|sec11|body53|@0xb72|19B] 가이스트\n*헤{fe}<PAUSE>역시{ff}그런가><END>
+[WORLD03_AREA120.EMI|sec11|body54|@0xb85|49B] 가이스트\n*너도{fe}진지해 보이고\n그럴 거라 생각했어>{02}그럼{fe}뭐>{ff}시작해 볼까<END>
+[WORLD03_AREA120.EMI|sec11|body55|@0xbb6|44B] 가이스트\n*저쪽으로 가>{02}두 개의{ff}화톳불\n한가운데{ff}서 줄래?<END>
+[WORLD03_AREA120.EMI|sec11|body56|@0xbe2|25B] *거기{fe}화톳불이랑\n화톳불{ff}사이야><END>
+[WORLD03_AREA120.EMI|sec11|body57|@0xbfb|37B] {c0c:03}가이스트\n*어이어이{fe}어디까지 가는 거야\n거기 있는{ff}화톳불이라고>?<END>
+[WORLD03_AREA120.EMI|sec11|body58|@0xc20|17B] {c0c:05}가이스트\n*좋아{fe}거기면 됐어<END>
+[WORLD03_AREA120.EMI|sec11|body59|@0xc31|52B] {c0c:05}가이스트\n*자>>\n낡아 빠진{ff}방식이라 생각하지만{02}난{fe}이것밖에\n할 줄 아는 게 없어서{fe}말이야><END>
+[WORLD03_AREA120.EMI|sec11|body60|@0xc65|31B] {c0c:05}가이스트\n*한판{fe}붙어 보자고\n용족이여어@<END>
+[WORLD03_AREA120.EMI|sec11|body61|@0xc84|28B] {c0c:05}가이스트\n*하앗{fe}<PAUSE>역시\n드래곤은{fe}강하군@<END>
+[WORLD03_AREA120.EMI|sec11|body62|@0xca0|63B] {c0c:05}가이스트\n*네가 바라는>{ff}디스의\n봉인은>>{02}내가{fe}살아 있는 동안엔\n풀리지 않아>{02}그러니{fe}어쩔 수 없지><END>
+[WORLD03_AREA120.EMI|sec11|body63|@0xcdf|58B] {c0c:05}가이스트\n*뭐{fe}신경 쓰지 마>{02}가{fc}디언이{ff}된 순간부터\n우린{fe}죽은 거나\n다름없으니까>><END>
+[WORLD03_AREA120.EMI|sec11|body64|@0xd19|68B] {c0c:05}가이스트\n*게다가{fe}싸울 때\n난{fe}용을 너무 많이 죽였어>{02}한 번쯤은{fe}용한테\n안 죽으면\n천벌 받을 거야><END>
+[WORLD03_AREA120.EMI|sec11|body65|@0xd5d|40B] {c0c:05}가이스트\n*후우>><PAUSE>{ff}하지만>{02}이 강함이>\n신을{ff}두렵게 만든 거였나>?<END>
+[WORLD03_AREA120.EMI|sec11|body66|@0xd85|15B] {c0c:06}{c04:02}\n*가이스트>>@?<END>
+[WORLD03_AREA120.EMI|sec11|body67|@0xd94|46B] {c0c:05}가이스트\n*아니>{ff}이렇게{02}한때의{ff}적조차\n동료로 만들어 버리는{ff}능력인가><END>
+[WORLD03_AREA120.EMI|sec11|body68|@0xdc2|53B] {c0c:05}가이스트\n*봉인을 푸는 역할이\n없었으면>{02}나도{fe}가고 싶었지만>{02}{c04:02}{fe}뒤를 부탁해><END>
+[WORLD03_AREA120.EMI|sec11|body69|@0xdf7|24B] {c0c:05}{c04:02}\n*가이스트는>\n알아준 건가><END>
+[WORLD03_AREA120.EMI|sec11|body70|@0xe0f|46B] {c04:02}\n*><PAUSE>><PAUSE>디스의 봉인은\n이걸로{fe}풀렸을 거다{02}가자><PAUSE>{ff}신을 만나러><END>
+[WORLD03_AREA120.EMI|sec11|body71|@0xe3d|7B] >모래입니다{fd}<END>
+[WORLD03_AREA120.EMI|sec11|body72|@0xe44|23B] {c0c:81}{ff}\n{ff}{ff}싸우고{fe}상처 입히고{fe}피를 흘리고><END>
+[WORLD03_AREA120.EMI|sec11|body73|@0xe5b|22B] *가이스트라면\n죽어 버렸어{02}크흐흐흐<END>
+[WORLD03_AREA120.EMI|sec11|body74|@0xe71|45B] *가이스트 녀석\n변신해 버렸어{02}난 이렇게\n이 꼴인데{ff}말이야::::<END>

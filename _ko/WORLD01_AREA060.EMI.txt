@@ -1,0 +1,6 @@
+[WORLD01_AREA060.EMI|sec11|body0|@0x226|31B] {c0c:06}{c04:02}\n*흠>{ff}{c04:00}이/가>\n몇 번이고{ff}지켰다고 들어서><END>
+[WORLD01_AREA060.EMI|sec11|body1|@0x245|42B] {c0c:06}{c04:02}\n*{c04:00}이/가{fe}힘을 내는 데\n필요한 게{fe}아닐까{02}생각했기 때문이다><END>
+[WORLD01_AREA060.EMI|sec11|body2|@0x26f|36B] {c0c:04}{c04:02}\n*용의 힘을{ff}내주지 않으면\n의미가 없으니{fe}말이다><END>
+[WORLD01_AREA060.EMI|sec11|body3|@0x293|44B] {c0c:05}{c04:01}\n*{c04:00}이/가>{ff}용의 힘을\n쓰는 건{fe}나 때문이야?{02}나를{ff}지키려고?<END>
+[WORLD01_AREA060.EMI|sec11|body4|@0x2bf|23B] {c04:01}\n*그렇다면{fe}나>\n강해질 테니까@<END>
+[WORLD01_AREA060.EMI|sec11|body5|@0x2d6|65B] {c04:01}\n*그러면{fe}{c04:00}은/는\n용의 힘을{ff}안 써도{fe}되고{02}용의 힘 때문에\n위험한 일을{ff}겪지 않아도\n되니까{fe}<PAUSE>응?<END>

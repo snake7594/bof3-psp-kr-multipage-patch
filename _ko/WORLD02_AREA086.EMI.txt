@@ -1,0 +1,20 @@
+[WORLD02_AREA086.EMI|sec11|body0|@0x208|24B] 반대쪽에서{fe}열쇠가\n잠겨 있는 것 같아><END>
+[WORLD02_AREA086.EMI|sec11|body1|@0x220|18B] {c0c:05}{c04:05}\n*기다려{fe}허니{fc}@<END>
+[WORLD02_AREA086.EMI|sec11|body2|@0x232|27B] {c04:05}\n*정{fc}말>{ff}허니{fc}는\n대체 어디 가려는 거야{fc}<END>
+[WORLD02_AREA086.EMI|sec11|body3|@0x24d|18B] {c0c:05}{c04:01}\n*어라{fe}여기는>>@?<END>
+[WORLD02_AREA086.EMI|sec11|body4|@0x25f|18B] {c0c:03}{c04:01}\n*여기는{fe}혹시>><END>
+[WORLD02_AREA086.EMI|sec11|body5|@0x271|59B] {c0c:06}{c04:01}\n*>역시{fe}그랬구나{02}기계 길드 사람들\n깜짝 놀라더라니>{02}언제 들어왔냐고{ff}말이야<END>
+[WORLD02_AREA086.EMI|sec11|body6|@0x2ac|56B] {c04:04}\n*웃기네>>{02}그렇게 고생해서{fe}바깥 바다로 나갔는데\n결국엔{fe}이렇게\n돌아온 것뿐이잖아><END>
+[WORLD02_AREA086.EMI|sec11|body7|@0x2e4|31B] {c04:04}\n*이런 식으로{fe}신을\n찾을 수 있긴 한 거야>?<END>
+[WORLD02_AREA086.EMI|sec11|body8|@0x303|39B] {c0c:05}{c04:02}\n*흠>{ff}원점으로\n돌아온 느낌이군>{02}어디를 찾아야 하나>><END>
+[WORLD02_AREA086.EMI|sec11|body9|@0x32a|53B] {c0c:06}{c04:01}\n*포{fc}트라는 기계는\n순식간이잖아>{02}세계란{ff}의외로\n크지 않은 걸지도{fe}몰라?<END>
+[WORLD02_AREA086.EMI|sec11|body10|@0x35f|10B] {c04:05}\n*그{fc}런가@?<END>
+[WORLD02_AREA086.EMI|sec11|body11|@0x369|64B] {c04:05}\n*포{fc}트는{ff}말하자면\n신의 시대의{ff}것이야{fc}{02}왜냐면{fe}신에게는\n세계 따위{ff}작았을 테니까<END>
+[WORLD02_AREA086.EMI|sec11|body12|@0x3a9|69B] {c04:05}\n*신>{ff}이라기보다\n기계를 만든 시대에는>{02}모두{fe}이런 식으로\n세계를{ff}오갔던 거야\n분명히>><END>
+[WORLD02_AREA086.EMI|sec11|body13|@0x3ee|44B] {c0c:06}{c04:01}\n*그건{fe}그러니까>{02}기계랑{fe}신이\n관계가 있다는 얘기야>?<END>
+[WORLD02_AREA086.EMI|sec11|body14|@0x41a|23B] {c04:05}\n*글쎄>>\n거기까진{fe}모르지만<END>
+[WORLD02_AREA086.EMI|sec11|body15|@0x431|39B] {c0c:05}{c04:02}\n*흠>>{02}기계는{fe}신들이\n남긴 것{fe}이란 말이군<END>
+[WORLD02_AREA086.EMI|sec11|body16|@0x458|22B] {c04:05}\n*맞아 맞아\n말 잘하네{fc}<END>
+[WORLD02_AREA086.EMI|sec11|body17|@0x46e|35B] {c04:05}\n*포{fc}트를 쓰면\n그런 것들에{fc}>{02}다가갈 수 있을지도{fe}몰라?<END>
+[WORLD02_AREA086.EMI|sec11|body18|@0x491|28B] {c04:05}\n*그럼{fe}우선{ff}아까 그\n포{fc}트를 조사해 보자?<END>
+[WORLD02_AREA086.EMI|sec11|body19|@0x4ad|25B] {c0c:01}파{fc}티 멤버{fc}를\n정해 주세요{fd}<END>

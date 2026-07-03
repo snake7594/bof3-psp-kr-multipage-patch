@@ -1,0 +1,66 @@
+[WORLD00_AREA021.EMI|sec11|body0|@0x21f|50B] *여긴{fe}암시장이라고\n불리는 곳이야>{02}진귀한 물건이{ff}손에 들어오니까\n둘러보고 가라고<END>
+[WORLD00_AREA021.EMI|sec11|body1|@0x251|49B] *그다지{fe}대놓고는\n못 하는 일도{ff}많으니까>{02}소란{ff}일으키지 않게\n조심하라고<END>
+[WORLD00_AREA021.EMI|sec11|body2|@0x282|66B] *암거래 물건을{ff}다루니까\n단속에{ff}조심해야 돼>{02}단속이라는 건\n암거래 물건을{ff}빼앗기는 거야<END>
+[WORLD00_AREA021.EMI|sec11|body3|@0x2c4|17B] *감시하고 있거든\n여러모로<END>
+[WORLD00_AREA021.EMI|sec11|body4|@0x2d5|61B] *여기 사람들은{fe}다들\n장사에 열심이라니까{02}내 물건도{fe}볼래?\n이것도{fe}저것도 있어\n>>그런 건 농담이고<END>
+[WORLD00_AREA021.EMI|sec11|body5|@0x312|63B] *여길 주무르는 조직은\n꽤나{ff}커서>{02}진멜에서{fe}하는\n대무회 같은 것도\n손대고 있다는 얘기야<END>
+[WORLD00_AREA021.EMI|sec11|body6|@0x351|61B] *보다시피>\n나한테는{fe}팔 물건이 없으니까\n좋은 걸{ff}알려 줄게{02}20제니{fc}에{fe}어때?{c14:01}{c0c:02}돈 낸다<END>
+[WORLD00_AREA021.EMI|sec11|body7|@0x395|51B] *어{fc}{fe}케니{fc}치 저 녀석\n또{fe}손님이랑{ff}다투고 있네>{02}저 녀석{fe}조만간 아버지한테\n얻어터질걸><END>
+[WORLD00_AREA021.EMI|sec11|body8|@0x3c8|6B] *멍멍<END>
+[WORLD00_AREA021.EMI|sec11|body9|@0x3ce|54B] *>잘도{ff}불량품을\n팔아넘겼겠다{c15:07}{c15:07}@{02}네놈 가게 보스한테\n일러바칠 거야@@<END>
+[WORLD00_AREA021.EMI|sec11|body10|@0x404|11B] *투덜투덜투덜투덜><END>
+[WORLD00_AREA021.EMI|sec11|body11|@0x40f|59B] *몰래{fe}가{fc}이스트 광석을\n팔러 온 거야>\n비밀이야{02}가{fc}이스트의{ff}불법 유통은\n걸리면{ff}큰일 나거든<END>
+[WORLD00_AREA021.EMI|sec11|body12|@0x44a|63B] *뭐{fe}1000제니{fc} 줄 테니까\n통과시켜 달라고@?{02}>>어떡할까나{c15:07}{c15:07}{02}뭐{fe}그런 말{ff}한 적 없다고@?\n>>아{fe}그래<END>
+[WORLD00_AREA021.EMI|sec11|body13|@0x489|37B] *이 앞은 말이야{fc}\n조직의{ff}높은 사람만\n지나갈 수 있다고{fc}<END>
+[WORLD00_AREA021.EMI|sec11|body14|@0x4ae|29B] *어서 오쇼{fe}기저귀부터\n비석까지{fe}뭐든지 있다오@<END>
+[WORLD00_AREA021.EMI|sec11|body15|@0x4cb|34B] *약한 무기부터{fe}강한 방어구까지\n뭐든지{ff}갖춰져 있다고@<END>
+[WORLD00_AREA021.EMI|sec11|body16|@0x4ed|35B] *헤헤{fe}바로 그거지>\n뭘 알고 싶어?{c14:02}{c0c:25}암시장에 대해<END>
+[WORLD00_AREA021.EMI|sec11|body17|@0x548|122B] *뭐{fe}이름 그대로\n평범하지 않은 물건을{ff}파는 곳이지{02}>예를 들면{fe}흉년에도\n여기 오면{fe}작물이 있어{02}누군가가{fe}빼돌리니까 그렇지{02}몇 년 전 흉년 때는\n맥니르 마을 작물이\n여기로 흘러왔었지><END>
+[WORLD00_AREA021.EMI|sec11|body18|@0x5c2|110B] *그건{fe}몰라{02}이런>{ff}화내지 마쇼>{02}그 일은{fe}너무 캐물으면\n안 되게{ff}돼 있어>{02}그러니까{fe}그 정도로\n위험한 놈들이라는 거야{02}>뭐{fe}아무리 좋게 봐도\n도둑과 살인자 집단이지<END>
+[WORLD00_AREA021.EMI|sec11|body19|@0x630|90B] *오호{fe}그 소문을\n알고 계셨군>{02}아직{fe}자세히는 모르지만\n남쪽 오우거{fc} 가도에서\n나그네가{ff}습격당한다더군{02}뭔가{fe}커다란 호랑이 같은\n몬스터{fc}래><END>
+[WORLD00_AREA021.EMI|sec11|body20|@0x68a|41B] *하하하하하\n야하구먼>{02}이것도{fe}저것도 있다지만\n난 모른다네<END>
+[WORLD00_AREA021.EMI|sec11|body21|@0x6b3|14B] *헤헤헤{fe}돈은 안 돌려줘<END>
+[WORLD00_AREA021.EMI|sec11|body22|@0x6c1|21B] *뭐야{fe}20밖에\n없는 거냐>><END>
+[WORLD00_AREA021.EMI|sec11|body23|@0x6d6|18B] *안 들어 두면{fe}나중에 손해 본다<END>
+[WORLD00_AREA021.EMI|sec11|body24|@0x6e8|25B] *이쪽엔{fe}이제\n가게가{ff}없어>{ff}손님<END>
+[WORLD00_AREA021.EMI|sec11|body25|@0x701|12B] {c04:02}\n*무슨 일이야>>?<END>
+[WORLD00_AREA021.EMI|sec11|body26|@0x70d|19B] 상인\n*저기{fe}손님@?<END>
+[WORLD00_AREA021.EMI|sec11|body27|@0x720|45B] 상인\n*손님들{fe}여기는\n처음이지 않아?{02}친목회{fe}안 들었지?<END>
+[WORLD00_AREA021.EMI|sec11|body28|@0x74d|99B] 상인\n*관리들한테{ff}들키면\n곤란하니까>{02}위험한 물건은\n친목회에서만{ff}팔거든{02}가입은{ff}공짜니까\n이거{fe}가져가>>{02};회원 카{fc}드<를\n받았다@<END>
+[WORLD00_AREA021.EMI|sec11|body29|@0x7b0|49B] 상인\n*그래서>>{ff}<PAUSE>위험한 물건이\n갖고 싶을 때는>{02}나중에{fe}얼마쯤\n내 줘야 한다고>><END>
+[WORLD00_AREA021.EMI|sec11|body30|@0x7e1|50B] {c0c:06}{c04:02}\n*>그만둬{02}이놈들{fe}바리오나 산토랑\n비슷한 놈들이야>{02}엮이지{fe}말자<END>
+[WORLD00_AREA021.EMI|sec11|body31|@0x813|30B] 상인\n*>아{fe}아니\n그{fe}<PAUSE>그렇습니까>>{02}그럼{fe}또 봐요<END>
+[WORLD00_AREA021.EMI|sec11|body32|@0x831|61B] *아{fc}슈라의 힘이 깃든\n무기들을{ff}보라고@{02}전부{fe}이 멋진 사나이>\n세키네 님이{ff}손수 만든 거다@<END>
+[WORLD00_AREA021.EMI|sec11|body33|@0x86e|20B] {c04:01}\n*>>뭔가{fe}분위기가 이상해?<END>
+[WORLD00_AREA021.EMI|sec11|body34|@0x882|17B] {c0c:05}{c04:02}\n*피>{ff}냄새다><END>
+[WORLD00_AREA021.EMI|sec11|body35|@0x893|14B] *으으><PAUSE>{ff}호{ff}호랑이><END>
+[WORLD00_AREA021.EMI|sec11|body36|@0x8a1|12B] *아파 죽겠어 아파 죽겠어<END>
+[WORLD00_AREA021.EMI|sec11|body37|@0x8ad|47B] *{0d}식인 호랑이가>{fe}호랑이가>{0e}{0f}{02}{02}정말{fe}이것도{ff}저것도\n무서웠어{c15:07}{c15:07}<END>
+[WORLD00_AREA021.EMI|sec11|body38|@0x8dc|34B] *식인 호랑이가>{ff}방금>\n눈 깜짝할 사이에>>\n아야야야야><END>
+[WORLD00_AREA021.EMI|sec11|body39|@0x8fe|10B] *투덜투>{ff}덜>><END>
+[WORLD00_AREA021.EMI|sec11|body40|@0x908|39B] *히에에에에엥>\n가{fc}이스트 밀매는{fe}그만둘게에{02}그러니까{fe}용서해 줘어어어><END>
+[WORLD00_AREA021.EMI|sec11|body41|@0x92f|9B] *왈왈왈왈@<END>
+[WORLD00_AREA021.EMI|sec11|body42|@0x938|42B] *호랑이가{fe}덮쳐 왔어\n어어{fe}엄청난{ff}기세로>{02}보스는{fe}어디냐>{ff}면서><END>
+[WORLD00_AREA021.EMI|sec11|body43|@0x962|6B] *꾸붸겍<END>
+[WORLD00_AREA021.EMI|sec11|body44|@0x968|22B] 대답이 없다>>\n그저{ff}시체일 뿐인 것 같다<END>
+[WORLD00_AREA021.EMI|sec11|body45|@0x97e|55B] *그러니까 내가 몇 번이나 말했잖아\n위험한 장사는 그만두자고 언젠가\n이런 꼴 당할 줄 알았다고<END>
+[WORLD00_AREA021.EMI|sec11|body46|@0x9b5|51B] *으으{fe}아파>{02}있잖아{fe}가진 돈{ff}다 낼 테니까\n약초>{ff}팔아 주지 않을래?{c14:03}{c0c:02}응<END>
+[WORLD00_AREA021.EMI|sec11|body47|@0x9ec|48B] *아아{fe}고마워>{02}{03}일행은{fe}{c07:01}제니{fc}에\n가진 약초를{ff}하나\n남자에게 팔았다@<END>
+[WORLD00_AREA021.EMI|sec11|body48|@0xa1c|33B] *그그{fe}그런 말 말고\n부탁이야{fe}아야야>{c14:04}{c0c:02}판다<END>
+[WORLD00_AREA021.EMI|sec11|body49|@0xa43|25B] *뭐야>{ff}약초>>\n안 갖고 있잖아><END>
+[WORLD00_AREA021.EMI|sec11|body50|@0xa5c|9B] *살았다><END>
+[WORLD00_AREA021.EMI|sec11|body51|@0xa65|38B] *>>치{fe}알았어{02}졸개는{ff}얌전히\n당해 주면{ff}되는 거지><END>
+[WORLD00_AREA021.EMI|sec11|body52|@0xa8b|46B] *히{fe}<PAUSE>식인 호랑이 녀석이>\n갑자기{fe}덮쳐 와서>>{02}보{fe}보스를{ff}내놔>{ff}면서><END>
+[WORLD00_AREA021.EMI|sec11|body53|@0xab9|53B] *보{fe}보스는{ff}진작에\n도망쳤어>>{02}아마{fe}북쪽 관문 쪽으로\n도망친 것{ff}같아>><END>
+[WORLD00_AREA021.EMI|sec11|body54|@0xaee|20B] *무서>{ff}워>\n괴괴괴물>>@<END>
+[WORLD00_AREA021.EMI|sec11|body55|@0xb02|41B] {c04:01}\n*호랑이>{ff}{c04:04}는\n맥니르를{ff}포기하고>{02}이쪽으로 온 거구나>?<END>
+[WORLD00_AREA021.EMI|sec11|body56|@0xb2b|46B] {c0c:05}{c04:02}\n*옛날>{ff}{c04:00} 일행을\n못 지킨 만큼>{02}날뛸{ff}생각>\n인 거겠지{fe}<END>
+[WORLD00_AREA021.EMI|sec11|body57|@0xb59|62B] {c04:01}\n*그런>>{02}이제 와서{fe}그런 짓 해도\n의미 없어>{02}게다가>{ff}보스가 당하면\n취조{ff}못 하게 돼@<END>
+[WORLD00_AREA021.EMI|sec11|body58|@0xb97|26B] *단속이\n호랑이 사내보다{ff}낫다는 거지<END>
+[WORLD00_AREA021.EMI|sec11|body59|@0xbb1|67B] *이 세상{ff}모든 상품을\n싸게 살 수 있는>{02}마{fc}천트 패스라는{ff}물건이\n어딘가에{ff}있다는 얘기\n알고 있어?<END>
+[WORLD00_AREA021.EMI|sec11|body60|@0xbf4|32B] *내 물건은\n여전히{fe}\n이것도{fe}저것도 있어<END>
+[WORLD00_AREA021.EMI|sec11|body61|@0xc14|65B] *여길 주무르는 조직은\n호랑이 사내한테{ff}호되게\n당해서>{02}당분간은{fe}얌전히\n장사할{ff}생각인가 봐<END>
+[WORLD00_AREA021.EMI|sec11|body62|@0xc55|46B] *여러모로{fe}악랄한 짓\n해 왔으니까>{02}원한 한두 개쯤은\n샀던 거겠지><END>
+[WORLD00_AREA021.EMI|sec11|body63|@0xc83|39B] *제기랄{c15:07}불량품을\n팔아넘겼겠다{c15:07}@@{02}밖으로 나와@<END>
+[WORLD00_AREA021.EMI|sec11|body64|@0xcaa|42B] *몰래{fe}가{fc}이스트 광석을\n팔던 게{ff}들통나 버렸어{02}진짜{fe}큰일이야{fe}진짜<END>
+[WORLD00_AREA021.EMI|sec11|body65|@0xcd4|18B] 복잡한 기계가 늘어서 있다@<END>

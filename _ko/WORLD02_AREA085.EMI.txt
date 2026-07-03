@@ -1,0 +1,20 @@
+[WORLD02_AREA085.EMI|sec11|body0|@0x207|37B] {c04:02}\n*미안하지만>>{02}여기서부터는{ff}{c04:00}과\n둘이서만{ff}있게 해 주겠나?<END>
+[WORLD02_AREA085.EMI|sec11|body1|@0x22c|25B] {c04:02}\n*아직{fe}중요한 볼일이\n안 끝났다>><END>
+[WORLD02_AREA085.EMI|sec11|body2|@0x245|25B] {ff}\n{ff}{ff}가{fc}디언:가이스트\n{ff}{ff}{ff}{ff}{ff}234<END>
+[WORLD02_AREA085.EMI|sec11|body3|@0x25e|24B] {ff}\n{ff}{ff}{ff}가{fc}디언:가우\n{ff}{ff}{ff}{ff}{ff}198<END>
+[WORLD02_AREA085.EMI|sec11|body4|@0x276|24B] {ff}\n{ff}{ff}가{fc}디언:가츠\n{ff}{ff}{ff}{ff}{ff}201<END>
+[WORLD02_AREA085.EMI|sec11|body5|@0x28e|22B] {ff}\n{ff}가{fc}디언:{c04:02}\n{ff}{ff}{ff}{ff}{ff}299<END>
+[WORLD02_AREA085.EMI|sec11|body6|@0x2a4|45B] {c04:02}\n*이건{fe}내 이름이다>{02}그리고{fe}가{fc}디언의 다른 이름은\n>>>용 사냥꾼<END>
+[WORLD02_AREA085.EMI|sec11|body7|@0x2d1|43B] {c0c:05}{c04:02}\n*아래 숫자는{fe}내가\n지난 전쟁에서{fe}죽인>{02}용의>{ff}수다>><END>
+[WORLD02_AREA085.EMI|sec11|body8|@0x2fc|50B] {c0c:05}{c04:02}\n*>>{c04:00}\n네 일족>{02}용의 일족이{ff}어찌 되었는지\n알려 주마>><END>
+[WORLD02_AREA085.EMI|sec11|body9|@0x32e|73B] {c0c:05}{c04:02}\n*사악하고{fe}싸움을 즐기는\n용의 일족은>{02}세계를{ff}제 것으로 만들려고\n전쟁을{ff}일으켰다>{02}400년쯤{ff}전의 일이지><END>
+[WORLD02_AREA085.EMI|sec11|body10|@0x377|64B] {c0c:05}{c04:02}\n*용족의 힘은{ff}강대했다>{02}우리{fe}울칸의 백성은\n사악과 싸울 힘을{ff}신에게 빌고>\n그리고>><END>
+[WORLD02_AREA085.EMI|sec11|body11|@0x3b7|70B] {c0c:05}{c04:02}\n*우리{fe}가{fc}디언은\n신의 힘을{ff}써서>{02}너희{fe}사악한 용족의\n대부분을{ff}이 땅에\n봉인했다<END>
+[WORLD02_AREA085.EMI|sec11|body12|@0x3fd|45B] {c0c:05}{c04:02}\n*{c04:00}>>{02}너는{ff}용의 일족의\n아마도{fe}마지막 생존자다<END>
+[WORLD02_AREA085.EMI|sec11|body13|@0x42a|43B] {c0c:05}{c04:02}\n*너를{ff}봉인하면\n내 사명도{ff}끝난다>{02}간다{fe}{c04:00}@<END>
+[WORLD02_AREA085.EMI|sec11|body14|@0x455|59B] {c0c:05}{c04:02}\n*크윽{fe}<PAUSE>으>>{02}역시{fe}용족이>\n작정만>{ff}한다면\n우리로선{fe}당해낼 수 없군>>{02}><PAUSE>><PAUSE>>어째서<END>
+[WORLD02_AREA085.EMI|sec11|body15|@0x490|27B] {c0c:05}{c04:02}\n*>>왜 그래\n끝장을<PAUSE>{ff}내지 않는 거냐?<END>
+[WORLD02_AREA085.EMI|sec11|body16|@0x4ab|57B] {c0c:81}{10}{ff}\n{ff}{ff}{ff}{ff}{ff}아{ff}니{ff}다{11}{c16:30}{c0c:81}{10}{ff}\n{ff}{ff}{ff}{ff}{ff}적이 아니다{11}{c16:40}{c0c:05}{c04:02}\n*카이저><PAUSE>{ff}드래곤>?<END>
+[WORLD02_AREA085.EMI|sec11|body17|@0x4bd|39B] {c0c:81}{10}{ff}\n{ff}{ff}{ff}{ff}{ff}적이 아니다{11}{c16:40}{c0c:05}{c04:02}\n*카이저><PAUSE>{ff}드래곤>?<END>
+[WORLD02_AREA085.EMI|sec11|body18|@0x4d0|20B] {c0c:05}{c04:02}\n*카이저><PAUSE>{ff}드래곤>?<END>
+[WORLD02_AREA085.EMI|sec11|body19|@0x4e4|18B] {c0c:81}{ff}\n{ff}{ff}{ff}{ff}{ff}자신의 피><END>

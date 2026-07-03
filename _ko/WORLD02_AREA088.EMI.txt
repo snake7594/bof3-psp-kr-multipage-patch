@@ -1,0 +1,17 @@
+[WORLD02_AREA088.EMI|sec11|body0|@0x20b|44B] 짐꾼 길드가 만든 길{fd}\n화산 폭발로{fe}지나갈 수 없게\n된 모양이다><END>
+[WORLD02_AREA088.EMI|sec11|body1|@0x237|48B] 짐꾼 길드가 만든 길{fd}\n배를 쓰게 되면서\n지나는 사람이 별로 없다{fd}<END>
+[WORLD02_AREA088.EMI|sec11|body2|@0x267|27B] 독특한 문화를 가진{fe}\n울칸 민족의 거리{fd}<END>
+[WORLD02_AREA088.EMI|sec11|body3|@0x282|25B] 울칸 민족이{fe}성지로\n받드는 곳{fd}<END>
+[WORLD02_AREA088.EMI|sec11|body4|@0x29b|55B] 울칸 민족이{fe}예전 대전에서\n멸망시킨 용족의 묘지{fd}\n죽은 뒤에도{fe}힘을 봉인하고 있다{fd}<END>
+[WORLD02_AREA088.EMI|sec11|body5|@0x2d2|37B] 기계 길드의 마을{fd}\n높이 쌓인 정크 더미에\n둘러싸여 있다{fd}<END>
+[WORLD02_AREA088.EMI|sec11|body6|@0x2f7|45B] 배가 닿는 곳{fd}\n기계 길드가{fe}짐꾼 길드와\n짐을 주고받는다{fd}<END>
+[WORLD02_AREA088.EMI|sec11|body7|@0x324|47B] 먼 바다에서{fe}기계가\n떠밀려 오는 해변{fd}\n기계 길드의 부품 조달소{fd}<END>
+[WORLD02_AREA088.EMI|sec11|body8|@0x353|11B] 오두막이 있습니다{fd}<END>
+[WORLD02_AREA088.EMI|sec11|body9|@0x35e|33B] {c04:01}\n*{c05:02}기계 해변{06}이 아니야?\n울칸 지방의>@?<END>
+[WORLD02_AREA088.EMI|sec11|body10|@0x37f|70B] *너희가{fe}살아온\n저편 세계>>{c16:30}*두 세계 사이에는\n;외해<라 불리는{ff}거친 바다가\n가로놓여><END>
+[WORLD02_AREA088.EMI|sec11|body11|@0x39c|41B] *두 세계 사이에는\n;외해<라 불리는{ff}거친 바다가\n가로놓여><END>
+[WORLD02_AREA088.EMI|sec11|body12|@0x3c5|56B] *대물이 많이 잡힌다@+고\n소문난{ff}포인트{fd}{02}{c05:04}타{fc}깃{ff}피시{06}\n{c07:00}\n{c07:01}{02}{c07:02}\n{c07:03}<END>
+[WORLD02_AREA088.EMI|sec11|body22|@0x3fd|69B] 낚시꾼이라면{fe}한 번은\n겨뤄 보고 싶은{ff}바다의 왕자가\n회유해 오는{ff}낚시터{fd}{02}{c05:04}타{fc}깃{ff}피시{06}\n{c07:00}\n{c07:01}{02}{c07:02}<END>
+[WORLD02_AREA088.EMI|sec11|body23|@0x442|89B] 미드:시{fc}와{fe}외해의\n틈새에{ff}온갖 물고기가\n모인다{fd}이게 바로 명당{fd}{02}{c05:04}타{fc}깃{ff}피시{06}\n{c07:00}\n{c07:01}{02}{c07:02}\n{c07:03}\n{c07:04}{02}{c07:05}\n{c07:06}\n{c07:07}{02}{c07:08}\n{c07:09}\n{c07:0a}<END>
+[WORLD02_AREA088.EMI|sec11|body24|@0x49b|24B] 좋은 향기가 나는\n예쁜{ff}꽃밭이 있다<END>
+[WORLD02_AREA088.EMI|sec11|body32|@0x4b3|56B] 꽃밭에\n요정의 마을이\n반응하고 있다>>{02}{c05:02}요정의 마을{06}을\n쓰겠습니까?{c14:00}{c0c:02}예<END>

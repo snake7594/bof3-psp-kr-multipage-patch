@@ -1,0 +1,69 @@
+[WORLD02_AREA082.EMI|sec11|body0|@0x20b|57B] *여기는{fe}천사의 탑<이라\n불리는 곳입니다>{02}우리{fe}울칸의 백성에겐\n특별한>{ff}성지지요<END>
+[WORLD02_AREA082.EMI|sec11|body1|@0x244|57B] *유적 안에{ff}들어갈 수 있는 건\n{c05:02}타파 마을{06}의{ff}주민>{02}그것도{fe}장로의 허락을\n받은 자뿐입니다<END>
+[WORLD02_AREA082.EMI|sec11|body2|@0x27d|53B] *죄송하지만\n안에 들어가려면>{02}타파의 장로와{ff}이야기를 나눈 뒤에\n해 주시겠습니까?<END>
+[WORLD02_AREA082.EMI|sec11|body3|@0x2b2|58B] *오오{fe}가디언님\n돌아오셨습니까>>{02}하지만{fe}안에 들어가시기 전에\n장로를{ff}만나 보십시오<END>
+[WORLD02_AREA082.EMI|sec11|body4|@0x2ec|49B] *가디언:{c04:02}\n어서{ff}돌아오셨습니다{02}타파 마을에는{fe}벌써\n다녀오셨습니까?<END>
+[WORLD02_AREA082.EMI|sec11|body5|@0x31d|26B] *장로께{ff}말씀 들었습니다\n들어가십시오<END>
+[WORLD02_AREA082.EMI|sec11|body6|@0x337|53B] *우리 성지에{ff}외부인은>{02}원래는{ff}안 되지만\n{c04:02}님의{ff}일행이라면\n괜찮겠지요>><END>
+[WORLD02_AREA082.EMI|sec11|body7|@0x36c|57B] *죄송하지만\n울칸 백성의{ff}성지입니다>{02}관계없는 분을{ff}들여보낼\n수는 없습니다<END>
+[WORLD02_AREA082.EMI|sec11|body8|@0x3a5|14B] {c04:02}\n*><PAUSE>><PAUSE>>디스<END>
+[WORLD02_AREA082.EMI|sec11|body9|@0x3b3|21B] {c0c:06}디스\n*가디언><PAUSE>><PAUSE>>?<END>
+[WORLD02_AREA082.EMI|sec11|body10|@0x3c8|70B] {c0c:06}디스\n*이{fe}멍청한\n가디언 녀석@@{02}감히{fe}이 디스님을\n500년이나{ff}가둬 놨겠다@{02}박살<PAUSE><PAUSE>내 버린다@<END>
+[WORLD02_AREA082.EMI|sec11|body11|@0x40e|57B] {c0c:06}디스\n*그래서{fe}<PAUSE>봉인을{ff}풀었다는 건{02}드디어{fe}내 말을\n믿을 마음이{ff}생긴 거지?<END>
+[WORLD02_AREA082.EMI|sec11|body12|@0x447|19B] {c0c:06}디스\n*너무 늦었어{fe}바보@<END>
+[WORLD02_AREA082.EMI|sec11|body13|@0x45a|29B] {c0c:06}디스\n*그래도>>{ff}아슬아슬하게\n늦지 않았나>><END>
+[WORLD02_AREA082.EMI|sec11|body14|@0x477|55B] 디스\n*용족이{fe}모두\n죽어 버렸으면>{02}돌이킬 수{ff}없게 되는\n참이었지만>><END>
+[WORLD02_AREA082.EMI|sec11|body15|@0x4ae|24B] 디스\n*아직{fe}이 아이가\n남아 있네>>@<END>
+[WORLD02_AREA082.EMI|sec11|body16|@0x4c6|17B] {c0c:06}{c04:02}\n*그래서>{ff}신은>?<END>
+[WORLD02_AREA082.EMI|sec11|body17|@0x4d7|63B] 디스\n*당황하지{fe}마\n가디언@{02}여기는{fe}죽은 용의 기운이\n강해서{fe}안 돼>{02}장소를{ff}옮기자<END>
+[WORLD02_AREA082.EMI|sec11|body18|@0x516|48B] 디스\n*서쪽>{ff}화산 기슭에\n사당이{fe}있었을 거야>{02}거기로{ff}와 줘>?<END>
+[WORLD02_AREA082.EMI|sec11|body19|@0x546|34B] 디스\n*서쪽에 있는{ff}화산이야>\n알겠지{fe}용 아가야?<END>
+[WORLD02_AREA082.EMI|sec11|body20|@0x568|28B] {c0c:06}{c04:02}\n*서쪽 화산>{ff}{c05:02}즈블로 화산{06}{fe}인가<END>
+[WORLD02_AREA082.EMI|sec11|body21|@0x584|35B] {c0c:05}{c04:01}\n*잠깐만@{02}뭘{fe}그렇게 좋아하는 거야\n{c04:00}@?<END>
+[WORLD02_AREA082.EMI|sec11|body22|@0x5a7|15B] {c0c:05}{c04:04}\n*재미있구먼>><END>
+[WORLD02_AREA082.EMI|sec11|body23|@0x5b6|30B] *여기는{fe}천사의 탑\n울칸 백성의{ff}성지입니다><END>
+[WORLD02_AREA082.EMI|sec11|body24|@0x5d4|38B] *어{fe}용의>{ff}무덤>?\n무슨{ff}말씀이신지\n모르겠습니다만>?<END>
+[WORLD02_AREA082.EMI|sec11|body25|@0x5fa|48B] 파수꾼\n*우리 성지에\n외지 분은{fe}못 들어가십니다{02}부디{fe}돌아가 주십시오><END>
+[WORLD02_AREA082.EMI|sec11|body26|@0x62a|38B] *어라{fe}가디언님\n쉬러 가신 게\n아니었습니까>?<END>
+[WORLD02_AREA082.EMI|sec11|body27|@0x650|30B] *이거 참{fe}가디언님\n어서{ff}오십시오<END>
+[WORLD02_AREA082.EMI|sec11|body28|@0x66e|30B] {c0c:06}파수꾼\n*가디언:{c04:02}\n천사의 탑으로는>?<END>
+[WORLD02_AREA082.EMI|sec11|body29|@0x68c|31B] {c04:02}\n*음><PAUSE>{ff}신에게서\n맡은 힘은{fe}신에게로>><END>
+[WORLD02_AREA082.EMI|sec11|body30|@0x6ab|44B] {c0c:05}파수꾼\n*흙에서 태어난 자는\n흙으로>{02}오오>@\n가디언{fe}그렇다면><END>
+[WORLD02_AREA082.EMI|sec11|body31|@0x6d7|72B] 파수꾼\n*우리를{ff}지켜 주셔서\n감사했습니다>{02}편안히{fe}쉬십시오\n가디언:{c04:02}\n신이{fe}당신과 함께>@<END>
+[WORLD02_AREA082.EMI|sec11|body32|@0x71f|40B] {c04:02}\n*대전 후>{ff}용족을 멸하고\n사명을 다한{fe}가디언은<END>
+[WORLD02_AREA082.EMI|sec11|body33|@0x747|254B] {c04:02}\n*이 탑에서{fe}신에게 기도하며>\n승리를{ff}바쳤다{c16:40}{c0c:81}무릎 꿇은{ff}가디언들\n{ff}\n{ff}앞에{fe}신이 모습을 드러내{c16:50}{c0c:81}{ff}몸을 버려{fe}사악을 물리치고\n{ff}\n{ff}{ff}{ff}천사{fe}한 사람 한 사람을\n{ff}\n{ff}{ff}위로했다고 전해진다>{c16:50}{c0c:05}{c04:02}\n*즉{fe}우리 가디언은\n그 사명의 끝에>{c16:40}{c04:02}\n*신을 만나는 것을{ff}허락받은\n셈이라는{fe}거다>{c16:40}{c04:02}\n*대부분의{fe}가디언은\n그렇게{fe}신을 만난 뒤>{02}힘을{ff}신에게 돌려주고\n잠에{fe}들었다><END>
+[WORLD02_AREA082.EMI|sec11|body34|@0x765|224B] {c0c:81}무릎 꿇은{ff}가디언들\n{ff}\n{ff}앞에{fe}신이 모습을 드러내{c16:50}{c0c:81}{ff}몸을 버려{fe}사악을 물리치고\n{ff}\n{ff}{ff}{ff}천사{fe}한 사람 한 사람을\n{ff}\n{ff}{ff}위로했다고 전해진다>{c16:50}{c0c:05}{c04:02}\n*즉{fe}우리 가디언은\n그 사명의 끝에>{c16:40}{c04:02}\n*신을 만나는 것을{ff}허락받은\n셈이라는{fe}거다>{c16:40}{c04:02}\n*대부분의{fe}가디언은\n그렇게{fe}신을 만난 뒤>{02}힘을{ff}신에게 돌려주고\n잠에{fe}들었다><END>
+[WORLD02_AREA082.EMI|sec11|body35|@0x78c|185B] {c0c:81}{ff}몸을 버려{fe}사악을 물리치고\n{ff}\n{ff}{ff}{ff}천사{fe}한 사람 한 사람을\n{ff}\n{ff}{ff}위로했다고 전해진다>{c16:50}{c0c:05}{c04:02}\n*즉{fe}우리 가디언은\n그 사명의 끝에>{c16:40}{c04:02}\n*신을 만나는 것을{ff}허락받은\n셈이라는{fe}거다>{c16:40}{c04:02}\n*대부분의{fe}가디언은\n그렇게{fe}신을 만난 뒤>{02}힘을{ff}신에게 돌려주고\n잠에{fe}들었다><END>
+[WORLD02_AREA082.EMI|sec11|body36|@0x7c7|126B] {c0c:05}{c04:02}\n*즉{fe}우리 가디언은\n그 사명의 끝에>{c16:40}{c04:02}\n*신을 만나는 것을{ff}허락받은\n셈이라는{fe}거다>{c16:40}{c04:02}\n*대부분의{fe}가디언은\n그렇게{fe}신을 만난 뒤>{02}힘을{ff}신에게 돌려주고\n잠에{fe}들었다><END>
+[WORLD02_AREA082.EMI|sec11|body37|@0x7ec|89B] {c04:02}\n*신을 만나는 것을{ff}허락받은\n셈이라는{fe}거다>{c16:40}{c04:02}\n*대부분의{fe}가디언은\n그렇게{fe}신을 만난 뒤>{02}힘을{ff}신에게 돌려주고\n잠에{fe}들었다><END>
+[WORLD02_AREA082.EMI|sec11|body38|@0x80d|56B] {c04:02}\n*대부분의{fe}가디언은\n그렇게{fe}신을 만난 뒤>{02}힘을{ff}신에게 돌려주고\n잠에{fe}들었다><END>
+[WORLD02_AREA082.EMI|sec11|body39|@0x845|62B] {c04:02}\n*>>돌의 잠{02}몸을 버리고{fe}신의 힘으로\n오래 살아남은{ff}가디언은\n마지막에{fe}돌이 된다<END>
+[WORLD02_AREA082.EMI|sec11|body40|@0x883|34B] {c04:02}\n*>돌이 되기 전에{fe}{c04:00}\n너를{fe}신과 만나게 해 주마<END>
+[WORLD02_AREA082.EMI|sec11|body41|@0x8a5|27B] {c04:02}\n*그리고{fe}물어보아라\n신의{fe}진의를>@<END>
+[WORLD02_AREA082.EMI|sec11|body42|@0x8c0|34B] {c0c:84}{ff}\n가>{ff}디언>>\n신>>{ff}여기에는>>\n오지>{ff}않아><END>
+[WORLD02_AREA082.EMI|sec11|body43|@0x8e2|18B] {c0c:84}{ff}\n{ff}\n{ff}신은>{ff}오지 않아<END>
+[WORLD02_AREA082.EMI|sec11|body44|@0x8f4|15B] {c0c:03}{c04:02}\n*누구{fe}냐>?<END>
+[WORLD02_AREA082.EMI|sec11|body45|@0x903|31B] {c0c:06}*신을{fe}만나고 싶으면>\n나를>{ff}여기서{fe}꺼내라>><END>
+[WORLD02_AREA082.EMI|sec11|body46|@0x922|21B] {c0c:03}{c04:02}\n*너는>{fe}<PAUSE>디스>>?<END>
+[WORLD02_AREA082.EMI|sec11|body47|@0x937|28B] {c0c:06}*봉인의{fe}열쇠>\n가디언:가이스트를>><END>
+[WORLD02_AREA082.EMI|sec11|body48|@0x953|28B] {c0c:06}{c04:02}\n*기다려{fe}디스@\n가이스트는>@@<END>
+[WORLD02_AREA082.EMI|sec11|body49|@0x96f|26B] {c0c:05}{c04:01}\n*{c04:02}씨>\n신은>{ff}계셨어?<END>
+[WORLD02_AREA082.EMI|sec11|body50|@0x989|17B] {c0c:05}{c04:05}\n*>그래서{fe}신은?<END>
+[WORLD02_AREA082.EMI|sec11|body51|@0x99a|32B] {c0c:05}{c04:04}\n*어{fe}어이{ff}괜찮은 거냐\n신은{fe}어떻게 됐어>?<END>
+[WORLD02_AREA082.EMI|sec11|body52|@0x9ba|13B] {c0c:05}{c04:06}\n*푸카큐르?<END>
+[WORLD02_AREA082.EMI|sec11|body53|@0x9c7|26B] {c0c:06}{c04:02}\n*><PAUSE>><PAUSE>>신은{02}아니{fe}그 전에>><END>
+[WORLD02_AREA082.EMI|sec11|body54|@0x9e1|64B] {c0c:06}{c04:02}\n*그 전에>{ff}사람을\n찾아야만{fe}하게 됐다>{02}이름은{fe}{c05:02}가이스트{06}>{02}나와 같은{fe}<PAUSE>가디언이다<END>
+[WORLD02_AREA082.EMI|sec11|body55|@0xa21|26B] {c0c:05}{c04:01}\n*가디언>?{02}{c04:02}씨랑{fe}같은?<END>
+[WORLD02_AREA082.EMI|sec11|body56|@0xa3b|26B] {c0c:05}{c04:05}\n*가디언이\n또 있는 거야?<END>
+[WORLD02_AREA082.EMI|sec11|body57|@0xa55|29B] {c0c:05}{c04:04}\n*아저씨랑 똑같이>\n도대체{fe}또 왜 그래?<END>
+[WORLD02_AREA082.EMI|sec11|body58|@0xa72|13B] {c0c:05}{c04:06}\n*푸롭푸?<END>
+[WORLD02_AREA082.EMI|sec11|body59|@0xa7f|70B] {c0c:06}{c04:02}\n*실은{fe}나도 사정이\n잘 모르겠다{fe}만>{02}{c05:02}가이스트{06}에 대해선\n울칸:타파에서{ff}물어보면\n알 수 있을지도 모른다><END>
+[WORLD02_AREA082.EMI|sec11|body60|@0xac5|29B] 빛의 벽 너머에\n여자가{ff}누워 있다><END>
+[WORLD02_AREA082.EMI|sec11|body61|@0xae2|53B] 파수꾼\n*어라>{fe}무슨 일이십니까?{02}혹시{fe}가디언이\n쉬시는 데\n불편이라도>?<END>
+[WORLD02_AREA082.EMI|sec11|body62|@0xb17|44B] 파수꾼\n*그렇습니까>>?{02}뭐{fe}언제든\n기다리고 있을 테니\n오십시오><END>
+[WORLD02_AREA082.EMI|sec11|body63|@0xb43|65B] *어>>\n가디언:가이스트?{02}전설에서는{fe}아마>\n엄청 강한{ff}가디언인데>\n행방불명이{fe}됐다고 했죠<END>
+[WORLD02_AREA082.EMI|sec11|body64|@0xb84|57B] *탑 남쪽{fe}지하에\n봉인되어 있는 건>{02}디스라는\n사악에 가담한{ff}마녀입니다<END>
+[WORLD02_AREA082.EMI|sec11|body65|@0xbbd|43B] 파수꾼\n*가디언:{c04:02}{02}이번에야말로{fe}사명을 다하고\n쉬시는 겁니까>?<END>
+[WORLD02_AREA082.EMI|sec11|body66|@0xbe8|45B] *원래는{fe}안 되지만\n여러분{fe}여러 번 오셨으니\n들여보내 드릴게요><END>
+[WORLD02_AREA082.EMI|sec11|body67|@0xc15|21B] *{c04:02}씨의\n일행이신 거죠>?<END>
+[WORLD02_AREA082.EMI|sec11|body68|@0xc2a|39B] *순찰을 안 돌면\n안 되는데>>{02}뛰어내려서{fe}다치는 건\n싫단 말이야><END>

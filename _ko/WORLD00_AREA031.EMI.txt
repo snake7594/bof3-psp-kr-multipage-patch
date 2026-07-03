@@ -1,0 +1,2 @@
+[WORLD00_AREA031.EMI|sec11|body0|@0x10|52B] {ff}{ff}{ff}{ff}한때{fe}세계를\n{ff}\n{ff}{ff}멸망시키려 했다고 전해지는\n{ff}\n{ff}{ff}{ff}{ff}전설의 생물{fe}용도<END>
+[WORLD00_AREA031.EMI|sec11|body2|@0x44|56B] {ff}{ff}{ff}{ff}{ff}죽어 사라진 뒤\n{ff}\n{ff}{ff}고순도의 고{fc}스트 광석으로\n{ff}\n{ff}{ff}{ff}사람들에게 쓰여 왔다{fd}<END>

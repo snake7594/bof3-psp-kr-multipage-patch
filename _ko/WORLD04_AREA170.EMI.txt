@@ -1,0 +1,11 @@
+[WORLD04_AREA170.EMI|sec11|body0|@0x221|27B] 리프트 스위치다>\n눌러 볼까요?{c14:00}{c0c:02}예<END>
+[WORLD04_AREA170.EMI|sec11|body1|@0x240|27B] 리프트 스위치다>\n눌러 볼까요?{c14:01}{c0c:02}예<END>
+[WORLD04_AREA170.EMI|sec11|body2|@0x25f|27B] 리프트 스위치다>\n눌러 볼까요?{c14:02}{c0c:02}예<END>
+[WORLD04_AREA170.EMI|sec11|body3|@0x27e|14B] 리프트에{ff}타 주세요<END>
+[WORLD04_AREA170.EMI|sec11|body4|@0x28c|81B] {ff}\n{0a}{0a}{ff}{ff}{ff}{ff}{ff}{c05:02}가스 실험 중{06}{0a}{c0c:02}슬립: 가스를{ff}사용한\n실험을{ff}진행 중입니다>{02}방에 들어가기 전에{fe}가스를\n정지시켜 주세요<END>
+[WORLD04_AREA170.EMI|sec11|body5|@0x2dd|35B] 바닥이{fe}스파크 중이라\n위험해 보인다>{02}들어갈까요?{c14:03}{c0c:02}예<END>
+[WORLD04_AREA170.EMI|sec11|body10|@0x304|59B] 쇼크 패널 설정 모니터{02}플러스: 마이너스를\n조합해서>{02}스파크시킬 패널을\n설정해 주세요<END>
+[WORLD04_AREA170.EMI|sec11|body11|@0x33f|59B] 쇼크 패널 설정 모니터{02}플러스: 마이너스를\n조합해서>{02}스파크시킬 패널을\n설정해 주세요<END>
+[WORLD04_AREA170.EMI|sec11|body12|@0x37a|59B] 쇼크 패널 설정 모니터{02}플러스: 마이너스를\n조합해서>{02}스파크시킬 패널을\n설정해 주세요<END>
+[WORLD04_AREA170.EMI|sec11|body13|@0x3b5|81B] {ff}\n{ff}{ff}{ff}{c05:02}쇼크 실험 구역{06}{02}모니터 3대로{fe}스파크\n시킬 패널을{ff}설정합니다{02}스파크 중에는{fe}위험하니\n함부로 들어오지 말 것<END>
+[WORLD04_AREA170.EMI|sec11|body14|@0x406|63B] {c05:02}오렌지: 셸{06}을 손에 넣었다{02}>{c04:05}에게{ff}장비하면\n바주카로{fe}일종의 식물을\n부술 수 있습니다{fd}<END>

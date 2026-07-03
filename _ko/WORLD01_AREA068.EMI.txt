@@ -1,0 +1,91 @@
+[WORLD01_AREA068.EMI|sec11|body0|@0x200|43B] *이게 바로 오아시스 물이란\n거지>{02}은은한 새콤함이\n카레{ff}에 딱이라니까@<END>
+[WORLD01_AREA068.EMI|sec11|body1|@0x22b|56B] *난 여기 물을 관리하고\n있는데>{02}우물 도르래가\n망가져서>{02}물을{ff} 못 긷게 됐어<END>
+[WORLD01_AREA068.EMI|sec11|body2|@0x263|57B] *저기{fe} 누구>\n힘 세고{fe} 밧줄 당기는 거\n잘하는 사람{ff} 몰라?{02}오아시스 물{ff} 길어 달라고><END>
+[WORLD01_AREA068.EMI|sec11|body3|@0x29c|11B] ;카페:데:톤<<END>
+[WORLD01_AREA068.EMI|sec11|body4|@0x2a7|32B] {c04:01}\n*이런 데에{ff} 가게가>{02}저기{fe} 좀 쉬었다 가요<END>
+[WORLD01_AREA068.EMI|sec11|body5|@0x2c7|42B] 웨이트리스\n*어서 오세요{fc}{02}손님들도>>\n발 묶이신{ff} 분들이세요?<END>
+[WORLD01_AREA068.EMI|sec11|body6|@0x2f1|62B] 웨이트리스\n*네{fe}<PAUSE>에그노크 가도에\n수상한 무리가 있어서>{02}윈디아로 가는 통행을\n검문하고 있거든요<END>
+[WORLD01_AREA068.EMI|sec11|body8|@0x32f|34B] 웨이트리스\n*뭐{fe}<PAUSE>덕분에{ff} 손님은\n늘었지만요><END>
+[WORLD01_AREA068.EMI|sec11|body9|@0x351|28B] {c04:05}\n*분명{fe} 너희를\n쫓는 무리겠지{fc}><END>
+[WORLD01_AREA068.EMI|sec11|body12|@0x36d|43B] {c0c:06}남자\n*>혹시\n{c04:05} 선생님{ff}이세요?{02}오랜만입니다\n펠릿입니다@<END>
+[WORLD01_AREA068.EMI|sec11|body13|@0x398|46B] {c04:05}\n*선생인지는{ff} 모르겠지만\n나{fe} {c04:05} 맞아>{02}근데{fe} 너 같은 건\n모르겠는{fc}데<END>
+[WORLD01_AREA068.EMI|sec11|body14|@0x3c6|53B] {c0c:06}펠릿\n*저{fe}<PAUSE>저예요{ff} 저{02}아버님이{ff} 만드신\n실험 플랜트{ff} 소장><END>
+[WORLD01_AREA068.EMI|sec11|body15|@0x3fb|84B] {c04:05}\n*하긴{fe} 가이스트 광석으로\n식물을{ff} 키우는 건>{02}아버지가{ff} 발견한\n방법이긴 한데>>{02}플랜트를{ff} 만드는 동안\n아버지{ff} 돌아가셨고><END>
+[WORLD01_AREA068.EMI|sec11|body17|@0x44f|68B] {c0c:06}펠릿\n*그{fe} 그렇습니다>{02}아버님의{ff} 레프솔 군이\n없어진 뒤로>{02}플랜트{ff} 기계는\n계속 고장{ff}이라서><END>
+[WORLD01_AREA068.EMI|sec11|body18|@0x493|73B] {c04:05}\n*그야{fe} 당연하지{fc}>@{02}식물을{ff} 빨리 키우는\n가이스트 반응기 같은 거>{02}아버지 말고{ff} 제대로\n쓸 수{ff} 있을 리가 없잖아<END>
+[WORLD01_AREA068.EMI|sec11|body19|@0x4dc|69B] {c0c:06}펠릿\n*윽{fe}<PAUSE>그렇습니다>{02}그래서{fe} 레프솔 군의{ff} 조수를\n하시던>{02}{c04:05} 선생님께\n좀 도와주십사 하고<END>
+[WORLD01_AREA068.EMI|sec11|body20|@0x521|25B] {c04:05}\n*좋아>\n기계{fe} 만질 수 있는 거지?<END>
+[WORLD01_AREA068.EMI|sec11|body23|@0x53a|48B] {c0c:06}펠릿\n*오오>\n감사합니다@{02}그럼{fe} 플랜트에서\n기다리고 있겠습니다@@<END>
+[WORLD01_AREA068.EMI|sec11|body25|@0x56a|39B] {c04:01}\n*>저기{fe} {c04:05} 씨?{02}잘{fe} 모르겠는데\n>어떻게 된 거야?<END>
+[WORLD01_AREA068.EMI|sec11|body28|@0x591|65B] {c04:05}\n*가이스트를{ff} 써서>{02}식물을{ff} 키우는 플랜트가\n있는데>{02}거기{fe} 원래 아버지가\n맡았던 곳이야{fc}><END>
+[WORLD01_AREA068.EMI|sec11|body29|@0x5d2|87B] {c04:05}\n*>그래서{fe} 뭐\n아버지{ff} 기계 일이고{02}좀{ff} 도와줄까 싶은\n거야>{02}뭐{fe} 어차피{ff} 가도도\n당분간은{ff} 못 지날 것\n같으니까{fe} 괜찮잖아>?<END>
+[WORLD01_AREA068.EMI|sec11|body30|@0x629|25B] 물지기\n*앗{fe} 아저씨@\n힘 좀 셀 것 같은데@@<END>
+[WORLD01_AREA068.EMI|sec11|body31|@0x642|43B] 물지기\n*잠깐{fe} 이{ff} 우물에서>{02}오아시스 물{ff} 길어 올리는 거\n좀 도와줘@<END>
+[WORLD01_AREA068.EMI|sec11|body32|@0x66d|41B] 물지기\n*그럼{fe} 방법을 설명\n할 테니까>{02}잘 들어{fe} 아저씨?<END>
+[WORLD01_AREA068.EMI|sec11|body33|@0x696|42B] 물지기\n*먼저{fe} {c05:01}{c15:09}{06}버튼을\n몇 번이고 눌러서>{02}밧줄을{ff} 늘리는 거야><END>
+[WORLD01_AREA068.EMI|sec11|body34|@0x6c0|100B] 물지기\n*밧줄 끝의{ff} 양동이가\n수면에 닿아서>{02}{c05:02}첨벙{06} 하고 소리가 나면>{02}버튼 누르는 걸{ff} 멈춰@{02}>이때{fe} 몇 번{ff} 눌렀는지\n횟수를{ff} {c05:02}기억해{06} 둬<END>
+[WORLD01_AREA068.EMI|sec11|body35|@0x724|93B] 물지기\n*그리고>{ff} 방향키를\n{0d}달칵달칵{0e}{0f}{02}하면>{02}양동이를{ff} 흔들어\n물을 안에{fe} 넣는 거야>{02}{c05:02}부글부글{06}{ff} 소리가 안 날 때까지\n방향키를 움직여@<END>
+[WORLD01_AREA068.EMI|sec11|body36|@0x781|110B] 물지기\n*양동이를{ff} 다 흔들었으면>{02}이번엔{fe} {c05:02}{c15:08}{06}버튼을 눌러\n밧줄을{ff} 당기는 거야@{02}이때{fe} 처음에{ff} {c05:01}{c15:09}{06}버튼을\n누른 것과 {c05:02}같은 횟수{06}만큼\n{c05:02}{c15:08}{06}버튼을{ff} 눌러<END>
+[WORLD01_AREA068.EMI|sec11|body37|@0x7ef|117B] 물지기\n*이런 식으로 하면\n물을{ff} 길을 수 있어>{02}버튼 누르는{ff} 속도가\n너무 느리거나>{02}소리에{ff} 안 맞으면\n실수하게 되니까\n조심해>>{02}알았어?{ff} 한 번 더\n설명할까?{c14:00}{c0c:02}됐어<END>
+[WORLD01_AREA068.EMI|sec11|body38|@0x86b|33B] 물지기\n*좋{fc}아{fe} 그럼 진짜로\n간다{c15:07}{c15:07}><PAUSE>{ff}자@<END>
+[WORLD01_AREA068.EMI|sec11|body39|@0x88c|14B] {c0c:01}{ff}\n{ff}{ff}{ff}>>실패<END>
+[WORLD01_AREA068.EMI|sec11|body40|@0x89a|39B] 물지기\n*안 됐나>{02}그래도{fe} 또{ff} 할 마음 생기면\n도와줘><END>
+[WORLD01_AREA068.EMI|sec11|body41|@0x8c1|30B] *힘 센{fe} 아저씨>\n할 마음{ff} 안 생기려나?<END>
+[WORLD01_AREA068.EMI|sec11|body42|@0x8df|26B] *아{fe} 아저씨@\n도와주는 거지@?<END>
+[WORLD01_AREA068.EMI|sec11|body43|@0x8f9|54B] 물지기\n*좋{fc}아{fe} 그럼{ff} 힘내서\n물 길어 올려줘@{02}설명은{fe} 필요 없지?{c14:00}{c0c:02}필요 없어<END>
+[WORLD01_AREA068.EMI|sec11|body44|@0x936|18B] 물지기\n*해냈다{fe} 아저씨@<END>
+[WORLD01_AREA068.EMI|sec11|body45|@0x948|68B] 물지기\n*고마워{fe} 아저씨@\n덕분에{fe} 물 길었어>{02}답례라고 하긴{fe} 뭐하지만\n{c05:02}오아시스 물{06}{ff} 가져가<END>
+[WORLD01_AREA068.EMI|sec11|body46|@0x98c|32B] 물지기\n*그럼{fe} 또>{ff} 물 필요할 때는\n길러 와@<END>
+[WORLD01_AREA068.EMI|sec11|body47|@0x9ac|22B] *오?{ff} 또 물{fe} 길을 거야?{c14:01}{c0c:02}응<END>
+[WORLD01_AREA068.EMI|sec11|body48|@0x9c6|28B] *>오아시스 물이{ff} 필요할 때는\n언제든 와줘<END>
+[WORLD01_AREA068.EMI|sec11|body49|@0x9e2|19B] {c05:02}오아시스 물{06}을{ff} 손에 넣었다@<END>
+[WORLD01_AREA068.EMI|sec11|body50|@0x9f5|22B] >>하지만\n소지품이{ff} 가득 찼다@<END>
+[WORLD01_AREA068.EMI|sec11|body51|@0xa0b|26B] *즐거운 여행의 동반자로\n아이템{ff} 사 가요<END>
+[WORLD01_AREA068.EMI|sec11|body78|@0xa25|58B] *>가도가{ff} 막혀서\n손님이{ff} 언제까지고\n여기 있으니{ff}>{02}그래도{fe} 아직{ff} 침대는\n남아 있어?<END>
+[WORLD01_AREA068.EMI|sec11|body79|@0xa5f|28B] *음식 최고는{fe} 여기야\n누구한테도{ff} 안 져@<END>
+[WORLD01_AREA068.EMI|sec11|body80|@0xa7b|25B] *하{fc}이{fe} 여기\n고로케 대 마일드 한 상@<END>
+[WORLD01_AREA068.EMI|sec11|body81|@0xa94|21B] *역시{ff} {c05:04}카레{06}는\n곱빼기지<END>
+[WORLD01_AREA068.EMI|sec11|body82|@0xaa9|62B] *플랜트?\n아아>{ff} 서쪽에 있는{fe} 그거 말이군{02}>가이스트에서 나오는 빛으로\n이상한 식물을{ff} 만든다나\n어쩐다나 하는?<END>
+[WORLD01_AREA068.EMI|sec11|body83|@0xae7|66B] *윈디아에{ff} 가고 싶은데\n가도가{ff} 막혀서>{02}저{ff} 불한당들\n뭐 하려고{ff} 가도를\n막고 있는 거야?<END>
+[WORLD01_AREA068.EMI|sec11|body84|@0xb29|27B] *이 감자{fe}\n플랜트에서{ff} 난 건가?<END>
+[WORLD01_AREA068.EMI|sec11|body85|@0xb44|38B] *플랜트라는 게{ff} 그\n서쪽 산속의>{02}수상한 실험 하는 곳이야?<END>
+[WORLD01_AREA068.EMI|sec11|body86|@0xb6a|78B] *동쪽 다리를{ff} 건너려고\n여기까지 왔는데>{02}웬{ff} 불량배가\n안 보내줘{02}모처럼{ff} 왕한테\n통행증{ff} 받았는데><END>
+[WORLD01_AREA068.EMI|sec11|body87|@0xbb8|57B] *전망 좋은\n멋진{ff} 발코니에서\n티:타임>{02}>이라고 생각했더니\n명물 {c05:04}카레{06}{ff}래@<END>
+[WORLD01_AREA068.EMI|sec11|body88|@0xbf1|43B] *야쿠자가 없어졌는데도\n손님이 안 줄어::\n이거 혹시::?<END>
+[WORLD01_AREA068.EMI|sec11|body96|@0xc1c|34B] *콜로세움에서 용이 싸웠대@\n뭔가{fe} 낭만이지@<END>
+[WORLD01_AREA068.EMI|sec11|body97|@0xc3e|101B] *꿀꺽꿀꺽>{02}나 같은{ff} 평민한텐\n상관없지만>{02}빨{c15:18}라지고{fe} 게다가\n몬스터한테서{ff} 아이템을\n훔칠 수 있게 된다는>{02}사부님이{fe} 이 근처에\n있다더군>{ff} 꿀꺽꿀꺽<END>
+[WORLD01_AREA068.EMI|sec11|body98|@0xca3|27B] *흐음{fe} 편리할 것 같긴 한데\n좀 으스스하네<END>
+[WORLD01_AREA068.EMI|sec11|body99|@0xcbe|31B] *해변에는{fe} 많은 기계가\n떠밀려 온대@<END>
+[WORLD01_AREA068.EMI|sec11|body100|@0xcdd|29B] *카레 건더기는{ff} 역시\n강화 작물인 걸까?<END>
+[WORLD01_AREA068.EMI|sec11|body101|@0xcfa|53B] *카레가{ff} 맛있는 건지\n손님이{ff} 언제까지고\n여기 있으니{ff}>{02}그래도{fe} 아직{ff} 침대는\n남아 있어?<END>
+[WORLD01_AREA068.EMI|sec11|body102|@0xd2f|39B] *어서 오세요{fc}>{02}웨이트리스{ff} 제복이\n귀여{fc}워서 좋아<END>
+[WORLD01_AREA068.EMI|sec11|body103|@0xd56|21B] *이{ff} 물>\n뭔가{fe} 좀 시지 않아?<END>
+[WORLD01_AREA068.EMI|sec11|body104|@0xd6b|30B] *카레는{ff} 먹은 거\n금방{ff} 들통나지\n냄새로><END>
+[WORLD01_AREA068.EMI|sec11|body105|@0xd89|27B] *오아시스 물이라는데\n카레{ff}에 잘 어울린대><END>
+[WORLD01_AREA068.EMI|sec11|body106|@0xda4|47B] *이 가게선{fe} 강화 작물을\n쓰는데>{02}요즘{fe} 맛이 좀{ff} 이상해<END>
+[WORLD01_AREA068.EMI|sec11|body107|@0xdd3|33B] *꿀꺽꿀꺽꿀꺽>{02}크>{02}{ff}{02}{ff}{02}{ff}{02}푸하{c15:07}{c15:07}{c15:07}아@<END>
+[WORLD01_AREA068.EMI|sec11|body108|@0xdf4|47B] *남이{ff} 식사하고 있을 때\n말 거는 걸 보니>{02}어지간히{ff} 중요한\n용건인가?<END>
+[WORLD01_AREA068.EMI|sec11|body109|@0xe23|26B] *강화 작물은\n싼 것만이{ff} 장점이지><END>
+[WORLD01_AREA068.EMI|sec11|body110|@0xe3d|18B] *후{fc}>\n느긋한{fe} 한때><END>
+[WORLD01_AREA068.EMI|sec11|body111|@0xe4f|19B] *어서 오세요\n도구점입니다<END>
+[WORLD01_AREA068.EMI|sec11|body112|@0xe62|14B] *쉬었다 가시겠소?<END>
+[WORLD01_AREA068.EMI|sec11|body113|@0xe70|34B] *아{fc}{fe} 놀렸네>{02}역시{fe} 마일드로\n해둘 걸{ff} 그랬어><END>
+[WORLD01_AREA068.EMI|sec11|body114|@0xe92|62B] 도론조\n*다짜고짜{ff} 미안한데\n당신{ff} 가망 있어 보여{02}어때?{ff} 내 똘마니가\n안 될래?{c14:02}{c0c:02}좋아<END>
+[WORLD01_AREA068.EMI|sec11|body128|@0xeb3|29B] 어때?{ff} 내 똘마니가\n안 될래?{c14:02}{c0c:02}좋아<END>
+[WORLD01_AREA068.EMI|sec11|body129|@0xed4|65B] 좋아{fe} 외톨이 늑대 같던\n내 삶도{ff} 오늘로 끝이야{02}날{ff} 따라오면{fe}\n날카로운 나이프 같은 몸으로\n만들어 줄게<END>
+[WORLD01_AREA068.EMI|sec11|body130|@0xf15|103B] 어라{fe} 역시{ff} 안 되겠네{02}내 똘마니가\n되고 싶으면{02}적어도{ff} 15종 이상의\n무기를{ff} 항상 들고 다니는{02}위험하고{ff} 화약 냄새 나는\n녀석{ff} 이어야 해{02}그럼{ff} 또{fe} 와<END>
+[WORLD01_AREA068.EMI|sec11|body131|@0xf6f|13B] 그럼{ff} 또{fe} 와<END>
+[WORLD01_AREA068.EMI|sec11|body132|@0xf7c|14B] 도론조\n*또 왔네@<END>
+[WORLD01_AREA068.EMI|sec11|body133|@0xf8a|32B] 새로{ff} 똘마니가\n되고 싶은 녀석이{ff} 있나?{c14:03}{c0c:02}응<END>
+[WORLD01_AREA068.EMI|sec11|body134|@0xfae|22B] 뭐야{fe} 다들 내\n똘마니{ff} 잖아<END>
+[WORLD01_AREA068.EMI|sec11|body135|@0xfc4|39B] 설마{fe} 똘마니를\n그만두고 싶다는{ff} 말은\n아니겠지?{c14:04}{c0c:02}응<END>
+[WORLD01_AREA068.EMI|sec11|body136|@0xfef|24B] 흥{fe} 내 똘마니 따위\n없잖아@<END>
+[WORLD01_AREA068.EMI|sec11|body137|@0x1007|26B] *그럼{ff} {c07:00}{ff}을\n새로{ff} 똘마니로 삼지@<END>
+[WORLD01_AREA068.EMI|sec11|body138|@0x1021|32B] 그 외에도{ff} 똘마니가\n되고 싶은 녀석이{ff} 있나?{c14:05}{c0c:02}응<END>
+[WORLD01_AREA068.EMI|sec11|body139|@0x1045|21B] *그럼{ff} {c07:00}{ff}은\n이제{ff} 남남이다<END>
+[WORLD01_AREA068.EMI|sec11|body140|@0x105a|24B] 아직{fe} 그만두고 싶은 녀석이\n있나?{c14:06}{c0c:02}응<END>
+[WORLD01_AREA068.EMI|sec11|body141|@0x1076|73B] 오호{fe} 아무래도\n{c07:00}{ff}은{02}꽤{ff} 사리를\n알게 된 모양이군{02}좋아{fe} 특별히{ff} 이걸\n가르쳐 주지@{02}{c05:02}{c07:01}{06}{ff}을\n배웠다@<END>
+[WORLD01_AREA068.EMI|sec11|body142|@0x10bf|16B] 누가{ff} 제자가 됩니까?<END>
+[WORLD01_AREA068.EMI|sec11|body143|@0x10cf|16B] 누가{ff} 제자를 그만둡니까?<END>
+[WORLD01_AREA068.EMI|sec11|body144|@0x10df|23B] 이 사람으로{ff} 괜찮습니까?{ff}{ff}예{ff}아니오<END>
+[WORLD01_AREA068.EMI|sec11|body145|@0x10f6|22B] 그만둡니까?{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}예{ff}아니오<END>

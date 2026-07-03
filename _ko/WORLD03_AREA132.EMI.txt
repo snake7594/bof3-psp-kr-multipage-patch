@@ -1,0 +1,34 @@
+[WORLD03_AREA132.EMI|sec11|body0|@0x20b|31B] {c0c:06}베이트\n*엔진: 미드>\n라팔라로 침로를 잡아라@<END>
+[WORLD03_AREA132.EMI|sec11|body1|@0x22a|10B] {c0c:43}*예, 옙{fc}@<END>
+[WORLD03_AREA132.EMI|sec11|body2|@0x234|46B] {c0c:06}베이트\n*>>여러분이{fe}배를\n쓰시기 전에{02}일단{fe}라팔라로 돌아갑니다<END>
+[WORLD03_AREA132.EMI|sec11|body3|@0x262|32B] {c0c:06}베이트\n*그때까지>{ff}좁은 배지만\n편히 쉬세요<END>
+[WORLD03_AREA132.EMI|sec11|body4|@0x282|48B] *곧{fe}라팔라 등대가\n보이기 시작할 거예요>{02}부딪히거나 하진 않으니\n안심하세요<END>
+[WORLD03_AREA132.EMI|sec11|body5|@0x2b2|58B] *그런데{fe}배를 뭐에\n쓰실 거예요>>?{02}아니{fe}자세한 얘긴\n라팔라에 도착한 뒤에\n하기로 할까요><END>
+[WORLD03_AREA132.EMI|sec11|body6|@0x2ec|65B] *길드마스터도{fe}꽤\n뱃사람다워졌네{ff}>{02}베이트 씨{fe}원래 회계라\n배에 익숙해지기까진\n고생 좀 했죠<END>
+[WORLD03_AREA132.EMI|sec11|body7|@0x32d|39B] *이런 작은 배로\n바다 건너편까지{ff}건넌다니\n될 리가>{ff}으{fc}음><END>
+[WORLD03_AREA132.EMI|sec11|body8|@0x354|30B] *어때{fe}내가 고친 엔진\n상태 좋죠{fc}?<END>
+[WORLD03_AREA132.EMI|sec11|body9|@0x372|14B] *꽤{ff}흔들리는구만<END>
+[WORLD03_AREA132.EMI|sec11|body10|@0x380|11B] *우엑{c15:07}{c15:07}{c15:07}<END>
+[WORLD03_AREA132.EMI|sec11|body11|@0x38b|23B] *바다 위는{fe}기분 좋다\n{c04:00}>?<END>
+[WORLD03_AREA132.EMI|sec11|body12|@0x3a2|46B] {c0c:05}베이트\n*그러고 보니{fe}이번에>\n왜 배가 망가졌는지{02}못 들었네>?<END>
+[WORLD03_AREA132.EMI|sec11|body13|@0x3d0|47B] {c0c:06}뱃사람\n*그{fe}그게 말인데요>{02}길드마스터는{fe}{c05:02}검은 배{06}를\n아세요>>?<END>
+[WORLD03_AREA132.EMI|sec11|body14|@0x3ff|57B] {c04:01}\n*이 바다를{fe}계속 계속\n저 너머로 가면>>{02}용족 일도{fe}{c04:00} 일도\n전부{fe}알 수 있을까>?<END>
+[WORLD03_AREA132.EMI|sec11|body15|@0x438|49B] {c0c:05}베이트\n*검은 배>{fe}라면{02}먼 바다에서{fe}가끔 보이는\n커다란 배 말이냐?<END>
+[WORLD03_AREA132.EMI|sec11|body16|@0x469|57B] {c0c:06}뱃사람\n*못 믿으실지도\n모르겠지만>>{02}그 검은 배가{fe}여기>\n미드: 시{fc}에{fe}있었어요@<END>
+[WORLD03_AREA132.EMI|sec11|body17|@0x4a2|16B] {c04:01}\n*저거>{fe}뭐지>?<END>
+[WORLD03_AREA132.EMI|sec11|body18|@0x4b2|31B] {c04:01}\n*이쪽으로>\n다가오는 것 같아{02}><PAUSE>><PAUSE>>배?<END>
+[WORLD03_AREA132.EMI|sec11|body19|@0x4d1|45B] {c0c:06}뱃사람\n*그래서>{fe}눈앞에 그 배가\n갑자기 나타나서>{02}못 피하고><END>
+[WORLD03_AREA132.EMI|sec11|body20|@0x4fe|55B] {c0c:05}베이트\n*설마>>{02}검은 배는{fe}이런 작은 배로는\n다가갈 수도 없는>{02}바깥 바다에{fe}있을 텐데<END>
+[WORLD03_AREA132.EMI|sec11|body21|@0x535|25B] {c04:01}\n*가버렸다>>\n뭐였을까?<END>
+[WORLD03_AREA132.EMI|sec11|body22|@0x54e|48B] {c0c:06}뱃사람\n*제멋대로 떠돌더라고요\n검은 배>{02}사람이 탄 기색도\n없었어요<END>
+[WORLD03_AREA132.EMI|sec11|body23|@0x57e|56B] {c0c:05}베이트\n*>그게 사실이라면\n조사하는 게{fe}좋겠군{02}화물선 침로에\n위험이{ff}있을지도 몰라><END>
+[WORLD03_AREA132.EMI|sec11|body24|@0x5b6|21B] {c0c:03}뱃사람\n*길드마스터{fe}라팔라예요<END>
+[WORLD03_AREA132.EMI|sec11|body25|@0x5cb|175B] {c04:05}\n*검은{fe}배>?{c16:30}{c0c:05}쿠쿠루스\n*그래>{ff}너희가\n검은 배라고{fe}부르는>{c16:50}{c0c:05}쿠쿠루스\n*커다란>{ff}바깥바다 배다>{c16:40}쿠쿠루스\n*저 배에{fe}탈 수 있다면\n어쩌면><PAUSE>><PAUSE>>{c16:50}{c04:05}\n*>>잘 풀릴지도{fe}모른다고{fc}\n했었는데@{c16:40}{c04:05}\n*이걸{fe}어쩌라는\n거람{fe}참{fc}?{02}일단><PAUSE>><PAUSE>><END>
+[WORLD03_AREA132.EMI|sec11|body26|@0x5d9|161B] {c0c:05}쿠쿠루스\n*그래>{ff}너희가\n검은 배라고{fe}부르는>{c16:50}{c0c:05}쿠쿠루스\n*커다란>{ff}바깥바다 배다>{c16:40}쿠쿠루스\n*저 배에{fe}탈 수 있다면\n어쩌면><PAUSE>><PAUSE>>{c16:50}{c04:05}\n*>>잘 풀릴지도{fe}모른다고{fc}\n했었는데@{c16:40}{c04:05}\n*이걸{fe}어쩌라는\n거람{fe}참{fc}?{02}일단><PAUSE>><PAUSE>><END>
+[WORLD03_AREA132.EMI|sec11|body27|@0x5fb|127B] {c0c:05}쿠쿠루스\n*커다란>{ff}바깥바다 배다>{c16:40}쿠쿠루스\n*저 배에{fe}탈 수 있다면\n어쩌면><PAUSE>><PAUSE>>{c16:50}{c04:05}\n*>>잘 풀릴지도{fe}모른다고{fc}\n했었는데@{c16:40}{c04:05}\n*이걸{fe}어쩌라는\n거람{fe}참{fc}?{02}일단><PAUSE>><PAUSE>><END>
+[WORLD03_AREA132.EMI|sec11|body28|@0x613|103B] 쿠쿠루스\n*저 배에{fe}탈 수 있다면\n어쩌면><PAUSE>><PAUSE>>{c16:50}{c04:05}\n*>>잘 풀릴지도{fe}모른다고{fc}\n했었는데@{c16:40}{c04:05}\n*이걸{fe}어쩌라는\n거람{fe}참{fc}?{02}일단><PAUSE>><PAUSE>><END>
+[WORLD03_AREA132.EMI|sec11|body29|@0x635|69B] {c04:05}\n*>>잘 풀릴지도{fe}모른다고{fc}\n했었는데@{c16:40}{c04:05}\n*이걸{fe}어쩌라는\n거람{fe}참{fc}?{02}일단><PAUSE>><PAUSE>><END>
+[WORLD03_AREA132.EMI|sec11|body30|@0x653|39B] {c04:05}\n*이걸{fe}어쩌라는\n거람{fe}참{fc}?{02}일단><PAUSE>><PAUSE>><END>
+[WORLD03_AREA132.EMI|sec11|body31|@0x67a|26B] {c04:05}\n*이런다고\n멈출 것도{fe}아니고{fc}><END>
+[WORLD03_AREA132.EMI|sec11|body32|@0x694|14B] {c0c:05}{c04:02}\n*온다고@?<END>
+[WORLD03_AREA132.EMI|sec11|body33|@0x6a2|16B] {c0c:06}{c04:01}\n*안<PAUSE>{fe}도망쳐@<END>

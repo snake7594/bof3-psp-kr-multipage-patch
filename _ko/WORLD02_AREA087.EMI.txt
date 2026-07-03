@@ -1,0 +1,18 @@
+[WORLD02_AREA087.EMI|sec11|body0|@0x20b|34B] 윈디아 지방으로 가는 다리{fd}\n건너려면 통행증이 필요하다{fd}<END>
+[WORLD02_AREA087.EMI|sec11|body1|@0x22d|44B] 짐 운반 길드의 거리{fd}\n동쪽으로 건너가는 배에\n탈 수 있다{fe}는 이야기{fd}<END>
+[WORLD02_AREA087.EMI|sec11|body2|@0x259|27B] 짐 운반 길드의 일터{fd}\n짐배가 도착한다{fd}<END>
+[WORLD02_AREA087.EMI|sec11|body3|@0x274|33B] 이 등대의 불빛에 의지해서\n짐배가 운행하는 모양이다><END>
+[WORLD02_AREA087.EMI|sec11|body4|@0x295|36B] 광산 개발로{fe}숲에서 쫓겨난\n요정{fc}들이{fe}살고 있다{fd}<END>
+[WORLD02_AREA087.EMI|sec11|body5|@0x2b9|37B] 개발로{fe}숲에서 쫓겨난\n요정{fc}들의 마을을\n발전시키자@<END>
+[WORLD02_AREA087.EMI|sec11|body6|@0x2de|44B] 짐 운반 길드가 만든 길{fd}\n화산 폭발로{fe}지나갈 수 없게\n된 모양이다><END>
+[WORLD02_AREA087.EMI|sec11|body7|@0x30a|48B] 짐 운반 길드가 만든 길{fd}\n배를 쓰게 되면서\n지나는 사람이 별로 없다{fd}<END>
+[WORLD02_AREA087.EMI|sec11|body8|@0x33a|29B] 바닷물 밀물썰물 때문에\n지금은 지나갈 수 없다{fd}<END>
+[WORLD02_AREA087.EMI|sec11|body9|@0x357|26B] 해수면이 오르내리니까\n조심해서 지나가자{fd}<END>
+[WORLD02_AREA087.EMI|sec11|body10|@0x371|27B] 위험한 절벽 위에\n띄엄띄엄{fe}오두막이 있다{fd}<END>
+[WORLD02_AREA087.EMI|sec11|body11|@0x38c|11B] 오두막이 있습니다{fd}<END>
+[WORLD02_AREA087.EMI|sec11|body12|@0x397|8B] 모래사장입니다{fd}<END>
+[WORLD02_AREA087.EMI|sec11|body13|@0x39f|39B] 잔챙이를{ff}노린다면 여기@{02}{c05:04}타{fc}깃{ff}피시{06}\n{c07:00}\n{c07:01}{02}{c07:02}<END>
+[WORLD02_AREA087.EMI|sec11|body22|@0x3c6|62B] 잔챙이를{ff}쫓아\n바다의 사냥꾼이\n돌아다니는{ff}지점{fd}{02}{c05:04}타{fc}깃{ff}피시{06}\n{c07:00}\n{c07:01}{02}{c07:02}\n{c07:03}<END>
+[WORLD02_AREA087.EMI|sec11|body23|@0x404|51B] 아는 사람만 아는\n유명한{ff}문어 낚시터{fd}{02}{c05:04}타{fc}깃{ff}피시{06}\n{c07:00}\n{c07:01}{02}{c07:02}\n{c07:03}<END>
+[WORLD02_AREA087.EMI|sec11|body24|@0x437|24B] 좋은 향기가 나는\n예쁜{ff}꽃밭이 있다<END>
+[WORLD02_AREA087.EMI|sec11|body32|@0x44f|56B] 꽃밭에\n요정{fc}의 마을이\n반응하고 있다>>{02}{c05:02}요정{fc}의 마을{06}을\n쓰시겠습니까?{c14:00}{c0c:02}예<END>

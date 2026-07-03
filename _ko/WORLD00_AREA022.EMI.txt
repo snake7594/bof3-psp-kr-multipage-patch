@@ -1,0 +1,24 @@
+[WORLD00_AREA022.EMI|sec11|body0|@0x211|33B] >>핏자국이{ff}이어지고 있어\n그 몬스터{fc}의{ff}피일까?<END>
+[WORLD00_AREA022.EMI|sec11|body1|@0x232|16B] >>핏자국이{ff}끊겼어<END>
+[WORLD00_AREA022.EMI|sec11|body2|@0x242|20B] {c04:03}\n*형{fe}나{ff}알았어<END>
+[WORLD00_AREA022.EMI|sec11|body3|@0x256|28B] {c04:03}\n*그 녀석{fe}물속으로\n도망친 거야{fe}<PAUSE>분명히<END>
+[WORLD00_AREA022.EMI|sec11|body4|@0x272|27B] {c04:04}\n*>>그렇겠지{fc}\n근데{fe}<PAUSE>어떻게 쫓아가?<END>
+[WORLD00_AREA022.EMI|sec11|body5|@0x28d|13B] {c04:03}\n*><PAUSE>><PAUSE>>글쎄?<END>
+[WORLD00_AREA022.EMI|sec11|body6|@0x29a|26B] {c04:03}\n*이번엔 정말{fe}알았어\n형>><END>
+[WORLD00_AREA022.EMI|sec11|body7|@0x2b4|48B] {c04:03}\n*여기서{fe}뛰어드는 거야>{02}그러면{fe}아까 그 곳까지\n흘러갈 수 있어{fe}<PAUSE>분명히<END>
+[WORLD00_AREA022.EMI|sec11|body8|@0x2e4|43B] {c04:04}\n*>>래{fe}{c04:00}\n넌{fe}어떻게 생각해?{c14:00}{c0c:12}{c04:03} 말이 맞는 것 같아<END>
+[WORLD00_AREA022.EMI|sec11|body9|@0x31a|25B] {c04:04}\n*>그럼{fe}{c04:00}\n앞장서서{fe}가 보자<END>
+[WORLD00_AREA022.EMI|sec11|body10|@0x333|11B] {c04:03}\n*갈 거야@@<END>
+[WORLD00_AREA022.EMI|sec11|body11|@0x33e|27B] 물이 흐르고 있다\n뛰어들어 볼까?{c14:01}{c0c:02}예<END>
+[WORLD00_AREA022.EMI|sec11|body12|@0x35d|27B] {c0c:04}{c04:03}\n*>헤헤{fe}<PAUSE>역시나\n어때{fe}형?<END>
+[WORLD00_AREA022.EMI|sec11|body13|@0x378|43B] {c0c:05}{c04:04}\n*그래>><PAUSE>{ff}근데>{02}그대로{ff}흘러갔으면\n어쩔 셈이었어?<END>
+[WORLD00_AREA022.EMI|sec11|body14|@0x3a3|25B] {c0c:05}{c04:04}\n*뭐{fe}<PAUSE>됐다 치자>\n가자고>><END>
+[WORLD00_AREA022.EMI|sec11|body15|@0x3bc|10B] {c04:04}\n*녀석이다@@<END>
+[WORLD00_AREA022.EMI|sec11|body16|@0x3c6|34B] {c0c:03}{c04:03}\n*뭐야>{ff}<PAUSE>약해졌잖아\n낙승이네{fe}형<END>
+[WORLD00_AREA022.EMI|sec11|body17|@0x3e8|15B] {c0c:03}{c04:04}\n*>>그럼{fe}좋겠다<END>
+[WORLD00_AREA022.EMI|sec11|body18|@0x3f7|17B] {c0c:03}{c04:04}\n*><PAUSE>><PAUSE>>죽어 있어<END>
+[WORLD00_AREA022.EMI|sec11|body19|@0x408|34B] 뒤쪽 입구를{ff}감싸듯이\n선 채로{ff}숨이 끊어져 있다><END>
+[WORLD00_AREA022.EMI|sec11|body20|@0x42a|83B] 누에의 새끼들이다>\n죽은 지{ff}꽤 오래됐다{02}>>분명히{ff}그 누에는\n새끼가{ff}죽은 걸 모르고{02}부지런히{ff}먹이를\n나르고 있었던 거겠지>><END>
+[WORLD00_AREA022.EMI|sec11|body21|@0x47d|46B] {c04:03}\n*>>그 녀석{ff}<PAUSE>>>>바보네\n형>{02}새끼는>>{ff}벌써{fe}<PAUSE><PAUSE>죽었는데<END>
+[WORLD00_AREA022.EMI|sec11|body22|@0x4ab|19B] {c04:04}\n*>>웃기네{fe}<PAUSE><PAUSE>정말<END>
+[WORLD00_AREA022.EMI|sec11|body23|@0x4be|42B] 뛰어들어{ff}흘러가면\n밖으로 나갈 수 있을 것 같다>{02}뛰어들까?{c14:02}{c0c:02}예<END>

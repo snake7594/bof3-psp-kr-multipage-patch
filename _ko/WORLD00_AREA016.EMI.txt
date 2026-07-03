@@ -1,0 +1,24 @@
+[WORLD00_AREA016.EMI|sec11|body0|@0x214|21B] 험해서{ff}오를 마음이\n안 생겨:::<END>
+[WORLD00_AREA016.EMI|sec11|body1|@0x229|16B] {10}{ff}\n{ff}{ff}{ff}{ff}{ff}시{fc}다 숲{11}<END>
+[WORLD00_AREA016.EMI|sec11|body2|@0x239|16B] {c15:14}서쪽\n{ff}{ff}{ff}다우나 광산<END>
+[WORLD00_AREA016.EMI|sec11|body3|@0x249|12B] {ff}{ff}우{fc}르오르 지방<END>
+[WORLD00_AREA016.EMI|sec11|body4|@0x255|39B] 생기 넘치고{fe}밝은 숲\n동네 사람들의 사냥터가\n되어 있다{fd}<END>
+[WORLD00_AREA016.EMI|sec11|body5|@0x27c|43B] 글라우스 산으로{fe}이어지는 숲\n녹음은{ff}우거졌지만\n몬스터가 많다고 한다{fd}<END>
+[WORLD00_AREA016.EMI|sec11|body6|@0x2a7|42B] 험해서{fe}사람이 잘\n다가오지 않는 산{fd}\n예전엔{fe}누에가 살았다{fd}<END>
+[WORLD00_AREA016.EMI|sec11|body7|@0x2d1|27B] 지주 맥니르의\n소작인들이 사는 마을{fd}<END>
+[WORLD00_AREA016.EMI|sec11|body8|@0x2ec|26B] 밀밭과{fe}소가 있는\n맥니르의 땅{fd}<END>
+[WORLD00_AREA016.EMI|sec11|body9|@0x306|42B] 윈디아와 광산을 잇는\n주요 가도 중 하나{fd}\n노상강도가 나온다더라{fd}<END>
+[WORLD00_AREA016.EMI|sec11|body10|@0x330|28B] 광산 쪽과 가도를 잇는\n험한 산길{fd}<END>
+[WORLD00_AREA016.EMI|sec11|body11|@0x34c|11B] 오두막이 있습니다{fd}<END>
+[WORLD00_AREA016.EMI|sec11|body12|@0x357|30B] 요즘{fe}식인 호랑이가\n나온다는 소문이 있는 숲{fd}<END>
+[WORLD00_AREA016.EMI|sec11|body13|@0x375|36B] 맥니르가 잡혀가서\n지주가 없어져\n곤란해하는 마을{fd}<END>
+[WORLD00_AREA016.EMI|sec11|body14|@0x399|40B] 맥니르가 잡혀가서\n지금은 윈디아가\n돌봐 주고 있는 땅{fd}<END>
+[WORLD00_AREA016.EMI|sec11|body15|@0x3c1|38B] 현수라 불리던{ff}큰 나무가\n어느샌가\n베여 쓰러져 있다{fd}<END>
+[WORLD00_AREA016.EMI|sec11|body16|@0x3e7|19B] 우선{fe}이 마을에\n들러 보자>><END>
+[WORLD00_AREA016.EMI|sec11|body17|@0x3fa|33B] 숲이{fe}험해 보인다{fd}\n잠옷 차림으로{ff}돌아다니는 건\n위험해>><END>
+[WORLD00_AREA016.EMI|sec11|body18|@0x41b|38B] 다리가{fe}부서져 있다>\n맥니르가{ff}돈 아끼느라\n안 고치는 거겠지>{fd}<END>
+[WORLD00_AREA016.EMI|sec11|body19|@0x441|53B] 잔잔히{ff}흐르는 강에\n작은 물고기들이{fe}놀고 있다{fd}{02}{c05:04}타{fc}깃{ff}피시{06}\n{c07:00}\n{c07:01}{02}{c07:02}<END>
+[WORLD00_AREA016.EMI|sec11|body22|@0x476|56B] 물고기 틈에 섞여\n어디선가{ff}본 적 있는\n모습이{ff}보인다{fd}{02}{c05:04}타{fc}깃{ff}피시{06}\n{c07:00}\n{c07:01}{02}{c07:02}\n{c07:03}<END>
+[WORLD00_AREA016.EMI|sec11|body23|@0x4ae|58B] 강낚시 중{fe}최고의 손맛을\n즐길 수 있는{ff}낚시터 중 하나{fd}{02}{c05:04}타{fc}깃{ff}피시{06}\n{c07:00}\n{c07:01}{02}{c07:02}<END>
+[WORLD00_AREA016.EMI|sec11|body24|@0x4e8|24B] 좋은 향기가 나는\n예쁜{ff}꽃밭이 있다<END>
+[WORLD00_AREA016.EMI|sec11|body32|@0x500|56B] 꽃밭에\n요정의 마을이\n반응하고 있다>>{02}{c05:02}요정의 마을{06}을\n사용할까요?{c14:00}{c0c:02}예<END>

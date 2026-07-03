@@ -1,0 +1,9 @@
+[WORLD03_AREA115.EMI|sec11|body0|@0x20a|37B] 윈디아 인근의\n에너지{fc}를{ff}대고 있는\n가{fc}이스트 광산{fd}<END>
+[WORLD03_AREA115.EMI|sec11|body1|@0x22f|11B] 오두막이 있다{fd}<END>
+[WORLD03_AREA115.EMI|sec11|body2|@0x23a|24B] 사람이 거의 안 다니는\n맨 끝의 관문{fd}<END>
+[WORLD03_AREA115.EMI|sec11|body3|@0x252|37B] 암거래 작물 등{fe}불법 유통품을\n다루는 시{fc}장{fd}<END>
+[WORLD03_AREA115.EMI|sec11|body4|@0x277|44B] 어둑한 숲속의 길{fd}\n괴물이 나온다는 소문도\n아주 거짓말은 아닌 듯?<END>
+[WORLD03_AREA115.EMI|sec11|body5|@0x2a3|56B] 상류의{fe}차가운 물에\n진귀한 물고기가{fe}산다는{02}{c05:04}타{fc}깃{ff}피시{06}\n{c07:00}\n{c07:01}{02}{c07:02}<END>
+[WORLD03_AREA115.EMI|sec11|body22|@0x2db|60B] 깊이 모를{ff}고요함이\n범상찮은 존재를{ff}말해준다{02}{c05:04}타{fc}깃{ff}피시{06}\n{c07:00}\n{c07:01}{02}{c07:02}\n{c07:03}\n{c07:04}<END>
+[WORLD03_AREA115.EMI|sec11|body23|@0x317|24B] 좋은 향기가 나는\n예쁜{ff}꽃밭이 있다<END>
+[WORLD03_AREA115.EMI|sec11|body32|@0x32f|56B] 꽃밭에\n요정의 마을이\n반응하고 있다>>{02}{c05:02}요정의 마을{06}을\n쓸까요?{c14:00}{c0c:02}네<END>

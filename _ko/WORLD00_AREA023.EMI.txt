@@ -1,0 +1,42 @@
+[WORLD00_AREA023.EMI|sec11|body0|@0x210|41B] {c0c:06}{c04:04}\n*>어두워지기 시작했네{02}오늘은{fe}저 오두막에서\n쉬도록 할까>><END>
+[WORLD00_AREA023.EMI|sec11|body1|@0x239|16B] {c04:03}\n*>어두워지기 시작했네<END>
+[WORLD00_AREA023.EMI|sec11|body2|@0x249|21B] {c0c:06}{c04:03}\n*오늘은{fe}이제 쉬자><END>
+[WORLD00_AREA023.EMI|sec11|body3|@0x25e|33B] {c0c:06}{c04:03}\n*형도{ff}여기서\n쉬고 있을지도{ff}모르니까><END>
+[WORLD00_AREA023.EMI|sec11|body4|@0x27f|22B] {c0c:05}{c04:03}\n*우헤{c15:07}>>\n캄캄하다>><END>
+[WORLD00_AREA023.EMI|sec11|body5|@0x295|18B] {c0c:02}{c04:03}\n*>등불 같은 거 없나?<END>
+[WORLD00_AREA023.EMI|sec11|body6|@0x2a7|20B] {c0c:02}{c04:03}\n*{0d}머>{ff}뭔가 있어?{0e}{0f}{02}<END>
+[WORLD00_AREA023.EMI|sec11|body7|@0x2bb|14B] {c0c:02}{c04:03}\n*{0d}으아아아{0e}{0f}<END>
+[WORLD00_AREA023.EMI|sec11|body8|@0x2d2|15B] *{0d}그>우{0e}{0f}\n<PAUSE><PAUSE>{ff}{c04:00}?<END>
+[WORLD00_AREA023.EMI|sec11|body9|@0x2e1|27B] {c0c:02}{c04:03}\n*그{fe}그 목소리는>>\n{c04:04}형>@?<END>
+[WORLD00_AREA023.EMI|sec11|body10|@0x2fc|19B] {c0c:05}{c04:04}\n*><PAUSE>><PAUSE>>너희들이냐@?<END>
+[WORLD00_AREA023.EMI|sec11|body11|@0x30f|30B] {c0c:05}{c04:04}\n*놀라게 하지 마>\n몬스터{fc}인 줄 알았잖아><END>
+[WORLD00_AREA023.EMI|sec11|body12|@0x32d|56B] {c04:03}\n*놀란 건{ff}이쪽이야@\n무서웠다고>{ff}형{02}{0d}그르르르{0e}{0f}{06}{ff}같은 거\n내면서{ff} 막>><END>
+[WORLD00_AREA023.EMI|sec11|body13|@0x365|51B] {c0c:05}{c04:04}\n*그{fe}<PAUSE><PAUSE>그래>>\n미안하다>{ff}{c04:00}{02}일단{fe}오늘은\n쉬도록 하자><END>
+[WORLD00_AREA023.EMI|sec11|body14|@0x398|27B] {c04:03}\n*응>{ff}오늘은 왠지\n녹초가 됐어>><END>
+[WORLD00_AREA023.EMI|sec11|body15|@0x3b3|38B] {c0c:05}{c04:04}\n*오늘은{ff}늦어졌으니까\n몬스터{fc} 찾기는{fe}내일이다><END>
+[WORLD00_AREA023.EMI|sec11|body16|@0x3d9|23B] {c04:03}\n*그러게>>\n오늘은{ff}피곤해><END>
+[WORLD00_AREA023.EMI|sec11|body17|@0x3f0|46B] 여행의 안전을 비는{ff}도조신이야\n여기까지의 여행을{ff}기록할까?{c14:00}{c0c:02}네<END>
+[WORLD00_AREA023.EMI|sec11|body18|@0x422|15B] {c04:03}\n*>>일어나{ff}{c04:00}@<END>
+[WORLD00_AREA023.EMI|sec11|body19|@0x431|17B] {c0c:05}{c04:04}\n*>>녀석이다{fe}<PAUSE>가까워<END>
+[WORLD00_AREA023.EMI|sec11|body20|@0x442|28B] {c0c:05}{c04:04}\n*이런이런>\n어쩔 수 없지{fe}맞이하러 가자<END>
+[WORLD00_AREA023.EMI|sec11|body21|@0x45e|23B] {c0c:05}{c04:03}\n*><PAUSE>><PAUSE>>일찍도{ff}납시었네<END>
+[WORLD00_AREA023.EMI|sec11|body22|@0x475|65B] {c0c:06}에무코\n*이 대사{fe}잘라 주세요{c16:30}{c0c:06}에무코\n*이것도{fe}잘라 주세요{c16:30}{c04:04}\n*>>쫓는다{fe}끝장내자@<END>
+[WORLD00_AREA023.EMI|sec11|body23|@0x48e|40B] {c0c:06}에무코\n*이것도{fe}잘라 주세요{c16:30}{c04:04}\n*>>쫓는다{fe}끝장내자@<END>
+[WORLD00_AREA023.EMI|sec11|body24|@0x4a5|17B] {c04:04}\n*>>쫓는다{fe}끝장내자@<END>
+[WORLD00_AREA023.EMI|sec11|body25|@0x4b6|3B] 아키<END>
+[WORLD00_AREA023.EMI|sec11|body26|@0x4b9|3B] 아키<END>
+[WORLD00_AREA023.EMI|sec11|body27|@0x4bc|32B] {c0c:04}바바델\n*조금은{ff}고생이라는 게\n뭔지 알았냐>?<END>
+[WORLD00_AREA023.EMI|sec11|body29|@0x4dc|55B] {c0c:04}바바델\n*이걸로{fe}봄이 와서>{02}사냥감이{fe}돌아오면\n편해져>>{02}수고했다{fe}너희들><END>
+[WORLD00_AREA023.EMI|sec11|body30|@0x513|70B] {c0c:06}{c04:04}\n*기다려><PAUSE>><PAUSE>>{02}>>당신{fe}그놈이\n새끼한테{ff}먹이 나르는 거\n알면서>{02}우리한테{ff}그놈을\n죽이게 한 거야@?<END>
+[WORLD00_AREA023.EMI|sec11|body31|@0x559|35B] 바바델\n*새끼가 있는 걸{fe}알았더라면\n안 죽였겠냐>>?<END>
+[WORLD00_AREA023.EMI|sec11|body32|@0x57c|13B] {c0c:05}{c04:03}\n*형@<END>
+[WORLD00_AREA023.EMI|sec11|body33|@0x589|22B] {c0c:06}{c04:04}\n*>{c04:03}@?\n어떻게{fe}여기에?<END>
+[WORLD00_AREA023.EMI|sec11|body34|@0x59f|61B] {c04:03}\n*영감 말 따위\n후딱{ff}처리하고>{02}쫓아온 거야{fe}\n형{ff}혼자라서{fe}걱정돼서<END>
+[WORLD00_AREA023.EMI|sec11|body35|@0x5dc|70B] {c0c:06}{c04:04}\n*>저기 말야{fe}{c04:03}{02}영감이{fe}나 혼자를\n여기 보낸 건>{02}너희들을{ff}걱정해서라고\n생각해>{ff}아마><END>
+[WORLD00_AREA023.EMI|sec11|body36|@0x622|42B] {c04:03}\n*머{fe}<PAUSE>뭐 그게@?{02}그{fe}그치만{ff}그때\n사람 수라고{ff}했잖아?<END>
+[WORLD00_AREA023.EMI|sec11|body37|@0x64c|72B] {c0c:06}{c04:04}\n*>들었지?{02}마을을{ff}덮치는 몬스터{fc}가\n이 산에{ff}있어>{02}바바델은{ff}나한테{fe}녀석을\n쓰러뜨리게{ff}할 작정이었던 거야<END>
+[WORLD00_AREA023.EMI|sec11|body38|@0x694|58B] {c04:03}\n*어째서{fe}형 혼자한테\n그런 위험한 일{fe}시키는 거야@?{02}몬스터{fc}는{ff}엄청\n세잖아@?<END>
+[WORLD00_AREA023.EMI|sec11|body39|@0x6ce|40B] {c0c:06}{c04:04}\n*하지만>>\n난>{ff}녀석보다{fe}세{02}나{fe}혼자였다면 말이지><END>
+[WORLD00_AREA023.EMI|sec11|body40|@0x6f6|50B] {c0c:06}{c04:04}\n*근데{fe}너희들이{ff}있으면>{02}그걸{ff}쓸 수는\n없으니까>>{02}유쾌하구만><END>
+[WORLD00_AREA023.EMI|sec11|body41|@0x728|47B] {c0c:06}{c04:04}\n*뭐{fe}오늘 밤은{ff}이제 쉬어라{02}한밤중에 움직이는 건{ff}더\n위험하니까>><END>
+[WORLD00_AREA023.EMI|sec11|body42|@0x757|20B] 침대에서{fe}쉴 수 있겠다>{c14:01}{c0c:02}쉰다<END>

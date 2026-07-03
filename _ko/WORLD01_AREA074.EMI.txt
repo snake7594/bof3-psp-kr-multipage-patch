@@ -1,0 +1,138 @@
+[WORLD01_AREA074.EMI|sec11|body0|@0x207|30B] *울칸 백성의 마을>\n타파에 {ff}오신 걸 환영해요\n나그네여<END>
+[WORLD01_AREA074.EMI|sec11|body1|@0x225|21B] *가{fc}디언님\n잘도 {ff}돌아오셨군요><END>
+[WORLD01_AREA074.EMI|sec11|body2|@0x23a|44B] *여기는 {fe}기도의 방이에요{02}우리는 {fe}하루에 한 번\n신께 {ff}기도를 올린답니다<END>
+[WORLD01_AREA074.EMI|sec11|body3|@0x266|28B] *어머 {fe}가{fc}디언님>\n장로님은 {ff}만나셨나요?<END>
+[WORLD01_AREA074.EMI|sec11|body4|@0x282|26B] *어이 {fe}나그네\n편히 {ff}쉬다 가시구려<END>
+[WORLD01_AREA074.EMI|sec11|body5|@0x29c|37B] *이거 이거>\n가{fc}디언님이셨군요@{02}늘 {ff}수고가 많으십니다<END>
+[WORLD01_AREA074.EMI|sec11|body6|@0x2c1|43B] *엇 {fe}<PAUSE>천사의 탑?{02}네>{ff}마을 동쪽에 있어요\n우리들의 {ff}성지랍니다<END>
+[WORLD01_AREA074.EMI|sec11|body7|@0x2ec|37B] *오 {fe}가{fc}디언님\n그대에게 {ff}신의 {ff}인도가\n있기를><END>
+[WORLD01_AREA074.EMI|sec11|body8|@0x311|50B] *동쪽에 있는 {ff}탑은 말이지>{02}이 마을 사람들이 {fe}옛날\n나쁜 놈들과 {ff}싸운\n자리라더라<END>
+[WORLD01_AREA074.EMI|sec11|body9|@0x343|26B] *아저씨 {fe}나쁜 놈들을\n혼내주는 사람이지?<END>
+[WORLD01_AREA074.EMI|sec11|body10|@0x35d|6B] *멍멍멍<END>
+[WORLD01_AREA074.EMI|sec11|body11|@0x363|32B] *이 위는 {fe}우리 장로\n스{fc}다마님의 {ff}거처입니다<END>
+[WORLD01_AREA074.EMI|sec11|body12|@0x383|28B] *장로님은 {fe}이 위에 계십니다\n가{fc}디언 {c04:02}님<END>
+[WORLD01_AREA074.EMI|sec11|body13|@0x39f|50B] *장로님은 {fe}지금\n명상 중이시라>{02}누구도 {ff}방에 들이지\n않으셔요<END>
+[WORLD01_AREA074.EMI|sec11|body14|@0x3d1|51B] *장로님은 {fe}명상 중이시지만>{02}가{fc}디언님이시라면\n들어가셔도\n괜찮을 거예요<END>
+[WORLD01_AREA074.EMI|sec11|body15|@0x404|49B] *이 마을 구조가\n복잡하게 {ff}된 건{02}적이 {fe}쳐들어왔을 때를\n대비해서라고 해요<END>
+[WORLD01_AREA074.EMI|sec11|body16|@0x435|25B] *우릴 {ff}지켜주세요\n가{fc}디언님<END>
+[WORLD01_AREA074.EMI|sec11|body17|@0x44e|62B] *즈블로 화산을 {ff}넘어 왔다고?{02}거기엔 {ff}머리가 이상한\n영감이 {ff}있다는\n소문인데>>{02}안 만났어?<END>
+[WORLD01_AREA074.EMI|sec11|body18|@0x48c|26B] *돌아오셨어요>\n바깥 상황은 {ff}어땠나요?<END>
+[WORLD01_AREA074.EMI|sec11|body19|@0x4a6|75B] *먼 옛날 {fe}세상이 사악에\n멸망당할 뻔했을 때>{02}울칸 백성을 {ff}이끌고\n사악에 {ff}맞서는\n천사가 {fe}보내졌습니다<END>
+[WORLD01_AREA074.EMI|sec11|body20|@0x4f1|28B] *나 {fe}알아 그 천사\n그거>{ff}가{fc}디언이지?<END>
+[WORLD01_AREA074.EMI|sec11|body21|@0x50d|21B] *사악>{ff}이 뭐예요\n선생님?<END>
+[WORLD01_AREA074.EMI|sec11|body22|@0x522|15B] *역사 {ff}공부 시간이란다<END>
+[WORLD01_AREA074.EMI|sec11|body23|@0x531|59B] *이렇게 {fe}명상을 하면\n마음이 {ff}맑아져\n갑니다>{02}말하자면 {fe}마음속을\n청소하는 {ff}거지요<END>
+[WORLD01_AREA074.EMI|sec11|body24|@0x56c|41B] *가{fc}디언님을 보면\n늘 {ff}신의 힘의 위대함에\n감탄합니다><END>
+[WORLD01_AREA074.EMI|sec11|body25|@0x595|64B] *나도 {fe}어릴 적에\n천사와 사악 이야기를\n자주 들었었지>{02}특히 {fe}싸우는 장면엔\n두근두근했었어<END>
+[WORLD01_AREA074.EMI|sec11|body26|@0x5d5|73B] *당신이 {ff}아이들에게\n이야기를 해주면 {ff}어때요?{02}진짜 천사 이야기를 {ff}들으면\n아이들 {fe}분명\n엄청 기뻐할 거예요>?<END>
+[WORLD01_AREA074.EMI|sec11|body27|@0x61e|66B] *울칸 백성은>\n다시 {fe}이 세상에 사악이\n들끓을 때>{02}신의 힘을 {ff}쓸 수 있도록\n마음을 {ff}가다듬고 있는 겁니다<END>
+[WORLD01_AREA074.EMI|sec11|body28|@0x660|30B] *사악의 기척은 {ff}있었나요\n가{fc}디언님>?<END>
+[WORLD01_AREA074.EMI|sec11|body29|@0x67e|39B] *이렇게 {ff}빗자루로 쓸면\n바닥이 {ff}깨끗해지네\n당연한 거지만<END>
+[WORLD01_AREA074.EMI|sec11|body30|@0x6a5|39B] *어라 {fe}무슨 일 있었나요\n가{fc}디언님이 {ff}타파에\n돌아오시다니?<END>
+[WORLD01_AREA074.EMI|sec11|body31|@0x6cc|31B] *날씨가 좋을 땐\n여기서 {fe}탑이\n보인답니다><END>
+[WORLD01_AREA074.EMI|sec11|body32|@0x6eb|48B] *아 {fe}{c04:02}님>\n탑에 {fe}가시는군요{02}장로님은 {ff}이미 {ff}만나\n보셨나요?<END>
+[WORLD01_AREA074.EMI|sec11|body33|@0x71b|51B] *괜찮습니다>{02}그때는 {fe}또 {ff}수많은\n가{fc}디언들이\n달려와 {ff}줄 테니까요<END>
+[WORLD01_AREA074.EMI|sec11|body34|@0x74e|32B] *또>{ff}사악한 것들이\n나타나면 {ff}어쩌죠?<END>
+[WORLD01_AREA074.EMI|sec11|body35|@0x76e|58B] *신이여 {fe}사악을 {ff}이길\n힘을 우리에게>>라니{02}세상이 {fe}평화로우니까\n그리 {ff}힘쓰지 {fe}않아도 되나<END>
+[WORLD01_AREA074.EMI|sec11|body36|@0x7a8|24B] *이 위는 {fe}장로님의\n거처입니다<END>
+[WORLD01_AREA074.EMI|sec11|body37|@0x7c0|32B] *아 {fe}가{fc}디언님\n장로님은 {ff}만나셨나요?<END>
+[WORLD01_AREA074.EMI|sec11|body38|@0x7e0|45B] *우리 신의 존함>{ff}과\n사악의 이름은 {ff}입에 담아선\n안 된다는 {ff}규율이에요<END>
+[WORLD01_AREA074.EMI|sec11|body39|@0x80d|37B] *사악은 {fe}이미 멸망했지만\n신께 드리는 기도는\n잊으면 {ff}안 돼요<END>
+[WORLD01_AREA074.EMI|sec11|body40|@0x832|47B] *사악은 멸망하고>\n천사들 대부분은 {ff}사명을 마치고{02}긴 {ff}잠에 {ff}들었습니다<END>
+[WORLD01_AREA074.EMI|sec11|body41|@0x861|35B] *타파의 무기는\n신의 힘이 깃들어 있어서\n아주 {ff}강하답니다<END>
+[WORLD01_AREA074.EMI|sec11|body42|@0x884|13B] *도구는 어떠세요<END>
+[WORLD01_AREA074.EMI|sec11|body43|@0x891|44B] *이쪽 {ff}샘물로\n회복할 수 있어요>{02}말하자면 {fe}여관 같은 거죠<END>
+[WORLD01_AREA074.EMI|sec11|body44|@0x8bd|34B] *어서 오세요>\n신의 힘>{ff}과는 관계없는\n도{fc}핑 가게랍니다@<END>
+[WORLD01_AREA074.EMI|sec11|body45|@0x8df|38B] *난 {fe}싸우러 가는 게\n아니니까>{02}도{fc}핑은 {ff}필요 없겠네<END>
+[WORLD01_AREA074.EMI|sec11|body46|@0x905|41B] *탑의 {ff}감시역이\n돼서>{02}만약을 위해 {ff}도{fc}핑\n하러 왔어<END>
+[WORLD01_AREA074.EMI|sec11|body47|@0x92e|37B] *가{fc}디언님처럼\n강하면>{02}도{fc}핑 {ff}필요 없겠죠?<END>
+[WORLD01_AREA074.EMI|sec11|body48|@0x953|19B] *어쩐지 {fe}{c04:02}랑\n많이 닮았네>><END>
+[WORLD01_AREA074.EMI|sec11|body49|@0x966|10B] {c04:02}\n*><PAUSE>><PAUSE>><END>
+[WORLD01_AREA074.EMI|sec11|body50|@0x970|33B] *여기는 {ff}신을 섬기는 자가\n몸을 정결히 하는 {ff}곳이외다<END>
+[WORLD01_AREA074.EMI|sec11|body51|@0x991|31B] 무거워 {ff}보이는 문이지만\n{c04:02}라면 {ff}움직일 수\n있을지도 모른다><END>
+[WORLD01_AREA074.EMI|sec11|body52|@0x9b0|18B] {c0c:05}스{fc}다마\n*><PAUSE>><PAUSE>>{c04:02}냐?<END>
+[WORLD01_AREA074.EMI|sec11|body53|@0x9c2|51B] {c0c:05}스{fc}다마\n*잘 {fe}돌아왔다>>{02}그래 {fe}어떠냐>\n동료들에게 {ff}갈 마음이\n생겼느냐?<END>
+[WORLD01_AREA074.EMI|sec11|body54|@0x9f5|17B] {c04:02}\n*뭐>{ff}그런 셈이죠<END>
+[WORLD01_AREA074.EMI|sec11|body55|@0xa06|35B] {c0c:05}스{fc}다마\n*그렇다면 {fe}사악은\n멸망해 있었던 게로구나 {fe}<PAUSE>역시><END>
+[WORLD01_AREA074.EMI|sec11|body56|@0xa29|62B] {c0c:05}스{fc}다마\n*네 {ff}직감은\n빗나갔단 {fe}말이로구나>>{02}잠들 때가\n온 것 같구나>\n가{fc}디언 {c04:02}<END>
+[WORLD01_AREA074.EMI|sec11|body57|@0xa67|52B] {c0c:05}스{fc}다마\n*그렇다면 {fe}<PAUSE>탑으로\n가는 게 좋겠다>>{02}수문장에겐 {fe}네 일을\n알려 두마><END>
+[WORLD01_AREA074.EMI|sec11|body58|@0xa9b|17B] {c0c:05}스{fc}다마\n*잘 가거라>{ff}{c04:02}<END>
+[WORLD01_AREA074.EMI|sec11|body59|@0xaac|26B] *울칸 백성의 마을\n울칸:타파에 {ff}오신 걸 환영해요<END>
+[WORLD01_AREA074.EMI|sec11|body64|@0xac6|43B] *이쪽은 {fe}기도의 방\n>그리고 {fe}여길 올라가면\n장로님의 {fe}거처입니다<END>
+[WORLD01_AREA074.EMI|sec11|body65|@0xaf1|34B] *가{fc}디언님이 {fe}아직\n남아 계신다는 거\n알고 있어>?<END>
+[WORLD01_AREA074.EMI|sec11|body66|@0xb13|44B] *그게 {fe}전쟁에서\n도망친 쪽?{02}아니면 {fe}가{fc}디언\n{c04:02}님 얘기?<END>
+[WORLD01_AREA074.EMI|sec11|body67|@0xb3f|22B] *천사의 탑{fc}\n사악을 {ff}봉인{fc}<END>
+[WORLD01_AREA074.EMI|sec11|body68|@0xb55|70B] *천사의 탑엔 {fe}우리가\n싸워 {fe}물리친 사악이>{02}음 {fe}사악이란 무엇인가>?{02}그걸 입에 담는 건\n탐탁지 않군요>><END>
+[WORLD01_AREA074.EMI|sec11|body69|@0xb9b|75B] *북동쪽에 있는 {fe}천사의 탑에\n우리 신께서 {fe}이따금\n모습을 {ff}보이신답니다>{02}그래도 {fe}요즘은\n본 자가 {ff}없지만요><END>
+[WORLD01_AREA074.EMI|sec11|body70|@0xbe6|41B] *>사악과의 싸움\n도중에 {fe}모습을 {c15:1d}한\n가{fc}디언도 {fe}계십니다><END>
+[WORLD01_AREA074.EMI|sec11|body71|@0xc0f|32B] *알아 {fe}선생님\n그거 {fe}가{fc}디언\n가이스트지>?<END>
+[WORLD01_AREA074.EMI|sec11|body72|@0xc2f|15B] *역사 {ff}공부 시간이란다<END>
+[WORLD01_AREA074.EMI|sec11|body73|@0xc3e|22B] *흐{fc}음 {fe}그랬던 거구나>\n도움이 되는걸<END>
+[WORLD01_AREA074.EMI|sec11|body74|@0xc54|16B] *난 {fe}명상 중이외다<END>
+[WORLD01_AREA074.EMI|sec11|body75|@0xc64|22B] *난 {fe}로{fc}프를 만드는\n중이야<END>
+[WORLD01_AREA074.EMI|sec11|body76|@0xc7a|14B] *난>{fe}땡땡이치는 중이야<END>
+[WORLD01_AREA074.EMI|sec11|body77|@0xc88|27B] *서쪽 {fe}낭떠러지에\n마을이 있다던데>?<END>
+[WORLD01_AREA074.EMI|sec11|body78|@0xca3|44B] *뭐랄까 {fe}조수 상태에 따라\n해수면이 오르내려서>{02}못 지나갈 때가 {fe}있다나 봐<END>
+[WORLD01_AREA074.EMI|sec11|body79|@0xccf|23B] *고마워요>\n신과 함께하시기를><END>
+[WORLD01_AREA074.EMI|sec11|body80|@0xce6|42B] *그럼 {fe}사악이 나오면\n내가 {fe}가{fc}디언이 돼서\n당신을 지킬 테니까>@<END>
+[WORLD01_AREA074.EMI|sec11|body81|@0xd10|15B] *빙글 {fe}빙글 {fe}빙그르르<END>
+[WORLD01_AREA074.EMI|sec11|body82|@0xd1f|50B] *다들 {fe}신이네 사악이네\n잘도 {ff}질리지 않네>{02}그리 큰 소리로는\n말 못 하지만<END>
+[WORLD01_AREA074.EMI|sec11|body83|@0xd51|5B] *낑{fc}<END>
+[WORLD01_AREA074.EMI|sec11|body84|@0xd56|8B] *짹짹<END>
+[WORLD01_AREA074.EMI|sec11|body85|@0xd5e|8B] *호{fc}호게쿄<END>
+[WORLD01_AREA074.EMI|sec11|body86|@0xd66|28B] *이 위는 {fe}장로\n스{fc}다마님의 {ff}거처입니다<END>
+[WORLD01_AREA074.EMI|sec11|body87|@0xd82|7B] *>>>드르렁<END>
+[WORLD01_AREA074.EMI|sec11|body88|@0xd89|47B] *장로님은 {fe}저렇게\n눈을 {ff}감고 계시지만{02}세상을 {ff}꿰뚫어 보고 계셔요\n분명히><END>
+[WORLD01_AREA074.EMI|sec11|body89|@0xdb8|26B] *신을 섬기는 자가\n여기서 {fe}몸을 정결히 합니다><END>
+[WORLD01_AREA074.EMI|sec11|body90|@0xdd2|9B] {c04:02}랑 {fe}닮았다<END>
+[WORLD01_AREA074.EMI|sec11|body91|@0xddb|78B] *지금 {fe}이 세상이 있는 건\n가{fc}디언님들이\n사악을 무찌른 {ff}덕분이니까{02}가끔은 {fe}이렇게\n감사의 {ff}기도를\n올려야지><END>
+[WORLD01_AREA074.EMI|sec11|body92|@0xe29|25B] *신의 힘을 깃들인\n무기는 {fe}어떠신가?<END>
+[WORLD01_AREA074.EMI|sec11|body93|@0xe42|17B] *도구를 {ff}사 가시게나<END>
+[WORLD01_AREA074.EMI|sec11|body94|@0xe53|41B] *천사의 탑에 봉인된\n사악한 자들이\n되살아나지 않기를><END>
+[WORLD01_AREA074.EMI|sec11|body95|@0xe7c|34B] *사악이고 뭐고 {fe}됐고\n내가 {fe}행복해지\n기를{fc}><END>
+[WORLD01_AREA074.EMI|sec11|body96|@0xe9e|47B] *요즘은 {fe}기도하러\n오는 사람도 {ff}적네>{02}뭐 {fe}시대의 흐름이란\n건가>?<END>
+[WORLD01_AREA074.EMI|sec11|body97|@0xecd|22B] *피곤하신가요>?\n도{fc}핑 합시다<END>
+[WORLD01_AREA074.EMI|sec11|body98|@0xee3|4B] *멍{fc}<END>
+[WORLD01_AREA074.EMI|sec11|body99|@0xee7|34B] *여기 샘물로\n원기를 회복하시려나?\n>말하자면 {fe}여관이외다<END>
+[WORLD01_AREA074.EMI|sec11|body100|@0xf09|24B] *가{fc}디언님@\n>아직 {fe}남아 계셨나요<END>
+[WORLD01_AREA074.EMI|sec11|body101|@0xf21|29B] *어라 {fe}가{fc}디언님\n장로님께 {fe}볼일 있으세요?<END>
+[WORLD01_AREA074.EMI|sec11|body102|@0xf3e|36B] *아 {fe}가{fc}디언님\n>지금 {fe}당신 이야기를\n하던 참이에요<END>
+[WORLD01_AREA074.EMI|sec11|body103|@0xf62|35B] *가{fc}디언님\n천사의 탑에는 {ff}돌아가지\n않으시나요?<END>
+[WORLD01_AREA074.EMI|sec11|body104|@0xf85|37B] *이런 {fe}{c04:02}님@{02}지금 {fe}땡땡이 가{fc}디언\n얘기를 {ff}하고 있었어요<END>
+[WORLD01_AREA074.EMI|sec11|body105|@0xfaa|33B] *가{fc}디언 {c04:02}님은\n서쪽 {fe}낭떠러지에\n사신다던데>?<END>
+[WORLD01_AREA074.EMI|sec11|body106|@0xfcb|22B] *뭐랄까 {fe}그런 소문이\n있더라고요><END>
+[WORLD01_AREA074.EMI|sec11|body107|@0xfe1|27B] *신이 {fe}가{fc}디언님과\n함께하시기를><END>
+[WORLD01_AREA074.EMI|sec11|body108|@0xffc|37B] *다음에 {fe}사악이 쳐들어오면\n나도 {ff}가{fc}디언이\n될 거야@<END>
+[WORLD01_AREA074.EMI|sec11|body109|@0x1021|64B] *언제까지나 {fe}사악이네 신이네\n그딴 거 전설이지>{02}가{fc}디언님도\n어서 {fe}탑에 돌아가시면\n좋으련만><END>
+[WORLD01_AREA074.EMI|sec11|body110|@0x1061|23B] *{c04:02}님\n잘 {fe}돌아와 주셨습니다<END>
+[WORLD01_AREA074.EMI|sec11|body111|@0x1078|10B] {c04:02}\n*><PAUSE>><PAUSE>><END>
+[WORLD01_AREA074.EMI|sec11|body112|@0x1082|15B] {c0c:05}스{fc}다마\n*>>{c04:02}냐?<END>
+[WORLD01_AREA074.EMI|sec11|body113|@0x1091|75B] {c0c:05}스{fc}다마\n*아직 {fe}남아 있었더냐>{02}>걱정은 {fe}말거라\n사악은 {fe}멸망했다{02}가{fc}디언의 역할은 끝났느니라\n천천히 {fe}쉬는 게 좋아><END>
+[WORLD01_AREA074.EMI|sec11|body114|@0x10dc|35B] {c0c:05}스{fc}다마\n*어찌 된 게냐>{ff}네 사명은\n끝났느니라>?<END>
+[WORLD01_AREA074.EMI|sec11|body115|@0x10ff|40B] {c0c:06}{c04:02}\n*하지만>{ff}노사님>{02}신은 {fe}탑에 나타나\n주지 않으셨습니다><END>
+[WORLD01_AREA074.EMI|sec11|body116|@0x1127|63B] {c0c:05}스{fc}다마\n*그건 {fe}네 마음에\n망설임이 있어서다>@{02}망설임을 버려라>>\n가이스트처럼\n되고 싶지 않다면><END>
+[WORLD01_AREA074.EMI|sec11|body117|@0x1166|36B] {c0c:06}{c04:02}\n*노사님>{fe}가이스트의\n행방을 {ff}알고 계신가요?<END>
+[WORLD01_AREA074.EMI|sec11|body118|@0x118a|59B] {c0c:06}{c04:02}\n*가르쳐 주세요 {fe}노사님>{02}전 {fe}망설임을 버리기 위해\n가이스트를 {ff}만나야만\n합니다>@<END>
+[WORLD01_AREA074.EMI|sec11|body119|@0x11c5|68B] {c0c:05}스{fc}다마\n*서쪽 {fe}해수면이 오르내리는\n동굴 {ff}너머에>{02}싸움을 버린 {fe}가{fc}디언이\n산다고 들은 적이 있다<END>
+[WORLD01_AREA074.EMI|sec11|body120|@0x1209|73B] {c0c:05}스{fc}다마\n*허나 {fe}{c04:02}야>{02}가이스트처럼\n돼서는 {fe}안 된다>{02}신의 말에 {ff}이의를 제기하고>\n도망친 {fe}그 사내\n같이는 말이다><END>
+[WORLD01_AREA074.EMI|sec11|body121|@0x1252|22B] *서쪽으로 향하거라>\n가이스트는 {fe}거기 있다<END>
+[WORLD01_AREA074.EMI|sec11|body122|@0x1268|16B] *망설임을 버리거라\n{c04:02}>><END>
+[WORLD01_AREA074.EMI|sec11|body123|@0x1278|131B] *우리 신의 {ff}가르침은\n필요할 때 {fe}사악과\n싸우라 {ff}설파합니다>{02}사악의 기척은 {fe}끊겼지만\n힘을 {ff}갈고닦는 건\n좋은 일이지요>>{02}괜찮으시다면 {fe}나그네여>\n우리 신의 {ff}힘을\n배워 {ff}가지 않으시겠소?{c14:00}{c0c:02}네<END>
+[WORLD01_AREA074.EMI|sec11|body144|@0x12c9|50B] 괜찮으시다면 {fe}나그네여>\n우리 신의 {ff}힘을\n배워 {ff}가지 않으시겠소?{c14:00}{c0c:02}네<END>
+[WORLD01_AREA074.EMI|sec11|body145|@0x12ff|65B] 혼다라\n*음 {fe}<PAUSE>좋은 마음가짐이오@{02}그럼 {fe}우리 신의 힘을\n내려드릴 테니>{02}마음을 다해 {fe}수행에\n힘써 주시오@<END>
+[WORLD01_AREA074.EMI|sec11|body146|@0x1340|131B] 혼다라\n*음 {fe}<PAUSE>그대들에게는>\n살기가 {ff}너무 많은 듯하오>{02}세상엔 {fe}{c05:02}죽이지 않는 검술{06}이\n있다고 들었소>{02}사악과 {fe}싸우면서도\n생명을 {ff}지키는 마음가짐이\n중요한 것이오>{02}그럼 {ff}다시 만날 날까지\n신이 함께 {ff}하시기를<END>
+[WORLD01_AREA074.EMI|sec11|body147|@0x13a6|29B] 그럼 {ff}다시 만날 날까지\n신이 함께 {ff}하시기를<END>
+[WORLD01_AREA074.EMI|sec11|body148|@0x13c3|22B] *신은 항상 {ff}우리와\n함께 {ff}있느니라<END>
+[WORLD01_AREA074.EMI|sec11|body149|@0x13f2|45B] 우리 신과 함께>\n수행하고 싶다는 {ff}분이\n계신 건가요?{c14:01}{c0c:02}네<END>
+[WORLD01_AREA074.EMI|sec11|body150|@0x1423|37B] 어라 {fe}여러분\n신과 함께 {ff}수행 중인 몸이\n아니신가요@?<END>
+[WORLD01_AREA074.EMI|sec11|body151|@0x1448|34B] 그럼 {fe}신의 가르침을\n버리고 싶다고 {fe}생각하시오?{c14:02}{c0c:02}네<END>
+[WORLD01_AREA074.EMI|sec11|body152|@0x146e|37B] 어라 {fe}신과 함께\n수행 중인 분은 {fe}아무도\n안 계신 것 같군요><END>
+[WORLD01_AREA074.EMI|sec11|body153|@0x1493|38B] *그럼 {fe}{c07:00}{ff}을\n지금부터 {ff}우리와 같은\n신의 자녀로 {fe}인정하오@<END>
+[WORLD01_AREA074.EMI|sec11|body154|@0x14b9|31B] 그 밖에 {fe}신과 함께\n수행하고 싶은 분은?{c14:03}{c0c:02}있어요<END>
+[WORLD01_AREA074.EMI|sec11|body155|@0x14dd|34B] *한탄스럽게도\n{c07:00}{ff}에게는\n신을 향한 신앙이 {fe}사라졌소<END>
+[WORLD01_AREA074.EMI|sec11|body156|@0x14ff|34B] 그 밖에 {fe}가르침을 {ff}버리고 싶다고\n하시는 분은?{c14:04}{c0c:02}있어요<END>
+[WORLD01_AREA074.EMI|sec11|body157|@0x1526|82B] 아무래도 {ff}{c07:00}{ff}은\n수행에 {ff}힘쓴 것 같군요{02}그 마음가짐에 {ff}비추어\n이 마법을 {ff}내려드리지요@{02}{c07:00}{ff}은\n{c05:02}{c07:01}{06}의 마법을\n익혔다@@<END>
+[WORLD01_AREA074.EMI|sec11|body158|@0x1578|16B] 누가 {ff}제자가 되겠습니까?<END>
+[WORLD01_AREA074.EMI|sec11|body159|@0x1588|16B] 누가 {ff}제자를 그만두겠습니까?<END>
+[WORLD01_AREA074.EMI|sec11|body160|@0x1598|23B] 이 사람으로 {ff}괜찮으시겠습니까?{ff}{ff}네{ff}아니요<END>
+[WORLD01_AREA074.EMI|sec11|body161|@0x15af|22B] 그만두시겠습니까?{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}네{ff}아니요<END>

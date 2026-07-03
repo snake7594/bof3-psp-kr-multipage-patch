@@ -1,0 +1,24 @@
+[WORLD02_AREA100.EMI|sec11|body0|@0x210|29B] 시스템이 다운됐습니다\n시스템 디스크가 필요합니다<END>
+[WORLD02_AREA100.EMI|sec11|body1|@0x22d|62B] 프로그램을 인스톨{fc}합니다\n에리어 데{fc}터 설정 중<PAUSE>:<PAUSE>:<PAUSE>:<PAUSE>:<PAUSE>:\n<PAUSE>:<PAUSE>:<PAUSE>:<PAUSE>:<PAUSE>:<PAUSE>:인스톨{fc} 완료<END>
+[WORLD02_AREA100.EMI|sec11|body2|@0x26b|63B] {0a}{0a}{ff}{ff}{ff}포{fc}트:드라이브 기동\n{0a}<PAUSE>{ff}현재 위치는{ff}릴레{fc}이 포인트 B\n{0a}<PAUSE>{ff}{ff}이동할 곳을 입력하세요{0a}{c0c:14}<END>
+[WORLD02_AREA100.EMI|sec11|body3|@0x2d2|234B] {0a}<PAUSE>{ff}{ff}{ff}이동할 곳{ff}다우너 지방\n{0a}{0a}{ff}{ff}{ff}{ff}방향 설정 완료{0a}{c0c:00}{0a}<PAUSE>{ff}{ff}이동할 곳{ff}울오르{fc} 지방\n{0a}{0a}{ff}{ff}{ff}{ff}방향 설정 완료{0a}{c0c:00}{0a}<PAUSE>{ff}{ff}{ff}이동할 곳{ff}윈디아\n{0a}{0a}{ff}{ff}{ff}{ff}방향 설정 완료{0a}{c0c:00}{0a}<PAUSE>{ff}{ff}이동할 곳{ff}릴레{fc}이 포인트 A\n{0a}{0a}{ff}{ff}{ff}{ff}방향 설정 완료{0a}{c0c:00}{0a}{0a}{ff}코{fc}드:체크{0a}{c0c:0b}:<PAUSE>:<PAUSE>:OK\n{0a}<PAUSE>{ff}릴레{fc}이 포인트 A{ff}설정 완료{0a}{c0c:00}{0a}{0a}{ff}코{fc}드:체크{0a}{c0c:0b}:<PAUSE>:<PAUSE>:{c05:02}NG{06}<END>
+[WORLD02_AREA100.EMI|sec11|body4|@0x2fb|193B] {0a}<PAUSE>{ff}{ff}이동할 곳{ff}울오르{fc} 지방\n{0a}{0a}{ff}{ff}{ff}{ff}방향 설정 완료{0a}{c0c:00}{0a}<PAUSE>{ff}{ff}{ff}이동할 곳{ff}윈디아\n{0a}{0a}{ff}{ff}{ff}{ff}방향 설정 완료{0a}{c0c:00}{0a}<PAUSE>{ff}{ff}이동할 곳{ff}릴레{fc}이 포인트 A\n{0a}{0a}{ff}{ff}{ff}{ff}방향 설정 완료{0a}{c0c:00}{0a}{0a}{ff}코{fc}드:체크{0a}{c0c:0b}:<PAUSE>:<PAUSE>:OK\n{0a}<PAUSE>{ff}릴레{fc}이 포인트 A{ff}설정 완료{0a}{c0c:00}{0a}{0a}{ff}코{fc}드:체크{0a}{c0c:0b}:<PAUSE>:<PAUSE>:{c05:02}NG{06}<END>
+[WORLD02_AREA100.EMI|sec11|body5|@0x325|151B] {0a}<PAUSE>{ff}{ff}{ff}이동할 곳{ff}윈디아\n{0a}{0a}{ff}{ff}{ff}{ff}방향 설정 완료{0a}{c0c:00}{0a}<PAUSE>{ff}{ff}이동할 곳{ff}릴레{fc}이 포인트 A\n{0a}{0a}{ff}{ff}{ff}{ff}방향 설정 완료{0a}{c0c:00}{0a}{0a}{ff}코{fc}드:체크{0a}{c0c:0b}:<PAUSE>:<PAUSE>:OK\n{0a}<PAUSE>{ff}릴레{fc}이 포인트 A{ff}설정 완료{0a}{c0c:00}{0a}{0a}{ff}코{fc}드:체크{0a}{c0c:0b}:<PAUSE>:<PAUSE>:{c05:02}NG{06}<END>
+[WORLD02_AREA100.EMI|sec11|body6|@0x34d|111B] {0a}<PAUSE>{ff}{ff}이동할 곳{ff}릴레{fc}이 포인트 A\n{0a}{0a}{ff}{ff}{ff}{ff}방향 설정 완료{0a}{c0c:00}{0a}{0a}{ff}코{fc}드:체크{0a}{c0c:0b}:<PAUSE>:<PAUSE>:OK\n{0a}<PAUSE>{ff}릴레{fc}이 포인트 A{ff}설정 완료{0a}{c0c:00}{0a}{0a}{ff}코{fc}드:체크{0a}{c0c:0b}:<PAUSE>:<PAUSE>:{c05:02}NG{06}<END>
+[WORLD02_AREA100.EMI|sec11|body7|@0x376|70B] {0a}{0a}{ff}코{fc}드:체크{0a}{c0c:0b}:<PAUSE>:<PAUSE>:OK\n{0a}<PAUSE>{ff}릴레{fc}이 포인트 A{ff}설정 완료{0a}{c0c:00}{0a}{0a}{ff}코{fc}드:체크{0a}{c0c:0b}:<PAUSE>:<PAUSE>:{c05:02}NG{06}<END>
+[WORLD02_AREA100.EMI|sec11|body8|@0x3a3|25B] {0a}{0a}{ff}코{fc}드:체크{0a}{c0c:0b}:<PAUSE>:<PAUSE>:{c05:02}NG{06}<END>
+[WORLD02_AREA100.EMI|sec11|body9|@0x3bc|11B] >잠겨 있다<END>
+[WORLD02_AREA100.EMI|sec11|body10|@0x3c7|46B] *여긴{fe}아주 옛날부터\n있었지만>{02}무슨 장소인지{fe}잘\n모르겠어요<END>
+[WORLD02_AREA100.EMI|sec11|body11|@0x3f5|53B] *안에 들어가도{fe}뭔가\n{c05:02}제단{06} 같은 게\n있을 뿐이에요>{02}무슨 방일까요?<END>
+[WORLD02_AREA100.EMI|sec11|body12|@0x42a|29B] {c0c:06}병사\n*우{fe}<PAUSE>와와와@\n뭐, 뭐야{ff}이게@?<END>
+[WORLD02_AREA100.EMI|sec11|body13|@0x447|30B] {c04:01}\n*위{fe}<PAUSE>위험한 거 아니니까\n안심해>><END>
+[WORLD02_AREA100.EMI|sec11|body14|@0x465|22B] {c04:01}\n*>{c04:04}님\n거기{fe}좀 열어 줘@<END>
+[WORLD02_AREA100.EMI|sec11|body15|@0x47b|140B] 허니\n*{0a}{0a}1001{0a}<PAUSE>0101{0a}{0a}01110\n{0a}<PAUSE>10{0a}{0a}00001{0a}<PAUSE>011>{0a}{c0c:00}{c0c:06}{0a}{0a}{ff}{ff}{ff}내비게{fc}이터:코{fc}드\n{0a}<PAUSE>{ff}{ff}{ff}{ff}{ff}입력 완료\n{0a}{0a}{ff}포{fc}트:드라이브를 기동합니다{0a}{c0c:00}{c04:04}\n*><PAUSE>><PAUSE>>{c15:1d}어 버렸네{02}이런 젠장{fe}이걸로\n도망치라는 거냐?<END>
+[WORLD02_AREA100.EMI|sec11|body16|@0x4a8|95B] {c0c:06}{0a}{0a}{ff}{ff}{ff}내비게{fc}이터:코{fc}드\n{0a}<PAUSE>{ff}{ff}{ff}{ff}{ff}입력 완료\n{0a}{0a}{ff}포{fc}트:드라이브를 기동합니다{0a}{c0c:00}{c04:04}\n*><PAUSE>><PAUSE>>{c15:1d}어 버렸네{02}이런 젠장{fe}이걸로\n도망치라는 거냐?<END>
+[WORLD02_AREA100.EMI|sec11|body17|@0x4df|40B] {c04:04}\n*><PAUSE>><PAUSE>>{c15:1d}어 버렸네{02}이런 젠장{fe}이걸로\n도망치라는 거냐?<END>
+[WORLD02_AREA100.EMI|sec11|body18|@0x507|23B] {c0c:06}{c04:04}\n*{c04:01}@{ff}도망칠 수 있을>\n으윽@<END>
+[WORLD02_AREA100.EMI|sec11|body19|@0x51e|28B] {c04:01}\n*죄송해요{fe}어머니>{02}저{fe}역시>><END>
+[WORLD02_AREA100.EMI|sec11|body20|@0x53a|60B] {c0c:06}실라\n*조용히 하렴@{02}왕가의 딸 된{ff}자가\n그런 제멋대로>\n용납될 거라 생각하느냐?<END>
+[WORLD02_AREA100.EMI|sec11|body21|@0x576|37B] {c04:01}\n*저는{fe}어머니도 좋아하고\n성도{ff}소중히 여겨요><END>
+[WORLD02_AREA100.EMI|sec11|body22|@0x59b|21B] {c04:01}\n*하지만>{ff}저는>>\n저니까@<END>
+[WORLD02_AREA100.EMI|sec11|body23|@0x5b0|18B] {c0c:04}병사\n*어, 어이쿠{c15:07}{c15:07}{c15:07}?<END>

@@ -1,0 +1,107 @@
+[WORLD04_AREA174.EMI|sec11|body0|@0x200|93B] *미리아 님이 태어나기 전>\n세계는{fe}멸망의 한가운데\n있었습니다>>{02}상처 입은 대지는{fe}온통\n모래로{ff}뒤덮이고>{02}대부분의 생명이\n목숨을{ff}빼앗겼습니다<END>
+[WORLD04_AREA174.EMI|sec11|body1|@0x25d|54B] {c0c:06}*사태를 근심하신{fe}미리아 님은\n그 힘을 다하여>{02}세계를{ff}둘로\n나누셨습니다>><END>
+[WORLD04_AREA174.EMI|sec11|body2|@0x293|40B] *하나는{fe}이쪽의\n죽은 모래의 세계{02}그리고{fe}또 하나가>><END>
+[WORLD04_AREA174.EMI|sec11|body3|@0x2bb|32B] *죽음의 사막으로부터{fe}당신들의\n세계를{ff}지키고 있습니다<END>
+[WORLD04_AREA174.EMI|sec11|body4|@0x2db|61B] *멸망을{ff}면한\n생명의{ff}대부분은>{02}당신들과{ff}마찬가지로\n저쪽 세계로\n모여들었습니다<END>
+[WORLD04_AREA174.EMI|sec11|body5|@0x318|87B] *미리아 님의 소원은\n생명 있는 것을{ff}지키는 것>{02}당신들의{ff}세계를\n지키는 것입니다>>{02}몬스터{fc}조차도\n미리아 님께는\n사랑스러운 생명입니다><END>
+[WORLD04_AREA174.EMI|sec11|body6|@0x36f|67B] *사랑하는 생명들을>\n세계를{ff}지키기 위해>>{02}미리아 님은{fe}갖가지 방법으로\n관리를{ff}하지 않으면\n안 되었습니다><END>
+[WORLD04_AREA174.EMI|sec11|body7|@0x3b2|69B] *기계는{fe}복구할 수 있는 것\n만을 쓰게 하고>{02}기계 기술이{fe}위험한 방향으로\n향하지 않도록\n관리하고 있는 것입니다<END>
+[WORLD04_AREA174.EMI|sec11|body8|@0x3f7|44B] *고{fc}스트 광석에 의한\n에너지{fc}도>{02}미리아 님의\n세계 관리의{ff}하나입니다<END>
+[WORLD04_AREA174.EMI|sec11|body9|@0x423|57B] *즉{fe}고{fc}스트 광석은\n미리아 님의 마력을>{02}조금씩{fe}전달할 뿐인\n엘레멘탈에{ff}지나지 않습니다<END>
+[WORLD04_AREA174.EMI|sec11|body10|@0x45c|7B] {c0c:05}*>{c04:04}<END>
+[WORLD04_AREA174.EMI|sec11|body11|@0x463|11B] {c0c:05}*>{c04:01}{fe}<PAUSE>{c04:05}<END>
+[WORLD04_AREA174.EMI|sec11|body12|@0x46e|13B] {c0c:05}*가{fc}디언:{c04:02}<END>
+[WORLD04_AREA174.EMI|sec11|body13|@0x47b|12B] {c0c:05}*그리고><PAUSE>{ff}{c04:00}<END>
+[WORLD04_AREA174.EMI|sec11|body14|@0x487|44B] {c0c:05}*거칠게 날뛰는 바다를>\n죽음의 사막을{ff}두려워 않는>{02}믿음직한{fe}아이들이여>><END>
+[WORLD04_AREA174.EMI|sec11|body15|@0x4b3|13B] {c0c:05}*내가{fe}미리아입니다<END>
+[WORLD04_AREA174.EMI|sec11|body16|@0x4c0|52B] {c0c:06}{c04:02}\n*신이여>>>{02}당신을{fe}만나>\n진실을{ff}묻고자\n멀리>{ff}여행해 왔습니다><END>
+[WORLD04_AREA174.EMI|sec11|body17|@0x4f4|56B] {c0c:06}{c04:02}\n*신이여>\n가르쳐 주십시오>>>{02}용족은>\n멸망하지{fe}않으면 안 될\n운명>{ff}이었습니까?<END>
+[WORLD04_AREA174.EMI|sec11|body18|@0x52c|42B] {c0c:05}미리아\n*사랑스러운 생명의 멸망을\n누가{fe}바라겠습니까?{02}다만><PAUSE>><PAUSE>><END>
+[WORLD04_AREA174.EMI|sec11|body19|@0x556|45B] {c0c:05}미리아\n*용의 힘은{fe}너무 컸습니다>{02}나의{fe}작고 작은\n세계에는><END>
+[WORLD04_AREA174.EMI|sec11|body20|@0x583|52B] {c0c:05}미리아\n*용의 힘이라는{fe}위험으로부터>{02}다른 생명을{ff}멀리하지 않으면\n안 되었던 것입니다<END>
+[WORLD04_AREA174.EMI|sec11|body21|@0x5b7|52B] {c0c:06}{c04:04}\n*그러니까>>{02}쓸데없는 짓{ff}하지 말고\n얌전히{ff}당신한테\n지켜지라>{ff}<PAUSE>이 말이냐?<END>
+[WORLD04_AREA174.EMI|sec11|body22|@0x5eb|18B] {c0c:05}미리아\n*그렇습니다{fe}{c04:04}<END>
+[WORLD04_AREA174.EMI|sec11|body23|@0x5fd|59B] {c0c:05}미리아\n*내가{fe}외해라는 방패로\n지키지 않으면>{02}죽음의 사막은{fe}서서히\n세계를{ff}집어삼키고><END>
+[WORLD04_AREA174.EMI|sec11|body24|@0x638|56B] {c0c:05}미리아\n*내가{fe}복구할 수 있는\n기계를{ff}주지 않으면>{02}세계는{fe}기능하지\n못하게 될 것입니다><END>
+[WORLD04_AREA174.EMI|sec11|body25|@0x670|62B] {c04:05}\n*하지만>>\n지금은{fe}아직 무리여도>{02}언젠가{fe}우리>\n우리 손으로{ff}기계를\n만들어 낼지도>><END>
+[WORLD04_AREA174.EMI|sec11|body26|@0x6ae|67B] {c0c:05}미리아\n*살아가는 것만으로\n벅찬>{02}사막의 세계에서{fe}당신들이\n무언가를{ff}만들어 낼 수 있다고는\n생각지 않습니다<END>
+[WORLD04_AREA174.EMI|sec11|body27|@0x6f1|73B] {c0c:05}미리아\n*게다가>{ff}설령\n만들어 냈다 한들>{02}그것이{fe}자신들을{ff}파멸시킬\n위험한 무기가 아니라고\n말할 수 있습니까{fe}{c04:05}?<END>
+[WORLD04_AREA174.EMI|sec11|body28|@0x73a|74B] {c0c:05}미리아\n*예전의{fe}이 세계는>{02}당신들이{fe}상상조차 못 할\n만큼{fe}컸고>{02}옛 도시에도{ff}수많은 사람이\n살고 있었습니다><END>
+[WORLD04_AREA174.EMI|sec11|body29|@0x784|25B] 미리아\n*나는>>\n그들을{ff}지키지 못했다><END>
+[WORLD04_AREA174.EMI|sec11|body30|@0x79d|50B] 미리아\n*같은 잘못은{fe}저지르지 않습니다{02}나는{fe}당신들\n남겨진 생명을{ff}지킬 것입니다><END>
+[WORLD04_AREA174.EMI|sec11|body31|@0x7cf|73B] {c0c:06}{c04:01}\n*>말씀은{fe}잘 알겠어요{02}분명{fe}우리는\n누군가에게{ff}지켜지지 않으면>{02}살아갈 수 없는{fe}약한 존재\n일지도 몰라요><END>
+[WORLD04_AREA174.EMI|sec11|body32|@0x818|56B] {c04:01}\n*용의 힘은{fe}그 옛날에\n옛 도시를{ff}멸망시킨 것과{02}같은 힘일지도{fe}몰라요>{02}하지만>><END>
+[WORLD04_AREA174.EMI|sec11|body33|@0x850|30B] {c04:01}\n*그렇다고{fe}어쩌라는 거죠?{02}{c04:00}는{fe}죽어야 한다고요?<END>
+[WORLD04_AREA174.EMI|sec11|body34|@0x86e|50B] {c04:01}\n*만들어진 세계에>{02}가둬{ff}둬야 한다고\n말하는 건가요?{02}>>{c04:03}처럼@?<END>
+[WORLD04_AREA174.EMI|sec11|body35|@0x8a0|14B] {c0c:06}{c04:04}\n*>>그러게 말이야<END>
+[WORLD04_AREA174.EMI|sec11|body36|@0x8ae|43B] {c0c:06}{c04:04}\n*뭐든 다{fe}전부 당신>{02}손바닥 위{fe}라는 건\n맘에 안 들어>><END>
+[WORLD04_AREA174.EMI|sec11|body37|@0x8d9|42B] {c0c:06}{c04:04}\n*가만히 있어{fe}소리 들으면{02}날뛰고{ff}싶어진다고\n애새끼니까 말이야>@<END>
+[WORLD04_AREA174.EMI|sec11|body38|@0x903|55B] {c04:02}\n*신이여>>{02}우리는{fe}지금으로선\n{c04:00}를{ff}당신에게\n넘길 생각도>{02}죽게 할 생각도{fe}없습니다<END>
+[WORLD04_AREA174.EMI|sec11|body39|@0x93a|75B] {c04:02}\n*함께{fe}여행해 왔기에\n말할 수 있습니다만>{02}용의 힘에는{fe}신이\n말씀하시는>{02}위험만이{fe}있는 것처럼은\n생각되지 않습니다<END>
+[WORLD04_AREA174.EMI|sec11|body40|@0x985|67B] {c0c:05}{c04:01}\n*세계의{ff}대부분이>{02}황폐한{ff}사막이라는 건\n충격이었어요>{02}하지만{fe}{c04:00}의>\n모두의 힘이{ff}있으면>><END>
+[WORLD04_AREA174.EMI|sec11|body41|@0x9c8|32B] {c0c:05}미리아\n*><PAUSE>><PAUSE>>거기까지{fe}하지요\n아이들이여<END>
+[WORLD04_AREA174.EMI|sec11|body42|@0x9e8|44B] {c0c:05}미리아\n*당신들의\n용기와{fe}자신감을>>{02}자랑스럽게{fe}생각합니다>\n{c04:04}<END>
+[WORLD04_AREA174.EMI|sec11|body43|@0xa14|55B] {c0c:05}미리아\n*걱정 없습니다>{02}이곳에서의{fe}기억을{ff}빼앗고\n원래 있던 세계로\n돌려보낼 뿐입니다>{ff}{c04:05}<END>
+[WORLD04_AREA174.EMI|sec11|body44|@0xa4b|69B] {c0c:05}미리아\n*나의 힘이{ff}미치는 곳은\n정말로{ff}작습니다>{02}하지만{fe}당신들은\n그곳에서밖에{ff}살 수 없어요\n알겠지요{fe}{c04:01}><END>
+[WORLD04_AREA174.EMI|sec11|body45|@0xa90|62B] {c0c:05}미리아\n*>잘도{fe}{c04:00}를\n데려와{ff}주었습니다{02}>>가{fc}디언:{c04:02}\n그대의 사명은{fe}이로써\n끝났습니다<END>
+[WORLD04_AREA174.EMI|sec11|body46|@0xace|29B] {c0c:06}{c04:06}\n*내 이름을{ff}부르지 않았구나\n미리아>>?<END>
+[WORLD04_AREA174.EMI|sec11|body47|@0xaeb|26B] {c0c:06}{c04:06}\n*내가{fe}누군지\n모르겠느냐>>?<END>
+[WORLD04_AREA174.EMI|sec11|body48|@0xb05|21B] {c0c:05}미리아\n*너는>{ff}<PAUSE>겐주>?<END>
+[WORLD04_AREA174.EMI|sec11|body49|@0xb1a|38B] {c0c:06}{c04:06}\n*내가{fe}있는 동안은>{02}네 멋대로{fe}굴게는\n두지 않겠다>><END>
+[WORLD04_AREA174.EMI|sec11|body50|@0xb40|52B] {c0c:05}미리아\n*나는>>{02}내 세계에서밖에{ff}살 수 없는\n어린아이의{ff}손을\n이끌었을 뿐입니다><END>
+[WORLD04_AREA174.EMI|sec11|body51|@0xb74|50B] {c0c:06}{c04:06}\n*하지만{fe}우리는{ff}네가 말하는\n작은 세계를{ff}넘어 왔다>{02}{c04:00}와 함께{fe}말이다><END>
+[WORLD04_AREA174.EMI|sec11|body52|@0xba6|13B] {c0c:05}미리아\n*>>{c04:00}?<END>
+[WORLD04_AREA174.EMI|sec11|body53|@0xbb3|48B] {c0c:05}미리아\n*><PAUSE>><PAUSE>><PAUSE>>좋습니다{02}그렇다면><PAUSE>><PAUSE>>\n그대에게{fe}묻겠습니다\n{c04:00}><END>
+[WORLD04_AREA174.EMI|sec11|body54|@0xbe3|22B] {c0c:05}미리아\n*그대가{ff}어쩔 셈인지<END>
+[WORLD04_AREA174.EMI|sec11|body55|@0xbf9|65B] {c0c:05}미리아\n*그대가{fe}그 힘을\n버린다면>{02}세계는{ff}지금까지처럼\n나의 가{c15:0e} 아래>\n평온히{ff}있을 것입니다<END>
+[WORLD04_AREA174.EMI|sec11|body56|@0xc3a|48B] {c0c:05}미리아\n*그대를{ff}여기까지\n데려온>{ff}그 힘은{02}세계에는{ff}너무 큰 것입니다<END>
+[WORLD04_AREA174.EMI|sec11|body57|@0xc6a|34B] {c0c:05}미리아\n*다른{ff}많은 용족이\n예전에{ff}그리했던 것처럼><END>
+[WORLD04_AREA174.EMI|sec11|body58|@0xc8c|30B] {c0c:05}미리아\n*운명을{ff}받아들이세요{02}나의>{ff}{c04:00}><END>
+[WORLD04_AREA174.EMI|sec11|body59|@0xcaa|46B] *뿌키{fe}{c04:00}야>{02}너 자신과{fe}너를\n믿어 주는 자를\n믿는 거야>>{fe}뿌우<END>
+[WORLD04_AREA174.EMI|sec11|body60|@0xcd8|36B] *솔직히 말하면>{fe}무척\n무서워>>{02}우리는>{ff}강하지 않아><END>
+[WORLD04_AREA174.EMI|sec11|body61|@0xcfc|55B] {c04:01}\n*여기서{fe}{c04:00}가\n운명에{ff}거스르면>{02}세계는{ff}어떻게 돼\n버릴지도 몰라{02}하지만>><END>
+[WORLD04_AREA174.EMI|sec11|body62|@0xd33|51B] {c04:01}\n*나{fe}{c04:00}가\n사악한 용이 아니라고>{02}줄곧{fe}믿어 왔으니까>{02}끝까지{fe}믿을 거야<END>
+[WORLD04_AREA174.EMI|sec11|body63|@0xd66|24B] *괜찮아>\n잘될 것 같은{fe}느낌이 들어<END>
+[WORLD04_AREA174.EMI|sec11|body64|@0xd7e|38B] *확실히{fe}지금은\n남겨진 기계를{ff}고치는 것밖에\n할 줄 모르긴 해><END>
+[WORLD04_AREA174.EMI|sec11|body65|@0xda4|46B] {c04:05}\n*하지만{fe}모래 밑에서라도\n기계를{ff}파내서>{02}알아내는 건{fe}할 수 있는걸>@<END>
+[WORLD04_AREA174.EMI|sec11|body66|@0xdd2|52B] {c04:05}\n*맞아{fe}<PAUSE>설령 세계가\n모래에{ff}묻혀도>{02}포기하지만 않으면\n어떻게든 돼>{fe}겠지{fc}>?<END>
+[WORLD04_AREA174.EMI|sec11|body67|@0xe06|72B] *라고 말하면서도{fe}실은>{02}세계가 멸망한다거나\n사막이 된다거나>\n별로{fe}실감이 안 나{fc}{02}그{fc}런{fc} 건\n{c04:00}가{fe}정하라고<END>
+[WORLD04_AREA174.EMI|sec11|body68|@0xe4e|48B] *흠>{ff}나는>{02}내가{fe}한 일의\n진실을{ff}알고 싶어서\n너를{ff}데려왔다><END>
+[WORLD04_AREA174.EMI|sec11|body69|@0xe7e|79B] {c04:02}\n*정말{fe}내 멋대로의\n이유였다만>>{02}알게 된 게{fe}하나 있다>{02}나는{fe}지금>{ff}미리아 님보다\n너를{ff}믿는다\n{c04:00}야>><END>
+[WORLD04_AREA174.EMI|sec11|body70|@0xecd|59B] *수많은 용족을\n죽인 것의{fe}속죄가 되리라고는\n생각지{fe}않는다{fe}만>{02}너를{ff}여기 데려올 수 있어서\n다행이었다><END>
+[WORLD04_AREA174.EMI|sec11|body71|@0xf08|55B] *그놈은>{fe}{c04:03}에게도\n그런 식으로{ff}쓸데없는 소리\n불어넣어서>{02}{c04:03}를{ff}우리에게\n부추긴 거다>><END>
+[WORLD04_AREA174.EMI|sec11|body72|@0xf3f|42B] {c04:04}\n*내 동생한테{fe}손을 댔어>{02}확실히{fe}매듭을 짓게\n해 주겠어>?<END>
+[WORLD04_AREA174.EMI|sec11|body73|@0xf69|64B] *네가{fe}어쩌든\n나는{fe}여신과{ff}싸워 주겠다>{02}이길지{fe}질지 따위\n해 보기 전엔\n알 수 있겠냐@?<END>
+[WORLD04_AREA174.EMI|sec11|body74|@0xfa9|77B] 여신 미리아는{fe}눈을 감고\n{c04:00}의 결심을\n기다리고 있다>>{02}{c04:00}는{fe}아직\n마음을{ff}정하지 못했다>{02}동료들은{fe}어떻게 생각하고\n있을까>?<END>
+[WORLD04_AREA174.EMI|sec11|body75|@0xff6|18B] 그것은{fe}중대한 결의였다><END>
+[WORLD04_AREA174.EMI|sec11|body76|@0x1008|89B] 자신의 힘을{ff}버리고>\n여신이 지키는{fe}안식의 세계를\n살아갈 것인가>{02}자신의 힘을{ff}믿고\n죽음의 위험이 기다리는\n아무것도 없는 사막으로{fe}떠날 것인가><END>
+[WORLD04_AREA174.EMI|sec11|body77|@0x1061|43B] {c04:00}는>>\n뜻을{ff}정했다>>{c14:00}{c0c:12}용의 힘을 버리고{fe}여신과 함께 산다<END>
+[WORLD04_AREA174.EMI|sec11|body78|@0x1098|39B] ><PAUSE>><PAUSE>>세계의 명운을\n짊어지는 것은{fe}역시\n{c04:00}에게는{fe}할 수 없었다<END>
+[WORLD04_AREA174.EMI|sec11|body79|@0x10bf|52B] 힘을 버림으로써\n세계가{fe}평안이 이어진다고\n말하는 것이라면>{02}그것으로{fe}좋다고 생각했다<END>
+[WORLD04_AREA174.EMI|sec11|body80|@0x10f3|29B] {c0c:05}미리아\n*><PAUSE>><PAUSE>>잘\n결심해{ff}주었습니다<END>
+[WORLD04_AREA174.EMI|sec11|body81|@0x1110|27B] {c0c:05}미리아\n*{c04:00}야{fe}<PAUSE>그것이\n진정한 강함입니다>><END>
+[WORLD04_AREA174.EMI|sec11|body82|@0x112b|58B] {c0c:05}미리아\n*모든 것을{ff}지키기 위해\n무서운 힘을{ff}버린다>{02}너의 용기를\n자랑스럽게 생각합니다{fe}{c04:00}><END>
+[WORLD04_AREA174.EMI|sec11|body83|@0x1165|27B] {c0c:05}미리아\n*자{fe}갑시다\n나의>{ff}{c04:00}><END>
+[WORLD04_AREA174.EMI|sec11|body84|@0x1180|29B] {c04:00}는>\n힘을{ff}버리는 것이\n할 수 없다고 생각했다>><END>
+[WORLD04_AREA174.EMI|sec11|body85|@0x119d|63B] 일족의 원한>{ff}숙명>{02}{c04:03}의 일>{02}그것들이{ff}머릿속에 없었다고\n할 수는 없다>{02}하지만{fe}그런 것보다도>><END>
+[WORLD04_AREA174.EMI|sec11|body86|@0x11dc|36B] 힘을{ff}버리면>{02}자신이{fe}자신이 아니게 되는\n느낌이 들었다><END>
+[WORLD04_AREA174.EMI|sec11|body87|@0x1200|46B] {c0c:05}미리아\n*너는{fe}자신이 무엇을\n하려는지>{02}알고 있는 것입니까?<END>
+[WORLD04_AREA174.EMI|sec11|body88|@0x122e|67B] {c0c:05}미리아\n*나에게{fe}검을 겨누는 것은>{02}세계에{fe}검을{ff}들이대는 것과\n같다는 것을\n알고 있는 것입니까?<END>
+[WORLD04_AREA174.EMI|sec11|body89|@0x1271|58B] {c0c:05}미리아\n*너희>{ff}용족이>{02}그토록{fe}어리석지 않다는 것을\n믿고 있습니다>{02}자{fe}검을{ff}내리세요<END>
+[WORLD04_AREA174.EMI|sec11|body90|@0x12ab|29B] 미리아가 하는 말이\n옳다는 것은{fe}알고 있었다><END>
+[WORLD04_AREA174.EMI|sec11|body91|@0x12c8|26B] {c0c:05}미리아\n*><PAUSE>><PAUSE>><PAUSE>>{02}가엾은{fe}{c04:00}><END>
+[WORLD04_AREA174.EMI|sec11|body92|@0x12e2|33B] {c0c:05}미리아\n*너무 큰 힘이>\n너를{ff}미치게 해 버렸구나<END>
+[WORLD04_AREA174.EMI|sec11|body93|@0x1303|67B] {c0c:05}미리아\n*용족처럼{fe}강한\n힘을 갖지 못한 자는>{02}나의 가{c15:0e} 없이는\n살아갈 수{fe}없다고\n했거늘>><END>
+[WORLD04_AREA174.EMI|sec11|body94|@0x1346|55B] {c0c:05}미리아\n*너는{fe}힘을 손{c15:10}지 않고>{02}그 자들을{ff}생존의\n위기에 빠뜨리겠다고{fe}하는 것이군요<END>
+[WORLD04_AREA174.EMI|sec11|body95|@0x137d|42B] {c0c:05}미리아\n*역시{fe}용은>{02}세계에 파멸을 가져오는\n존재인 것이군요><END>
+[WORLD04_AREA174.EMI|sec11|body96|@0x13a7|50B] {c0c:06}{c04:06}\n*그건 아니다>{fe}미리아{02}생명이{fe}네 세계에\n담기지 않을 때가{fe}온 것이다><END>
+[WORLD04_AREA174.EMI|sec11|body97|@0x13d9|66B] {c0c:05}미리아\n*겐주여><PAUSE>{ff}무어라 하든\n나는{fe}세계를 지킵니다{02}그것이{fe}모든 생명을\n위함이기도{ff}한 것입니다<END>
+[WORLD04_AREA174.EMI|sec11|body98|@0x141b|69B] {c0c:06}{c04:06}\n*미리아여><PAUSE>{ff}네 세계에서는\n생명은{fe};죽지 않을<뿐이다>{02}그것만으로는{fe};살아 있다<\n고는{fe}할 수 없다>><END>
+[WORLD04_AREA174.EMI|sec11|body99|@0x1460|102B] {c0c:05}미리아\n*><PAUSE>><PAUSE>><PAUSE>>{02}{c04:00}야>\n저주받은{fe}용의 일족이여>{02}이야기는{fe}끝났습니다>{02}너의 결의가{fe}변치 않는다고\n말하는 것이라면>{02}나는{fe}너를{ff}멸하겠습니다\n슬픔 속에서><END>
+[WORLD04_AREA174.EMI|sec11|body100|@0x14c6|34B] {c0c:01}여신 미리아와{fe}싸울\n멤버를{ff}정해 주세요{fd}<END>
+[WORLD04_AREA174.EMI|sec11|body101|@0x14e8|34B] {c0c:05}{c04:02}\n*>>끝났다{fe}<PAUSE>아니{02}너희에게는>\n시작{fe}인가<END>
+[WORLD04_AREA174.EMI|sec11|body102|@0x150a|44B] {c0c:05}{c04:02}\n*길었다>{ff}하지만>{02}잘못된 일은{fe}하지 않았다\n그렇지{fe}{c04:00}>?<END>
+[WORLD04_AREA174.EMI|sec11|body103|@0x1536|12B] {c04:01}\n*>{c04:02}씨@?<END>
+[WORLD04_AREA174.EMI|sec11|body104|@0x1542|48B] {c0c:05}{c04:02}\n*가{fc}디언의 생사는\n여신과 함께{fe}있다>{02}돌로 돌아갈 때가{fe}왔다>><END>
+[WORLD04_AREA174.EMI|sec11|body105|@0x1572|42B] {c0c:05}{c04:02}\n*자{fe}가라>{02}이제부터는{fe}자신들의 힘으로\n걸어가는 것이다>><END>
+[WORLD04_AREA174.EMI|sec11|body106|@0x159c|37B] {c0c:81}디{fc}스\n*용족을{ff}멸하려 한 것은\n지나쳤지만><END>

@@ -1,0 +1,79 @@
+[WORLD03_AREA130.EMI|sec11|body0|@0x208|46B] *여긴{fe}파{fc}치라고 해\n조그만{ff}마을이지>{02}다들 같이{ff}생선 잡아먹고\n살아간다고<END>
+[WORLD03_AREA130.EMI|sec11|body1|@0x236|32B] *어머{fe}짐 나르는 길드 사람?\n늘 오던 사람{ff}아니네><END>
+[WORLD03_AREA130.EMI|sec11|body2|@0x256|52B] *길드 사람들{fe}늘\n여기서 생선 사가고>{02}대신에{ff}빵이나 다른 거\n가져온다구<END>
+[WORLD03_AREA130.EMI|sec11|body3|@0x28a|14B] *와{fc}{fe}동력선이다@<END>
+[WORLD03_AREA130.EMI|sec11|body4|@0x298|41B] *나는{fe}언젠가>\n전설의 뱃사람처럼\n바깥바다를{ff}탐험할 거야<END>
+[WORLD03_AREA130.EMI|sec11|body5|@0x2c1|29B] *근데{fe}바깥바다로 나갈 만한\n배가{ff}있긴 해?<END>
+[WORLD03_AREA130.EMI|sec11|body6|@0x2de|63B] *바깥바다 너머에\n뭐가 있냐고>?{02}글쎄>{ff}우리 관심사는\n어디서 물고기가{ff}잡히냐\n하는 것뿐이라네<END>
+[WORLD03_AREA130.EMI|sec11|body7|@0x31d|6B] *쿠우쿠우<END>
+[WORLD03_AREA130.EMI|sec11|body8|@0x323|4B] *멍<END>
+[WORLD03_AREA130.EMI|sec11|body9|@0x327|5B] *멍멍이<END>
+[WORLD03_AREA130.EMI|sec11|body10|@0x32c|5B] *야옹<END>
+[WORLD03_AREA130.EMI|sec11|body11|@0x331|15B] {0d}케소케소케소케소케소{0e}{0f}{02}<END>
+[WORLD03_AREA130.EMI|sec11|body12|@0x340|17B] {0d}쿠츠쿠츠쿠츠쿠츠쿠츠쿠츠{0e}{0f}{02}<END>
+[WORLD03_AREA130.EMI|sec11|body13|@0x351|74B] *미드:시{fc} 안에서\n물고기{ff}잡기만 하면\n그닥 위험은{ff}없는데>{02}가끔{fe}바깥바다로 나가려\n하니까 말야>{ff}남자란 게><END>
+[WORLD03_AREA130.EMI|sec11|body14|@0x39b|13B] *아빠{fe}바다 갔어<END>
+[WORLD03_AREA130.EMI|sec11|body15|@0x3a8|52B] *촌장은{fe}요즘\n생선을{ff}안 먹어서>\n점점 몸이{fe}약해지고 있어{02}큰일이야><END>
+[WORLD03_AREA130.EMI|sec11|body16|@0x3dc|41B] *흥{fe}생선 같은\n비린 건>{02}고양이한테나{ff}먹이라고\n했다고><END>
+[WORLD03_AREA130.EMI|sec11|body17|@0x405|8B] *쮸쮸쿠<END>
+[WORLD03_AREA130.EMI|sec11|body18|@0x40d|23B] *난 말이지{fe}지금 이대로\n충분하지만 말야<END>
+[WORLD03_AREA130.EMI|sec11|body19|@0x424|43B] *기회가 있으면\n도시로 나가서>{02}어머니를{ff}편하게\n해드릴 거야<END>
+[WORLD03_AREA130.EMI|sec11|body20|@0x44f|6B] *우{fc}냥<END>
+[WORLD03_AREA130.EMI|sec11|body21|@0x455|27B] *이런 곳에도{fe}그래도\n여관이{fe}있다니까<END>
+[WORLD03_AREA130.EMI|sec11|body22|@0x470|22B] *어서 오슈@\n낚시 도구라면{ff}여기가 최고요<END>
+[WORLD03_AREA130.EMI|sec11|body23|@0x486|24B] *바닷가지만{fe}무기는\n안 녹슬었수다@<END>
+[WORLD03_AREA130.EMI|sec11|body24|@0x49e|68B] *여기 여관 주인>\n우리 해인족 피가\n섞인{ff}것 같던데>{02}아니면{ff}생선 너무 먹어서\n저런 얼굴{ff}된 걸까<END>
+[WORLD03_AREA130.EMI|sec11|body25|@0x4e2|85B] *엥{fe}전설의 뱃사람>?{02}아무도{ff}못 나간다는\n저 미쳐 날뛰는{ff}바깥바다를\n탐험하고 온 사람이지@{02}우리 촌장이{ff}자주 얘기\n해줬다고><END>
+[WORLD03_AREA130.EMI|sec11|body26|@0x537|64B] *이 사람{fe}전설을{ff}곧이듣고\n바깥바다로 나가려 해>{02}미드:시 배로는\n바깥바다 가는 건{ff}무린데<END>
+[WORLD03_AREA130.EMI|sec11|body27|@0x577|65B] *응?{ff}전설의 뱃사람>?{02}바다에 살면서{ff}그걸\n모르는 자는{ff}없지만>{02}아마{fe}촌장이\n잘 알았을 거야><END>
+[WORLD03_AREA130.EMI|sec11|body28|@0x5b8|55B] *너희도{ff}바깥바다를\n건너고 싶은 거니>?{02}굳이{ff}그런 위험한 짓\n안 해도{ff}될 텐데><END>
+[WORLD03_AREA130.EMI|sec11|body29|@0x5ef|57B] *촌장은{fe}원래\n{c05:02}윈디아 중부{06} 출신이라>{02}거기 음식이>\n그리운 건지도{ff}모르지<END>
+[WORLD03_AREA130.EMI|sec11|body30|@0x628|67B] 촌장\n*응응>?{ff}{c05:02}전설의 뱃사람{06}?{02}>>그딴 소리{fe}하면서{ff}또\n나한테{ff}비린 생선\n먹일 셈이냐@?<END>
+[WORLD03_AREA130.EMI|sec11|body31|@0x66b|39B] *뭐{fe}도시 가고 싶어하는 게\n바깥바다 나가려는 것보단\n낫긴 하지만><END>
+[WORLD03_AREA130.EMI|sec11|body32|@0x692|78B] *촌장 마음도{ff}이해돼>{02}이런 시골서{ff}생선만\n먹어대면{ff}질리지>{02}도시 가서{ff}배 터지게\n빵 먹을 거야@<END>
+[WORLD03_AREA130.EMI|sec11|body33|@0x6e0|77B] *우리{ff}주식은\n생선인데>{02}촌장이{ff}몸이 약해져\n생선을 싫어하게{ff}돼서>{02}그 뒤로{ff}말도\n제대로 안 해주는 거야><END>
+[WORLD03_AREA130.EMI|sec11|body34|@0x72d|84B] 촌장\n*흥{fe}생선 먹을 바엔\n난{ff}이대로>{02}약해져서{ff}죽어주마@{02}*내가 죽으면>\n고향{fe}{c05:02}메{fc}카{fc}스 강{06}에\n흘려보내 다오@<END>
+[WORLD03_AREA130.EMI|sec11|body35|@0x75a|39B] *내가 죽으면>\n고향{fe}{c05:02}메{fc}카{fc}스 강{06}에\n흘려보내 다오@<END>
+[WORLD03_AREA130.EMI|sec11|body36|@0x781|38B] >영 붙잡을 데가{fe}없네\n어떻게든{fe}기분 풀어줄 방법이\n없을까?<END>
+[WORLD03_AREA130.EMI|sec11|body37|@0x7a7|39B] *촌장은{fe}완전히\n풀이 죽어버려서>{02}손쓸 수가 없어>>?<END>
+[WORLD03_AREA130.EMI|sec11|body38|@0x7ce|7B] *흥>>><END>
+[WORLD03_AREA130.EMI|sec11|body39|@0x7d5|37B] *뭐@?\n물고기를{ff}먹인다고?{02}><PAUSE>><PAUSE>>촌장한테@?<END>
+[WORLD03_AREA130.EMI|sec11|body40|@0x7fa|50B] *흐음>{ff}하지만>\n될까{fe}그런 일이?{02}>>아니{fe}시도해 보자\n해 봐 주게나@<END>
+[WORLD03_AREA130.EMI|sec11|body41|@0x82c|17B] 재료를{ff}골라 주세요{fd}<END>
+[WORLD03_AREA130.EMI|sec11|body42|@0x83d|12B] 시{fc}스를{ff}쥡니다{fd}<END>
+[WORLD03_AREA130.EMI|sec11|body43|@0x849|17B] 시{fc}스 만들기를{ff}끝냅니다{fd}<END>
+[WORLD03_AREA130.EMI|sec11|body44|@0x85a|11B] 필요 없습니다@<END>
+[WORLD03_AREA130.EMI|sec11|body45|@0x865|14B] 재료가{fe}없습니다@<END>
+[WORLD03_AREA130.EMI|sec11|body46|@0x873|21B] 먼저{fe}샬리 열매가 필요합니다@<END>
+[WORLD03_AREA130.EMI|sec11|body47|@0x888|16B] 먼저{fe}시오타가 필요합니다@<END>
+[WORLD03_AREA130.EMI|sec11|body48|@0x898|22B] 시오타와 샬리를{ff}세트해 주세요@<END>
+[WORLD03_AREA130.EMI|sec11|body49|@0x8ae|47B] *으으음>\n잘 안 되는{ff}모양이군요>?{02}좌절 말고{fe}다음에 또\n해 봐 주세요><END>
+[WORLD03_AREA130.EMI|sec11|body50|@0x8dd|41B] {c0c:80}시{fc}스 만들기{fe}실패@\n촌장의 마음을{ff}여는 건\n못 했습니다><END>
+[WORLD03_AREA130.EMI|sec11|body51|@0x906|32B] *음{fe}한 번 더{ff}도전\n해 주시겠소?{c14:00}{c0c:02}한다<END>
+[WORLD03_AREA130.EMI|sec11|body52|@0x92a|20B] *오오{fe}그럼\n부탁드리겠소@@<END>
+[WORLD03_AREA130.EMI|sec11|body53|@0x93e|51B] *그렇습니까>{02}물고기를 먹일 수만\n있으면>{02}촌장도{ff}마음을 열\n거라 생각하는데>><END>
+[WORLD03_AREA130.EMI|sec11|body54|@0x971|18B] {c0c:06}촌장\n*><PAUSE>><PAUSE>><PAUSE>흥@<END>
+[WORLD03_AREA130.EMI|sec11|body55|@0x983|54B] 촌장의 관심을{ff}끄는 건\n못 했다>{02}{c04:00}는{ff}완성된\n시{fc}스를{ff}먹어보기로 했다<END>
+[WORLD03_AREA130.EMI|sec11|body56|@0x9b9|17B] 맛없어>>>\n이래선{fe}안 돼@<END>
+[WORLD03_AREA130.EMI|sec11|body57|@0x9ca|54B] {c0c:05}*으으음>{ff}아무래도\n잘{ff}안 됐나 보군요>{02}포기 말고{ff}다음에 또\n도전해 주세요><END>
+[WORLD03_AREA130.EMI|sec11|body58|@0xa00|20B] {c0c:06}촌장\n*이>{fe}이건>>@?<END>
+[WORLD03_AREA130.EMI|sec11|body59|@0xa14|27B] {c0c:06}촌장\n*이건>\n;시{fc}스<잖냐@?<END>
+[WORLD03_AREA130.EMI|sec11|body60|@0xa2f|38B] {c0c:06}촌장\n*><PAUSE>><PAUSE>>흥@{02}><PAUSE>><PAUSE>>녹이{fe}눈에\n시리는구나@<END>
+[WORLD03_AREA130.EMI|sec11|body61|@0xa55|49B] {c0c:06}촌장\n*시{fc}스라면{fe}어쩔 수 없지>{02}이쪽도{ff}딱\n기합이{ff}들어가는걸@<END>
+[WORLD03_AREA130.EMI|sec11|body62|@0xa86|34B] {c0c:80}{c04:00}의{ff}정성 담긴\n시{fc}스가{fe}촌장의\n마음을 열었다@<END>
+[WORLD03_AREA130.EMI|sec11|body63|@0xaa8|23B] {c0c:06}촌장\n*흐{fc}음>{ff}바깥바다라{fe}네><END>
+[WORLD03_AREA130.EMI|sec11|body64|@0xabf|39B] {c0c:06}촌장\n*그래서>{ff};전설의 뱃사람<에\n대해{fe}알고 싶다>{ff}이거냐?<END>
+[WORLD03_AREA130.EMI|sec11|body65|@0xae6|44B] {c0c:06}촌장\n*보통 같으면>\n바보 같은 소리{ff}말라고{02}쫓아냈을{ff}판이지만><END>
+[WORLD03_AREA130.EMI|sec11|body66|@0xb12|48B] {c0c:06}촌장\n*너희가{fe}나한테\n시{fc}스까지{ff}만들어 줬으니>{02}꽤{fe}보통내기는 아니란{fe}말이지<END>
+[WORLD03_AREA130.EMI|sec11|body67|@0xb42|44B] 촌장\n*이걸{ff}가져가>{02}{ff}\n{10};해류의 서<를 손에 넣었다@{11}<END>
+[WORLD03_AREA130.EMI|sec11|body68|@0xb6e|74B] {c0c:06}촌장\n*그건{fe}이 근처\n해류에 대해{ff}적혀 있어>{02}그걸{ff}따라가면\n파{fc}치 동쪽에 있는{ff}암초지대를\n지날 수{ff}있게 돼<END>
+[WORLD03_AREA130.EMI|sec11|body69|@0xbb8|48B] {c0c:06}촌장\n*>그러니까{fe}그{ff}암초지대로\n가면{ff}만날 수 있어{02}>>전설의 뱃사람을<END>
+[WORLD03_AREA130.EMI|sec11|body70|@0xbe8|32B] {c0c:06}촌장\n*그래{fe}이 마을 동쪽이다>\n잘{fc}{ff}찾아봐라<END>
+[WORLD03_AREA130.EMI|sec11|body71|@0xc08|41B] *암초지대는{fe}이 마을 동쪽이다\n찾았나>?{02}그리고{fe}시{fc}스{ff}고마웠어@<END>
+[WORLD03_AREA130.EMI|sec11|body72|@0xc31|81B] *덕분에{fe}촌장도\n기운이{ff}난 것 같아요>{02}고맙습니다>\n답례라기엔{ff}뭣하지만\n이거 받아 주세요{02}{ff}\n{10}{c07:00}를{ff}받았다@{11}<END>
+[WORLD03_AREA130.EMI|sec11|body73|@0xc82|34B] *흐{fc}음{fe}그나저나\n시{fc}스가{ff}그렇게나\n맛있나>{fe}으{fc}음<END>
+[WORLD03_AREA130.EMI|sec11|body74|@0xca4|42B] *촌장한테{ff}전설의 뱃사람\n얘기는{ff}들었어?\n그거{fe}잘됐다고<END>
+[WORLD03_AREA130.EMI|sec11|body75|@0xcce|43B] *전설의 뱃사람이란 게\n진짜로{ff}있었나@{02}나도{ff}만나보고 싶구먼<END>
+[WORLD03_AREA130.EMI|sec11|body76|@0xcf9|55B] *촌장이{fe}그렇게나\n싫어하던 생선을\n먹다니::::{02}시{fc}스란 게{fe}그렇게나\n맛있나<END>
+[WORLD03_AREA130.EMI|sec11|body77|@0xd30|33B] *촌장이{fe}말을 해\n주게 돼서\n다행이라고<END>
+[WORLD03_AREA130.EMI|sec11|body78|@0xd51|90B] 리{fc}\n*TOO{ff}LATE@\n좀{fe}기다리다 지쳤잖아{02}그래도{fe}너희라면\n분명{fe}찾아줄 거라\n믿고 있었어{02}윈디아에서{ff}기다리고 있을 테니\n언제든{ff}만나러 와<END>

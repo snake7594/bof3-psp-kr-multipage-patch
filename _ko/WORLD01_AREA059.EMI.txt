@@ -1,0 +1,23 @@
+[WORLD01_AREA059.EMI|sec11|body0|@0x258|52B] 그래도 네가 원한다면\n어떻게든 무리해서{02}죽을힘을 다해\n노력해 볼게\n어떻게 할래?{c14:00}{c0c:02}네<END>
+[WORLD01_AREA059.EMI|sec11|body1|@0x290|52B] 아무래도{ff}진심인 모양이군{02}네가 그렇게까지 말한다면\n미흡하지만{02}있는 힘껏\n해 보도록 하지<END>
+[WORLD01_AREA059.EMI|sec11|body2|@0x2c4|16B] 이 대화는 사용하지 않습니다<END>
+[WORLD01_AREA059.EMI|sec11|body3|@0x2d4|19B] 그럼{ff}또\n언젠가 만날 날을<END>
+[WORLD01_AREA059.EMI|sec11|body4|@0x2e7|85B] 듀란다{fc}르\n*야{fe}오랜만이야@{02}그 후로{ff}나도\n이것저것 생각해서{02}왠지\n알 것 같은 기분이\n들어{02}이제 조금만 더 하면\n뭔가{ff}잡힐 것 같아<END>
+[WORLD01_AREA059.EMI|sec11|body5|@0x33c|38B] 그런데\n누군가가{ff}{c15:1e}롭게\n내{ff}제자가{ff}되려는 건가?{c14:01}{c0c:02}네<END>
+[WORLD01_AREA059.EMI|sec11|body6|@0x366|26B] 어라?\n다들{ff}이미{ff}내\n제자잖아@<END>
+[WORLD01_AREA059.EMI|sec11|body7|@0x380|42B] 역시{ff}쓸모도 없는\n나 같은 사람의\n제자를{ff}그만두고 싶은 건가?{c14:02}{c0c:02}네<END>
+[WORLD01_AREA059.EMI|sec11|body8|@0x3ae|31B] 어라?\n내{ff}제자가\n한 명도{ff}없잖아@<END>
+[WORLD01_AREA059.EMI|sec11|body9|@0x3cd|49B] *좋아{fe}그럼@{02}그대{ff}{c07:00}{ff}을\n지금{fe}이 순간부터{02}듀란다{fc}르의\n제자로 삼겠다@<END>
+[WORLD01_AREA059.EMI|sec11|body10|@0x3fe|35B] 다른 사람 중에도{ff}제자가 되고 싶은\n사람이 있지 않나?{c14:03}{c0c:02}네<END>
+[WORLD01_AREA059.EMI|sec11|body11|@0x425|50B] *그럼\n{c07:00}{ff}은 지금부로\n제자가{ff}아니게 되었어{02}역시{ff}나 같은 걸로는\n안 되는 걸까<END>
+[WORLD01_AREA059.EMI|sec11|body12|@0x457|35B] 다른 사람 중에도{ff}제자를 그만두고 싶은\n사람이 있지 않나?{c14:04}{c0c:02}네<END>
+[WORLD01_AREA059.EMI|sec11|body13|@0x47e|97B] *으{fc}음{ff}{c07:00}{ff}은\n나 같은 걸{ff}위해서{02}꽤나{ff}열심히 하는\n모양이군{02}정말{ff}사소한 기술이지만\n너에게는{fe}이걸\n가르쳐 줄게{02}{c07:00}{ff}은\n{c05:02}{c07:01}{06}{ff}을\n배웠다@<END>
+[WORLD01_AREA059.EMI|sec11|body14|@0x4df|16B] 누가{ff}제자가 됩니까?<END>
+[WORLD01_AREA059.EMI|sec11|body15|@0x4ef|16B] 누가{ff}제자를 그만둡니까?<END>
+[WORLD01_AREA059.EMI|sec11|body16|@0x4ff|23B] 이 사람으로{ff}괜찮습니까?{ff}{ff}네{ff}아니오<END>
+[WORLD01_AREA059.EMI|sec11|body17|@0x516|22B] 그만둡니까?{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}네{ff}아니오<END>
+[WORLD01_AREA059.EMI|sec11|body18|@0x52c|16B] {c0c:05}{c04:01}\n*여>{fe}여기는>>?<END>
+[WORLD01_AREA059.EMI|sec11|body21|@0x53c|23B] {c04:04}\n*야{fe}꼬맹아>\n이거 어떻게 된 거야{fe}?<END>
+[WORLD01_AREA059.EMI|sec11|body22|@0x553|35B] {c0c:05}{c04:01}\n*일단{fe}나가자>{02}저기서{fe}올라갈 수 있을 것 같아<END>
+[WORLD01_AREA059.EMI|sec11|body23|@0x576|24B] {c04:01}\n*여기{fe}윈디아\n끝자락이야>@<END>
+[WORLD01_AREA059.EMI|sec11|body24|@0x58e|46B] {c0c:05}{c04:04}\n*그렇다는 건>\n꾸물거리지 말고>{02}{c04:00}들이랑\n합류하는 게{fe}좋겠어>?<END>

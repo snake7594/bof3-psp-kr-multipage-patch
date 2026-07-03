@@ -1,0 +1,41 @@
+[WORLD03_AREA150.EMI|sec11|body0|@0x206|97B] *아빠{fe}대박@@\n사람이>@@{c16:50}{c0c:06}*사막을{ff}건너서\n사람이{fe}찾아오는 건>\n정말{ff}드문 일이에요{02}어서 오세요{fe}여행자분\n저는{fe}이 오아시스의 족장\n파{fc}라고 합니다<END>
+[WORLD03_AREA150.EMI|sec11|body1|@0x21c|75B] {c0c:06}*사막을{ff}건너서\n사람이{fe}찾아오는 건>\n정말{ff}드문 일이에요{02}어서 오세요{fe}여행자분\n저는{fe}이 오아시스의 족장\n파{fc}라고 합니다<END>
+[WORLD03_AREA150.EMI|sec11|body2|@0x267|47B] {c0c:06}파{fc}\n*>안심하세요{02}그 여자분은{fe}저희 사람이\n간병하고{ff}있으니까요<END>
+[WORLD03_AREA150.EMI|sec11|body3|@0x296|52B] {c0c:06}파{fc}\n*여러분{fe}체력이\n완전히 회복될 때까지>{02}사양 말고{ff}여기\n편히 계세요@<END>
+[WORLD03_AREA150.EMI|sec11|body4|@0x2ca|23B] {c0c:06}{c04:05}\n*일어나도{fe}괜찮아{fc}\n{c04:01}>@?<END>
+[WORLD03_AREA150.EMI|sec11|body5|@0x2e1|31B] {c0c:05}{c04:01}\n*응{fe}이제 괜찮아>\n미안해{fe}걱정 끼쳐서><END>
+[WORLD03_AREA150.EMI|sec11|body6|@0x300|26B] {c0c:06}{c04:01}\n*{c04:00}들은>\n어떻게 됐어{fe}{c04:05}씨?<END>
+[WORLD03_AREA150.EMI|sec11|body7|@0x31a|52B] {c0c:05}{c04:05}\n*저쪽에서{fe}족장\n파{fc}씨랑{ff}얘기 중이야{fc}>{02}우리{fe}목적지에 대해서><END>
+[WORLD03_AREA150.EMI|sec11|body8|@0x34e|50B] {c0c:06}파{fc}\n*>>신님{fe}말인가요?{c16:40}{c0c:06}파{fc}\n*아쉽지만{fe}들어본 적\n없네요><END>
+[WORLD03_AREA150.EMI|sec11|body9|@0x362|30B] {c0c:06}파{fc}\n*아쉽지만{fe}들어본 적\n없네요><END>
+[WORLD03_AREA150.EMI|sec11|body10|@0x380|43B] {c0c:05}{c04:02}\n*뭔가>{ff}예를 들면>{02}유적 같은 것도\n없습니까{fe}파{fc}님?<END>
+[WORLD03_AREA150.EMI|sec11|body11|@0x3ab|31B] {c0c:06}파{fc}\n*유적{fe}말입니까>?\n그거라면{fe}있습니다@<END>
+[WORLD03_AREA150.EMI|sec11|body12|@0x3ca|65B] {c0c:06}파{fc}\n*여기서 북쪽으로{fe}언덕을\n하나{ff}넘은 곳에>{02}저희가{fe}{c05:02}고대 도시{06}라 부르는\n큰 유적이{fe}있습니다<END>
+[WORLD03_AREA150.EMI|sec11|body13|@0x40b|23B] {c0c:05}{c04:02}\n*흠>>\n가 봐야겠군><END>
+[WORLD03_AREA150.EMI|sec11|body14|@0x422|31B] {c0c:05}{c04:04}\n*이것저것{fe}신세 지게 해서\n미안하구먼>><END>
+[WORLD03_AREA150.EMI|sec11|body15|@0x441|59B] {c0c:06}*괜찮아요{fe}그런 거>{02}사막엔{fe}물자가 적으니까\n가진 걸{ff}나눠 주는 건\n당연한 일이죠><END>
+[WORLD03_AREA150.EMI|sec11|body16|@0x47c|29B] {c0c:05}{c04:05}\n*>{c04:01}가{fe}일어났어\n이제 괜찮대{fc}<END>
+[WORLD03_AREA150.EMI|sec11|body17|@0x499|31B] {c0c:06}파{fc}\n*오오{fe}그러면>\n여러분{fe}출발하시는 건가요?<END>
+[WORLD03_AREA150.EMI|sec11|body18|@0x4b8|30B] {c04:05}\n*파{fc}씨{fe}정말로>\n감사했습니다{fc}<END>
+[WORLD03_AREA150.EMI|sec11|body19|@0x4d6|54B] {c0c:06}파{fc}\n*별말씀을요>{02}그보다도{fe}여러분이\n찾으시는{ff}신님을\n찾으면{fe}좋겠네요@<END>
+[WORLD03_AREA150.EMI|sec11|body20|@0x50c|20B] {c0c:01}{ff}\n{ff}멤버를 정해 주세요{fd}<END>
+[WORLD03_AREA150.EMI|sec11|body21|@0x520|51B] *사막에 나갈 때{fe}물이\n필요하면{fe}말해 주세요{c14:00}{c0c:12}물을 나눠 주세요<END>
+[WORLD03_AREA150.EMI|sec11|body26|@0x55f|34B] *사막에 나갈 때는{fe}언제든\n모래돼지를{ff}빌려줄 테니까><END>
+[WORLD03_AREA150.EMI|sec11|body27|@0x581|31B] *거기서 나가면{fe}사막이에요\n준비는{fe}됐나요?<END>
+[WORLD03_AREA150.EMI|sec11|body28|@0x5a0|30B] *저기 절벽을{ff}오르면\n{c05:02}고대 도시{06}가{fe}보일 거야<END>
+[WORLD03_AREA150.EMI|sec11|body29|@0x5be|40B] *고대 도시 같은 데{ff}가 봤자\n아무것도 없어>{02}여기서{fe}같이 놀자<END>
+[WORLD03_AREA150.EMI|sec11|body30|@0x5e6|4B] *모후<END>
+[WORLD03_AREA150.EMI|sec11|body31|@0x5ea|6B] *모후부부<END>
+[WORLD03_AREA150.EMI|sec11|body32|@0x5f0|7B] *후못후모<END>
+[WORLD03_AREA150.EMI|sec11|body33|@0x5f7|24B] *괜찮으면{ff}우리 집에서\n쉬었다 가렴>@<END>
+[WORLD03_AREA150.EMI|sec11|body34|@0x60f|28B] *뭔가 필요한 게 있으면\n말해 주세요><END>
+[WORLD03_AREA150.EMI|sec11|body35|@0x62b|27B] *찾으시는{fe}신님을\n찾으면{ff}좋겠네요><END>
+[WORLD03_AREA150.EMI|sec11|body36|@0x646|48B] *사막이{fe}죽음의 땅이라니\n말도 안 돼@{02}우리는{fe}멀쩡하게\n살아 있으니까>@<END>
+[WORLD03_AREA150.EMI|sec11|body37|@0x676|25B] *우리 집사람은\n죽여도{fe}안 죽을 것 같아<END>
+[WORLD03_AREA150.EMI|sec11|body38|@0x68f|27B] >물독에{fe}찰랑찰랑\n물을{ff}가득 채워 받았다@<END>
+[WORLD03_AREA150.EMI|sec11|body39|@0x6aa|58B] *그래요>{02}가진 걸{ff}나눠 주는 건\n사막에선{fe}당연한 일이니까\n사양하지 말아 주세요<END>
+[WORLD03_AREA150.EMI|sec11|body40|@0x6e4|49B] *내가{fe}옛날에>\n사막을{ff}여행했을 때 얘기를\n듣고 싶은가?{c14:01}{c0c:13}길 잃은 이야기<END>
+[WORLD03_AREA150.EMI|sec11|body41|@0x729|168B] *오아시스를{ff}나와서\n팩토리{fc}라는 곳을\n향했을 때였지>{02}남쪽으로{fe}{c05:02}하룻밤하고{ff}조금{06} 걸었는데\n길을 잃어버려서 말이야>{02}{c05:02}서쪽{06}으로{ff}향해\n버렸지 뭐야>{02}그대로{fe}{c05:02}나흘 밤{06}쯤 가서\n실수를{ff}깨달았는데>{02}그때{fe}나는>\n{c05:02}소중한 물건{06}을{ff}떨어뜨리고 와\n버렸던 거야><END>
+[WORLD03_AREA150.EMI|sec11|body42|@0x7d1|128B] *팩토리{fc}에서{fe}여기로\n돌아올 때였지>{02}나는{fe}동쪽으로 가야 할 때\n반대 방향으로\n향해 버렸어>{02}{c05:02}사흘 밤{06}쯤 지나서\n되돌아왔는데>{02}그때{fe}잃어버린>\n{c05:02}멋진 물건{06}은{fe}지금쯤\n모래에{ff}묻혀 있으려나<END>
+[WORLD03_AREA150.EMI|sec11|body43|@0x851|117B] *그래>{fe}나는 젊었을 적\n사막 끝은\n어떻게 돼 있을까 하고>>{02}계속{fe}서쪽이나 동쪽으로 걷고\n그랬지만>{02}별 셋이 나란히{fe}하늘\n한가운데에 오면>{02}그 이상은{fe}가 봤자\n소용없다고{ff}깨달았을 뿐이야<END>
+[WORLD03_AREA150.EMI|sec11|body44|@0x8c6|27B] 밤을 기다려>\n사막에 나가시겠습니까?{c14:02}{c0c:02}네<END>

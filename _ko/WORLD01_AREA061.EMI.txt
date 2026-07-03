@@ -1,0 +1,18 @@
+[WORLD01_AREA061.EMI|sec11|body0|@0x273|174B] 그래서>{ff}말이다\n네 소지금{ff}전부와\n맞바꿔서>{02}나의{ff}마법 절기를\n가르쳐 줄까{ff}생각 중이지>\n즉{fe}{c05:02}스승{06}이라는 거다{02}내{ff}제자가 되어\n레벨이 오르면>{02}나처럼{ff}마법을 능숙히\n쓸 수 있게{ff}되는 거지>{02}어떠냐{fe}괜찮은 얘기지?{c14:00}{c0c:12}소지금 전부 내고{fe}제자가 된다<END>
+[WORLD01_AREA061.EMI|sec11|body1|@0x328|132B] 오오{fe}그런가@\n제법{ff}될성부른\n젊은이로구나@{02}내 제자가{ff}되면\n{c05:03}AP{06}와 {c05:03}지혜{06}가{ff}더\n잘 오르게 되지@{02}그만큼{fe}{c05:02}공격력{06}과\n{c05:02}방어력{06}은{ff}오르기 어려워\n지지만 말이다{02}자{fe}누가 제자가{ff}되겠느냐?<END>
+[WORLD01_AREA061.EMI|sec11|body2|@0x3ac|57B] 뭐{fe}뭐{fe}뭐{fe}뭐{fe}뭐라고?\n그만두겠다는 거냐?{02}뭐{fe}지금 당장이{ff}아니어도 좋다\n마음이 바뀌면\n또 찾아오너라<END>
+[WORLD01_AREA061.EMI|sec11|body3|@0x3e5|78B] 그럼{fe}잘 가거라>{02}몬스터와{ff}싸워서\n네 레벨이{fe}오르거든\n내게로{fe} 오너라{02}열심히 하다 보면\n기술을{ff} 가르쳐 줄 테니{02}<END>
+[WORLD01_AREA061.EMI|sec11|body4|@0x433|27B] 메이거스\n*오오{fe}잘 왔구나\n나의{ff} 제자들이여<END>
+[WORLD01_AREA061.EMI|sec11|body5|@0x44e|30B] 새로이{ff} 누군가\n제자가{ff} 되고 싶은 게냐?{c14:01}{c0c:02}네<END>
+[WORLD01_AREA061.EMI|sec11|body6|@0x470|26B] 뭐냐\n다들{ff} 이미\n내{ff} 제자가 아니냐<END>
+[WORLD01_AREA061.EMI|sec11|body7|@0x48a|47B] 서{fe}설마?\n아무리 생각해도\n있을 수 없는 일이지만{02}제자를{ff} 그만두고 싶은 게냐?{c14:02}{c0c:02}네<END>
+[WORLD01_AREA061.EMI|sec11|body8|@0x4bd|25B] 뭐냐\n내{ff} 제자라고는\n한 명도 없지 않느냐<END>
+[WORLD01_AREA061.EMI|sec11|body9|@0x4d6|22B] *그럼\n{c07:00}을(를){ff} 제자로 인정하마@<END>
+[WORLD01_AREA061.EMI|sec11|body10|@0x4ec|31B] 그 밖에도\n제자가{ff} 되고 싶은 자가\n있느냐?{c14:03}{c0c:02}네<END>
+[WORLD01_AREA061.EMI|sec11|body11|@0x50f|36B] *그럼\n참으로{ff} 안타깝지만{02}{c07:00}의{ff} 제자 그만둠을\n인정하마<END>
+[WORLD01_AREA061.EMI|sec11|body12|@0x533|44B] 설마설마{ff} 했다만\n아직도{ff} 제자를 그만두고 싶은 자가\n있다는{ff} 게냐?{c14:04}{c0c:02}네<END>
+[WORLD01_AREA061.EMI|sec11|body13|@0x563|51B] {c07:00}은(는)\n제법{ff} 열심인 듯하니\n이 기술을{ff} 내려 주마@{02}{c05:02}{c07:01}{06}을(를){ff}\n배웠다@<END>
+[WORLD01_AREA061.EMI|sec11|body14|@0x596|16B] 누가{ff} 제자가 되겠습니까?<END>
+[WORLD01_AREA061.EMI|sec11|body15|@0x5a6|16B] 누가{ff} 제자를 그만둡니까?<END>
+[WORLD01_AREA061.EMI|sec11|body16|@0x5b6|23B] 이 사람으로{ff} 괜찮습니까?{ff}{ff}네{ff}아니오<END>
+[WORLD01_AREA061.EMI|sec11|body17|@0x5cd|22B] 그만둡니까?{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}네{ff}아니오<END>

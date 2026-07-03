@@ -1,0 +1,4 @@
+[WORLD02_AREA104.EMI|sec11|body0|@0x200|31B] 해류가 빨라서 나아갈 수 없어@\n흐름을 읽을 수 있다면>>>>>><END>
+[WORLD02_AREA104.EMI|sec11|body1|@0x21f|55B] 해류서에 따르면\n바다가 잔잔한 시간은\n아주 {ff}잠깐뿐이래{02}바다가 거칠어지기 전에 서두르자@<END>
+[WORLD02_AREA104.EMI|sec11|body2|@0x247|15B] 바다가 거칠어지기 전에 서두르자@<END>
+[WORLD02_AREA104.EMI|sec11|body3|@0x256|19B] 바다 위에{fe}오두막이 서 있어><END>

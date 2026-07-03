@@ -1,0 +1,29 @@
+[WORLD03_AREA133.EMI|sec11|body0|@0x207|32B] {c0c:05}지그\n*해냈다구@{ff}검은 배를\n붙잡았다구우@<END>
+[WORLD03_AREA133.EMI|sec11|body1|@0x227|34B] {c0c:06}{c04:01}\n*굉장한{ff}기세였는데\n다들{fe}무사할까>?<END>
+[WORLD03_AREA133.EMI|sec11|body2|@0x249|55B] {c0c:05}지그\n*봐주지 않고\n돌진했으니까>{02}다친 데 없는지{fe}상태\n보고 오는 게{ff}좋을 거다><END>
+[WORLD03_AREA133.EMI|sec11|body3|@0x280|25B] *헤헤>{ff}어때 이 몸\n도움이 됐지>?<END>
+[WORLD03_AREA133.EMI|sec11|body4|@0x299|17B] *굉장했어>\n쾅{fc} 하고@<END>
+[WORLD03_AREA133.EMI|sec11|body5|@0x2aa|29B] *엄청{fc}{ff}흔들렸네\n{c04:00}>?{02}{c04:06}이/가{fe}떨어졌어>@?<END>
+[WORLD03_AREA133.EMI|sec11|body6|@0x2c7|26B] *검은 배를{ff}붙잡을 수\n있었던 모양이군><END>
+[WORLD03_AREA133.EMI|sec11|body7|@0x2e1|43B] *{0d}빙글빙글빙글뀨{fc}{0e}{0f}{c16:02}{c05:06}눈을 빙빙 돌리고 있지만\n어디도{fe}안 다친 것 같다>{06}<END>
+[WORLD03_AREA133.EMI|sec11|body8|@0x30c|12B] *응><PAUSE>><PAUSE>>{ff}으응><END>
+[WORLD03_AREA133.EMI|sec11|body9|@0x318|19B] 지금은{fe}쉬고 있을 때가 아니야><END>
+[WORLD03_AREA133.EMI|sec11|body10|@0x32b|53B] 여기서{fe}검은 배로\n옮겨 탈 수 있어>{02}하지만{fe}먼저{ff}다들 무사한지\n확인하자><END>
+[WORLD03_AREA133.EMI|sec11|body11|@0x360|10B] *하냐{c15:07}{c15:07}><END>
+[WORLD03_AREA133.EMI|sec11|body12|@0x36a|36B] {c04:05}\n*아{fc}{fe}깜짝 놀랐어{fc}{02}{c04:06}이/가{ff}위에서\n떨어진걸{fc}@<END>
+[WORLD03_AREA133.EMI|sec11|body13|@0x38e|14B] {c04:05}도{fe}안 다친 것 같다<END>
+[WORLD03_AREA133.EMI|sec11|body14|@0x39c|63B] {c0c:05}{c04:05}\n*>라고{fe}말했으니까{02}검은 배의{ff}브리지로 가서\n자동 장치를{ff}만지면\n어떻게든 될 거라고{fe}생각해<END>
+[WORLD03_AREA133.EMI|sec11|body15|@0x3db|61B] {c0c:06}{c04:01}\n*브리지에 도착할 때까지\n시간 걸릴지도{fe}모르지만{02}>여기로 돌아오면\n쉴 수도{ff}있고{fe}말이야<END>
+[WORLD03_AREA133.EMI|sec11|body16|@0x418|24B] {c0c:01}파{fc}티 멤버를\n결정해 주세요{fd}<END>
+[WORLD03_AREA133.EMI|sec11|body17|@0x430|9B] *푸키루루{fe}스{fc}<END>
+[WORLD03_AREA133.EMI|sec11|body18|@0x439|31B] *바다 건너편으로 간다니\n생각해 본 적도{fe}없었어><END>
+[WORLD03_AREA133.EMI|sec11|body19|@0x458|33B] *신에게 가는 길>\n조금씩이라도{fe}가까워지고 있다고\n믿고 싶어<END>
+[WORLD03_AREA133.EMI|sec11|body20|@0x479|40B] *검은 배도{fe}이것도\n기본적으로는{ff}비슷한\n물건이라고 생각해{fc}><END>
+[WORLD03_AREA133.EMI|sec11|body21|@0x4a1|18B] *아{fe}어서 와\n어땠어?<END>
+[WORLD03_AREA133.EMI|sec11|body22|@0x4b3|33B] {c0c:05}지그\n*>아무래도{fe}검은 배 녀석\n움직이기 시작할 모양이다?<END>
+[WORLD03_AREA133.EMI|sec11|body23|@0x4d4|39B] {c04:01}\n*그럼{fe}우리는\n갈게요>{02}신세 졌어요{fe}지그 씨<END>
+[WORLD03_AREA133.EMI|sec11|body24|@0x4fb|56B] {c0c:05}지그\n*그래@{ff}조심하라구{02}이 몸은{fe}이 배를\n어르고 달래며>\n기계 길드까지{fe}끌고 갈 테니까<END>
+[WORLD03_AREA133.EMI|sec11|body25|@0x533|21B] {c04:02}\n*흠>{ff}그렇다면\n가 볼까><END>
+[WORLD03_AREA133.EMI|sec11|body26|@0x548|62B] {c0c:05}{c04:05}\n*이쪽{fc}{fe}다들{fc}@\n브리지까지{ff}올라와{fc}{c16:40}캠프 메뉴를\n골라 주세요{c14:00}{c0c:26}휴식<END>
+[WORLD03_AREA133.EMI|sec11|body27|@0x56b|27B] 캠프 메뉴를\n골라 주세요{c14:00}{c0c:26}휴식<END>
+[WORLD03_AREA133.EMI|sec11|body33|@0x5b3|39B] {ff}{ff}부{fc}스트:카운터{fc}\n{ff}{ff}{ff}{ff}{ff}스톱@{02}>기동에 실패했습니다<END>

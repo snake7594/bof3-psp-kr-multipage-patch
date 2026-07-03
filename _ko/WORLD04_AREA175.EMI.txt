@@ -1,0 +1,664 @@
+[WORLD04_AREA175.EMI|sec11|body0|@0x553|28B] {c04:05}\n*>>으{fc}음{fe}여기가\n등대 {fe}뒤쪽이지?<END>
+[WORLD04_AREA175.EMI|sec11|body1|@0x56f|41B] {c0c:06}카디스\n*맞아{fe}바보{02}니까{fe}등대를\n켜면{fe}안 됐던 거야@<END>
+[WORLD04_AREA175.EMI|sec11|body2|@0x598|32B] {c0c:03}메이플라이\n*등대가{fe}빛나고 있어>\n어쩌지{fe}엘?<END>
+[WORLD04_AREA175.EMI|sec11|body3|@0x5b8|62B] {c0c:04}엘크헤어\n*어쩌긴>{fe}모르는 거야\n메이?{02}{c05:02}몬스터{06}가{ff}쳐들어와서\n우리는{fe}또\n괴롭힘 당하는 거야<END>
+[WORLD04_AREA175.EMI|sec11|body4|@0x5f6|47B] {c0c:03}메이플라이\n*그건{fe}나도 알아@{02}그러니까{fe}어쩔 거냐고\n묻는 거잖아@{02}바보<END>
+[WORLD04_AREA175.EMI|sec11|body5|@0x625|40B] {c0c:04}엘크헤어\n*바보 아니거든{02}바보라고{ff}하는 쪽이\n바보야@<END>
+[WORLD04_AREA175.EMI|sec11|body6|@0x64d|24B] {c0c:03}메이플라이\n*말했겠다{fe}엘 주제에<END>
+[WORLD04_AREA175.EMI|sec11|body7|@0x665|19B] {c0c:06}카디스\n*그만{c15:07}{c15:07}{c15:07}해@<END>
+[WORLD04_AREA175.EMI|sec11|body8|@0x678|30B] {c0c:06}카디스\n*그러니까{fe}말이지\n어떻게 좀 해줘<END>
+[WORLD04_AREA175.EMI|sec11|body9|@0x696|36B] {c04:05}\n*아무튼{ff}그>{02}몬스터를{ff}해치우면\n되는 거지{fc}>?<END>
+[WORLD04_AREA175.EMI|sec11|body10|@0x6ba|55B] 카디스\n*맞아>{02}{c05:02}그놈{06}은{ff}밤이 되면\n바다에서{ff}오니까\n해변에서 기다리면{ff}돼<END>
+[WORLD04_AREA175.EMI|sec11|body11|@0x6f1|52B] {c04:05}\n*잘은{ff}모르겠지만{fc}>\n도와줄까?{02}배도{fe}아직 안 오는{ff}것 같고><END>
+[WORLD04_AREA175.EMI|sec11|body12|@0x725|37B] *해변은{fe}이 오두막\n바로 아래야{02}몬스터를{ff}해치워 줘<END>
+[WORLD04_AREA175.EMI|sec11|body13|@0x74a|57B] *우리는{fe}원래\n숲 속에{ff}살았어>{02}근데{fe}광산 개발 때문에\n숲이{ff}망가져 버렸어<END>
+[WORLD04_AREA175.EMI|sec11|body14|@0x783|71B] *여기 와서{fe}한동안은\n좋았는데>{02}등대가{ff}빛나기 시작하니까\n바다에서{c05:02}그놈{06}이{ff}와서>{02}우리를{ff}괴롭혀<END>
+[WORLD04_AREA175.EMI|sec11|body15|@0x7ca|7B] 번데기인가?<END>
+[WORLD04_AREA175.EMI|sec11|body16|@0x7d1|32B] 해변은{fe}여기인 것 같다>\n밤까지 기다릴까요?{c14:00}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body17|@0x7f5|18B] {c04:05}\n*뭐가{fe}오는 걸까{fc}>?<END>
+[WORLD04_AREA175.EMI|sec11|body18|@0x807|14B] {c04:05}\n*아{fc}@{ff}저거{fc}@?<END>
+[WORLD04_AREA175.EMI|sec11|body19|@0x815|34B] {c04:05}\n*온 모양이야>{02}바다에서{fe}얼굴을 내밀면\n해치우자?<END>
+[WORLD04_AREA175.EMI|sec11|body20|@0x837|20B] {c0c:06}{c04:01}\n*>이게{fe}<PAUSE>몬스터?<END>
+[WORLD04_AREA175.EMI|sec11|body21|@0x84b|12B] {c04:05}\n*돌고래네><PAUSE>><END>
+[WORLD04_AREA175.EMI|sec11|body22|@0x857|32B] {c0c:05}돌고래\n*아{fe}아프잖아요>\n갑자기{fe}뭐 하는 겁니꺼?<END>
+[WORLD04_AREA175.EMI|sec11|body23|@0x877|38B] {c04:05}\n*미{fe}미안하게 됐네>{02}몬스터가{ff}온다고\n들었거든{fc}><END>
+[WORLD04_AREA175.EMI|sec11|body24|@0x89d|53B] {c0c:05}돌고래\n*>뭐{fe}실수는\n누구나{ff}하는 거죠{02}>여기는{ff}차분하게\n얘기로 풀어요?<END>
+[WORLD04_AREA175.EMI|sec11|body25|@0x8d2|58B] {c0c:06}{c04:01}\n*>뭐야{fe}얌전한\n돌고래 씨{ff}였잖아{02}요정들{fe}이런\n돌고래 씨가{ff}무서운 걸까?<END>
+[WORLD04_AREA175.EMI|sec11|body26|@0x90c|26B] {c04:05}\n*그러게>>\n잠깐{ff}불러올게<END>
+[WORLD04_AREA175.EMI|sec11|body27|@0x926|35B] {c0c:05}돌고래\n*이봐{02}갑자기{ff}후려치고는\n뭔 짓이야{fe}멍청아<END>
+[WORLD04_AREA175.EMI|sec11|body28|@0x949|63B] {c0c:05}돌고래\n*아까는>{02}누나가{ff}있었으니까\n얌전히{ff}있었던 거다{02}너 혼자였으면\n박살냈을 거다{fe}이놈?<END>
+[WORLD04_AREA175.EMI|sec11|body29|@0x988|86B] {c0c:05}돌고래\n*대체{fe}왜 등대가\n빛나는 거냐?{02}저게{fe}빛나면{ff}눈부셔서\n내가{ff}잠을 못 자잖아@{02}당장{ff}{c15:1d}하고 와라\n박살낸다{fe}이놈<END>
+[WORLD04_AREA175.EMI|sec11|body30|@0x9de|88B] {c0c:01}지금까지의{ff}대사가\n알아듣기 힘들었던{ff}분을 위해{02}음성 다중 서비스를\n실시하고 있습니다>>{02}2개 국어로{ff}방금 장면을\n다시 보여드릴까요?{c14:01}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body31|@0xa3a|38B] {c0c:05}돌고래\n*잠깐만요@{02}갑자기{ff}때리다니\n무슨 생각이신가요?<END>
+[WORLD04_AREA175.EMI|sec11|body32|@0xa60|72B] {c0c:05}돌고래\n*아까는>{02}여성분이{ff}계셨기 때문에\n얌전히{ff}있었던 겁니다{02}당신 혼자였다면\n해치워{ff}버렸을 겁니다?<END>
+[WORLD04_AREA175.EMI|sec11|body33|@0xaa8|96B] {c0c:05}돌고래\n*대체{fe}어째서 등대가\n빛나는 건가요?{02}저게 빛나면{fe}눈부셔서\n저는{ff}잠을 못 잡니다{02}어서{ff}{c15:1d}하고 와 주세요\n안 그러면{fe}해치웁니다\n당신<END>
+[WORLD04_AREA175.EMI|sec11|body34|@0xb08|19B] {c0c:06}카디스\n*저{fe}저놈이야@<END>
+[WORLD04_AREA175.EMI|sec11|body35|@0xb1b|20B] {c0c:05}{c04:05}\n*이게>{ff}몬스터라고?<END>
+[WORLD04_AREA175.EMI|sec11|body36|@0xb2f|54B] {c0c:06}메이플라이\n*등대를{ff}안 끄면>{02}우릴{ff}잡아먹겠다고\n했단 말야@\n이 녀석이@@<END>
+[WORLD04_AREA175.EMI|sec11|body37|@0xb65|68B] {c0c:05}돌고래\n*아니>{ff}있잖아>{02}불빛이{ff}눈부셔서\n잠을 못 자니까>{02}잠깐{fe}불 좀{ff}{c15:1d}하고 와\n달라고 했을 뿐인데>{ff}말이지<END>
+[WORLD04_AREA175.EMI|sec11|body38|@0xba9|32B] 엘크헤어\n*그럼{fe}직접\n가면 되잖아@{02}바보<END>
+[WORLD04_AREA175.EMI|sec11|body39|@0xbc9|38B] {c0c:06}메이플라이\n*맞아{fe}바보{02}왜{ff}우리를\n괴롭히는 거야@<END>
+[WORLD04_AREA175.EMI|sec11|body40|@0xbef|23B] 카디스\n*어디론가 꺼져 버려\n바보 돌고래@<END>
+[WORLD04_AREA175.EMI|sec11|body41|@0xc06|55B] {c0c:05}돌고래\n*{0d}시끄러워{0e}{0f}{c04:01}꼬맹이들아@{02}이놈들{fe}불에 구워서\n바삭바삭하게\n해치워 버릴까@?<END>
+[WORLD04_AREA175.EMI|sec11|body42|@0xc3d|26B] {c0c:05}돌고래\n*이렇게 된 이상\n전부 죽여 버린다@<END>
+[WORLD04_AREA175.EMI|sec11|body43|@0xc57|48B] *그놈{fe}해치워 줘서\n고마워{02}오늘 밤은{ff}늦었으니\n여기서{ff}쉬다 가?<END>
+[WORLD04_AREA175.EMI|sec11|body44|@0xc87|39B] 메이플라이\n*고{ff}고마워@{02}>>프리티키스\n{c04:00}는{ff}혼란에 빠졌다<END>
+[WORLD04_AREA175.EMI|sec11|body45|@0xcae|30B] {c0c:06}카디스\n*돌고래{fe}해치워 줘서\n정말 고마워<END>
+[WORLD04_AREA175.EMI|sec11|body46|@0xccc|27B] {c04:05}\n*이걸로{fe}등대가 빛나도\n괜찮겠지?<END>
+[WORLD04_AREA175.EMI|sec11|body47|@0xce7|51B] {c0c:06}카디스\n*괜찮아@{02}지금까지는{fe}그놈이 걱정돼서\n동료를{ff}못 늘렸지만><END>
+[WORLD04_AREA175.EMI|sec11|body48|@0xd1a|33B] {c0c:05}메이플라이\n*이제부터{ff}잔뜩\n동료를{ff}늘릴 거야@<END>
+[WORLD04_AREA175.EMI|sec11|body49|@0xd3b|48B] 카디스\n*>우리{ff}여기를\n멋지게{ff}만들 테니까{02}가끔{ff}놀러 와\n꼭이야?<END>
+[WORLD04_AREA175.EMI|sec11|body50|@0xd6b|12B] *또{fe}놀러 와<END>
+[WORLD04_AREA175.EMI|sec11|body51|@0xd77|61B] *우리는{fe}이런 식으로\n번데기에서{ff}태어나는 거야{02}>어{fe}<PAUSE>그 전에?{02}그 전에는{fe}애벌레{fc}니까\n부끄러워<END>
+[WORLD04_AREA175.EMI|sec11|body52|@0xdb4|52B] *여기는{ff}숲처럼\n식물이{ff}많지는 않지만>{02}대신{ff}생선을 먹고\n살아갈 거야<END>
+[WORLD04_AREA175.EMI|sec11|body53|@0xde8|7B] *꺄하하하<END>
+[WORLD04_AREA175.EMI|sec11|body54|@0xdef|9B] 인구 변동<END>
+[WORLD04_AREA175.EMI|sec11|body55|@0xdf8|7B] 죽은 사람<END>
+[WORLD04_AREA175.EMI|sec11|body56|@0xdff|13B] 식량 부족으로 인해<END>
+[WORLD04_AREA175.EMI|sec11|body57|@0xe0c|12B] 탐험 실패로 인해<END>
+[WORLD04_AREA175.EMI|sec11|body58|@0xe18|8B] 태어난 사람<END>
+[WORLD04_AREA175.EMI|sec11|body59|@0xe20|15B] 식량을{ff}조달합니다<END>
+[WORLD04_AREA175.EMI|sec11|body60|@0xe2f|22B] 괜찮으시겠습니까?{ff}{ff}{ff}{ff}{ff}{ff}{ff}예{ff}아니오<END>
+[WORLD04_AREA175.EMI|sec11|body61|@0xe45|11B] 사냥을 실행 중<END>
+[WORLD04_AREA175.EMI|sec11|body62|@0xe50|13B] 토지를 정비합니다<END>
+[WORLD04_AREA175.EMI|sec11|body63|@0xe5d|17B] 토지 정비를 실행 중<END>
+[WORLD04_AREA175.EMI|sec11|body64|@0xe6e|8B] 집을 짓습니다<END>
+[WORLD04_AREA175.EMI|sec11|body65|@0xe76|15B] 집 건설을 실행 중<END>
+[WORLD04_AREA175.EMI|sec11|body66|@0xe85|14B] 상품을 판매합니다<END>
+[WORLD04_AREA175.EMI|sec11|body67|@0xe93|13B] 어디로 이동할까요?<END>
+[WORLD04_AREA175.EMI|sec11|body68|@0xea0|15B] 무엇에 중점을 둘까요?<END>
+[WORLD04_AREA175.EMI|sec11|body69|@0xeaf|15B] 어떤{ff}방침으로 할까요?<END>
+[WORLD04_AREA175.EMI|sec11|body70|@0xebe|12B] 상인을 실행 중<END>
+[WORLD04_AREA175.EMI|sec11|body71|@0xeca|21B] {c15:1e}로운 일과 문화를{ff}생각합니다<END>
+[WORLD04_AREA175.EMI|sec11|body72|@0xedf|11B] 무엇을 생각할까요?<END>
+[WORLD04_AREA175.EMI|sec11|body73|@0xeea|18B] 학자(일)를 실행 중<END>
+[WORLD04_AREA175.EMI|sec11|body74|@0xefc|18B] 학자(문화)를 실행 중<END>
+[WORLD04_AREA175.EMI|sec11|body75|@0xf0e|23B] 탐험을 나가{ff}아이템을 찾아옵니다<END>
+[WORLD04_AREA175.EMI|sec11|body76|@0xf25|16B] 어디로 탐험을 갈까요?<END>
+[WORLD04_AREA175.EMI|sec11|body77|@0xf35|12B] 탐험을 실행 중<END>
+[WORLD04_AREA175.EMI|sec11|body78|@0xf41|45B] *이번 탐험에서 손에 넣은\n{c05:02}{c07:00}{06}{ff}이야@{02}에헴{fe}줄게@@<END>
+[WORLD04_AREA175.EMI|sec11|body79|@0xf6e|34B] *어머{fe}짐이 가득 찼네@\n나중에{ff}다시 받으러 와<END>
+[WORLD04_AREA175.EMI|sec11|body80|@0xf90|15B] *다음은 어디로 갈 거야?<END>
+[WORLD04_AREA175.EMI|sec11|body81|@0xf9f|34B] *이번 탐험은{ff}실패로\n끝났어\n미안해><END>
+[WORLD04_AREA175.EMI|sec11|body82|@0xfc1|16B] 여관을 운영하는{ff}것 외에도?<END>
+[WORLD04_AREA175.EMI|sec11|body83|@0xfd1|12B] 여관을 실행 중<END>
+[WORLD04_AREA175.EMI|sec11|body84|@0xfdd|134B] *오랜만이야@{02}너희들에 대해\n이것저것{ff}듣고 있어{02}넌{ff}이 세계에\n{c07:00}시간{c07:01}분{ff}있었어{02}그리고{fe}지금까지{ff}몬스터와\n{c07:02}번\n만났을 거야{02}마지막으로{fe}지금까지\n{c07:03}제니{fc}\n벌었어{02}어때{fe}놀랐어?<END>
+[WORLD04_AREA175.EMI|sec11|body85|@0x1063|139B] *안녕@{02}나도{ff}너희들에 대해\n잘{ff}알고 있어{02}넌 지금까지{ff}{c07:00}번\n장롱을{ff}뒤져서{02}{c07:01}개의\n보물을{ff}손에 넣었어{02}그리고{ff}{c07:02}번\n낚시를{ff}했어{02}음{fc}그리고>{ff}그리고>\n뭐{fe}오늘은 이 정도로\n해 둘게<END>
+[WORLD04_AREA175.EMI|sec11|body86|@0x10ee|17B] 음악을{ff}연주해 줍니다<END>
+[WORLD04_AREA175.EMI|sec11|body87|@0x10ff|14B] 음악가를 실행 중<END>
+[WORLD04_AREA175.EMI|sec11|body88|@0x110d|34B] *잘 와 줬어\n노래{fe}들어 줄래@?{c14:02}{c0c:02}부탁해<END>
+[WORLD04_AREA175.EMI|sec11|body89|@0x1134|14B] *그럼{ff}또 와<END>
+[WORLD04_AREA175.EMI|sec11|body90|@0x1142|27B] *자{fe}이건 어때?{02}제목은\n{c05:02}{c07:00}{06}{ff}이야<END>
+[WORLD04_AREA175.EMI|sec11|body91|@0x115d|17B] 아이템을{ff}복제해 줍니다<END>
+[WORLD04_AREA175.EMI|sec11|body92|@0x116e|13B] 코피{fc}집을 실행 중<END>
+[WORLD04_AREA175.EMI|sec11|body93|@0x117b|78B] *잘 왔어@{02}아이템을{ff}맡겨 주면\n코피{fc}해서{ff}늘려 줄게{02}가끔은{ff}실패하지만\n그건{ff}어쩔 수 없어\n어때{fe}할래?{c14:03}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body94|@0x11cd|22B] *어머{fe}그래?\n그럼{ff}다음에 또 봐<END>
+[WORLD04_AREA175.EMI|sec11|body95|@0x11e3|20B] *그럼{ff}아이템을\n골라 줘<END>
+[WORLD04_AREA175.EMI|sec11|body96|@0x11f7|17B] *{c07:00}{ff}으로{ff}괜찮아?{c14:04}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body97|@0x120c|99B] *그럼{ff}열심히\n코피{fc}해 둘 테니까\n좀 있다가{ff}또 와{02}코피{fc}집을{ff}그만두거나\n사람을 바꾸거나 하면>{02}맡긴 아이템이\n사라져 버리니까\n조심하는 거야?<END>
+[WORLD04_AREA175.EMI|sec11|body98|@0x126f|29B] *음{fc}그럼\n다른 아이템으로 할래?{c14:05}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body99|@0x1290|18B] *미안해>\n아직이야>>@<END>
+[WORLD04_AREA175.EMI|sec11|body100|@0x12a2|49B] *짜{fc}잔@\n이번엔 멋지게{ff}성공했어\n자@@{02}{c07:00}{c15:09}2{ff}를\n손에 넣었다@<END>
+[WORLD04_AREA175.EMI|sec11|body101|@0x12d3|59B] *짜{fc}잔@\n이번엔 멋지게{ff}성공이야\n자@@{02}어머{fe}짐이 가득 찼으니\n또{ff}받으러 와<END>
+[WORLD04_AREA175.EMI|sec11|body102|@0x130e|40B] *음{fc}그러니까{ff}뭐랄까\n실패했어<PAUSE><PAUSE>{02}{c07:00}{ff}을\n돌려받았다<END>
+[WORLD04_AREA175.EMI|sec11|body103|@0x1336|51B] *음{fc}그러니까{ff}뭐랄까\n실패했어<PAUSE><PAUSE>{02}게다가{ff}이렇게 됐어@{02}{c07:00}{ff}을\n받았다<END>
+[WORLD04_AREA175.EMI|sec11|body104|@0x1369|14B] 아무것도 안 하고{ff}대기합니다<END>
+[WORLD04_AREA175.EMI|sec11|body105|@0x1377|7B] 대기 중<END>
+[WORLD04_AREA175.EMI|sec11|body106|@0x137e|14B] 여러 가지 놀이를 할 수 있습니다<END>
+[WORLD04_AREA175.EMI|sec11|body107|@0x138c|13B] 놀이집을 실행 중<END>
+[WORLD04_AREA175.EMI|sec11|body108|@0x1399|56B] *잘 와 줬어{02}쉬운{ff}게임\n두 개를{ff}알고 있으니까\n잠깐{ff}놀다 가@?{c14:06}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body109|@0x13d5|18B] *아쉽네\n그럼{ff}다음에 또 봐<END>
+[WORLD04_AREA175.EMI|sec11|body110|@0x13e7|24B] *자세한{ff}설명은\n됐지?{c14:07}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body111|@0x1403|308B] *음{fc}그럼 설명할게{02}이 게임에서 쓰는 카{fc}드는\n1{c15:07}9의 9장{02}먼저{fe}내가 1{c15:07}9의\n카{fc}드 중에서\n하나를 낼 테니까{02}넌{ff}다음 숫자가 그것보다\n위인지 아래인지 맞히는 거야{02}넌 한 번에{ff}최대\n8수 앞까지{ff}입력할 수 있는데{02}그럴 경우엔{ff}당연히\n난이도가{ff}확{fc}\n치솟아 버려{02}숫자가 빗나가면\n물론{ff}네가 지는 거야{02}맞힌 경우엔\n입력한 수에 따라\n돈이{ff}늘어나고{02}게다가 그 금액으로{ff}계속할 수\n있어{02}그리고{fe}가끔이지만\n처음에 뭔가 럭키{fc}한 일이\n일어날 때가 있어{02}어때{ff}알겠어?{c14:08}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body112|@0x153b|32B] *그럼 1{c15:07}100제니{fc} 사이에서\n판돈을{ff}입력해 줘<END>
+[WORLD04_AREA175.EMI|sec11|body113|@0x155b|22B] *어머{ff}안 할 거야\n그럼{ff}다음에 또 봐<END>
+[WORLD04_AREA175.EMI|sec11|body114|@0x1571|38B] *그럼{fe}시작이다{fc}@\n숫자보다{ff}위인지 아래인지\n입력해 줘@<END>
+[WORLD04_AREA175.EMI|sec11|body115|@0x1597|35B] *아쉽네>\n빗나갔어@{02}*한 번 더 할래?{c14:14}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body116|@0x15a9|17B] *한 번 더 할래?{c14:14}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body117|@0x15be|33B] *해냈다{c15:07}{c15:07}@{ff}정답이야\n계속{ff}할래?{c14:09}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body118|@0x15e3|17B] *어머{ff}그만둘 거야?\n그럼{fe}자@<END>
+[WORLD04_AREA175.EMI|sec11|body119|@0x15f4|26B] *그래야지@\n그럼{ff}계속 가는 거야<END>
+[WORLD04_AREA175.EMI|sec11|body120|@0x160e|36B] *어머?{ff}이제 이 이상은\n못 줄{ff}것 같으니까\n봐 줘<END>
+[WORLD04_AREA175.EMI|sec11|body121|@0x1632|79B] *그럼{fe}어느 쪽\n게임을 플레이할 거야?{02}참고로{fe}{c05:02}숫자 맞히기{06} 쪽은\n선금으로{ff}500제니{fc}\n필요해@{c14:0a}{c0c:02}하이{c15:1a}로{fc}<END>
+[WORLD04_AREA175.EMI|sec11|body122|@0x1689|22B] *그래{ff}아쉽네\n그럼{ff}다음에 또 봐<END>
+[WORLD04_AREA175.EMI|sec11|body123|@0x169f|27B] *어머{ff}돈이 부족해\n그럼{ff}다음에 또 봐<END>
+[WORLD04_AREA175.EMI|sec11|body124|@0x16ba|24B] *자세한{ff}설명은\n됐지?{c14:0b}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body125|@0x16d6|261B] *그럼 설명할게\n이건 말이지{ff}세 자리 숫자를 맞히는\n게임이야{02}숫자는 1{c15:07}9의 9개\n한 번 쓰인 숫자는\n다른 자리에는{ff}안 쓰여{02}네가 입력한\n세 자리 숫자에 대해서{02}자리와 숫자가 맞으면\n{c05:02}히트{06}{02}숫자만 맞으면\n{c05:02}블로{fc}{06}{02}라고 알려 줄게{02}세 숫자를\n빨리 맞히면 맞힐수록\n좋은 아이템을 받아{02}단{ff}8번 안에\n못 맞히면\n아무것도{ff}못 받고{ff}완전 손해야{02}어때{ff}알겠어?{c14:0c}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body126|@0x17df|15B] *그럼{ff}게임 스타{fc}트@<END>
+[WORLD04_AREA175.EMI|sec11|body127|@0x17ee|15B] *숫자를 입력해 줘<END>
+[WORLD04_AREA175.EMI|sec11|body128|@0x17fd|17B] {c07:00}{ff}히트\n{c07:01}{ff}블로{fc}{ff}야<END>
+[WORLD04_AREA175.EMI|sec11|body129|@0x180e|65B] *축하해@@\n대정답이야@{02}전부{ff}{c07:00}번에 풀었으니\n경품은{ff}이거야@{02}{c05:02}{c07:01}{06}{ff}을\n손에 넣었다@<END>
+[WORLD04_AREA175.EMI|sec11|body130|@0x184f|23B] *아이템이 가득 찼어\n뭔가 버려 줘<END>
+[WORLD04_AREA175.EMI|sec11|body131|@0x1866|15B] *포기하는 거야?{c14:0d}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body132|@0x1879|23B] *부{fc}{ff}횟수 오{fc}버{fc}야\n정답은 이거<END>
+[WORLD04_AREA175.EMI|sec11|body133|@0x1890|21B] *한 번 더 게임할래?{c14:0e}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body134|@0x18a9|39B] *기다렸어@\n두근두근 설레는\n게임을 하자@?{c14:0f}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body135|@0x18d4|21B] *어머{ff}아쉽네\n그럼{ff}다음에 또 봐<END>
+[WORLD04_AREA175.EMI|sec11|body136|@0x18e9|19B] *설명은{ff}됐지?{c14:10}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body137|@0x1900|221B] *그럼 설명할게\n이건 말이지\n숫자를 맞히는 게임이야{02}0{c15:07}9의 숫자 중에서\n무작위로 5개가\n뽑히니까{02}넌\n그 5개를 맞히면 돼{02}단{ff}넌 항상\n5개를 고를{ff}필요는 없어{02}딱 하나만{ff}골라도\n게임할 수 있어{02}하지만{ff}배율은\n맞힌 수에 따라\n변하니까{02}많이 골라서\n많이 맞힌 쪽이\n많이{ff}버는 거야{02}어때{ff}알겠어?{c14:11}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body138|@0x19e1|34B] *그럼 1{c15:07}100제니{fc}\n사이에서{ff}판돈을{ff}입력해 줘<END>
+[WORLD04_AREA175.EMI|sec11|body139|@0x1a03|22B] *안 할 거야>>?\n그럼{ff}안녕이야<END>
+[WORLD04_AREA175.EMI|sec11|body140|@0x1a19|16B] *그럼{ff}게임 스타{fc}트야@<END>
+[WORLD04_AREA175.EMI|sec11|body141|@0x1a29|12B] *숫자를 정해 줘<END>
+[WORLD04_AREA175.EMI|sec11|body142|@0x1a35|29B] *축하해@\n{c07:00}개{ff}정답이라서\n{c15:09}{c07:01}배{ff}야<END>
+[WORLD04_AREA175.EMI|sec11|body143|@0x1a52|13B] *아쉽네{ff}빗나갔어<END>
+[WORLD04_AREA175.EMI|sec11|body144|@0x1a5f|17B] *한 번 더 할래?{c14:12}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body145|@0x1a74|20B] 진귀한 물건을{ff}사들여 줍니다<END>
+[WORLD04_AREA175.EMI|sec11|body146|@0x1a88|14B] 골동품 가게를 실행 중<END>
+[WORLD04_AREA175.EMI|sec11|body147|@0x1a96|18B] 아이템을{ff}선물해 줍니다<END>
+[WORLD04_AREA175.EMI|sec11|body148|@0x1aa8|11B] 기프트를 실행 중<END>
+[WORLD04_AREA175.EMI|sec11|body149|@0x1ab3|34B] *자{fe}이게 이번\n선물이야@{02}{c07:00}{ff}을{ff}받았다@<END>
+[WORLD04_AREA175.EMI|sec11|body150|@0x1ad5|35B] *어머?짐이\n가득 찼어\n정리하고{ff}또 와<END>
+[WORLD04_AREA175.EMI|sec11|body151|@0x1af8|22B] *이번엔{ff}아무것도 없어\n또 와<END>
+[WORLD04_AREA175.EMI|sec11|body152|@0x1b0e|14B] 뭔가를{ff}가르쳐 줍니다<END>
+[WORLD04_AREA175.EMI|sec11|body153|@0x1b1c|14B] 예언가를 실행 중<END>
+[WORLD04_AREA175.EMI|sec11|body154|@0x1b2a|37B] *브레스의 공격력은{ff}남은 HP에\n따라 변하는{ff}모양이야<END>
+[WORLD04_AREA175.EMI|sec11|body155|@0x1b4f|28B] *하늘 쪽에서{ff}커다란 힘이\n느껴져>><END>
+[WORLD04_AREA175.EMI|sec11|body156|@0x1b6b|31B] *썩은 놈에게는\n회복 마법\n이건{ff}상식이야<END>
+[WORLD04_AREA175.EMI|sec11|body157|@0x1b8a|40B] *알았어<PAUSE><PAUSE>\n네 전생의 이름은\n보브야@?{c14:13}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body158|@0x1bb6|28B] *역시{ff}그렇구나@\n내 생각이 맞았어<END>
+[WORLD04_AREA175.EMI|sec11|body159|@0x1bd2|28B] *역시{ff}아니구나@\n내 생각대로야<END>
+[WORLD04_AREA175.EMI|sec11|body160|@0x1bee|44B] *알았어<PAUSE><PAUSE>\n네 전생의 이름은\n조제페인 거야@?{c14:13}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body161|@0x1c1e|43B] *네{ff}동료 중에\n배신자가{ff}있어@\n믿으면{fe}안 돼<END>
+[WORLD04_AREA175.EMI|sec11|body162|@0x1c49|35B] *이 방에서\n나가지 않는 게 좋아\n자{fe}이제>{ff}그쯤에서@<END>
+[WORLD04_AREA175.EMI|sec11|body163|@0x1c6c|26B] *아무래도{ff}오늘은 불에\n시달릴 것 같아<END>
+[WORLD04_AREA175.EMI|sec11|body164|@0x1c86|48B] *아아@{ff}무서워>@\n네 운명이>>{02}이 이상은{fe}도저히\n말 못 하겠어>@<END>
+[WORLD04_AREA175.EMI|sec11|body165|@0x1cb6|29B] *나왔어@{02}찾는 건{fe}서쪽에\n있는 것 같아<END>
+[WORLD04_AREA175.EMI|sec11|body166|@0x1cd3|23B] *시간의 모래로\n시간이{ff}멈춰 버려<END>
+[WORLD04_AREA175.EMI|sec11|body167|@0x1cea|16B] *자는 사람은{ff}때려 보면?<END>
+[WORLD04_AREA175.EMI|sec11|body168|@0x1cfa|23B] *오늘은{ff}대시하면\n안 돼@<END>
+[WORLD04_AREA175.EMI|sec11|body169|@0x1d11|13B] *아{fe}<PAUSE>너는><PAUSE>>@<END>
+[WORLD04_AREA175.EMI|sec11|body170|@0x1d1e|33B] *어떤 아이템으로\n적의{ff}돈과{ff}EXP가\n가득해져<END>
+[WORLD04_AREA175.EMI|sec11|body171|@0x1d3f|21B] *{c05:02}장인의 낚싯대{06}{ff}라고\n알아?<END>
+[WORLD04_AREA175.EMI|sec11|body172|@0x1d54|28B] *{c05:02}이사나{06}는{ff}사실\n생선이{ff}아니야<END>
+[WORLD04_AREA175.EMI|sec11|body173|@0x1d70|18B] *퀵실버는\n벌써 봤어?<END>
+[WORLD04_AREA175.EMI|sec11|body174|@0x1d82|40B] *세계 어딘가에\n{c05:02}드래곤 블레이드{06}{ff}라는\n무기가 있다는 모양이야<END>
+[WORLD04_AREA175.EMI|sec11|body175|@0x1daa|28B] *{c04:02}라는 사람은\n타고나길{ff}불에\n강한 걸지도<END>
+[WORLD04_AREA175.EMI|sec11|body176|@0x1dc6|27B] *{c04:05}라는 사람{fe}좀\n주의력{ff}산만이네<END>
+[WORLD04_AREA175.EMI|sec11|body177|@0x1de1|53B] *불의 마법으로{fe}점점\n강해지는{ff}대신>{02}점점{ff}EXP가{ff}늘어나는\n몬스터가 있어@<END>
+[WORLD04_AREA175.EMI|sec11|body178|@0x1e16|22B] *스승은{ff}전부\n17명인 거야?<END>
+[WORLD04_AREA175.EMI|sec11|body179|@0x1e2c|38B] *적과 마주치기 싫을 땐\n살금살금{ff}걷는 게\n좋을지도 몰라<END>
+[WORLD04_AREA175.EMI|sec11|body180|@0x1e52|8B] 어떻게 할까요?<END>
+[WORLD04_AREA175.EMI|sec11|body181|@0x1e5a|25B] *토지를{ff}정비 중이야\n힘낼 거야<END>
+[WORLD04_AREA175.EMI|sec11|body182|@0x1e73|16B] *으{fc}음\n이 흙{ff}딱딱해<END>
+[WORLD04_AREA175.EMI|sec11|body183|@0x1e83|20B] *열심히 하고 있어@\n진짜야@<END>
+[WORLD04_AREA175.EMI|sec11|body184|@0x1e97|21B] *앗{fe}안 돼 안 돼@\n거기는{ff}밟지 마@<END>
+[WORLD04_AREA175.EMI|sec11|body185|@0x1eac|21B] *부지런{ff}부지런히\n토지를 고르는 거야<END>
+[WORLD04_AREA175.EMI|sec11|body186|@0x1ec1|25B] *이제{ff}손이 지쳤어\n휴식할 거야<END>
+[WORLD04_AREA175.EMI|sec11|body187|@0x1eda|28B] *집은{ff}어떻게 만드는 거야?\n좀{ff}두근거려<END>
+[WORLD04_AREA175.EMI|sec11|body188|@0x1ef6|27B] *집을 만들고 있어@\n전혀{ff}모르겠지만<END>
+[WORLD04_AREA175.EMI|sec11|body189|@0x1f11|18B] *정말{fe}정말\n열심히 할 거야@<END>
+[WORLD04_AREA175.EMI|sec11|body190|@0x1f23|34B] *벼{fe}별로{ff}땡땡이 안 쳐\n제{fe}제대로\n일하고 있어<END>
+[WORLD04_AREA175.EMI|sec11|body191|@0x1f45|17B] *으{fc}음{ff}으{fc}음\n지쳤어><END>
+[WORLD04_AREA175.EMI|sec11|body192|@0x1f56|14B] *뭘 하면{ff}되는 거야?<END>
+[WORLD04_AREA175.EMI|sec11|body193|@0x1f64|15B] *심심하니까\n빈둥빈둥이야<END>
+[WORLD04_AREA175.EMI|sec11|body194|@0x1f73|35B] *어머<PAUSE>{ff}안녕이야{02}아무래도 좋지만\n심심해서 못 견디겠어<END>
+[WORLD04_AREA175.EMI|sec11|body195|@0x1f96|20B] *으{fc}음{ff}심심해\n뭔가 하고 싶어<END>
+[WORLD04_AREA175.EMI|sec11|body196|@0x1faa|21B] *할 일이 없으니까\n느긋하게 있어<END>
+[WORLD04_AREA175.EMI|sec11|body197|@0x1fbf|13B] *으{fc}음{ff}몸이 굳어<END>
+[WORLD04_AREA175.EMI|sec11|body198|@0x1fcc|31B] *어서 오세요\n좋은 것만\n갖춰 뒀어@<END>
+[WORLD04_AREA175.EMI|sec11|body199|@0x1feb|23B] *{c15:1e}로운 일을{ff}생각하고\n있어@<END>
+[WORLD04_AREA175.EMI|sec11|body200|@0x2002|35B] *어떻게 하면{ff}우리가\n더{ff}번영할 수 있을지\n생각하고 있어<END>
+[WORLD04_AREA175.EMI|sec11|body201|@0x2025|22B] *어서 와@\n꼭{ff}묵고 가<END>
+[WORLD04_AREA175.EMI|sec11|body202|@0x203b|48B] *어서 와{ff}내 가게에\n진귀한 물건이나{ff}오래된 물건을\n어디보다 비싸게{ff}사들일게<END>
+[WORLD04_AREA175.EMI|sec11|body203|@0x206b|19B] *이제{fe}\n아무것도 안 떠올라@<END>
+[WORLD04_AREA175.EMI|sec11|body204|@0x207e|27B] *으{fc}음\n더 이상{ff}넓힐\n토지가 없어<END>
+[WORLD04_AREA175.EMI|sec11|body205|@0x2099|27B] *어쩌지\n이제{fe}집을 지을\n공간이 없어<END>
+[WORLD04_AREA175.EMI|sec11|body206|@0x20b4|70B] *가르쳐 줘@{ff}가르쳐 줘@{02}우리가{fe}어떻게\n살면 좋을지>\n가르쳐 줘@{02}설명은 됐지?{c14:1a}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body207|@0x20fe|36B] *아마 골동품은\n세계에 전부\n12종류{ff}있을 거야<END>
+[WORLD04_AREA175.EMI|sec11|body208|@0x2122|31B] *한 번이라도 좋으니\n{c05:02}용의 눈물{06}{ff}을\n보고 싶어<END>
+[WORLD04_AREA175.EMI|sec11|body209|@0x2141|21B] *으{fc}음\n어떤 걸\n개발할까?<END>
+[WORLD04_AREA175.EMI|sec11|body210|@0x2156|37B] *한 명보다 두 명\n두 명보다 세 명이\n빨리 상품이 늘어나<END>
+[WORLD04_AREA175.EMI|sec11|body211|@0x217b|19B] *어떤{ff}노래를\n만들까{fc}?<END>
+[WORLD04_AREA175.EMI|sec11|body212|@0x218e|33B] *역시\n일손이 많은 쪽이\n빨리 노래가{ff}늘어나@<END>
+[WORLD04_AREA175.EMI|sec11|body213|@0x21af|49B] *음{fc}그러니까{ff}뭐랄까\n실패했어{02}어머{fe}아이템이 가득하네\n또{ff}받으러 와<END>
+[WORLD04_AREA175.EMI|sec11|body214|@0x21e0|64B] *음{fc}그러니까{ff}뭐랄까\n실패했어{02}게다가{ff}이렇게 돼 버렸어{02}어머{fe}아이템이 가득하네\n또{ff}받으러 와<END>
+[WORLD04_AREA175.EMI|sec11|body215|@0x2220|29B] >>아무것도 안 쓰여 있다\n언젠가{fe}뭔가 있는 걸까?<END>
+[WORLD04_AREA175.EMI|sec11|body216|@0x223d|15B] {c07:00}{ff}이{ff}상품을 입하<END>
+[WORLD04_AREA175.EMI|sec11|body217|@0x224c|14B] {c07:00}{ff}의{ff}음악이 늘었다<END>
+[WORLD04_AREA175.EMI|sec11|body218|@0x225a|15B] {c07:00}{ff}의{ff}탐험이 종료<END>
+[WORLD04_AREA175.EMI|sec11|body219|@0x2269|14B] {c07:00}{ff}의{ff}코피{fc}가 종료<END>
+[WORLD04_AREA175.EMI|sec11|body220|@0x2277|11B] 토지가 넓어졌다<END>
+[WORLD04_AREA175.EMI|sec11|body221|@0x2282|14B] {c15:1e}로운{ff}방이 생겼다<END>
+[WORLD04_AREA175.EMI|sec11|body222|@0x2290|14B] {c15:1e}로운{ff}일이 늘었다<END>
+[WORLD04_AREA175.EMI|sec11|body223|@0x229e|15B] 문화 레벨이{ff}올라갔다<END>
+[WORLD04_AREA175.EMI|sec11|body224|@0x22ad|33B] *난 아무 재주가 없으니까\n일단 시라도\n지을 거야<END>
+[WORLD04_AREA175.EMI|sec11|body225|@0x22ce|15B] *어{fe}어때?\n감동했어?<END>
+[WORLD04_AREA175.EMI|sec11|body226|@0x22dd|51B] {c07:00}는{c07:01}\n{c07:02}{c07:03}에{c07:04}\n\n언젠가부터{c07:05}는{c07:06}이 되어\n{c07:00}에{c07:07}\n\n{c07:00}는{c07:01}\n{c07:02}{c07:03}에{c07:04}<END>
+[WORLD04_AREA175.EMI|sec11|body227|@0x2310|56B] {c07:00}{c07:01}\n{c07:02}{c07:03}\n\n만약{c07:04}가{c07:05}라면\n분명{c07:06}는{c07:07}이겠지\n\n{c07:00}{c07:01}\n{c07:02}{c07:03}\n\n그리고{c07:04}는>><END>
+[WORLD04_AREA175.EMI|sec11|body228|@0x2348|66B] {c07:00}{c07:01}는{c07:02}\n돌아오지 않는{c07:03}\n돌아가지 않는{c07:04}\n\n{c07:05}는{c07:06}{c07:07}\n하지만>>{c07:08}\n\n{c07:00}{c07:01}는{c07:02}\n돌아오지 않는{c07:03}\n돌아가지 않는{c07:04}<END>
+[WORLD04_AREA175.EMI|sec11|body229|@0x238a|49B] {c07:00}{c07:01}{c07:02}\n{c07:03}에{c07:04}\n\n만약{c07:02}가 바란다면\n나는{c07:05}이 되리\n\n{c07:00}{c07:01}{c07:02}\n{c07:03}에{c07:04}<END>
+[WORLD04_AREA175.EMI|sec11|body230|@0x23bb|45B] {c07:00}는{c07:01}\n{c07:02}는{c07:03}\n\n{c07:04}는{c07:05}{c07:06}\n그러니{fe}조용히{c07:07}\n\n{c07:00}는{c07:01}\n{c07:02}는{c07:03}<END>
+[WORLD04_AREA175.EMI|sec11|body231|@0x23e8|63B] 마치{c07:00}{c07:01}였지\n그때의{c07:02}는\n\n무작정{c07:03}매일\n\n그리고{c07:02}는 이렇게 중얼거렸지\n\n*{c07:04}가{c07:05}+라고>><END>
+[WORLD04_AREA175.EMI|sec11|body232|@0x2427|56B] {c07:00}너는{c07:01}{c07:02}\n나는 언제나{c07:03}뿐\n\n추억은{c07:04}\n두 번 다시 안 돌아갈{c07:05}{c07:06}\n\n{c07:00}너는{c07:01}{c07:02}<END>
+[WORLD04_AREA175.EMI|sec11|body233|@0x245f|28B] {c07:00}{c07:01}는{c07:02}\n{c07:03}{c07:01}는{c07:04}\n\n{c07:05}{c07:06}을 그리워한다<END>
+[WORLD04_AREA175.EMI|sec11|body234|@0x247b|32B] *으{fc}음{fe}안 되겠어>>\n이건{ff}내 손으로는\n감당이 안 돼<END>
+[WORLD04_AREA175.EMI|sec11|body235|@0x249b|6B] 토픽스<END>
+[WORLD04_AREA175.EMI|sec11|body236|@0x24a1|50B] *별명을{ff}붙이는 걸\n정말 좋아해@{02}같이\n별명을{ff}생각하자{c14:15}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body237|@0x24d7|35B] *우리랑{ff}너희 중에\n어느 쪽에{ff}붙일 거야?{c14:16}{c0c:02}그쪽<END>
+[WORLD04_AREA175.EMI|sec11|body238|@0x24fe|27B] *자{fe}누구한테{ff}별명을\n붙일지{fe}골라 줘@<END>
+[WORLD04_AREA175.EMI|sec11|body239|@0x2519|21B] 누구한테{ff}별명을 붙일지{ff}골라 줘<END>
+[WORLD04_AREA175.EMI|sec11|body240|@0x252e|22B] 괜찮으시겠습니까?{ff}{ff}{ff}{ff}{ff}{ff}{ff}예{ff}아니오<END>
+[WORLD04_AREA175.EMI|sec11|body241|@0x2544|33B] *내가{fe}이 사람의\n별명 생각해도{fe}돼?{c14:17}{c0c:02}맡길게<END>
+[WORLD04_AREA175.EMI|sec11|body242|@0x256b|28B] *자{fe}이 사람은\n{c05:02}{c07:00}{06}{ff}이야@{c14:18}{c0c:02}패스<END>
+[WORLD04_AREA175.EMI|sec11|body243|@0x258d|25B] *정말로{fe}마음에 들었어?{c14:18}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body244|@0x25aa|41B] *자{fe}이제부터\n{c05:02}{c07:00}{06}{ff}는>{02}{c05:02}{c07:01}{06}{ff}라고\n불러 줘@<END>
+[WORLD04_AREA175.EMI|sec11|body245|@0x25d3|23B] *아직{fe}또 다른 것도{ff}생각할래?{c14:19}{c0c:02}예<END>
+[WORLD04_AREA175.EMI|sec11|body246|@0x25ee|26B] *그럼{fe}안녕\n또 와{ff}줘?<END>
+[WORLD04_AREA175.EMI|sec11|body247|@0x2608|26B] 어느 게 듣고 싶어?{c14:1b}{c0c:25}{ff}뭘 도와줄까?<END>
+[WORLD04_AREA175.EMI|sec11|body248|@0x264c|12B] *그럼{fe}부탁할게@<END>
+[WORLD04_AREA175.EMI|sec11|body249|@0x2658|158B] *요컨대{fe}우리가\n무슨 일을{ff}하면 되는지\n정해 줬으면 해{02}일에는{ff}여러 가지가 있어서>{02}사냥을{ff}안 하면\n배가 고파서{fe}죽어 버리고{02}학자가{ff}없으면\n{c15:1e}로운 일은{ff}언제까지나\n안 늘어나{02}어느 일에{ff}몇 명을 배분할지{02}그 분배를\n해 줬으면 해@<END>
+[WORLD04_AREA175.EMI|sec11|body250|@0x26f6|107B] *분배 화면에서\n우리를{ff}집 안이나{02}개간{ff}칸으로\n이동시키면>{02}그 일을{ff}하는 거야@{02}또{fe}집에 커{fc}서를 맞추고\n버튼을 누르면{ff}집의 일을\n바꿀 수 있어<END>
+[WORLD04_AREA175.EMI|sec11|body251|@0x2761|259B] *우리한테는{ff}일의\n적성이{fe}있어서>{02}커{fc}서를{ff}맞췄을 때의\n네 가지{ff}능력 바{fc}를 보면>{02}그 사람이{fe}뭐에 맞는지\n알 수 있어@{02}{c05:02}빨강{06}은{ff}서바이벌 능력\n이게{fe}길수록\n사냥을{ff}잘해>{02}{c05:06}초록{06}은{ff}힘의 크기\n높을수록{ff}개간이나\n건축을{ff}잘해>{02}{c05:01}파랑{06}은{ff}장사 능력\n높을수록{ff}상품이\n빨리{ff}늘어나거나 해>{02}마지막{c05:03}하늘색{06}은{ff}지력\n이게 높은 사람은{ff}학자에\n맞아@<END>
+[WORLD04_AREA175.EMI|sec11|body252|@0x2864|174B] *집 하나에는\n최대 세 명까지{ff}사람을 둘 수 있고{02}사람이 많은 쪽이{ff}여러모로\n이득이 있을 거야{02}사냥{fe}개간{fe}건축은\n집이{ff}필요 없으니까>{02}남는 사람은{ff}이 세 가지\n어딘가에{ff}두는 게\n좋아{02}특히{ff}사냥은\n굶어 죽지{ff}않으려면>{02}항상{ff}인구의 3분의 1을\n기준으로{ff}삼아야 해<END>
+[WORLD04_AREA175.EMI|sec11|body253|@0x2912|3B] 나<END>
+[WORLD04_AREA175.EMI|sec11|body256|@0x2915|3B] 나<END>
+[WORLD04_AREA175.EMI|sec11|body257|@0x2918|3B] 나<END>
+[WORLD04_AREA175.EMI|sec11|body258|@0x291b|3B] 저<END>
+[WORLD04_AREA175.EMI|sec11|body259|@0x291e|5B] 자신<END>
+[WORLD04_AREA175.EMI|sec11|body260|@0x2923|4B] 나<END>
+[WORLD04_AREA175.EMI|sec11|body261|@0x2927|4B] 당신<END>
+[WORLD04_AREA175.EMI|sec11|body262|@0x292b|4B] 너<END>
+[WORLD04_AREA175.EMI|sec11|body263|@0x292f|3B] 그대<END>
+[WORLD04_AREA175.EMI|sec11|body264|@0x2932|3B] 그<END>
+[WORLD04_AREA175.EMI|sec11|body265|@0x2935|5B] 그녀<END>
+[WORLD04_AREA175.EMI|sec11|body266|@0x293a|4B] 저놈<END>
+[WORLD04_AREA175.EMI|sec11|body267|@0x293e|4B] 그놈<END>
+[WORLD04_AREA175.EMI|sec11|body268|@0x2942|3B] 녀석<END>
+[WORLD04_AREA175.EMI|sec11|body269|@0x2945|3B] 그것<END>
+[WORLD04_AREA175.EMI|sec11|body270|@0x2948|4B] 두 사람<END>
+[WORLD04_AREA175.EMI|sec11|body271|@0x294c|5B] 우리<END>
+[WORLD04_AREA175.EMI|sec11|body272|@0x2951|5B] 우리<END>
+[WORLD04_AREA175.EMI|sec11|body273|@0x2956|6B] 내 마음<END>
+[WORLD04_AREA175.EMI|sec11|body274|@0x295c|6B] 네 마음<END>
+[WORLD04_AREA175.EMI|sec11|body275|@0x2962|5B] 세계<END>
+[WORLD04_AREA175.EMI|sec11|body276|@0x2967|5B] 그 사람<END>
+[WORLD04_AREA175.EMI|sec11|body277|@0x296c|3B] 죄<END>
+[WORLD04_AREA175.EMI|sec11|body281|@0x296f|5B] 설렘<END>
+[WORLD04_AREA175.EMI|sec11|body282|@0x2974|5B] 트랩<END>
+[WORLD04_AREA175.EMI|sec11|body283|@0x2979|3B] 아침<END>
+[WORLD04_AREA175.EMI|sec11|body284|@0x297c|3B] 그림자<END>
+[WORLD04_AREA175.EMI|sec11|body285|@0x297f|5B] 페이크<END>
+[WORLD04_AREA175.EMI|sec11|body286|@0x2984|3B] 장미<END>
+[WORLD04_AREA175.EMI|sec11|body287|@0x2987|5B] 코스모스<END>
+[WORLD04_AREA175.EMI|sec11|body288|@0x298c|6B] 추억<END>
+[WORLD04_AREA175.EMI|sec11|body289|@0x2992|5B] 지루함<END>
+[WORLD04_AREA175.EMI|sec11|body290|@0x2997|3B] 길<END>
+[WORLD04_AREA175.EMI|sec11|body291|@0x299a|5B] 천사<END>
+[WORLD04_AREA175.EMI|sec11|body292|@0x299f|4B] 눈동자<END>
+[WORLD04_AREA175.EMI|sec11|body293|@0x29a3|3B] 죽음<END>
+[WORLD04_AREA175.EMI|sec11|body294|@0x29a6|6B] 멜로디{fc}<END>
+[WORLD04_AREA175.EMI|sec11|body295|@0x29ac|3B] 마음<END>
+[WORLD04_AREA175.EMI|sec11|body296|@0x29af|6B] 리프레인<END>
+[WORLD04_AREA175.EMI|sec11|body297|@0x29b5|7B] 멜랑콜리{fc}<END>
+[WORLD04_AREA175.EMI|sec11|body298|@0x29bc|6B] 모놀로{fc}그<END>
+[WORLD04_AREA175.EMI|sec11|body299|@0x29c2|6B] 에피소{fc}드<END>
+[WORLD04_AREA175.EMI|sec11|body300|@0x29c8|6B] 데카당스<END>
+[WORLD04_AREA175.EMI|sec11|body301|@0x29ce|5B] 루{fc}주<END>
+[WORLD04_AREA175.EMI|sec11|body302|@0x29d3|5B] 메모리{fc}<END>
+[WORLD04_AREA175.EMI|sec11|body303|@0x29d8|5B] 향수<END>
+[WORLD04_AREA175.EMI|sec11|body304|@0x29dd|6B] 녹턴{fc}<END>
+[WORLD04_AREA175.EMI|sec11|body305|@0x29e3|6B] 에튀드{fc}<END>
+[WORLD04_AREA175.EMI|sec11|body306|@0x29e9|6B] 레퀴엠<END>
+[WORLD04_AREA175.EMI|sec11|body307|@0x29ef|5B] 아이<END>
+[WORLD04_AREA175.EMI|sec11|body308|@0x29f4|5B] 여신<END>
+[WORLD04_AREA175.EMI|sec11|body309|@0x29f9|5B] 태양<END>
+[WORLD04_AREA175.EMI|sec11|body310|@0x29fe|6B] 귀갓길<END>
+[WORLD04_AREA175.EMI|sec11|body311|@0x2a04|3B] 마을<END>
+[WORLD04_AREA175.EMI|sec11|body312|@0x2a07|4B] 눈물<END>
+[WORLD04_AREA175.EMI|sec11|body313|@0x2a0b|3B] 날개<END>
+[WORLD04_AREA175.EMI|sec11|body314|@0x2a0e|5B] 한숨<END>
+[WORLD04_AREA175.EMI|sec11|body315|@0x2a13|7B] 카페테라스<END>
+[WORLD04_AREA175.EMI|sec11|body316|@0x2a1a|5B] 앨범<END>
+[WORLD04_AREA175.EMI|sec11|body317|@0x2a1f|5B] 미소<END>
+[WORLD04_AREA175.EMI|sec11|body318|@0x2a24|6B] 뒷모습<END>
+[WORLD04_AREA175.EMI|sec11|body319|@0x2a2a|5B] 이름<END>
+[WORLD04_AREA175.EMI|sec11|body320|@0x2a2f|4B] 대답<END>
+[WORLD04_AREA175.EMI|sec11|body321|@0x2a33|4B] 링<END>
+[WORLD04_AREA175.EMI|sec11|body322|@0x2a37|5B] 운명<END>
+[WORLD04_AREA175.EMI|sec11|body323|@0x2a3c|5B] 숙명<END>
+[WORLD04_AREA175.EMI|sec11|body324|@0x2a41|5B] 스페{fc}드<END>
+[WORLD04_AREA175.EMI|sec11|body325|@0x2a46|3B] 비<END>
+[WORLD04_AREA175.EMI|sec11|body326|@0x2a49|6B] 질투{fc}<END>
+[WORLD04_AREA175.EMI|sec11|body327|@0x2a4f|5B] 배신<END>
+[WORLD04_AREA175.EMI|sec11|body328|@0x2a54|5B] 주역<END>
+[WORLD04_AREA175.EMI|sec11|body329|@0x2a59|4B] 리얼<END>
+[WORLD04_AREA175.EMI|sec11|body330|@0x2a5d|6B] 선물<END>
+[WORLD04_AREA175.EMI|sec11|body331|@0x2a63|3B] 검<END>
+[WORLD04_AREA175.EMI|sec11|body332|@0x2a66|5B] 망설임<END>
+[WORLD04_AREA175.EMI|sec11|body333|@0x2a6b|5B] 용기<END>
+[WORLD04_AREA175.EMI|sec11|body334|@0x2a70|5B] 예감<END>
+[WORLD04_AREA175.EMI|sec11|body335|@0x2a75|5B] 환상<END>
+[WORLD04_AREA175.EMI|sec11|body336|@0x2a7a|5B] 속삭임<END>
+[WORLD04_AREA175.EMI|sec11|body337|@0x2a7f|4B] 물방울<END>
+[WORLD04_AREA175.EMI|sec11|body338|@0x2a83|3B] 꿈<END>
+[WORLD04_AREA175.EMI|sec11|body339|@0x2a86|5B] 빛남<END>
+[WORLD04_AREA175.EMI|sec11|body340|@0x2a8b|5B] 작은 새<END>
+[WORLD04_AREA175.EMI|sec11|body341|@0x2a90|3B] 바다<END>
+[WORLD04_AREA175.EMI|sec11|body342|@0x2a93|3B] 불꽃<END>
+[WORLD04_AREA175.EMI|sec11|body343|@0x2a96|3B] 어둠<END>
+[WORLD04_AREA175.EMI|sec11|body344|@0x2a99|3B] 밤<END>
+[WORLD04_AREA175.EMI|sec11|body345|@0x2a9c|5B] 미아<END>
+[WORLD04_AREA175.EMI|sec11|body346|@0x2aa1|5B] 악마<END>
+[WORLD04_AREA175.EMI|sec11|body347|@0x2aa6|3B] 빛<END>
+[WORLD04_AREA175.EMI|sec11|body348|@0x2aa9|6B] 밤 밝힘<END>
+[WORLD04_AREA175.EMI|sec11|body349|@0x2aaf|5B] 시대<END>
+[WORLD04_AREA175.EMI|sec11|body350|@0x2ab4|3B] 열쇠<END>
+[WORLD04_AREA175.EMI|sec11|body351|@0x2ab7|5B] 진심<END>
+[WORLD04_AREA175.EMI|sec11|body352|@0x2abc|5B] 파라솔<END>
+[WORLD04_AREA175.EMI|sec11|body353|@0x2ac1|5B] 나날<END>
+[WORLD04_AREA175.EMI|sec11|body354|@0x2ac6|7B] 마리오네트<END>
+[WORLD04_AREA175.EMI|sec11|body355|@0x2acd|4B] 기색<END>
+[WORLD04_AREA175.EMI|sec11|body356|@0x2ad1|5B] 약속<END>
+[WORLD04_AREA175.EMI|sec11|body357|@0x2ad6|6B] 엇갈림<END>
+[WORLD04_AREA175.EMI|sec11|body358|@0x2adc|6B] 프롤로{fc}그<END>
+[WORLD04_AREA175.EMI|sec11|body359|@0x2ae2|3B] 여행<END>
+[WORLD04_AREA175.EMI|sec11|body360|@0x2ae5|5B] 안녕<END>
+[WORLD04_AREA175.EMI|sec11|body361|@0x2aea|6B] 만남<END>
+[WORLD04_AREA175.EMI|sec11|body362|@0x2af0|4B] 론도<END>
+[WORLD04_AREA175.EMI|sec11|body363|@0x2af4|4B] 거울<END>
+[WORLD04_AREA175.EMI|sec11|body364|@0x2af8|4B] 조각<END>
+[WORLD04_AREA175.EMI|sec11|body365|@0x2afc|4B] 반지<END>
+[WORLD04_AREA175.EMI|sec11|body366|@0x2b00|4B] 스릴<END>
+[WORLD04_AREA175.EMI|sec11|body367|@0x2b04|6B] 만남<END>
+[WORLD04_AREA175.EMI|sec11|body368|@0x2b0a|4B] 이별<END>
+[WORLD04_AREA175.EMI|sec11|body369|@0x2b0e|5B] 데자뷰<END>
+[WORLD04_AREA175.EMI|sec11|body370|@0x2b13|6B] 도망길<END>
+[WORLD04_AREA175.EMI|sec11|body371|@0x2b19|3B] 별<END>
+[WORLD04_AREA175.EMI|sec11|body372|@0x2b1c|3B] 하늘<END>
+[WORLD04_AREA175.EMI|sec11|body373|@0x2b1f|5B] 의지<END>
+[WORLD04_AREA175.EMI|sec11|body374|@0x2b24|5B] 초조함<END>
+[WORLD04_AREA175.EMI|sec11|body375|@0x2b29|4B] 모양<END>
+[WORLD04_AREA175.EMI|sec11|body376|@0x2b2d|4B] 날개<END>
+[WORLD04_AREA175.EMI|sec11|body377|@0x2b31|3B] 손<END>
+[WORLD04_AREA175.EMI|sec11|body378|@0x2b34|5B] 광견<END>
+[WORLD04_AREA175.EMI|sec11|body379|@0x2b39|4B] 어두운<END>
+[WORLD04_AREA175.EMI|sec11|body381|@0x2b3d|4B] 푸른<END>
+[WORLD04_AREA175.EMI|sec11|body382|@0x2b41|5B] 덧없는<END>
+[WORLD04_AREA175.EMI|sec11|body383|@0x2b46|6B] 닫혀진<END>
+[WORLD04_AREA175.EMI|sec11|body384|@0x2b4c|6B] 위험한<END>
+[WORLD04_AREA175.EMI|sec11|body385|@0x2b52|5B] 슬픈<END>
+[WORLD04_AREA175.EMI|sec11|body386|@0x2b57|6B] 고독한<END>
+[WORLD04_AREA175.EMI|sec11|body387|@0x2b5d|6B] 모르는<END>
+[WORLD04_AREA175.EMI|sec11|body388|@0x2b63|6B] 소중한<END>
+[WORLD04_AREA175.EMI|sec11|body389|@0x2b69|6B] 흔들리는<END>
+[WORLD04_AREA175.EMI|sec11|body390|@0x2b6f|7B] 변치 않는<END>
+[WORLD04_AREA175.EMI|sec11|body391|@0x2b76|5B] 조용한<END>
+[WORLD04_AREA175.EMI|sec11|body392|@0x2b7b|6B] 아름다운<END>
+[WORLD04_AREA175.EMI|sec11|body393|@0x2b81|5B] 작은<END>
+[WORLD04_AREA175.EMI|sec11|body394|@0x2b86|5B] 커다란<END>
+[WORLD04_AREA175.EMI|sec11|body395|@0x2b8b|4B] 현명한<END>
+[WORLD04_AREA175.EMI|sec11|body396|@0x2b8f|5B] 유리의<END>
+[WORLD04_AREA175.EMI|sec11|body397|@0x2b94|6B] 빛바랜<END>
+[WORLD04_AREA175.EMI|sec11|body398|@0x2b9a|5B] 부서진<END>
+[WORLD04_AREA175.EMI|sec11|body399|@0x2b9f|4B] 녹슨<END>
+[WORLD04_AREA175.EMI|sec11|body400|@0x2ba3|5B] 녹슬지 않는<END>
+[WORLD04_AREA175.EMI|sec11|body401|@0x2ba8|5B] 깨끗한<END>
+[WORLD04_AREA175.EMI|sec11|body402|@0x2bad|5B] 애틋한<END>
+[WORLD04_AREA175.EMI|sec11|body403|@0x2bb2|5B] 메마른<END>
+[WORLD04_AREA175.EMI|sec11|body404|@0x2bb7|7B] 겁많은<END>
+[WORLD04_AREA175.EMI|sec11|body405|@0x2bbe|7B] 매달리는 듯한<END>
+[WORLD04_AREA175.EMI|sec11|body406|@0x2bc5|5B] 다정한<END>
+[WORLD04_AREA175.EMI|sec11|body407|@0x2bca|6B] 그리운<END>
+[WORLD04_AREA175.EMI|sec11|body408|@0x2bd0|5B] 어린<END>
+[WORLD04_AREA175.EMI|sec11|body409|@0x2bd5|5B] 눈부신<END>
+[WORLD04_AREA175.EMI|sec11|body410|@0x2bda|7B] 부서질 듯한<END>
+[WORLD04_AREA175.EMI|sec11|body411|@0x2be1|5B] 허무한<END>
+[WORLD04_AREA175.EMI|sec11|body412|@0x2be6|5B] 차가운<END>
+[WORLD04_AREA175.EMI|sec11|body413|@0x2beb|6B] 따뜻한<END>
+[WORLD04_AREA175.EMI|sec11|body414|@0x2bf1|4B] 괴로운<END>
+[WORLD04_AREA175.EMI|sec11|body415|@0x2bf5|4B] 달콤한<END>
+[WORLD04_AREA175.EMI|sec11|body416|@0x2bf9|5B] 시큼한<END>
+[WORLD04_AREA175.EMI|sec11|body417|@0x2bfe|6B] 상쾌한<END>
+[WORLD04_AREA175.EMI|sec11|body418|@0x2c04|6B] 투명한<END>
+[WORLD04_AREA175.EMI|sec11|body419|@0x2c0a|5B] 사소한<END>
+[WORLD04_AREA175.EMI|sec11|body420|@0x2c0f|7B] 낯선<END>
+[WORLD04_AREA175.EMI|sec11|body421|@0x2c16|6B] 쓸쓸한<END>
+[WORLD04_AREA175.EMI|sec11|body422|@0x2c1c|5B] 격렬한<END>
+[WORLD04_AREA175.EMI|sec11|body423|@0x2c21|4B] 쓴<END>
+[WORLD04_AREA175.EMI|sec11|body424|@0x2c25|6B] 온화한<END>
+[WORLD04_AREA175.EMI|sec11|body425|@0x2c2b|4B] 이지러진<END>
+[WORLD04_AREA175.EMI|sec11|body426|@0x2c2f|5B] 잃어버린<END>
+[WORLD04_AREA175.EMI|sec11|body427|@0x2c34|5B] 공허한<END>
+[WORLD04_AREA175.EMI|sec11|body428|@0x2c39|6B] 멋진<END>
+[WORLD04_AREA175.EMI|sec11|body429|@0x2c3f|6B] 리리컬한<END>
+[WORLD04_AREA175.EMI|sec11|body430|@0x2c45|6B] 보잘것없는<END>
+[WORLD04_AREA175.EMI|sec11|body431|@0x2c4b|7B] 잊혀진<END>
+[WORLD04_AREA175.EMI|sec11|body432|@0x2c52|5B] 날카로운<END>
+[WORLD04_AREA175.EMI|sec11|body433|@0x2c57|6B] 쓸쓸한<END>
+[WORLD04_AREA175.EMI|sec11|body434|@0x2c5d|4B] 머나먼<END>
+[WORLD04_AREA175.EMI|sec11|body435|@0x2c61|4B] 아픈<END>
+[WORLD04_AREA175.EMI|sec11|body436|@0x2c65|6B] 저주받은<END>
+[WORLD04_AREA175.EMI|sec11|body437|@0x2c6b|4B] 사악한<END>
+[WORLD04_AREA175.EMI|sec11|body438|@0x2c6f|6B] 노려진<END>
+[WORLD04_AREA175.EMI|sec11|body439|@0x2c75|6B] 도둑맞은<END>
+[WORLD04_AREA175.EMI|sec11|body440|@0x2c7b|5B] 더럽혀진<END>
+[WORLD04_AREA175.EMI|sec11|body441|@0x2c80|7B] 금지된<END>
+[WORLD04_AREA175.EMI|sec11|body442|@0x2c87|6B] 낡아빠진<END>
+[WORLD04_AREA175.EMI|sec11|body443|@0x2c8d|8B] 꾸며진<END>
+[WORLD04_AREA175.EMI|sec11|body444|@0x2c95|6B] 사라져 가는<END>
+[WORLD04_AREA175.EMI|sec11|body446|@0x2c9b|6B] 녹아 가는<END>
+[WORLD04_AREA175.EMI|sec11|body447|@0x2ca1|5B] 겹쳐지는<END>
+[WORLD04_AREA175.EMI|sec11|body448|@0x2ca6|6B] 울고 있는<END>
+[WORLD04_AREA175.EMI|sec11|body449|@0x2cac|5B] 빠져드는<END>
+[WORLD04_AREA175.EMI|sec11|body450|@0x2cb1|5B] 떨리는<END>
+[WORLD04_AREA175.EMI|sec11|body451|@0x2cb6|8B] 푹 빠지는<END>
+[WORLD04_AREA175.EMI|sec11|body452|@0x2cbe|6B] 동경하는<END>
+[WORLD04_AREA175.EMI|sec11|body453|@0x2cc4|7B] 스쳐 지나가는<END>
+[WORLD04_AREA175.EMI|sec11|body454|@0x2ccb|4B] 바라는<END>
+[WORLD04_AREA175.EMI|sec11|body455|@0x2ccf|4B] 기도하는<END>
+[WORLD04_AREA175.EMI|sec11|body456|@0x2cd3|5B] 선잠 드는<END>
+[WORLD04_AREA175.EMI|sec11|body457|@0x2cd8|5B] 부끄러워하는<END>
+[WORLD04_AREA175.EMI|sec11|body458|@0x2cdd|4B] 훔치는<END>
+[WORLD04_AREA175.EMI|sec11|body459|@0x2ce1|5B] 부러워하는<END>
+[WORLD04_AREA175.EMI|sec11|body460|@0x2ce6|5B] 어리광부리는<END>
+[WORLD04_AREA175.EMI|sec11|body461|@0x2ceb|6B] 들리는<END>
+[WORLD04_AREA175.EMI|sec11|body462|@0x2cf1|5B] 슬퍼하는<END>
+[WORLD04_AREA175.EMI|sec11|body463|@0x2cf6|4B] 고민하는<END>
+[WORLD04_AREA175.EMI|sec11|body464|@0x2cfa|5B] 미소짓는<END>
+[WORLD04_AREA175.EMI|sec11|body465|@0x2cff|5B] 돌아보는<END>
+[WORLD04_AREA175.EMI|sec11|body466|@0x2d04|6B] 바라보는<END>
+[WORLD04_AREA175.EMI|sec11|body467|@0x2d0a|5B] 떠도는<END>
+[WORLD04_AREA175.EMI|sec11|body468|@0x2d0f|5B] 중얼거리는<END>
+[WORLD04_AREA175.EMI|sec11|body469|@0x2d14|5B] 망설이는<END>
+[WORLD04_AREA175.EMI|sec11|body470|@0x2d19|6B] 털어놓는<END>
+[WORLD04_AREA175.EMI|sec11|body471|@0x2d1f|5B] 다가가는<END>
+[WORLD04_AREA175.EMI|sec11|body472|@0x2d24|5B] 변하는<END>
+[WORLD04_AREA175.EMI|sec11|body473|@0x2d29|4B] 잠드는<END>
+[WORLD04_AREA175.EMI|sec11|body474|@0x2d2d|4B] 싸우는<END>
+[WORLD04_AREA175.EMI|sec11|body475|@0x2d31|5B] 속삭이는<END>
+[WORLD04_AREA175.EMI|sec11|body476|@0x2d36|6B] 돌진하는<END>
+[WORLD04_AREA175.EMI|sec11|body477|@0x2d3c|5B] 다가붙는<END>
+[WORLD04_AREA175.EMI|sec11|body478|@0x2d41|4B] 자아내는<END>
+[WORLD04_AREA175.EMI|sec11|body479|@0x2d45|5B] 떠나는<END>
+[WORLD04_AREA175.EMI|sec11|body480|@0x2d4a|5B] 떠는<END>
+[WORLD04_AREA175.EMI|sec11|body481|@0x2d4f|7B] 멈춰 서는<END>
+[WORLD04_AREA175.EMI|sec11|body482|@0x2d56|8B] 짓눌리는<END>
+[WORLD04_AREA175.EMI|sec11|body483|@0x2d5e|5B] 주춤하는<END>
+[WORLD04_AREA175.EMI|sec11|body484|@0x2d63|4B] 등지는<END>
+[WORLD04_AREA175.EMI|sec11|body485|@0x2d67|5B] 사랑하는<END>
+[WORLD04_AREA175.EMI|sec11|body486|@0x2d6c|4B] 달리는<END>
+[WORLD04_AREA175.EMI|sec11|body487|@0x2d70|5B] 쓰러지는<END>
+[WORLD04_AREA175.EMI|sec11|body488|@0x2d75|6B] 멀어지는<END>
+[WORLD04_AREA175.EMI|sec11|body489|@0x2d7b|5B] 버리는<END>
+[WORLD04_AREA175.EMI|sec11|body490|@0x2d80|5B] 바치는<END>
+[WORLD04_AREA175.EMI|sec11|body491|@0x2d85|6B] 떠밀려 가는<END>
+[WORLD04_AREA175.EMI|sec11|body492|@0x2d8b|4B] 용서하는<END>
+[WORLD04_AREA175.EMI|sec11|body493|@0x2d8f|6B] 가로눕는<END>
+[WORLD04_AREA175.EMI|sec11|body494|@0x2d95|3B] 데스<END>
+[WORLD04_AREA175.EMI|sec11|body496|@0x2d98|3B] 메가<END>
+[WORLD04_AREA175.EMI|sec11|body497|@0x2d9b|3B] 메타<END>
+[WORLD04_AREA175.EMI|sec11|body498|@0x2d9e|3B] 테라<END>
+[WORLD04_AREA175.EMI|sec11|body499|@0x2da1|3B] 제노<END>
+[WORLD04_AREA175.EMI|sec11|body500|@0x2da4|3B] 헬<END>
+[WORLD04_AREA175.EMI|sec11|body501|@0x2da7|2B] 아<END>
+[WORLD04_AREA175.EMI|sec11|body502|@0x2da9|3B] 하이<END>
+[WORLD04_AREA175.EMI|sec11|body503|@0x2dac|3B] 가이<END>
+[WORLD04_AREA175.EMI|sec11|body504|@0x2daf|3B] 벨<END>
+[WORLD04_AREA175.EMI|sec11|body505|@0x2db2|3B] 기가<END>
+[WORLD04_AREA175.EMI|sec11|body506|@0x2db5|3B] 가라<END>
+[WORLD04_AREA175.EMI|sec11|body507|@0x2db8|3B] 렘<END>
+[WORLD04_AREA175.EMI|sec11|body508|@0x2dbb|3B] 마드<END>
+[WORLD04_AREA175.EMI|sec11|body509|@0x2dbe|3B] 반<END>
+[WORLD04_AREA175.EMI|sec11|body510|@0x2dc1|3B] 자:<END>
+[WORLD04_AREA175.EMI|sec11|body511|@0x2dc4|3B] 네오<END>
+[WORLD04_AREA175.EMI|sec11|body512|@0x2dc7|3B] 파라<END>
+[WORLD04_AREA175.EMI|sec11|body513|@0x2dca|3B] 제타<END>
+[WORLD04_AREA175.EMI|sec11|body514|@0x2dcd|2B] 리<END>
+[WORLD04_AREA175.EMI|sec11|body515|@0x2dcf|3B] 로제<END>
+[WORLD04_AREA175.EMI|sec11|body516|@0x2dd2|3B] 레아<END>
+[WORLD04_AREA175.EMI|sec11|body517|@0x2dd5|3B] 바라<END>
+[WORLD04_AREA175.EMI|sec11|body518|@0x2dd8|3B] 엘<END>
+[WORLD04_AREA175.EMI|sec11|body519|@0x2ddb|3B] 에스<END>
+[WORLD04_AREA175.EMI|sec11|body520|@0x2dde|3B] 멜<END>
+[WORLD04_AREA175.EMI|sec11|body521|@0x2de1|3B] 레{fc}<END>
+[WORLD04_AREA175.EMI|sec11|body522|@0x2de4|3B] 다이<END>
+[WORLD04_AREA175.EMI|sec11|body523|@0x2de7|3B] 킬<END>
+[WORLD04_AREA175.EMI|sec11|body524|@0x2dea|3B] 카{fc}<END>
+[WORLD04_AREA175.EMI|sec11|body525|@0x2ded|3B] 피코<END>
+[WORLD04_AREA175.EMI|sec11|body526|@0x2df0|3B] 룬<END>
+[WORLD04_AREA175.EMI|sec11|body527|@0x2df3|3B] 포포<END>
+[WORLD04_AREA175.EMI|sec11|body528|@0x2df6|3B] 릴<END>
+[WORLD04_AREA175.EMI|sec11|body529|@0x2df9|2B] 푸<END>
+[WORLD04_AREA175.EMI|sec11|body530|@0x2dfb|3B] 푸{fc}<END>
+[WORLD04_AREA175.EMI|sec11|body531|@0x2dfe|3B] 루루<END>
+[WORLD04_AREA175.EMI|sec11|body532|@0x2e01|3B] 노노<END>
+[WORLD04_AREA175.EMI|sec11|body533|@0x2e04|2B] 파<END>
+[WORLD04_AREA175.EMI|sec11|body534|@0x2e06|3B] 맘<END>
+[WORLD04_AREA175.EMI|sec11|body535|@0x2e09|3B] 스우<END>
+[WORLD04_AREA175.EMI|sec11|body536|@0x2e0c|3B] 푸니<END>
+[WORLD04_AREA175.EMI|sec11|body537|@0x2e0f|3B] 로이<END>
+[WORLD04_AREA175.EMI|sec11|body538|@0x2e12|3B] 포이<END>
+[WORLD04_AREA175.EMI|sec11|body539|@0x2e15|3B] 폰<END>
+[WORLD04_AREA175.EMI|sec11|body540|@0x2e18|3B] 포{fc}<END>
+[WORLD04_AREA175.EMI|sec11|body541|@0x2e1b|3B] 프리<END>
+[WORLD04_AREA175.EMI|sec11|body542|@0x2e1e|3B] 퓨<END>
+[WORLD04_AREA175.EMI|sec11|body543|@0x2e21|3B] 리리<END>
+[WORLD04_AREA175.EMI|sec11|body544|@0x2e24|3B] 몬<END>
+[WORLD04_AREA175.EMI|sec11|body545|@0x2e27|3B] 페페<END>
+[WORLD04_AREA175.EMI|sec11|body546|@0x2e2a|3B] 메그<END>
+[WORLD04_AREA175.EMI|sec11|body547|@0x2e2d|3B] 모아<END>
+[WORLD04_AREA175.EMI|sec11|body548|@0x2e30|2B] 치<END>
+[WORLD04_AREA175.EMI|sec11|body549|@0x2e32|3B] 푸치<END>
+[WORLD04_AREA175.EMI|sec11|body550|@0x2e35|3B] 페모<END>
+[WORLD04_AREA175.EMI|sec11|body551|@0x2e38|3B] 차<END>
+[WORLD04_AREA175.EMI|sec11|body552|@0x2e3b|3B] 미이<END>
+[WORLD04_AREA175.EMI|sec11|body553|@0x2e3e|3B] 와우<END>
+[WORLD04_AREA175.EMI|sec11|body554|@0x2e41|3B] 보노<END>
+[WORLD04_AREA175.EMI|sec11|body555|@0x2e44|3B] 포요<END>
+[WORLD04_AREA175.EMI|sec11|body556|@0x2e47|3B] 하후<END>
+[WORLD04_AREA175.EMI|sec11|body557|@0x2e4a|3B] 토프<END>
+[WORLD04_AREA175.EMI|sec11|body558|@0x2e4d|3B] 카프<END>
+[WORLD04_AREA175.EMI|sec11|body559|@0x2e50|4B] 다인<END>
+[WORLD04_AREA175.EMI|sec11|body560|@0x2e54|3B] 오우<END>
+[WORLD04_AREA175.EMI|sec11|body561|@0x2e57|4B] 벡<END>
+[WORLD04_AREA175.EMI|sec11|body562|@0x2e5b|3B] 폰<END>
+[WORLD04_AREA175.EMI|sec11|body563|@0x2e5e|4B] 나이트<END>
+[WORLD04_AREA175.EMI|sec11|body564|@0x2e62|4B] 기가스<END>
+[WORLD04_AREA175.EMI|sec11|body565|@0x2e66|4B] 하임<END>
+[WORLD04_AREA175.EMI|sec11|body566|@0x2e6a|4B] 하이트<END>
+[WORLD04_AREA175.EMI|sec11|body567|@0x2e6e|3B] 온<END>
+[WORLD04_AREA175.EMI|sec11|body568|@0x2e71|4B] 릭<END>
+[WORLD04_AREA175.EMI|sec11|body569|@0x2e75|4B] 피스<END>
+[WORLD04_AREA175.EMI|sec11|body570|@0x2e79|3B] 만<END>
+[WORLD04_AREA175.EMI|sec11|body571|@0x2e7c|2B] 르<END>
+[WORLD04_AREA175.EMI|sec11|body572|@0x2e7e|4B] 아인<END>
+[WORLD04_AREA175.EMI|sec11|body573|@0x2e82|2B] 후<END>
+[WORLD04_AREA175.EMI|sec11|body574|@0x2e84|4B] 피{fc}<END>
+[WORLD04_AREA175.EMI|sec11|body575|@0x2e88|4B] 비움<END>
+[WORLD04_AREA175.EMI|sec11|body576|@0x2e8c|4B] 리온<END>
+[WORLD04_AREA175.EMI|sec11|body577|@0x2e90|4B] 라인<END>
+[WORLD04_AREA175.EMI|sec11|body578|@0x2e94|4B] 링크<END>
+[WORLD04_AREA175.EMI|sec11|body579|@0x2e98|3B] 투{fc}<END>
+[WORLD04_AREA175.EMI|sec11|body580|@0x2e9b|3B] 리아<END>
+[WORLD04_AREA175.EMI|sec11|body581|@0x2e9e|4B] 시코프<END>
+[WORLD04_AREA175.EMI|sec11|body582|@0x2ea2|4B] 리우스<END>
+[WORLD04_AREA175.EMI|sec11|body583|@0x2ea6|2B] 은<END>
+[WORLD04_AREA175.EMI|sec11|body584|@0x2ea8|4B] 바{fc}안<END>
+[WORLD04_AREA175.EMI|sec11|body585|@0x2eac|4B] 바인<END>
+[WORLD04_AREA175.EMI|sec11|body586|@0x2eb0|3B] 즈이<END>
+[WORLD04_AREA175.EMI|sec11|body587|@0x2eb3|2B] 라<END>
+[WORLD04_AREA175.EMI|sec11|body588|@0x2eb5|3B] 루나<END>
+[WORLD04_AREA175.EMI|sec11|body589|@0x2eb8|3B] 룬<END>
+[WORLD04_AREA175.EMI|sec11|body590|@0x2ebb|2B] 치<END>
+[WORLD04_AREA175.EMI|sec11|body591|@0x2ebd|3B] 린<END>
+[WORLD04_AREA175.EMI|sec11|body592|@0x2ec0|3B] 릴<END>
+[WORLD04_AREA175.EMI|sec11|body593|@0x2ec3|3B] 푼<END>
+[WORLD04_AREA175.EMI|sec11|body594|@0x2ec6|3B] 푸{fc}<END>
+[WORLD04_AREA175.EMI|sec11|body595|@0x2ec9|3B] 루루<END>
+[WORLD04_AREA175.EMI|sec11|body596|@0x2ecc|4B] 라츠<END>
+[WORLD04_AREA175.EMI|sec11|body597|@0x2ed0|2B] 파<END>
+[WORLD04_AREA175.EMI|sec11|body598|@0x2ed2|4B] 마망<END>
+[WORLD04_AREA175.EMI|sec11|body599|@0x2ed6|4B] 푸린<END>
+[WORLD04_AREA175.EMI|sec11|body600|@0x2eda|3B] 푸니<END>
+[WORLD04_AREA175.EMI|sec11|body601|@0x2edd|3B] 로이<END>
+[WORLD04_AREA175.EMI|sec11|body602|@0x2ee0|4B] 포로리<END>
+[WORLD04_AREA175.EMI|sec11|body603|@0x2ee4|3B] 폰<END>
+[WORLD04_AREA175.EMI|sec11|body604|@0x2ee7|3B] 포{fc}<END>
+[WORLD04_AREA175.EMI|sec11|body605|@0x2eea|3B] 프리<END>
+[WORLD04_AREA175.EMI|sec11|body606|@0x2eed|4B] 피퓨<END>
+[WORLD04_AREA175.EMI|sec11|body607|@0x2ef1|3B] 곤<END>
+[WORLD04_AREA175.EMI|sec11|body608|@0x2ef4|4B] 페로리<END>
+[WORLD04_AREA175.EMI|sec11|body609|@0x2ef8|4B] 모프<END>
+[WORLD04_AREA175.EMI|sec11|body610|@0x2efc|3B] 부우<END>
+[WORLD04_AREA175.EMI|sec11|body611|@0x2eff|3B] 피이<END>
+[WORLD04_AREA175.EMI|sec11|body612|@0x2f02|3B] 아파<END>
+[WORLD04_AREA175.EMI|sec11|body613|@0x2f05|3B] 푸치<END>
+[WORLD04_AREA175.EMI|sec11|body614|@0x2f08|3B] 로우<END>
+[WORLD04_AREA175.EMI|sec11|body615|@0x2f0b|3B] 차<END>
+[WORLD04_AREA175.EMI|sec11|body616|@0x2f0e|3B] 캬<END>
+[WORLD04_AREA175.EMI|sec11|body617|@0x2f11|4B] 츄{fc}<END>
+[WORLD04_AREA175.EMI|sec11|body618|@0x2f15|3B] 보노<END>
+[WORLD04_AREA175.EMI|sec11|body619|@0x2f18|3B] 키키<END>
+[WORLD04_AREA175.EMI|sec11|body620|@0x2f1b|3B] 파프<END>
+[WORLD04_AREA175.EMI|sec11|body621|@0x2f1e|3B] 토프<END>
+[WORLD04_AREA175.EMI|sec11|body622|@0x2f21|3B] 카프<END>
+[WORLD04_AREA175.EMI|sec11|body623|@0x2f24|12B] {ff}{ff}NEW{ff}TITLE<END>
+[WORLD04_AREA175.EMI|sec11|body624|@0x2f30|11B] {ff}{ff}{ff}{ff}시골살이<END>
+[WORLD04_AREA175.EMI|sec11|body625|@0x2f3b|12B] {ff}{ff}{ff}{ff}어중간하면 어때<END>
+[WORLD04_AREA175.EMI|sec11|body626|@0x2f47|13B] {ff}{ff}{ff}{ff}훔쳐서 도망쳐<END>
+[WORLD04_AREA175.EMI|sec11|body627|@0x2f54|11B] {ff}{ff}{ff}{ff}{ff}힐링<END>
+[WORLD04_AREA175.EMI|sec11|body628|@0x2f5f|16B] {ff}{ff}사람과 고양이와 새와 갯강구<END>
+[WORLD04_AREA175.EMI|sec11|body629|@0x2f6f|20B] 날씨도 기분도 좋은 이런 날은<END>
+[WORLD04_AREA175.EMI|sec11|body630|@0x2f83|13B] {ff}{ff}{ff}채워지지 않는 발걸음<END>
+[WORLD04_AREA175.EMI|sec11|body631|@0x2f90|9B] {ff}{ff}{ff}{ff}{ff}{ff}30<END>
+[WORLD04_AREA175.EMI|sec11|body632|@0x2f99|13B] {ff}{ff}{ff}밤인데도 닭<END>
+[WORLD04_AREA175.EMI|sec11|body633|@0x2fa6|13B] {ff}{ff}{ff}{ff}돈이라면 잔뜩<END>
+[WORLD04_AREA175.EMI|sec11|body634|@0x2fb3|15B] {ff}{ff}{ff}내가 좋아하는 장치<END>
+[WORLD04_AREA175.EMI|sec11|body635|@0x2fc2|12B] {ff}{ff}{ff}{ff}와:타이거{fc}<END>
+[WORLD04_AREA175.EMI|sec11|body636|@0x2fce|11B] {ff}{ff}{ff}{ff}테크놀로지{fc}<END>
+[WORLD04_AREA175.EMI|sec11|body637|@0x2fd9|13B] {ff}{ff}{ff}프라이드:오니온<END>
+[WORLD04_AREA175.EMI|sec11|body638|@0x2fe6|12B] {ff}{ff}{ff}피{fc}치:엔진<END>
+[WORLD04_AREA175.EMI|sec11|body639|@0x2ff2|18B] 모든 만남은 아침에 일어난다<END>
+[WORLD04_AREA175.EMI|sec11|body640|@0x3004|12B] {ff}{ff}{ff}{ff}{ff}{ff}싸우는 사나이<END>
+[WORLD04_AREA175.EMI|sec11|body641|@0x3010|10B] {ff}{ff}{ff}{ff}{ff}{ff}길드<END>
+[WORLD04_AREA175.EMI|sec11|body642|@0x301a|10B] {ff}{ff}{ff}{ff}{ff}아:고우<END>
+[WORLD04_AREA175.EMI|sec11|body643|@0x3024|12B] {ff}{ff}{ff}{ff}게임은 계속된다<END>
+[WORLD04_AREA175.EMI|sec11|body644|@0x3030|10B] {ff}{ff}{ff}{ff}{ff}{ff}시{fc}프<END>
+[WORLD04_AREA175.EMI|sec11|body645|@0x303a|12B] {ff}{ff}{ff}{ff}{ff}길을 따라<END>
+[WORLD04_AREA175.EMI|sec11|body646|@0x3046|10B] {ff}{ff}{ff}{ff}{ff}{ff}에덴<END>
+[WORLD04_AREA175.EMI|sec11|body647|@0x3050|13B] {ff}{ff}{ff}{ff}{ff}기척의 집<END>
+[WORLD04_AREA175.EMI|sec11|body648|@0x305d|15B] {ff}{ff}{ff}{ff}바람이 좋아한 마을<END>
+[WORLD04_AREA175.EMI|sec11|body649|@0x306c|9B] {ff}{ff}{ff}{ff}{ff}{ff}섬<END>
+[WORLD04_AREA175.EMI|sec11|body650|@0x3075|19B] {ff}{ff}{ff}{ff}한라광렬대무회<END>
+[WORLD04_AREA175.EMI|sec11|body651|@0x3088|13B] {ff}{ff}{ff}터{fc}닝 포인트<END>
+[WORLD04_AREA175.EMI|sec11|body652|@0x3095|14B] {ff}{ff}{ff}{ff}아무 말 하지 마<END>
+[WORLD04_AREA175.EMI|sec11|body653|@0x30a3|14B] {ff}스티{fc}무:로코모{fc}션<END>
+[WORLD04_AREA175.EMI|sec11|body654|@0x30b1|12B] {ff}{ff}{ff}{ff}{ff}무거운 에코{fc}<END>
+[WORLD04_AREA175.EMI|sec11|body655|@0x30bd|10B] {ff}{ff}{ff}{ff}{ff}시체<END>
+[WORLD04_AREA175.EMI|sec11|body656|@0x30c7|12B] {ff}{ff}{ff}{ff}사라진 것<END>
+[WORLD04_AREA175.EMI|sec11|body657|@0x30d3|14B] {ff}{ff}{ff}위험의 감촉<END>
+[WORLD04_AREA175.EMI|sec11|body658|@0x30e1|14B] {ff}{ff}{ff}{ff}{ff}천사와 용과<END>
+[WORLD04_AREA175.EMI|sec11|body659|@0x30ef|11B] {ff}{ff}{ff}{ff}{ff}{ff}도주<END>
+[WORLD04_AREA175.EMI|sec11|body660|@0x30fa|12B] {ff}{ff}{ff}{ff}어설픈 행진곡<END>
+[WORLD04_AREA175.EMI|sec11|body661|@0x3106|13B] {ff}{ff}{ff}{ff}{ff}죽은 용의 돌<END>
+[WORLD04_AREA175.EMI|sec11|body662|@0x3113|25B] {ff}{ff}{ff}{ff}{ff}용에게 바치다\n{ff}{ff}-{ff}메인 테{fc}마{ff}-<END>
+[WORLD04_AREA175.EMI|sec11|body663|@0x312c|13B] {ff}{ff}{ff}{ff}{ff}높은 하늘의 성<END>
+[WORLD04_AREA175.EMI|sec11|body664|@0x3139|13B] {ff}{ff}PURE{ff}AGAIN<END>
+[WORLD04_AREA175.EMI|sec11|body666|@0x3146|27B] {ff}{ff}PURE{ff}AGAIN\n{ff}INSTRUMENTAL<END>
+[WORLD04_AREA175.EMI|sec11|body667|@0x3161|96B] 카디스\n*그러니까{fe}부탁이야@{02}우리가{fe}어떻게\n살아가면{ff}좋을지\n생각해 줘@{02}>>여기까지 말했으면\n설명 안 해도{ff}알겠지?{c14:1a}{c0c:12}알았어<END>
+[WORLD04_AREA175.EMI|sec11|body671|@0x31ce|37B] *내{ff}노랫소리\n들어 줘@?{c14:1c}{c0c:13}퓨어{ff}어게인을{ff}부탁해<END>
+[WORLD04_AREA175.EMI|sec11|body672|@0x3209|12B] *그럼{fe}또 와<END>
+[WORLD04_AREA175.EMI|sec11|body673|@0x3215|34B] 카디스\n*앗@{02}바보바보바보@\n지금까지{fe}뭐 한 거야@?<END>
+[WORLD04_AREA175.EMI|sec11|body674|@0x3237|61B] 카디스\n*너무해@{02}상태 보러 와{ff}주지 않으면\n우린{fe}죽어 버려@{02}{c15:10}둬 버리면{fe}안 돼@<END>
+[WORLD04_AREA175.EMI|sec11|body675|@0x3274|92B] 카디스\n*앗@{02}지금{fe}머리 나쁘다고\n생각했지{c15:07}{c15:07}@?{02}아니야@{02}여기는{fe}숲이랑{ff}사정이 달라서\n우린{fe}우리 힘으로는\n살아갈 수 없는 거야@<END>

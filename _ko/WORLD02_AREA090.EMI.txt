@@ -1,0 +1,248 @@
+[WORLD02_AREA090.EMI|sec11|body0|@0x206|88B] *캠프에서는 말이야\n여러 가지를{fe}할 수 있어>{02}쉬면서{fe}체력을 회복하거나\n여행 기록을{ff}남기거나>{02}자세한 건{fe}텐트 안에\n책이 있으니{ff}봐 봐<END>
+[WORLD02_AREA090.EMI|sec11|body1|@0x25e|43B] *여행 중에{fe}여관이 없거나\n돈이 없을{fc} 땐\n이렇게{fe}캠프를 치는 거야<END>
+[WORLD02_AREA090.EMI|sec11|body2|@0x289|44B] *얼른{fe}형 있는 데로\n가자>{02}글라우스 산은{fe}시{fc}다 숲의\n북쪽이야<END>
+[WORLD02_AREA090.EMI|sec11|body3|@0x2b5|43B] *누에 따위{fe}하나도\n대단한 거 아냐@{02}우리한테{ff}걸리면\n한 방이지@<END>
+[WORLD02_AREA090.EMI|sec11|body4|@0x2e0|57B] *상처 입은 몬스터{fc}만큼\n무서운 건{ff}없으니까{02}체력을 잘{ff}회복하고 나서\n가는 게 어때>?<END>
+[WORLD02_AREA090.EMI|sec11|body5|@0x319|61B] *마을 사람들{fe}우리를\n대단하다고{fe}생각하겠지>{02}그야{fe}아무도{ff}못 쓰러뜨린\n누에를{ff}해치웠으니까@?<END>
+[WORLD02_AREA090.EMI|sec11|body6|@0x356|65B] *바바델 영감님\n우리가>>{02}마을 사람들한테{ff}인정받을\n기회를{ff}준 걸까>{02}>>그럴 리 없지\n그냥 우연이겠지?<END>
+[WORLD02_AREA090.EMI|sec11|body7|@0x397|34B] *맥니{fc}르를 해치우면\n마을 사람들{fe}기뻐해\n줄까<END>
+[WORLD02_AREA090.EMI|sec11|body8|@0x3b9|50B] *맥니{fc}르의 집은{fe}목장을\n북쪽으로 간 데야{02}자::::\n어떻게{fe}숨어들어 갈까<END>
+[WORLD02_AREA090.EMI|sec11|body9|@0x3eb|33B] *에헤헤{fe}이번엔\n마을 사람들>\n뭐라고{ff}칭찬해 줄까?<END>
+[WORLD02_AREA090.EMI|sec11|body10|@0x40c|69B] *왠지{fe}즈루스루한테\n잘도 놀아난 것\n같기도 하지만>{02}뭐{fe}마을 사람들도{ff}돈이\n돌아와서>\n기뻐하고 있겠지{fe}>?<END>
+[WORLD02_AREA090.EMI|sec11|body11|@0x451|20B] *위험한 짓{fe}한 걸까\n우리>><END>
+[WORLD02_AREA090.EMI|sec11|body12|@0x465|31B] *어쨌든{ff}목장 오두막에서\n즈루스루랑{ff}얘기하자><END>
+[WORLD02_AREA090.EMI|sec11|body13|@0x484|81B] *이렇게{fe}밖에서\n잠을 자다니>\n해 본 적{ff}없어@{02}왠지{fe}즐겁네>>{02}><PAUSE>><PAUSE>>아{fe}맞다\n둘이 찾을 때까지\n즐거워하면{ff}안 되지<END>
+[WORLD02_AREA090.EMI|sec11|body14|@0x4d5|79B] *무서웠어{fe}{c04:00}>{02}그래도{fe}윈디아에\n잔뜩{ff}들려줄 이야기가\n생겼어{c15:05}{02}><PAUSE>><PAUSE>>미안해\n둘을 못 찾았는데\n들떠 버려서<END>
+[WORLD02_AREA090.EMI|sec11|body15|@0x524|72B] *드래곤이라고{ff}하면\n다들 무서워하지만>{02}난{fe}{c04:00}은\n조금도{ff}안 무서워>{02}그야{fe}몇 번이나{ff}날\n지켜 줬는걸><END>
+[WORLD02_AREA090.EMI|sec11|body16|@0x56c|49B] *이걸로{fe}윈디아에\n돌아갈 수 있으려나>{02}돌아가면{fe}다시 한번\n둘을{ff}찾아보자><END>
+[WORLD02_AREA090.EMI|sec11|body17|@0x59d|51B] *왕녀님과{fe}여행한다고 해서\n{c04:00}이/가{ff}왕자님인\n건 아니겠지>{02}당연한가><END>
+[WORLD02_AREA090.EMI|sec11|body18|@0x5d0|33B] *가도에{fe}그놈들이\n망보고 있다니>{02}어쩌지>>?<END>
+[WORLD02_AREA090.EMI|sec11|body19|@0x5f1|72B] *고{fc}스트 광석이{fe}식물에\n작용한다는 걸>\n아버지가{ff}발견했어{02}>그리고{fe}그걸 이용하는\n기계를 만든 것도\n아버지야<END>
+[WORLD02_AREA090.EMI|sec11|body20|@0x639|56B] *고{fc}스트의 힘은\n마력에 가깝다고{fe}하지만>{02}그런 식으로{ff}생물을\n만들거나{ff}할 수 있다니<END>
+[WORLD02_AREA090.EMI|sec11|body21|@0x671|36B] *단순한 변이체로\n움직이거나{ff}말하거나\n할 수 있는 걸까{fc}>?<END>
+[WORLD02_AREA090.EMI|sec11|body22|@0x695|42B] 대체 뭐 하는 자일까>{02}적어도{ff}악당으로는\n보이지 않는{ff}자는 얼굴이야><END>
+[WORLD02_AREA090.EMI|sec11|body23|@0x6bf|52B] *분명{ff}괜찮을 거야{02}>>나{fe}{c04:00}과/와\n같이 있으면{ff}뭐든\n잘될 것 같은{ff}기분이 들어<END>
+[WORLD02_AREA090.EMI|sec11|body24|@0x6f3|40B] *맞다 맞아>{ff}<PAUSE>싸울 때는\n틈틈이{fe}여행 기록을\n해 두는 게{fe}좋겠어<END>
+[WORLD02_AREA090.EMI|sec11|body25|@0x71b|52B] *분명{ff}괜찮을 거야{02}>>나{fe}{c04:00}과/와\n같이 있으면{ff}뭐든\n잘될 것 같은{ff}기분이 들어<END>
+[WORLD02_AREA090.EMI|sec11|body26|@0x74f|24B] *뿌키루루루{c15:07}{c15:07}>{02}{c05:06}속 편해 보이는걸>{06}<END>
+[WORLD02_AREA090.EMI|sec11|body27|@0x767|62B] *정말{fe}여러 일이 있었네\n성에 있었으면\n몰랐을 일{ff}투성이야@{02}어머님은>>\n걱정하고 계시겠지만><END>
+[WORLD02_AREA090.EMI|sec11|body28|@0x7a5|81B] *윈디아로는\n메{fc}카{fc}스 강을{ff}건너>\n북쪽으로 가면{ff}금방이야{02}>근데{fe}왕녀님을{ff}이런\n위험한 일에{ff}휘말리게 한 건\n비밀로{ff}해야겠지{fc}<END>
+[WORLD02_AREA090.EMI|sec11|body29|@0x7f6|25B] *뿌리뿌로뿌리{fc}{02}{c05:06}역시{fe}속 편해 보이는걸{06}<END>
+[WORLD02_AREA090.EMI|sec11|body30|@0x80f|66B] *분명{fe}어딘가에서\n둘은{ff}살아 있어>{02}그러니까{fe}{c04:02}씨와\n동쪽 땅에{ff}가서>{02}찾아보는 것도\n좋을지 몰라>{fe}{c04:00}<END>
+[WORLD02_AREA090.EMI|sec11|body31|@0x851|52B] *동쪽 땅{fe}이라>{02}아버지가{fe}자주\n기계를{ff}사러 다녔었지{fc}{02}가 볼까나{fc}><END>
+[WORLD02_AREA090.EMI|sec11|body32|@0x885|50B] *빙글빙글뿌키뿌키>{02}{c05:06}{c04:06}은/는{fe}이 다음>\n윈디아에{fe}간 뒤\n어쩔 셈일까>?{06}<END>
+[WORLD02_AREA090.EMI|sec11|body33|@0x8b7|62B] *옛날{fe}용족이 전쟁을 한 걸\n알고 있지>?{02};천사의 탑<은{fe}그 대전과\n관련된 유적{fe}이다><END>
+[WORLD02_AREA090.EMI|sec11|body34|@0x8f5|38B] *또{fe}집을 나와 버렸네>{02}어머님께{fe}뭐라고 말하고\n사과하지>><END>
+[WORLD02_AREA090.EMI|sec11|body35|@0x91b|46B] *분명{fe}동력선이\n있었지{fc}>{02}어떤 기관을{ff}쓰는지\n기대돼{fc}?<END>
+[WORLD02_AREA090.EMI|sec11|body36|@0x949|40B] *뿌이?{02}{c05:06}어느새{fe}같이 있는 게\n당연하다는 얼굴을 하고 있다>{06}<END>
+[WORLD02_AREA090.EMI|sec11|body37|@0x971|38B] *천사의 탑으로{fe}가려면\n글쎄>{fe}라팔라에서\n배를 쓸까>><END>
+[WORLD02_AREA090.EMI|sec11|body38|@0x997|57B] *베이트 씨가>\n분발해{ff}줘야 할 텐데{02}역시{fe}좋아하는 사람한테\n좋아한다는 말을 듣는 게\n제일이니까<END>
+[WORLD02_AREA090.EMI|sec11|body39|@0x9d0|43B] *{c04:01}이/가{ff}하는 말\n모르는 건{fe}아니야>{02}좀{fe}참견이긴 하지만{fc}<END>
+[WORLD02_AREA090.EMI|sec11|body40|@0x9fb|7B] *뿌스루루루<END>
+[WORLD02_AREA090.EMI|sec11|body41|@0xa02|23B] *배가 안 돌아온다면\n어쩔 수 없지><END>
+[WORLD02_AREA090.EMI|sec11|body42|@0xa19|40B] *>아무것도 안 하고{ff}있는 것보다\n등대를{ff}고치러 가는 게\n낫겠지?<END>
+[WORLD02_AREA090.EMI|sec11|body43|@0xa41|58B] *등대도{ff}고{fc}스트로\n빛나고 있어>{02}참고로{fe}플레임 고{fc}스트는\n나도 장비할 수 있어>\n알고 있었어{fc}?<END>
+[WORLD02_AREA090.EMI|sec11|body44|@0xa7b|40B] *뿌스스스스스{fc}>{02}{c05:06}행복하게{fe}잘 수 있다는 건\n아주{ff}좋은 일이다>{06}<END>
+[WORLD02_AREA090.EMI|sec11|body45|@0xaa3|29B] *등대를{ff}고쳐서>\n배가 돌아오면{fe}좋겠는데<END>
+[WORLD02_AREA090.EMI|sec11|body46|@0xac0|17B] *저거{fe}요정님>이지?<END>
+[WORLD02_AREA090.EMI|sec11|body47|@0xad1|61B] *난폭한{fe}요정이라>\n세상{fe}참 별일이네{fc}{02}>그래도{fe}등대도{ff}고쳤으니\n배가 돌아오면{ff}좋을 텐데{fc}?<END>
+[WORLD02_AREA090.EMI|sec11|body48|@0xb0e|10B] *뿌큐루루용><END>
+[WORLD02_AREA090.EMI|sec11|body49|@0xb18|64B] *꽃이 있는 곳에서\n{c05:02}요정의 마을{06}이란 걸\n써라>{fe}라>{02}동쪽으로{fe}가고 싶을 뿐인데\n빙 둘러{fe}가는군<END>
+[WORLD02_AREA090.EMI|sec11|body50|@0xb58|52B] *요정님들{fe}왠지\n위태위태하니까>{02}가끔{fe}보러 가\n주는 게{ff}좋을지도 몰라<END>
+[WORLD02_AREA090.EMI|sec11|body51|@0xb8c|32B] *배{fe}안 돌아오려나{fc}>\n선착장에{fe}가 볼래?<END>
+[WORLD02_AREA090.EMI|sec11|body52|@0xbac|57B] *뿌큐룬데>{02}{c05:06}결국{fe}이렇게\n배가 올 때까지{ff}자며 기다리는 게\n제일{fe}현명했던 게 아닐까>{06}<END>
+[WORLD02_AREA090.EMI|sec11|body53|@0xbe5|41B] *시간은{fe}걸리지만>\n잊지는{ff}않았겠지\n;천사의 탑<의 일>?<END>
+[WORLD02_AREA090.EMI|sec11|body54|@0xc0e|30B] *화산 속은\n마그마라든가{fe}가스라든가\n위험해 보이네<END>
+[WORLD02_AREA090.EMI|sec11|body55|@0xc2c|29B] *동력선{fe}보고 싶었는데{fc}>\n기대했었는데><END>
+[WORLD02_AREA090.EMI|sec11|body56|@0xc49|8B] *뿌슝뿌슝<END>
+[WORLD02_AREA090.EMI|sec11|body57|@0xc51|39B] *즈블로 화산을{ff}빠져나가면\n천사의 탑이 있는\n울칸 지방{fe}이다><END>
+[WORLD02_AREA090.EMI|sec11|body58|@0xc78|67B] *즈블로 화산의{fe}미친 듯한\n할아버지라든가>{02}말수가{ff}없어져 버린\n{c04:02}씨라든가>{02}뭔가{fe}무서운 일이{ff}일어날 것 같아서><END>
+[WORLD02_AREA090.EMI|sec11|body59|@0xcbb|74B] *기계 문명{ff}시대의\n유적은{ff}많지만\n천사의 탑은{fe}다른 것 같아>{02}용 대전{ff}시대의\n유적일까>><END>
+[WORLD02_AREA090.EMI|sec11|body60|@0xd05|57B] *그가큐루루루>{02}{c05:06}용에 대해{fe}드디어 알게 된 지금\n마음이 들뜬{fe}{c04:00}은/는\n{c04:06}이/가{fe}부럽다{06}<END>
+[WORLD02_AREA090.EMI|sec11|body61|@0xd3e|6B] *>>>><END>
+[WORLD02_AREA090.EMI|sec11|body62|@0xd44|45B] *바리오랑 산토를\n기억하나>?{02}암시장 조직은\n그놈들과{fe}관련이 있다<END>
+[WORLD02_AREA090.EMI|sec11|body63|@0xd71|66B] *그 몬스터{fc}>\n호랑이는{fe}가도를{ff}망보는\n느낌이었어>>{02}목적은{fe}뭐지>\n암시장과{ff}관련이 있는 걸까?<END>
+[WORLD02_AREA090.EMI|sec11|body64|@0xdb3|32B] *그렇군>{fe}그 호랑이는>{02}예전에{fe}찾던\n{c04:04}인가><END>
+[WORLD02_AREA090.EMI|sec11|body65|@0xdd3|60B] *{c04:04}은/는>\n어렸던{ff}너희를\n지키지 못했다며>{02}바리오랑{ff}산토의 조직과\n싸울 마음이{fe}든 거구나><END>
+[WORLD02_AREA090.EMI|sec11|body66|@0xe0f|73B] *천사의 탑에서{fe}무슨 일이 있었는지\n{c04:02}씨는\n아무 설명도{fe}안 해 줬어>{02}하지만{fe}난>\n{c04:00}은/는{fe}분명\n살아 있다고{ff}믿었어<END>
+[WORLD02_AREA090.EMI|sec11|body67|@0xe58|55B] *이제 와서{fe}암흑 조직을\n무너뜨린다{ff}해도>{02}의미가 없다는 건\n{c04:04}도{fe}알고 있는\n거겠지><END>
+[WORLD02_AREA090.EMI|sec11|body68|@0xe8f|72B] *옛날{fe}당한 걸\n원망하는 마음도{ff}알지만>{02}조직의 보스를{ff}쓰러뜨려도\n죽은 사람이{fe}돌아오는\n것도{fe}아닌데><END>
+[WORLD02_AREA090.EMI|sec11|body69|@0xed7|46B] *어쨌든{fe}동쪽으로 향해\n천사의 탑을{ff}목표로 하자>{02}용족에 대해{ff}알기 위해><END>
+[WORLD02_AREA090.EMI|sec11|body70|@0xf05|45B] *동쪽으로 가는{fe}다리를{ff}건너려면\n윈디아 왕의{ff}허락이\n필요한 거{ff}기억해?<END>
+[WORLD02_AREA090.EMI|sec11|body71|@0xf32|62B] *난 줄곧{fe}오기로\n조직에 대해{ff}조사했어>{02}근데{fe}{c04:03}에 대해선\n소문도{fe}못 들어>\n역시>><END>
+[WORLD02_AREA090.EMI|sec11|body72|@0xf70|49B] *이걸로{fe}윈디아에\n돌아갈 수 있으려나>{02}돌아가면{fe}다시 한번\n둘을{ff}찾아보자><END>
+[WORLD02_AREA090.EMI|sec11|body73|@0xfa1|51B] *왕녀님과{fe}여행한다고 해서\n{c04:00}이/가{ff}왕자님인\n건 아니겠지>{02}당연한가><END>
+[WORLD02_AREA090.EMI|sec11|body74|@0xfd4|48B] *가이스트는{fe}한때\n함께{ff}싸운 동료지만>{02}싸움을{ff}싫어해>\n어딘가로{ff}달아난 거다<END>
+[WORLD02_AREA090.EMI|sec11|body75|@0x1004|72B] *신을{ff}못 만나서\n아쉬운{ff}것도\n안심되는{ff}것도 같아>{02}그야{fe}신과{ff}만나면>\n또{fe}{c04:00}이/가\n사라질{ff}것 같아서><END>
+[WORLD02_AREA090.EMI|sec11|body76|@0x104c|54B] *용의 힘 따위\n없었더라면>{02}이런{ff}고생 하며\n신{fe}찾을 일도\n없었을 텐데{fe}말이야><END>
+[WORLD02_AREA090.EMI|sec11|body77|@0x1082|34B] *신한테{ff}물어보면>\n기계 문명에 대해{fe}알 수 있을까>?<END>
+[WORLD02_AREA090.EMI|sec11|body78|@0x10a4|6B] *뿌키스{fc}<END>
+[WORLD02_AREA090.EMI|sec11|body79|@0x10aa|54B] *가이스트는{fe}뛰어난\n가{fc}디언이었다>{02}즉{fe}그만큼 많은\n용족을{ff}죽였다는 뜻이다><END>
+[WORLD02_AREA090.EMI|sec11|body80|@0x10e0|45B] *가이스트 씨{fe}였지>{02}분명{fe}역시 드래곤이\n나쁘지 않다는 걸\n깨달은 거야>><END>
+[WORLD02_AREA090.EMI|sec11|body81|@0x110d|45B] *{c04:02}{ff}아저씨랑\n같은 종족이라>?{02}흐{fc}음{fe}저런 게\n다른 데도{ff}있는 건가>><END>
+[WORLD02_AREA090.EMI|sec11|body82|@0x113a|37B] *으{fc}음{fe}바다를 따라\n울칸:타파에서\n쭉{fe}서쪽으로{ff}가는 거네><END>
+[WORLD02_AREA090.EMI|sec11|body83|@0x115f|9B] *뿌스{fc}{ff}뿌스{fc}<END>
+[WORLD02_AREA090.EMI|sec11|body84|@0x1168|52B] *그래{fe}옛날부터\n자기 나름대로{fe}납득하지 않으면\n움직이지 않는 남자였다>{02}가이스트라는 녀석은<END>
+[WORLD02_AREA090.EMI|sec11|body85|@0x119c|54B] *용족 일{fe}{c04:00}에게는\n엄청 소중한{ff}일이니까>{02}분명{fe}가이스트 씨\n알아줄 거야><END>
+[WORLD02_AREA090.EMI|sec11|body86|@0x11d2|40B] *이러니저러니 해도\n돕는 게{fe}귀찮을\n뿐인 거 아냐?<END>
+[WORLD02_AREA090.EMI|sec11|body87|@0x11fa|35B] *그러고 보니{fe}클리프는\n조금도{ff}기계 느낌이\n없네{fc}>?<END>
+[WORLD02_AREA090.EMI|sec11|body88|@0x121d|72B] *쿠뿌뿌뿌뿌뿌>{02}{c05:06}악의 없는{fe}자는 얼굴을\n보고 있으면>{06}{02}{c05:06}자신감을 갖고\n가이스트 씨를{ff}만나자>\n는 마음이 든다{06}<END>
+[WORLD02_AREA090.EMI|sec11|body89|@0x1265|56B] *이걸로{fe}디{fc}스의\n봉인은{ff}풀린다>\n천사의 탑으로{fe}돌아가자{02}가이스트 일은>>\n아니>{fe}됐어>><END>
+[WORLD02_AREA090.EMI|sec11|body90|@0x129d|40B] *용의 힘>{ff}신>\n{c04:00}은/는>{ff}아주\n대단한 일을{ff}하고 있는 거다><END>
+[WORLD02_AREA090.EMI|sec11|body91|@0x12c5|69B] *가{fc}디언이{ff}된 순간부터\n죽은 것과{fe}같다>{02}하{fe}<PAUSE>유쾌하군>\n신인지 뭔지의{fe}도구냐\n가{fc}디언이란 건@?<END>
+[WORLD02_AREA090.EMI|sec11|body92|@0x130a|65B] *무슨 일 있을 때마다{ff}싸우고>{02}용의 힘이란{fe}역시\n무서운 거{ff}일까{fc}>{02}{c04:00}은/는{ff}조금도\n안 무섭지만{fe}말이야{fc}><END>
+[WORLD02_AREA090.EMI|sec11|body93|@0x134b|31B] *뿌뿌누{fc}>{02}{c05:06}분명{fe}이걸로\n잘된 거라고{fe}생각한다{06}<END>
+[WORLD02_AREA090.EMI|sec11|body94|@0x136a|34B] *즈블로 화산의{ff}사당>{fe}이라\n용과 얽힌{ff}물건이었을 줄이야><END>
+[WORLD02_AREA090.EMI|sec11|body95|@0x138c|55B] *디{fc}스라는 사람은\n사악함의 편을 든{fe}마녀?{02}>즉{fe}용족의\n편이란 뜻일까?<END>
+[WORLD02_AREA090.EMI|sec11|body96|@0x13c3|40B] *정말{fe}고생하는구나\n{c04:00}도>{02}여기저기\n끌려다니며>>@?<END>
+[WORLD02_AREA090.EMI|sec11|body97|@0x13eb|47B] *요즘{fe}기계를 안 만졌어>{02}신도{fe}좋지만\n슬슬{ff}기계를 만지고 싶{fc}어<END>
+[WORLD02_AREA090.EMI|sec11|body98|@0x141a|6B] *뿌슈{fc}<END>
+[WORLD02_AREA090.EMI|sec11|body99|@0x1420|30B] *부품이라>\n기계 해변에{ff}있다는\n얘기지>><END>
+[WORLD02_AREA090.EMI|sec11|body100|@0x143e|39B] *기계가{fe}떠내려오는구나{02}바다 건너편은\n어떻게 돼 있을까?<END>
+[WORLD02_AREA090.EMI|sec11|body101|@0x1465|40B] *기계 같은>\n알 수 없는 물건{ff}만지작거리며\n뭐가{fe}즐거운 건지><END>
+[WORLD02_AREA090.EMI|sec11|body102|@0x148d|11B] *뿟스{fc}{ff}뿟스{fc}<END>
+[WORLD02_AREA090.EMI|sec11|body103|@0x1498|57B] *저 배로{fe}어디까지\n갈 수 있을지{ff}모르겠지만>{02}어쨌든{fe}디{fc}스가 알려 준\n방향을{ff}목표로 할 뿐{fe}이다<END>
+[WORLD02_AREA090.EMI|sec11|body104|@0x14d1|47B] *아무도{fe}가 본 적 없는\n바다 건너편>{02}성에{ff}있었으면\n생각도{ff}못 했을 거야><END>
+[WORLD02_AREA090.EMI|sec11|body105|@0x1500|34B] *바다 건너편>{02}무서운 건{fe}아니지만\n저{fe}배가>{ff}말이지<END>
+[WORLD02_AREA090.EMI|sec11|body106|@0x1522|41B] *{c04:04}이/가\n배를{ff}깔보는 거 있지{fc}{02}그렇게{ff}멋진\n엔진인데{fc}>@<END>
+[WORLD02_AREA090.EMI|sec11|body107|@0x154b|66B] *뿟키{fc}키키키{fc}킥{02}{c05:06}여느 때 없이{fe}기합 들어간\n자는 얼굴이다>{06}{02}{c05:06}바다 건너편으로{ff}가는 게\n기쁜 걸까?{06}<END>
+[WORLD02_AREA090.EMI|sec11|body108|@0x158d|53B] *우리 앞에{ff}모습을 안 보이는{fe}신\n그 누구도{ff}거부하는 외해>{02}이건{fe}신의 의지일까>?<END>
+[WORLD02_AREA090.EMI|sec11|body109|@0x15c2|37B] *파{fc}치의{ff}장로한테\n전설의 뱃사람 일을\n물어봐야겠네><END>
+[WORLD02_AREA090.EMI|sec11|body110|@0x15e7|29B] *흔들리지 않는 데 설 수 있다는\n건{fe}고마운 일이네><END>
+[WORLD02_AREA090.EMI|sec11|body111|@0x1604|39B] *으{fc}음{fe}저 배의 엔진\n좀 더 파워{fc}가{ff}나오게\n할 수 없을까{fc}><END>
+[WORLD02_AREA090.EMI|sec11|body112|@0x162b|12B] 푹{ff}잠들어 있다<END>
+[WORLD02_AREA090.EMI|sec11|body113|@0x1637|22B] *흠>>\n생각대로는{fe}안 되는 법이지<END>
+[WORLD02_AREA090.EMI|sec11|body114|@0x164d|56B] *촌장님{ff}분명\n고향의 맛이{ff}그리운 거야{02}메{fc}카{fc}스의{ff}음식이라면\n먹어 줄까?<END>
+[WORLD02_AREA090.EMI|sec11|body115|@0x1685|29B] *유쾌하네>{02}고집불통 영감한테\n생선을{ff}먹인다?<END>
+[WORLD02_AREA090.EMI|sec11|body116|@0x16a2|51B] *생선{fe}싫어하다니\n안 되는 거야{fc}>@{02}머리가{fe}좋아진다고{fc}\n생선{ff}먹으면>@?<END>
+[WORLD02_AREA090.EMI|sec11|body117|@0x16d5|28B] *피스뿌{fc}{02}{c05:06}{c04:06}에게는\n호불호는{ff}없는 것 같다{06}<END>
+[WORLD02_AREA090.EMI|sec11|body118|@0x16f1|52B] *바다 건너에서{fe}온\n전설의{fe}뱃사람>{02}신에 대해{fe}뭔가\n알고 있을까>?<END>
+[WORLD02_AREA090.EMI|sec11|body119|@0x1725|39B] *전설의 뱃사람\n어떤 배로{fe}바다를{ff}건너\n온 걸까><END>
+[WORLD02_AREA090.EMI|sec11|body120|@0x174c|56B] *조그만 배로\n외해를{ff}건너왔다>{02}전설적인{ff}근성 있는\n뱃사람이라면{fe}싫겠는데><END>
+[WORLD02_AREA090.EMI|sec11|body121|@0x1784|37B] *오{fc}버{fc}히{fc}트 하면\n잠깐 동안{fe}못 움직이니까\n조심해{fc}<END>
+[WORLD02_AREA090.EMI|sec11|body122|@0x17a9|5B] *뿌스{fc}<END>
+[WORLD02_AREA090.EMI|sec11|body123|@0x17ae|52B] *어떻게 해서든{fe}앞으로 나아간다>{02}그 결심이{ff}이 다음에도\n길을 열어 줄\n거라는 거겠지{fe}<END>
+[WORLD02_AREA090.EMI|sec11|body124|@0x17e2|27B] *배를{ff}들이받는다>\n무섭지만{fe}괜찮겠지<END>
+[WORLD02_AREA090.EMI|sec11|body125|@0x17fd|46B] *들이받다니>{02}또{fe}그 녀석이 앞뒤 안 가리고\n꺼낸 말이겠지?{02}유쾌하네><END>
+[WORLD02_AREA090.EMI|sec11|body126|@0x182b|40B] *들이받는 거지?{02}흑선의 바로 뒤에서\n쾅{fc}하고 가는 게\n좋아{fc}<END>
+[WORLD02_AREA090.EMI|sec11|body127|@0x1853|10B] *뿌스{fc}윽::::<END>
+[WORLD02_AREA090.EMI|sec11|body128|@0x185d|13B] 코골이가{ff}시끄러운 모양이다<END>
+[WORLD02_AREA090.EMI|sec11|body129|@0x186a|12B] 깔끔 떠는{ff}모양이다::<END>
+[WORLD02_AREA090.EMI|sec11|body130|@0x1876|13B] 얼굴을 찌푸리고 있는 것 같다<END>
+[WORLD02_AREA090.EMI|sec11|body131|@0x1883|59B] *뭐냐고{fe}다들>{02}모처럼{ff}우리가\n고생해서{ff}되찾은 돈을\n어째서{fe}돌려주는 거야<END>
+[WORLD02_AREA090.EMI|sec11|body132|@0x18be|30B] *제기랄>\n즈루스루 녀석한테{ff}얘기를\n들어야겠어>><END>
+[WORLD02_AREA090.EMI|sec11|body133|@0x18dc|17B] *제기랄\n뭐냐고 이게><END>
+[WORLD02_AREA090.EMI|sec11|body134|@0x18ed|44B] *어쨌든{fe}일단\n집에 돌아가>>{02}열기가{ff}식을 때까지\n상황을 보자><END>
+[WORLD02_AREA090.EMI|sec11|body135|@0x1919|23B] *마을 사람들{fe}기뻐했었지\n에헤헤헤헤><END>
+[WORLD02_AREA090.EMI|sec11|body136|@0x1930|31B] *이렇게{fe}남한테\n기쁨을 주는 것도>\n나쁘지 않네<END>
+[WORLD02_AREA090.EMI|sec11|body137|@0x194f|36B] *샤드 씨\n기뻐 보였지@{02}돕길{fe}잘했지?<END>
+[WORLD02_AREA090.EMI|sec11|body138|@0x1973|26B] *이제{fe}배만 돌아오면\n만만세네{fc}><END>
+[WORLD02_AREA090.EMI|sec11|body139|@0x198d|41B] *흠>{ff}뭐>\n잘됐군>{02}이걸로{fe}길드의 협력도\n얻기 쉬워{fe}질 테고<END>
+[WORLD02_AREA090.EMI|sec11|body140|@0x19b6|48B] *뿌키스루루루>{02}{c05:06}너무{fe}불에 가까이 가면\n볶은 양파처럼\n되는 거 아닐까?{06}<END>
+[WORLD02_AREA090.EMI|sec11|body141|@0x19e6|26B] *배>{fe}라>>\n라팔라에서{fe}구할 수 있으려나<END>
+[WORLD02_AREA090.EMI|sec11|body142|@0x1a00|54B] *외해를{ff}건너\n건너편까지{ff}갔다는 얘기는\n들은 적 없어>{02}그런 일{fe}할 수 있을까?<END>
+[WORLD02_AREA090.EMI|sec11|body143|@0x1a36|56B] *바다를{ff}건너라>{fe}라고@?{02}신이라는 건지\n알몸의 누{fc}나라는 건지\n모르겠지만>{02}쉽게도{fe}말하네><END>
+[WORLD02_AREA090.EMI|sec11|body144|@0x1a6e|43B] *북쪽 바다에서{ff}기계가\n떠내려오는구나{fc}{02}신과{ff}관련이 있을지도<END>
+[WORLD02_AREA090.EMI|sec11|body145|@0x1a99|13B] 푹{fe}잠들어 있는 것 같다<END>
+[WORLD02_AREA090.EMI|sec11|body146|@0x1aa6|34B] *지금은{fe}이 땅에 온 게\n잘못이 아니라고{ff}믿자><END>
+[WORLD02_AREA090.EMI|sec11|body147|@0x1ac8|24B] *분명{fe}이제 조금만 더야\n힘내자{fe}{c04:00}<END>
+[WORLD02_AREA090.EMI|sec11|body148|@0x1ae0|62B] *그건 그렇고{ff}이게 뭐야\n여기 황량함은@?{02}이{fc}런{ff}황량한 곳에\n있다니>\n별난{ff}신이로군<END>
+[WORLD02_AREA090.EMI|sec11|body149|@0x1b1e|63B] *흑선에{fe}기계를{ff}싣고\n저쪽 땅으로{ff}나르고 있다>?{02}원래 기계를{ff}만든 건\n누구일까{fc}>?<END>
+[WORLD02_AREA090.EMI|sec11|body150|@0x1b5d|32B] *뿌키스{fc}{02}{c05:06}황량한 땅에{fe}여기만\n초록이{ff}있는 것 같다>{06}<END>
+[WORLD02_AREA090.EMI|sec11|body151|@0x1b7d|24B] *이 근처{fe}별로\n사람은{ff}없는 것 같군><END>
+[WORLD02_AREA090.EMI|sec11|body152|@0x1b95|28B] *왠지{fe}주변이 온통\n유적{ff}투성이라는 느낌이네<END>
+[WORLD02_AREA090.EMI|sec11|body153|@0x1bb1|53B] *원래는{fe}마을 같은\n느낌의{ff}구조지만>{02}꽤 오래전부터{ff}사람이\n있던 기색은{ff}없네><END>
+[WORLD02_AREA090.EMI|sec11|body154|@0x1be6|39B] *우리가{fe}복원해서\n쓰는 기계와는\n레벨이{ff}달라><END>
+[WORLD02_AREA090.EMI|sec11|body155|@0x1c0d|69B] *뿌{c15:07}{c15:07}{c15:07}{02}{c05:06}어쩌면{fe}이 근처에는\n우리 말고\n사람은{fe}없는 건지도 모른다>{06}{02}{c05:06}문득{fe}그런 기분이 들었다{06}<END>
+[WORLD02_AREA090.EMI|sec11|body156|@0x1c52|53B] *아무리{ff}멀리 떨어져 있어도\n순식간에{fe}이동할 수 있다{fe}라>{02}신의{ff}조화라고\n못할 것도 없겠군{fe}><END>
+[WORLD02_AREA090.EMI|sec11|body157|@0x1c87|53B] *고생하며{ff}갔는데\n돌아오는 건{fe}순식간>{02}대단하지만{fe}왠지\n무시당하는{ff}기분이야<END>
+[WORLD02_AREA090.EMI|sec11|body158|@0x1cbc|45B] *세상엔{fe}나한테는\n알 수 없는{ff}것투성이야>{02}별로{ff}기분 좋지는 않군<END>
+[WORLD02_AREA090.EMI|sec11|body159|@0x1ce9|42B] *우리는{fe}기계의\n극히 일부{ff}기능을>{02}쓰고 있을 뿐{ff}인 거야<END>
+[WORLD02_AREA090.EMI|sec11|body160|@0x1d13|6B] *뿌키퐁<END>
+[WORLD02_AREA090.EMI|sec11|body161|@0x1d19|53B] *아무리{fe}멀리 떨어져 있어도\n순식간에{fe}이동할 수 있다{fe}라>{02}신의{ff}조화라고\n못할 것도 없겠군{fe}><END>
+[WORLD02_AREA090.EMI|sec11|body162|@0x1d4e|53B] *고생하며{ff}갔는데\n돌아오는 건{fe}순식간>{02}대단하지만{fe}왠지\n무시당하는{ff}기분이야<END>
+[WORLD02_AREA090.EMI|sec11|body163|@0x1d83|56B] *세상엔{fe}우리한테는\n알 수 없는 게>{02}잔뜩 있다는 건\n별로{ff}기분 좋지는 않군<END>
+[WORLD02_AREA090.EMI|sec11|body164|@0x1dbb|49B] *포{fc}트 이동의{ff}원리 따위>{02}이 다음{fe}몇 년이 걸려도\n알 수 없을{ff}것 같아{fc}><END>
+[WORLD02_AREA090.EMI|sec11|body165|@0x1dec|6B] *뿌키퐁<END>
+[WORLD02_AREA090.EMI|sec11|body166|@0x1df2|64B] *저런{fe}황폐한 땅에서\n몇 대에 걸쳐\n버텨 살아온{fe}용의 일족>{02}그{fe}의지를{ff}생각하면\n나는>><END>
+[WORLD02_AREA090.EMI|sec11|body167|@0x1e32|49B] *용족 사람들>{02}역시{fe}멸망해야만 하는\n사악한 종족으로는\n안 보이는데><END>
+[WORLD02_AREA090.EMI|sec11|body168|@0x1e63|70B] *힘을{ff}버리고>\n적의 눈을{ff}피해\n살아남았다는{ff}거구나{02}역시{fe}용의 힘은\n죽이고{fe}상처 입히는 힘이란\n뜻인 건가>?<END>
+[WORLD02_AREA090.EMI|sec11|body169|@0x1ea9|78B] *포{fc}트 장치가\n있다는 건>{02}원래{fe}기계 문명 시대의\n마을이었던 걸까{fc}>{02}거기에{fe}용 대전 무렵\n용족이{ff}옮겨 온 거네><END>
+[WORLD02_AREA090.EMI|sec11|body170|@0x1ef7|69B] *뿌슈우>{02}{c05:06}최장로가{fe}어떤\n생각을{ff}갖고 있든>{06}{02}{c05:06}{c04:00}은/는{fe}만나서\n일족의 이야기를{ff}들어야만 한다{06}<END>
+[WORLD02_AREA090.EMI|sec11|body171|@0x1f3c|34B] *용족과{fe}신은>\n늘{ff}싸워 온 건가>{02}숙명>>><END>
+[WORLD02_AREA090.EMI|sec11|body172|@0x1f5e|46B] *옳다든가{fe}사악하다든가\n잘 모르겠지만>{02}난{fe}{c04:00}을/를\n믿으니까><END>
+[WORLD02_AREA090.EMI|sec11|body173|@0x1f8c|47B] *용족 중에도\n원한을 품고>{02}울칸:타파 같은 데\n온 녀석이{fe}있었을지도 모르지<END>
+[WORLD02_AREA090.EMI|sec11|body174|@0x1fbb|78B] *포{fc}트 장치가\n있다는 건>{02}원래{fe}기계 문명 시대의\n마을이었던 걸까{fc}>{02}거기에{fe}용 대전 무렵\n용족이{ff}옮겨 온 거네><END>
+[WORLD02_AREA090.EMI|sec11|body175|@0x2009|7B] *뿌스스스{fc}<END>
+[WORLD02_AREA090.EMI|sec11|body176|@0x2010|56B] *건널 수 없는{fe}외해>\n그리고{fe}죽음의 사막>{02}우리{ff}세계의 형태는\n어떤{ff}것일까><END>
+[WORLD02_AREA090.EMI|sec11|body177|@0x2048|36B] *목이{ff}마르면\n물항아리를{ff}써서>{02}밤 사이에{ff}걷는 거네<END>
+[WORLD02_AREA090.EMI|sec11|body178|@0x206c|53B] *사막을{ff}건너라는 거냐?{02}신이라는 녀석은{fe}아무래도\n우리랑{ff}만나고 싶지 않은\n느낌이네><END>
+[WORLD02_AREA090.EMI|sec11|body179|@0x20a1|53B] *고도의 기술을{ff}갖고 있던\n기계 문명>{02}사막에{ff}삼켜져\n멸망해 버린 걸까><END>
+[WORLD02_AREA090.EMI|sec11|body180|@0x20d6|6B] *뿌큥<END>
+[WORLD02_AREA090.EMI|sec11|body181|@0x20dc|33B] *옛 도읍>\n한때{fe}신들이{ff}거기서\n살았던 걸까><END>
+[WORLD02_AREA090.EMI|sec11|body182|@0x20fd|64B] *무리라던\n외해도{fe}사막도\n어떻게든{fe}건넜네>{02}역시{fe}잘{ff}될 것 같은\n기분이 들었는걸><END>
+[WORLD02_AREA090.EMI|sec11|body183|@0x213d|60B] *사막은{fe}죽음의 세계처럼\n말들 하지만>{02}오아시스의{ff}녀석들처럼\n살아갈 수도{fe}있는 거구나><END>
+[WORLD02_AREA090.EMI|sec11|body184|@0x2179|30B] *분명{fe}꺾이지 않으면\n사막에서도{ff}살 수 있는 거야><END>
+[WORLD02_AREA090.EMI|sec11|body185|@0x2197|11B] *뿟스{fc}{ff}뿟스{fc}<END>
+[WORLD02_AREA090.EMI|sec11|body186|@0x21a2|11B] *신의 땅>{fe}이라><END>
+[WORLD02_AREA090.EMI|sec11|body187|@0x21ad|52B] *지금까지 봐 온{ff}마을과는\n완전히 다르네>{02}버려진{fe}기계의 도읍이란\n느낌이야><END>
+[WORLD02_AREA090.EMI|sec11|body188|@0x21e1|44B] *모래며{fe}기계며>\n아무래도{ff}저쪽으로 온 뒤로\n살아 있는 느낌이{ff}안 들어<END>
+[WORLD02_AREA090.EMI|sec11|body189|@0x220d|61B] *대단한 기계야{fc}앗@?{02}저기가{fe}우리가 쓰던\n기계의 원류라는{ff}건\n거의{fe}틀림없어<END>
+[WORLD02_AREA090.EMI|sec11|body190|@0x224a|9B] *뿌쿠{fc}{ff}뿌쿠{fc}<END>
+[WORLD02_AREA090.EMI|sec11|body191|@0x2253|42B] *신의 이름이 붙은>{ff}장소>\n정거장이란>\n신전 같은 거냐?<END>
+[WORLD02_AREA090.EMI|sec11|body192|@0x227d|42B] *저 안에 있었더니\n으슬으슬 추워서>>{02}마치{fe}멸망한 뒤의\n세계 같아><END>
+[WORLD02_AREA090.EMI|sec11|body193|@0x22a7|34B] *아무래도{fe}찜찜한 느낌이군>{02}뭐가{fe}어떻다는 건\n아니지만 말이야><END>
+[WORLD02_AREA090.EMI|sec11|body194|@0x22c9|70B] *어{fc}{fe}뭐라 말해야 좋을지\n모를 정도로\n고도의 기계야{fc}>>@{02}이해할 수 있을{ff}때까지\n100년쯤{ff}걸릴 것 같아{fc}<END>
+[WORLD02_AREA090.EMI|sec11|body195|@0x230f|6B] *뿌키{fc}익<END>
+[WORLD02_AREA090.EMI|sec11|body196|@0x2315|22B] *미안하다>{ff}지금은>\n그것밖에 말할 수 없어><END>
+[WORLD02_AREA090.EMI|sec11|body197|@0x232b|6B] *{c04:00}>><END>
+[WORLD02_AREA090.EMI|sec11|body198|@0x2331|61B] *><PAUSE>><PAUSE>><PAUSE>>나도{fe}말이야{02}도둑이라도{fe}괜찮다고 생각했어\n계속{fe}말이야>>>{02}근데{fe}역시>>\n젠장{fe}<PAUSE>{c04:03}>>><END>
+[WORLD02_AREA090.EMI|sec11|body199|@0x236e|43B] *나는>{ff}끝까지\n함께할 거야{fc}>?{02}여기까지{fe}왔는걸>\n그치>>?<END>
+[WORLD02_AREA090.EMI|sec11|body200|@0x2399|52B] *보게보게@{02}{c05:06}{c04:00}은/는{fe}이미\n어쩌고 싶은지{fe}알고 있다{06}{02}{c05:06}>그렇게 말하는 기분이 든다{06}<END>
+[WORLD02_AREA090.EMI|sec11|body201|@0x23cd|22B] *꽤나{fe}대규모인\n기계로군><END>
+[WORLD02_AREA090.EMI|sec11|body202|@0x23e3|52B] *윈디아{ff}지하에\n있던 거랑 똑같아>{02}혹시{fe}윈디아랑\n이어져 있는 걸까>?<END>
+[WORLD02_AREA090.EMI|sec11|body203|@0x2417|59B] *윈디아에선{fe}꼬맹이가\n저 기계를{ff}작동시켰지만>{02}이번엔{fe}우리 손으로\n해야{ff}하는 모양이군<END>
+[WORLD02_AREA090.EMI|sec11|body204|@0x2452|66B] *기계 문명 시대의>\n이동용{ff}장치인 걸까>{02}어쨌든{fe}엄청 고도의\n기술이란 것밖에{fe}모르겠어<END>
+[WORLD02_AREA090.EMI|sec11|body205|@0x2494|6B] *뿌{fc}스{fc}<END>
+[WORLD02_AREA090.EMI|sec11|body206|@0x249a|37B] *그렇게{fe}쉽게{ff}부서지는\n배로{fe}외해 같은 걸>{02}할 수 있는 걸까?<END>
+[WORLD02_AREA090.EMI|sec11|body207|@0x24bf|21B] *훌륭하게{ff}길드장\n해내고 있네><END>
+[WORLD02_AREA090.EMI|sec11|body208|@0x24d4|25B] *일부러{ff}부수고 있는 거\n아냐{fe}배>@?<END>
+[WORLD02_AREA090.EMI|sec11|body209|@0x24ed|16B] *수리>{ff}하고 싶어{fe}하고 싶어@<END>
+[WORLD02_AREA090.EMI|sec11|body210|@0x24fd|42B] *뿌{fc}웅>{02}{c05:06}왠지{fe}요즘은\n{c04:06}의{ff}자는 얼굴을 안 보면\n안절부절못한다>{06}<END>
+[WORLD02_AREA090.EMI|sec11|body211|@0x2527|46B] *통행 수표를{ff}손에 넣기\n위해서는>{02}{c04:01}에게{ff}협력하는 게\n제일이지><END>
+[WORLD02_AREA090.EMI|sec11|body212|@0x2555|74B] *에헤헤>{ff}억지로 돕게 하는\n것 같아서{fe}미안해{02}근데{fe}플랜트가{ff}정리되면\n통행 수표 일{fe}아버님께\n부탁할게{fe}<END>
+[WORLD02_AREA090.EMI|sec11|body213|@0x259f|28B] *사람{fe}부리는 거 잘하네\n역시{fe}왕녀님이네><END>
+[WORLD02_AREA090.EMI|sec11|body214|@0x25bb|46B] *통행 수표를{ff}손에 넣기\n위해서는>{02}{c04:01}에게{ff}협력하는 게\n제일이지><END>
+[WORLD02_AREA090.EMI|sec11|body215|@0x25e9|50B] *{c04:05}씨{fe}안 변했네{02}{c04:06}도{fe}그럴까>\n플랜트 동쪽 숲에\n있다고 했었지?<END>
+[WORLD02_AREA090.EMI|sec11|body216|@0x261b|42B] *{c04:05}에게>{ff}{c04:06}?{02}한동안 안 본 사이에\n별의별 친구가{ff}생겼구나\n{c04:00}>?<END>
+[WORLD02_AREA090.EMI|sec11|body217|@0x2645|90B] *펠릿 소장{fe}없어서>{02}계속{fe}플랜트 기계를\n돌봐 왔어{fc}>{02}기계 만지는 건{fe}즐겁지만\n저 정도까지{fe}낡아 버리면\n수리가{fe}큰일이야<END>
+[WORLD02_AREA090.EMI|sec11|body218|@0x269f|36B] *신기한{fe}거네>{02}또{fe}이렇게\n동료가{ff}모여드는구나><END>
+[WORLD02_AREA090.EMI|sec11|body219|@0x26c3|37B] *이렇게{fe}다들\n도와주면>{02}금방{fe}정리될 거야>@<END>
+[WORLD02_AREA090.EMI|sec11|body220|@0x26e8|48B] *왜{fe}어째서 양파가\n걸어 다니는 거야>?{02}어{fe}<PAUSE>변이체@?\n뭐야{fe}그게>>?<END>
+[WORLD02_AREA090.EMI|sec11|body221|@0x2718|44B] *>근데{fe}펠릿 소장은\n어디 간 걸까{fc}{02}플랜트{fe}내팽개치고><END>
+[WORLD02_AREA090.EMI|sec11|body222|@0x2744|44B] *뿌이뿌이?{02}{c05:06}숲에서{fe}이야기하던 것처럼\n보인 건>\n기분 탓일까?{06}<END>
+[WORLD02_AREA090.EMI|sec11|body223|@0x2770|77B] *죽음의 사막은\n북쪽으로{fe}끝없이 펼쳐지고>\n살아 있는 것의 모습조차{fe}없다{02}그 끝에{fe}여신 미리아가\n있다고>\n용족 사이에{fe}전해진다<END>
+[WORLD02_AREA090.EMI|sec11|body224|@0x27bd|5B] *모푸우<END>
+[WORLD02_AREA090.EMI|sec11|body225|@0x27c2|73B] *기계는{fe}원래\n옛 시대의 물건이라{fe}들었다>{02}어려운 건{fe}모르지만\n그걸{ff}작물에 쓴다는 건\n무리가 있었던 거구나><END>
+[WORLD02_AREA090.EMI|sec11|body226|@0x280b|54B] *확실히{fe}이래선\n작물이고 뭐고{fe}아니네>{02}고{fc}스트 사고가{ff}일어나기 전에\n어떻게든 해야겠어<END>
+[WORLD02_AREA090.EMI|sec11|body227|@0x2841|36B] *뭔 소린지{fe}모르겠지만>{02}평범{fc}한 먹을 게\n낫지 않{fc}겠어?<END>
+[WORLD02_AREA090.EMI|sec11|body228|@0x2865|43B] *저만큼의{fe}가스를\n쓴다는 건>{02}뭔가{fe}어지간한 일을\n하고 있는 거야><END>
+[WORLD02_AREA090.EMI|sec11|body229|@0x2890|45B] *뿌캬?{02}{c05:06}어쩌면{fe}{c04:06}이/가\n태어난 일과>\n관련이 있을지도 모른다{06}<END>
+[WORLD02_AREA090.EMI|sec11|body230|@0x28bd|25B] *이걸로{fe}통행 수표가\n손에 들어오나><END>
+[WORLD02_AREA090.EMI|sec11|body231|@0x28d6|59B] *결국{fe}강화 작물은\n문제가{ff}많았던 거네>{02}고{fc}스트를 쓴{ff}작물은\n금지해야 할까><END>
+[WORLD02_AREA090.EMI|sec11|body232|@0x2911|35B] *동경하던{ff}윈디아인가{02}{c04:03}도{fe}옛날>\n가고 싶어 했었지<END>
+[WORLD02_AREA090.EMI|sec11|body233|@0x2934|70B] *{c04:06}이나{fe}옛날의\n변이체는>{02}소장이{fe}어머니를\n되살리는{ff}실험에서>{02}생겨 버린{fe}실패작\n인 걸까{fc}>?<END>
+[WORLD02_AREA090.EMI|sec11|body234|@0x297a|38B] *뿌후{fc}>{02}{c05:06}실패작이든\n뭐든>\n{c04:06}은/는{fe}살아 있다>{06}<END>
+[WORLD02_AREA090.EMI|sec11|body235|@0x29a0|24B] 지금은{fe}쉴 필요는 없다>\n출발하자<END>
+[WORLD02_AREA090.EMI|sec11|body239|@0x29b8|27B] 캠프 메뉴{fc}를\n골라 주세요{c14:00}{c0c:26}쉰다<END>
+[WORLD02_AREA090.EMI|sec11|body240|@0x2a00|6B] 이제 자자<END>
+[WORLD02_AREA090.EMI|sec11|body241|@0x2a06|58B] *어쨌든{fe}천사의 탑으로\n향하자>>{02}기억하고 있겠지?\n내가{fe}너를\n죽이려 했던{fe}곳이다><END>
+[WORLD02_AREA090.EMI|sec11|body242|@0x2a40|53B] *어머님 일>\n상처 입혔을지{fe}모르지만{02}난{fe}역시{ff}이렇게\n여행하고{ff}싶었어><END>
+[WORLD02_AREA090.EMI|sec11|body243|@0x2a75|53B] *집 나오기{fe}좋잖아>{02}왕녀님{ff}이라고\n늘{fe}성에{ff}있어야만\n하란 법은{fe}없으니까<END>
+[WORLD02_AREA090.EMI|sec11|body244|@0x2aaa|61B] *윈디아의{fe}지하의\n순식간에{fe}이동하는 기계>{02}어{fc}떤{fc} 구조{ff}일까\n조사해 보고 싶{fc}어>@<END>
+[WORLD02_AREA090.EMI|sec11|body245|@0x2ae7|8B] *큐루루루루<END>
+[WORLD02_AREA090.EMI|sec11|body246|@0x2aef|24B] *배 일이라면{fe}라팔라라고\n생각했는데><END>
+[WORLD02_AREA090.EMI|sec11|body247|@0x2b07|25B] *베이트 씨{fe}정크 마을에\n가 있구나>?<END>
+[WORLD02_AREA090.EMI|sec11|body248|@0x2b20|24B] *꽤{fe}자주 고장 나는\n모양이네{fe}그 배><END>
+[WORLD02_AREA090.EMI|sec11|body249|@0x2b38|56B] *정크 마을인가{fc}>{02}세계의 기계{ff}대부분은\n저기서{ff}오는 거야{fc}@{02}왠지{fe}기대돼{fc}앗@<END>
+[WORLD02_AREA090.EMI|sec11|body250|@0x2b70|42B] *뿌{fc}웅>{02}{c05:06}왠지{fe}요즘은\n{c04:06}의{ff}자는 얼굴을 안 보면\n안절부절못한다>{06}<END>

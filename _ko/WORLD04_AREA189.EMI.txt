@@ -1,0 +1,9 @@
+[WORLD04_AREA189.EMI|sec11|body0|@0x20b|19B] 목이{ff}말라서\n물이 마시고 싶어>><END>
+[WORLD04_AREA189.EMI|sec11|body1|@0x21e|24B] 출발 지점으로{fe}돌아갈까요?{c14:00}{c0c:02}예<END>
+[WORLD04_AREA189.EMI|sec11|body2|@0x23a|20B] 오아시스로{fe}돌아갈까요?{c14:01}{c0c:02}예<END>
+[WORLD04_AREA189.EMI|sec11|body3|@0x252|116B] {c0c:82}{ff}\n{ff}\n{ff}{ff}걸을 수 있을 만큼{fe}회복했다\n{ff}\n{ff}{ff}{c04:01}을/를{ff}감싸면서>\n{ff}\n{ff}{ff}{ff}일행은{fe}머지않아\n{ff}\n{ff}{ff}오아시스에 다다랐다{fd}{c16:60}어느새{fe}밤이 깊었다>>\n낮에는{fe}체력을 쓰니까\n일찍 쉬자>><END>
+[WORLD04_AREA189.EMI|sec11|body4|@0x29b|43B] 어느새{fe}밤이 깊었다>>\n낮에는{fe}체력을 쓰니까\n일찍 쉬자>><END>
+[WORLD04_AREA189.EMI|sec11|body5|@0x2c6|35B] 날이 저물었다>\n밤하늘 별을 보며\n방향을{ff}정하자><END>
+[WORLD04_AREA189.EMI|sec11|body6|@0x2e9|71B] 호이스\n*이건{fe};북쪽 큰별<{02}사막 어디서든{fe}북쪽에 보이고\n결코 움직이지 않아>{02}즉{fe}이 별을 향하면\n북쪽으로 갈 수 있어<END>
+[WORLD04_AREA189.EMI|sec11|body18|@0x330|84B] 호이스\n*다음으로{fe}이건;가짜 북극성<{02}이 별은{fe}보는 곳에 따라\n높이가 변해>{02}아까 그;북쪽 큰별<과\n헷갈리기 쉬우니\n조심하거라><END>
+[WORLD04_AREA189.EMI|sec11|body19|@0x384|101B] 호이스\n*그리고 이게>\n;서쪽 별<{02}서쪽에서{ff}빛나지만\n장소에 따라{fe}높이나\n방향이{ff}달라 보여>{02}대체로{fe}사막 한가운데쯤에서\n정서쪽에 보이느니라<END>

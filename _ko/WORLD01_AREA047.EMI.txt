@@ -1,0 +1,9 @@
+[WORLD01_AREA047.EMI|sec11|body0|@0x200|37B] {c04:01}\n*허니{fc}야{fe}기다려@{c16:30}{c0c:06}{c04:01}\n*>허니{fc}{fe}나야\n{c04:01}야?<END>
+[WORLD01_AREA047.EMI|sec11|body1|@0x210|21B] {c0c:06}{c04:01}\n*>허니{fc}{fe}나야\n{c04:01}야?<END>
+[WORLD01_AREA047.EMI|sec11|body2|@0x225|93B] {c0c:06}{c04:01}\n*허니{fc}{fe}떨어진다@@{c16:20}{c04:01}\n*{0d}꺄{c15:07}{c15:07}{c15:07}{c15:07}악@{0e}{0f}\n{c16:10}{c04:01}\n*뭐>>>{ff}이게>>?\n나>{ff}날고 있어@?{c16:30}{c04:01}\n*아{fe}<PAUSE>방금 건>>>\n허니{fc}의>{ff}힘>?<END>
+[WORLD01_AREA047.EMI|sec11|body3|@0x237|75B] {c04:01}\n*{0d}꺄{c15:07}{c15:07}{c15:07}{c15:07}악@{0e}{0f}\n{c16:10}{c04:01}\n*뭐>>>{ff}이게>>?\n나>{ff}날고 있어@?{c16:30}{c04:01}\n*아{fe}<PAUSE>방금 건>>>\n허니{fc}의>{ff}힘>?<END>
+[WORLD01_AREA047.EMI|sec11|body4|@0x24d|53B] {c04:01}\n*뭐>>>{ff}이게>>?\n나>{ff}날고 있어@?{c16:30}{c04:01}\n*아{fe}<PAUSE>방금 건>>>\n허니{fc}의>{ff}힘>?<END>
+[WORLD01_AREA047.EMI|sec11|body5|@0x268|26B] {c04:01}\n*아{fe}<PAUSE>방금 건>>>\n허니{fc}의>{ff}힘>?<END>
+[WORLD01_AREA047.EMI|sec11|body6|@0x282|18B] {c04:01}\n*허니{fc}@{ff}정신 차려@<END>
+[WORLD01_AREA047.EMI|sec11|body7|@0x294|20B] {c04:01}\n*><PAUSE>><PAUSE>>안 되겠어\n안 움직여<END>
+[WORLD01_AREA047.EMI|sec11|body8|@0x2a8|26B] {c04:01}\n*어쩌지>>\n{c04:05}한테{ff}보여줘야 해><END>

@@ -1,0 +1,51 @@
+[WORLD01_AREA046.EMI|sec11|body0|@0x206|42B] *윈디아 왕의{ff}허락이\n없으면>{02}이 다리를{ff}건널 수는\n없습니다<END>
+[WORLD01_AREA046.EMI|sec11|body1|@0x230|40B] *>이쪽은{ff}바쁘단 말이다\n그런 거{fe}일일이\n기억 못 해@{ff}<PAUSE>안 그래?<END>
+[WORLD01_AREA046.EMI|sec11|body2|@0x258|36B] *>이런 꼬마가\n여기 지나가지{ff}않았냐고?{02}>그걸{ff}묻는 거잖아<END>
+[WORLD01_AREA046.EMI|sec11|body3|@0x27c|75B] *>애를{ff}찾으라니\n바리오 씨{fe}무슨 일 있었나{02}{c05:03}>들킨 건{ff}아닌 모양이지만{06}\n{c05:03}너무{ff}가까이 안 가는 게{06}\n{c05:03}좋겠어{06}<END>
+[WORLD01_AREA046.EMI|sec11|body4|@0x2c7|36B] *어휴>\n뭐야{fe}저 무리는?{02}뭘{ff}찾는 걸까?<END>
+[WORLD01_AREA046.EMI|sec11|body5|@0x2eb|25B] *어쩐지{ff}험상궂은\n무리가{ff}있네><END>
+[WORLD01_AREA046.EMI|sec11|body6|@0x304|35B] *어{c15:07}{c15:07}디{fe}통행증은{c15:07}{c15:07}\n어디다{ff}뒀더라?<END>
+[WORLD01_AREA046.EMI|sec11|body7|@0x327|12B] *우물우물><PAUSE>{ff}글쎄><END>
+[WORLD01_AREA046.EMI|sec11|body8|@0x333|44B] *그런 무리한테{ff}쫓기다니\n어지간히{ff}나쁜 짓을 한\n사람인 걸까>?<END>
+[WORLD01_AREA046.EMI|sec11|body9|@0x35f|53B] *>서쪽 길에도\n험상궂은 무리가{ff}잔뜩\n망보고 있었어{02}대체{fe}무슨 일이 있었던 걸까?<END>
+[WORLD01_AREA046.EMI|sec11|body10|@0x394|27B] *어쩐지{ff}시끌시끌한데\n쉬었다 가시려나>?<END>
+[WORLD01_AREA046.EMI|sec11|body11|@0x3af|82B] *먹지만 말고{fe}말 좀 들어@\n이런 녀석{ff}못 봤냐?{02}{c05:03}>바리오 일당의{ff}부하 같아{06}\n{c05:03}이런 곳까지{06}\n{c05:03}손을{ff}뻗치고 있다니@{06}<END>
+[WORLD01_AREA046.EMI|sec11|body12|@0x401|45B] 병사\n*아{c15:07}{c15:07}{fe}<PAUSE>안 돼@{02}통행증{ff}없는 사람은\n못 지나가>><END>
+[WORLD01_AREA046.EMI|sec11|body13|@0x42e|57B] *이 다리를{ff}건너면\n배가 닿는{ff}항구 마을이 있대>{02}그 배가{ff}어디로 가는지까진\n모르겠지만<END>
+[WORLD01_AREA046.EMI|sec11|body14|@0x467|49B] *조금 전까지{fe}어쩐지\n험악한 무리가\n이 근처에{ff}있었어>{02}뭐였을까?<END>
+[WORLD01_AREA046.EMI|sec11|body15|@0x498|37B] *건너편 땅에\n기계가{ff}잔뜩 있는 곳이\n있다는 모양이야<END>
+[WORLD01_AREA046.EMI|sec11|body16|@0x4bd|30B] *우와{c15:07}{c15:07}\n통행증{ff}잃어버렸{c15:07}{c15:07}다@<END>
+[WORLD01_AREA046.EMI|sec11|body17|@0x4db|35B] *우물우물우물\n빨리 먹고{ff}떠나야지>\n우물우물우물우물<END>
+[WORLD01_AREA046.EMI|sec11|body18|@0x4fe|21B] *헤에{c15:07}{c15:07}\n나도{ff}보고 싶었는데<END>
+[WORLD01_AREA046.EMI|sec11|body19|@0x513|45B] *한라광렬대무회에서\n돌아오는 길이야>>{02}올해 배틀도{ff}대단했어<END>
+[WORLD01_AREA046.EMI|sec11|body20|@0x540|40B] *거기 양반>>\n윈디아 왕이{ff}시켜서\n누군가를{ff}찾는 모양이야<END>
+[WORLD01_AREA046.EMI|sec11|body21|@0x568|14B] *으{fc}응>>\n{c04:01}님>><END>
+[WORLD01_AREA046.EMI|sec11|body22|@0x576|24B] {c04:02}\n*저걸{ff}건너면\n동쪽 땅이다><END>
+[WORLD01_AREA046.EMI|sec11|body26|@0x58e|29B] {c04:02}\n*통행증은{fe}문제\n없을 거{fe}같은데><END>
+[WORLD01_AREA046.EMI|sec11|body27|@0x5ab|34B] {c04:02}\n*>가출해 온{fe}왕녀님은\n통과시켜 주려나?<END>
+[WORLD01_AREA046.EMI|sec11|body28|@0x5cd|32B] *죄송한데{fe}좀 잘라 주세요\n{c05:02}로이치 멍청아{fe}죽일라{06}<END>
+[WORLD01_AREA046.EMI|sec11|body29|@0x5ed|20B] 수비병\n*통행증을>><END>
+[WORLD01_AREA046.EMI|sec11|body30|@0x601|14B] 수비병\n*확인했다@<END>
+[WORLD01_AREA046.EMI|sec11|body31|@0x60f|18B] 수비병\n*응>>{ff}{c04:01}님?<END>
+[WORLD01_AREA046.EMI|sec11|body32|@0x621|31B] 수비병\n*실례지만>\n이쪽{fe}여자아이는>><END>
+[WORLD01_AREA046.EMI|sec11|body33|@0x640|19B] {c0c:05}{c04:02}\n*내 딸한테{fe}무슨 일>?<END>
+[WORLD01_AREA046.EMI|sec11|body34|@0x653|17B] 수비병\n*무무무 딸@?<END>
+[WORLD01_AREA046.EMI|sec11|body35|@0x664|53B] {c0c:06}수비병\n*딸이라 하면{fe}그>{02}당신의{fe}자제분이라는\n뜻의>{ff}딸 말입니까?<END>
+[WORLD01_AREA046.EMI|sec11|body36|@0x699|20B] {c04:02}\n*달리{fe}무슨 뜻이 있나?<END>
+[WORLD01_AREA046.EMI|sec11|body37|@0x6ad|92B] 수비병\n*우히{fc}{fe}그{fe}그러고 보니>{02}아버님을{ff}많이 닮아{fe}무섭게>\n아니{fe}그게 아니라{fe}어머니를\n닮아서{fe}귀엽네요@?{02}아니{fe}실례했습니다\n어서{ff}지나가십시오<END>
+[WORLD01_AREA046.EMI|sec11|body38|@0x709|48B] *다리 통행에{fe}왕의 허가가\n필요한 게{fe}왜냐고\n물으신다면>>{02}왜일까요>?<END>
+[WORLD01_AREA046.EMI|sec11|body39|@0x739|53B] *>그건{fe}악인이\n도망 다니거나{fe}못 하도록{02}왕의 허락을{ff}받게끔\n되어 있는 겁니다<END>
+[WORLD01_AREA046.EMI|sec11|body40|@0x76e|57B] *온 세상을{ff}돌아다니며\n여행하고 있어>{02}옛날{fe}사고가 있었다는\n광산도{fe}보고 왔지<END>
+[WORLD01_AREA046.EMI|sec11|body41|@0x7a7|51B] *정크 마을까지{fe}기계\n사러 가는 길이야>{02}라팔라의 배는{fe}제대로\n움직이고 있으려나?<END>
+[WORLD01_AREA046.EMI|sec11|body42|@0x7da|13B] *여행자의 숙소에{fe}어서 오세요<END>
+[WORLD01_AREA046.EMI|sec11|body43|@0x7e7|25B] *통행증>?\n은{fe}안 파는데요><END>
+[WORLD01_AREA046.EMI|sec11|body44|@0x800|49B] *울칸 지방에서\n여행해 왔어>{02}천사의 탑이라는{fe}커다란 유적을\n보고 왔지<END>
+[WORLD01_AREA046.EMI|sec11|body45|@0x831|46B] *여행은{fe}좋은데>{02}무서운 몬스터{fc}가{fe}나오는 건\n싫어>{02}식인 뭐시기라든가><END>
+[WORLD01_AREA046.EMI|sec11|body46|@0x85f|66B] *난{fe}여기저기\n명물을{ff}먹는 사나이>{02}지금까지{fe}제일 맛있었던 건\n윈디아 지방의\n시{fc}스라는 음식이야<END>
+[WORLD01_AREA046.EMI|sec11|body47|@0x8a1|14B] *어서{fe}지나가십시오<END>
+[WORLD01_AREA046.EMI|sec11|body48|@0x8af|33B] *가짜 통행증은::::\n<PAUSE>아닌 모양이군\n좋아{fe}지나가도 좋다<END>
+[WORLD01_AREA046.EMI|sec11|body49|@0x8d0|28B] 병사\n*실례지만{fe}통행증을\n보여 주세요><END>
+[WORLD01_AREA046.EMI|sec11|body50|@0x8ec|42B] 병사\n*>이 통행증은{fe}너무 낡았습니다{02}죄송하지만\n통과시켜 드릴 수 없습니다<END>
+[WORLD01_AREA046.EMI|sec11|body51|@0x916|81B] 리{fc}\n*어머{fe}찾았구나{02}후후후{fe}그렇게\n열심히 하는 얼굴로\n찾아 줘서{fe}고마워>{02}그럼{fe}윈디아로\n돌아갈 테니{fe}만나러 와?<END>
+[WORLD01_AREA046.EMI|sec11|body53|@0x967|19B] 병사\n*실례지만{fe}통행증은><END>
+[WORLD01_AREA046.EMI|sec11|body54|@0x97a|28B] 병사\n*흠{fe}문제 없군>{02}어서{fe}지나가십시오<END>

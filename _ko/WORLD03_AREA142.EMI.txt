@@ -1,0 +1,23 @@
+[WORLD03_AREA142.EMI|sec11|body0|@0x208|51B] {c0c:06}{c04:02}\n*나는{fe}신의 명을 받아\n용족을{ff}죽이고>{02}세상을{ff}지킨 줄로\n알고 있었다><END>
+[WORLD03_AREA142.EMI|sec11|body1|@0x23b|53B] {c0c:06}{c04:02}\n*하지만{fe}실상은{ff}어떤가>{02}용족이{fe}본기를 드러내면\n우리로선{ff}속수무책이야@<END>
+[WORLD03_AREA142.EMI|sec11|body2|@0x270|26B] {c0c:06}{c04:02}\n*나는{fe}대체 어떻게\n했어야 했던 거냐>>?<END>
+[WORLD03_AREA142.EMI|sec11|body3|@0x28a|30B] {c0c:05}{c04:06}\n*나는{fe}줄곧 너를\n지켜봐 왔다{02}{c04:00}>><END>
+[WORLD03_AREA142.EMI|sec11|body4|@0x2a8|33B] {c0c:05}{c04:06}\n*너는{fe}네가\n믿는 대로{fe}움직이면 된다><END>
+[WORLD03_AREA142.EMI|sec11|body5|@0x2c9|61B] {c0c:05}{c04:06}\n*용의 힘>\n분명{fe}거대한 것이지만{02}그것으로{fe}어찌할 만큼\n세상은{fe}그리 작지는\n않으니까><END>
+[WORLD03_AREA142.EMI|sec11|body6|@0x306|38B] {c0c:05}{c04:00}\n*>그래서{fe}너는\n무엇을 믿어야 할지{02}알고 있니?<END>
+[WORLD03_AREA142.EMI|sec11|body7|@0x32c|63B] {c0c:05}{c04:00}\n*너는{fe}용의 일족이야>{02}남들처럼{fe}자기\n일만 생각하면\n그만인 건{fe}아니잖아?<END>
+[WORLD03_AREA142.EMI|sec11|body8|@0x36b|45B] {c04:00}\n*네 힘을 써서\n할 수 있는 일>{02}네게{fe}힘을 맡긴\n일족의 사람들><END>
+[WORLD03_AREA142.EMI|sec11|body9|@0x398|56B] {c04:00}\n*세상에{ff}미치는 힘을\n지닌 자는>{02}세상일을{ff}생각하지\n않으면 안 돼>{ff}<PAUSE>아니니?<END>
+[WORLD03_AREA142.EMI|sec11|body10|@0x3d0|46B] {c0c:05}{c04:00}\n*그리고{fe}그게 가능한 건\n이 세상에{ff}오직 한 분>{02}여신 미리아 님이야>@<END>
+[WORLD03_AREA142.EMI|sec11|body11|@0x3fe|51B] {c0c:05}{c04:00}\n*자{fe}일어서>{02}일어나서{fe}여신께로 걸어가자>\n세상의 것이{fe}되는 거야@?<END>
+[WORLD03_AREA142.EMI|sec11|body12|@0x431|14B] {c0c:05}{c04:00}\n*너는>>@?<END>
+[WORLD03_AREA142.EMI|sec11|body13|@0x43f|40B] {c04:03}\n*겐주까지{fe}동료로\n삼고 있을 줄은{ff}뜻밖이었군>{02}하지만>><END>
+[WORLD03_AREA142.EMI|sec11|body14|@0x467|16B] {c04:03}\n*알겠지{fe}{c04:00}?<END>
+[WORLD03_AREA142.EMI|sec11|body15|@0x477|35B] {c04:03}\n*나와 같은{fe}피를 가진\n너라면{ff}분명 알 거다><END>
+[WORLD03_AREA142.EMI|sec11|body16|@0x49a|31B] {c04:03}\n*그놈들은>{ff}<PAUSE>약해@\n어쩔 도리가{fe}없을 만큼>><END>
+[WORLD03_AREA142.EMI|sec11|body17|@0x4b9|57B] {c04:03}\n*저런>{ff}자기 일밖에\n모르는 놈들에게>{02}우리 힘이{fe}악용된다면\n어찌 되겠나>@?<END>
+[WORLD03_AREA142.EMI|sec11|body18|@0x4f2|45B] {c04:03}\n*우리 힘은>{02}세상을{ff}생각하는 쪽에\n맡겨야만{fe}한다@<END>
+[WORLD03_AREA142.EMI|sec11|body19|@0x51f|24B] {c04:03}\n*그게 바로{fe}여신 미리아 님이다\n{c04:00}>><END>
+[WORLD03_AREA142.EMI|sec11|body20|@0x537|26B] {c04:03}\n*아무래도>\n알아주지{fe}못하는 건가><END>
+[WORLD03_AREA142.EMI|sec11|body21|@0x551|35B] {c04:03}\n*그렇다면>{ff}너를>>{02}여기서 내보낼 수는\n없다>><END>
+[WORLD03_AREA142.EMI|sec11|body22|@0x574|35B] {c04:03}\n*여기서{fe}악몽에\n삼켜지는 게{fe}좋겠다>{02}유감이야{fe}{c04:00}><END>

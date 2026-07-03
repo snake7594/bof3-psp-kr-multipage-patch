@@ -1,0 +1,159 @@
+[WORLD04_AREA192.EMI|sec11|body0|@0x20a|40B] *일단{fe}북쪽으로 가는 거지>\n별만{fe}놓치지 않으면\n괜찮은 거지<END>
+[WORLD04_AREA192.EMI|sec11|body1|@0x232|49B] *있잖아{fe}밤에 야영하고\n낮에 걸으면>{02}별이 안 보이니까\n방향을{fe}모르잖아?<END>
+[WORLD04_AREA192.EMI|sec11|body2|@0x263|39B] *재밌네>\n모래뿐이라{fe}내가\n어딜 향하는지{fe}모르겠어<END>
+[WORLD04_AREA192.EMI|sec11|body3|@0x28a|34B] *갈 길은{fe}멀어>\n물은{fe}되도록{ff}아끼는\n게{fe}좋겠어><END>
+[WORLD04_AREA192.EMI|sec11|body4|@0x2ac|23B] *낮에 걷는 건\n체력을{ff}쓰지>?<END>
+[WORLD04_AREA192.EMI|sec11|body5|@0x2c3|18B] *더워{fc}>\n혀가 나와버려{fc}><END>
+[WORLD04_AREA192.EMI|sec11|body6|@0x2d5|40B] *밤엔{fe}좀 낫지만\n해 떠 있을 때{fe}움직이는 건\n사양이야{fc}>@<END>
+[WORLD04_AREA192.EMI|sec11|body7|@0x2fd|10B] *푸스{c15:07}{c15:07}{c15:07}<END>
+[WORLD04_AREA192.EMI|sec11|body8|@0x307|39B] *후{fc}{fe}역시 엄청나게\n죽어나가는 사막이라고\n불릴 만한 곳이네<END>
+[WORLD04_AREA192.EMI|sec11|body9|@0x32e|66B] *쳇>{ff}이런 데\n몬스터들은{fe}평소\n뭘 먹고 사나{fc}>{02}역시{ff}우리 같은\n별난{ff}여행자인가>?<END>
+[WORLD04_AREA192.EMI|sec11|body10|@0x370|33B] *밤에 쉬고>\n낮에{ff}걸으면\n물이{ff}부족해진다?<END>
+[WORLD04_AREA192.EMI|sec11|body11|@0x391|36B] *야영 끝나고>\n방향{ff}확인하는 거\n잊지 않게{ff}해야지<END>
+[WORLD04_AREA192.EMI|sec11|body12|@0x3b5|27B] *얼마나{ff}큰 걸까\n이 사막은{fc}?<END>
+[WORLD04_AREA192.EMI|sec11|body13|@0x3d0|32B] *괜찮아>\n잘 될 것 같은{fe}느낌이 들어{02}{fe}{c04:00}>@<END>
+[WORLD04_AREA192.EMI|sec11|body14|@0x3f0|19B] *{c04:00}{fe}캠프는\n낮에 해야 돼><END>
+[WORLD04_AREA192.EMI|sec11|body15|@0x403|42B] *난{fe}아직>{ff}괜찮은데\n학자님한텐{ff}좀\n힘든 거{fc}아냐?<END>
+[WORLD04_AREA192.EMI|sec11|body16|@0x42d|22B] *신은{fe}우리를\n시험하시는 건가>?<END>
+[WORLD04_AREA192.EMI|sec11|body17|@0x443|39B] *굳이{fe}체력을 쓰는\n낮에{ff}움직일 필요는>\n없을 것 같은데?<END>
+[WORLD04_AREA192.EMI|sec11|body18|@0x46a|42B] *어머{fe}난 괜찮아{fc}\n어디 사는{ff}호랑이 남자처럼\n털이{ff}많지도 않은걸{fc}<END>
+[WORLD04_AREA192.EMI|sec11|body19|@0x494|32B] *있잖아{fc}>{ff}쉬는 건\n낮에 하고{fc}>{02}밤에{ff}이동하지 않을래?<END>
+[WORLD04_AREA192.EMI|sec11|body20|@0x4b4|46B] *삐스삐스>{ff}삐스>{02}{c05:06}좀{fe}잠을 설치는 것 같다>\n더위에{ff}약한 걸까?{06}<END>
+[WORLD04_AREA192.EMI|sec11|body21|@0x4e2|40B] *방향{fe}안 틀렸어?{02}><PAUSE>><PAUSE>>미안\n괜찮은{fe}거지\n{c04:00}?<END>
+[WORLD04_AREA192.EMI|sec11|body22|@0x50a|48B] *체력{fe}없는 녀석은\n빠지고>{02}전투는{fe}우리랑\n{c04:01}{ff}아저씨가\n하자고?<END>
+[WORLD04_AREA192.EMI|sec11|body23|@0x53a|19B] *낮에 움직이는 건\n위험해{fe}{c04:00}><END>
+[WORLD04_AREA192.EMI|sec11|body24|@0x54d|26B] *신은{fe}우리와 만나길\n거부하시는 건가?<END>
+[WORLD04_AREA192.EMI|sec11|body25|@0x567|19B] *음{fc}>{fe}잠깐\n쉬게 해 줘{fc}>><END>
+[WORLD04_AREA192.EMI|sec11|body26|@0x57a|24B] *이제>>>\n사막도{fe}끝이야>{fe}그치>?<END>
+[WORLD04_AREA192.EMI|sec11|body27|@0x592|24B] *이젠{fe}해 떠 있을 때\n걷는 거{fe}싫어@<END>
+[WORLD04_AREA192.EMI|sec11|body28|@0x5aa|10B] *재밌네>><END>
+[WORLD04_AREA192.EMI|sec11|body29|@0x5b4|37B] *어째서{fe}신은>\n이런{fe}죽음의 사막을\n만드신 것일까@?<END>
+[WORLD04_AREA192.EMI|sec11|body30|@0x5d9|32B] *어째서{fc}>{ff}이런\n힘든 일을{ff}겪어야\n하는 걸까{fc}?<END>
+[WORLD04_AREA192.EMI|sec11|body31|@0x5f9|7B] *푸>{ff}스><END>
+[WORLD04_AREA192.EMI|sec11|body32|@0x600|16B] *북쪽에>{ff}오아시스 보여?<END>
+[WORLD04_AREA192.EMI|sec11|body33|@0x610|36B] *이제{fe}물도 없고>\n슬슬{ff}도착 안 하면\n속수무책이야>><END>
+[WORLD04_AREA192.EMI|sec11|body34|@0x634|27B] *신은>{ff}대체 어디까지\n우리를{ff}시험하시나<END>
+[WORLD04_AREA192.EMI|sec11|body35|@0x64f|20B] *이제{fe}도착 안 하면\n이상한 거야{fc}><END>
+[WORLD04_AREA192.EMI|sec11|body36|@0x663|36B] *푸>><PAUSE>{ff}{0d}끽{0e}{0f}{02}>{02}{c05:06}아무래도{fe}물을\n참고 있는 것 같다{06}<END>
+[WORLD04_AREA192.EMI|sec11|body37|@0x687|22B] *이상해{fe}이건>\n분명{ff}헤매고 있어@<END>
+[WORLD04_AREA192.EMI|sec11|body38|@0x69d|11B] *이제 모래는{fe}질렸어<END>
+[WORLD04_AREA192.EMI|sec11|body39|@0x6a8|6B] *으{fc}음><END>
+[WORLD04_AREA192.EMI|sec11|body40|@0x6ae|8B] *싫어{fe}정말><END>
+[WORLD04_AREA192.EMI|sec11|body41|@0x6b6|25B] *응{fe}아직{ff}괜찮아>\n힘내자{fe}{c04:00}<END>
+[WORLD04_AREA192.EMI|sec11|body42|@0x6cf|33B] *이렇게 필사적으로{ff}가서\n제대로{fe}본전 뽑을 수 있나?<END>
+[WORLD04_AREA192.EMI|sec11|body43|@0x6f0|26B] *이런 식으로{fe}끝까지\n버틸 수 있을까>?<END>
+[WORLD04_AREA192.EMI|sec11|body44|@0x70a|16B] *이제 안 돼{fc}{fe}죽어버려{fc}><END>
+[WORLD04_AREA192.EMI|sec11|body45|@0x71a|44B] *푸쿠쿠{fe}쿠쿠>{02}{c05:06}잘 자고 있다>\n이 모습이면{fe}아직\n괜찮을 것 같다>{06}<END>
+[WORLD04_AREA192.EMI|sec11|body46|@0x746|24B] *미안해{fe}{c04:00}>\n나{fe}이제 안 될지도>><END>
+[WORLD04_AREA192.EMI|sec11|body47|@0x75e|25B] *어쩌지{fe}{c04:00}\n이대로면{fe}전멸이야?<END>
+[WORLD04_AREA192.EMI|sec11|body48|@0x777|25B] *무리하지 말고{ff}돌아가는 게\n좋을 것 같아><END>
+[WORLD04_AREA192.EMI|sec11|body49|@0x790|15B] *돌아가자{fc}><PAUSE>><PAUSE>><END>
+[WORLD04_AREA192.EMI|sec11|body50|@0x79f|42B] *푸키리리@?{02}{c05:06}잘 모르겠지만\n{c04:00}에게{ff}결의를\n재촉하는 것 같다>{06}<END>
+[WORLD04_AREA192.EMI|sec11|body51|@0x7c9|25B] *괜찮은{fe}거지>\n잘 될 거지{fe}{c04:00}?<END>
+[WORLD04_AREA192.EMI|sec11|body52|@0x7e2|39B] *체력이{fe}남아 있을 때\n사막이 끝나길\n기도하는 수밖에{fe}없네><END>
+[WORLD04_AREA192.EMI|sec11|body53|@0x809|15B] *무사히 도착할 수 있을까>?<END>
+[WORLD04_AREA192.EMI|sec11|body54|@0x818|7B] *후우>>><END>
+[WORLD04_AREA192.EMI|sec11|body55|@0x81f|43B] *푸키리리릿리@{02}{c05:06}잘 모르겠지만\n{c04:00}을{ff}격려해\n주고 있는 걸지도?{06}<END>
+[WORLD04_AREA192.EMI|sec11|body56|@0x84a|20B] *이제><PAUSE>{ff}안 되려나>\n우리들>><END>
+[WORLD04_AREA192.EMI|sec11|body57|@0x85e|10B] *재밌네>><END>
+[WORLD04_AREA192.EMI|sec11|body58|@0x868|20B] *이런 데서>>\n끝나는>{ff}건가><END>
+[WORLD04_AREA192.EMI|sec11|body59|@0x87c|10B] *><PAUSE>><PAUSE>>아{fe}빠<END>
+[WORLD04_AREA192.EMI|sec11|body60|@0x886|9B] *><PAUSE>><PAUSE>><PAUSE>><END>
+[WORLD04_AREA192.EMI|sec11|body61|@0x88f|35B] *일단{fe}북쪽으로 가는 거지>\n이번엔 꼭{fe}제대로\n가자{fe}{c04:00}<END>
+[WORLD04_AREA192.EMI|sec11|body62|@0x8b2|35B] *여긴{fe}금방 방향을\n잃어버리니까>{02}조심해야 돼><END>
+[WORLD04_AREA192.EMI|sec11|body63|@0x8d5|20B] *이번엔{fe}괜찮은{fc}거\n>>겠지?<END>
+[WORLD04_AREA192.EMI|sec11|body64|@0x8e9|39B] *괜찮아>\n방향만{fe}틀리지 않으면\n분명 빠져나갈 수 있어@<END>
+[WORLD04_AREA192.EMI|sec11|body65|@0x910|21B] *크니까{fc}>\n헤매지 않도록{fc}{fe}하자<END>
+[WORLD04_AREA192.EMI|sec11|body66|@0x925|26B] *이번엔{fe}괜찮아>\n분명{fe}잘 될 거야<END>
+[WORLD04_AREA192.EMI|sec11|body67|@0x93f|31B] *다들 컨디션은{fe}어때?\n난{fe}아직 괜찮아><END>
+[WORLD04_AREA192.EMI|sec11|body68|@0x95e|43B] *{c04:00}이/가{fe}신을 만날\n운명{ff}이라면>{02}여길{ff}빠져나가는 건\n필연{fe}인가?<END>
+[WORLD04_AREA192.EMI|sec11|body69|@0x989|52B] *계산{ff}했어{fc}>{02}사막을{ff}빠져나가기까지\n걸리는 날수는{fc}>\n앞으로{fe}5{c15:07}6일 정도네<END>
+[WORLD04_AREA192.EMI|sec11|body70|@0x9bd|45B] *왕녀도{fe}학자도\n아직{fe}괜찮나>?{02}약해진 녀석한테{ff}신경\n써 줘야지><END>
+[WORLD04_AREA192.EMI|sec11|body71|@0x9ea|27B] *머네{fe}>{ff}{c04:00}\n진실을{ff}알기 전까진<END>
+[WORLD04_AREA192.EMI|sec11|body72|@0xa05|59B] *오아시스는{fe}정북쪽에\n보일 거야{fc}>{02}다른 방향에{ff}보이는 건\n신기루{ff}니까\n조심해{fc}><END>
+[WORLD04_AREA192.EMI|sec11|body73|@0xa40|18B] *조금만 더>{ff}가면 되지\n{c04:00}>><END>
+[WORLD04_AREA192.EMI|sec11|body74|@0xa52|39B] *근데{fe}이러고 있으면>\n온 세상{fe}모래투성이인 것\n같은 기분이 들어><END>
+[WORLD04_AREA192.EMI|sec11|body75|@0xa79|39B] *죽음의 사막\n혹시{fe}세상이 멸망하면>\n이런 모습일지도{ff}몰라<END>
+[WORLD04_AREA192.EMI|sec11|body76|@0xaa0|37B] *여기까지{fe}고생했으니>\n이젠{fe}저{fc}얼대로\n끝까지 갈 거야{fc}<END>
+[WORLD04_AREA192.EMI|sec11|body77|@0xac5|34B] *오아시스{fe}보여>?\n신기루가{fe}아니라\n진짜>><END>
+[WORLD04_AREA192.EMI|sec11|body78|@0xae7|46B] *배고프네>\n저 모래돼지{fe}먹어버릴까?{02}아니>{ff}근데>\n못 돌아가게 되잖아>><END>
+[WORLD04_AREA192.EMI|sec11|body79|@0xb15|7B] *신이여>><END>
+[WORLD04_AREA192.EMI|sec11|body80|@0xb1c|14B] *역시{fe}그만둘까{fc}><END>
+[WORLD04_AREA192.EMI|sec11|body81|@0xb2a|15B] *또{fe}길을 잘못 들었어?<END>
+[WORLD04_AREA192.EMI|sec11|body83|@0xb39|14B] *이제 모래는{fe}됐다니까><END>
+[WORLD04_AREA192.EMI|sec11|body84|@0xb47|5B] *으음><END>
+[WORLD04_AREA192.EMI|sec11|body85|@0xb4c|32B] *이상해{fc}\n이렇게 시간{ff}걸릴 리가\n없는걸{fc}@?<END>
+[WORLD04_AREA192.EMI|sec11|body86|@0xb6c|32B] *그럭저럭{fe}아직\n괜찮아>>{02}이번엔 꼭{fe}힘내자<END>
+[WORLD04_AREA192.EMI|sec11|body87|@0xb8c|26B] *이런>{ff}또야>\n돌아가서{fe}다시 할까?<END>
+[WORLD04_AREA192.EMI|sec11|body88|@0xba6|28B] *이런 식으로는{fe}끝까지\n버틸 수{ff}없을 것 같아><END>
+[WORLD04_AREA192.EMI|sec11|body89|@0xbc2|10B] *이{fc}{fe}죽어{fc}><END>
+[WORLD04_AREA192.EMI|sec11|body90|@0xbcc|10B] *쿠푸{fc}{fe}푸쿠{fc}><END>
+[WORLD04_AREA192.EMI|sec11|body91|@0xbd6|14B] *역시{fe}안 되는 걸까><END>
+[WORLD04_AREA192.EMI|sec11|body92|@0xbe4|14B] *모래돼지로{fe}돌아가자><END>
+[WORLD04_AREA192.EMI|sec11|body93|@0xbf2|25B] *또{fe}전멸하기 전에\n일단 돌아가야 해<END>
+[WORLD04_AREA192.EMI|sec11|body94|@0xc0b|7B] *이제 안 돼><END>
+[WORLD04_AREA192.EMI|sec11|body95|@0xc12|25B] *무리인 걸까>\n사막을{ff}넘는 거>><END>
+[WORLD04_AREA192.EMI|sec11|body96|@0xc2b|16B] *갈 수 있을 거라 생각해>\n{c04:00}?<END>
+[WORLD04_AREA192.EMI|sec11|body97|@0xc3b|12B] *갈 수 있을까?<END>
+[WORLD04_AREA192.EMI|sec11|body98|@0xc47|8B] *이제 안 돼>><END>
+[WORLD04_AREA192.EMI|sec11|body99|@0xc4f|5B] *안 대{fc}<END>
+[WORLD04_AREA192.EMI|sec11|body100|@0xc54|7B] *이런이런><END>
+[WORLD04_AREA192.EMI|sec11|body101|@0xc5b|27B] 지금{fe}죽여버리면\n여행을{ff}계속할 수 없게 된다><END>
+[WORLD04_AREA192.EMI|sec11|body102|@0xc76|41B] 모래돼지의 능력으로{fe}출발 지점까지\n돌아갈 수 있습니다>{c14:00}{c0c:02}돌아간다<END>
+[WORLD04_AREA192.EMI|sec11|body103|@0xca5|23B] 출발 지점으로{fe}돌아갑니다{c14:01}{c0c:02}돌아간다<END>
+[WORLD04_AREA192.EMI|sec11|body104|@0xcc2|44B] {c04:00}은/는{ff}어쩔 수 없이\n모래돼지를{ff}베었다>>{02}{ff}\n;모래돼지 고기<를{ff}손에 넣었다<END>
+[WORLD04_AREA192.EMI|sec11|body105|@0xcee|27B] 캠프 메뉴를\n골라 주세요{c14:02}{c0c:16}쉰다<END>
+[WORLD04_AREA192.EMI|sec11|body106|@0xd33|33B] *오아시스로 가는 법이\n적혀 있습니다>{c14:03}{c0c:12}읽어 본다<END>
+[WORLD04_AREA192.EMI|sec11|body107|@0xd59|166B] 먼저{fe};북쪽 큰 별<을 따라\n{c05:02}북{06}으로 향한다>{02};서쪽 이름별<이{fe}정서쪽에\n보이는 지점에 오면\n{c05:02}동{06}으로{ff}방향을 바꾼다>{02};이름별<이{ff}안 보일 때까지\n동쪽으로 이동하고{fe}다음에\n다시 한번{fe}{c05:02}북{06}으로 향한다>{02}그대로{fe}3일 밤 정도\n북상하면>{02}정북쪽에{fe}오아시스가 보인다<END>
+[WORLD04_AREA192.EMI|sec11|body108|@0xdff|31B] 캠프를 종료하시겠습니까?{c14:04}{c0c:13}쉬고 나서 종료한다<END>
+[WORLD04_AREA192.EMI|sec11|body109|@0xe31|23B] 일기가 있다>{fe}만\n지금은{fe}그만두자><END>
+[WORLD04_AREA192.EMI|sec11|body111|@0xe48|25B] {c04:02}\n*사막의{ff}더위에>\n당한{fe}건가>><END>
+[WORLD04_AREA192.EMI|sec11|body112|@0xe61|48B] {c0c:04}{c04:05}\n*>연일{fe}계속 걷다가{02}그런{ff}몬스터까지\n나왔으니{fe}무리도 아니야{fc}><END>
+[WORLD04_AREA192.EMI|sec11|body113|@0xe91|28B] {c0c:05}{c04:01}\n*미안해{fe}{c04:00}>{02}조금만{fe}더 가면 되는데>><END>
+[WORLD04_AREA192.EMI|sec11|body114|@0xead|32B] {c04:02}\n*저 모습으로는{fe}이 앞으로\n나아가는 건>{ff}무리야><END>
+[WORLD04_AREA192.EMI|sec11|body115|@0xecd|24B] {c04:02}\n*어떻게 해야 할지{fe}생각해 줘\n{c04:00}>>?<END>
+[WORLD04_AREA192.EMI|sec11|body116|@0xee5|20B] *이대로면{fe}{c04:01}은/는\n움직일 수 없어><END>
+[WORLD04_AREA192.EMI|sec11|body117|@0xef9|42B] *{c04:01}{fe}괜찮아{fc}?\n나도{ff}남 걱정할 만큼\n멀쩡하진{fe}않지만><END>
+[WORLD04_AREA192.EMI|sec11|body118|@0xf23|23B] *푸으{c15:07}{c15:07}{c15:07}>{02}{c05:06}걱정스러운 것 같다>{06}<END>
+[WORLD04_AREA192.EMI|sec11|body119|@0xf3a|26B] *으으{fe}<PAUSE>응>>{02}미안해>\n폐{fe}끼쳐서>><END>
+[WORLD04_AREA192.EMI|sec11|body120|@0xf54|35B] *그 애가{ff}잘못한 게 아냐>\n운이 없었던 거지\n우리가>><END>
+[WORLD04_AREA192.EMI|sec11|body121|@0xf77|21B] {c0c:06}{c04:04}\n*왕녀님>{fe}심한 거야?<END>
+[WORLD04_AREA192.EMI|sec11|body122|@0xf8c|37B] {c0c:06}{c04:04}\n*그런가>>{02}앞으로{fe}한 걸음이란{ff}데까지\n왔는데{fe}말이야><END>
+[WORLD04_AREA192.EMI|sec11|body123|@0xfb1|54B] {c0c:06}{c04:04}\n*모래돼지를{ff}써서\n다시 할까>>{02}뭐{fe}한 번 더{ff}똑같이\n걸으면 된단 거지><END>
+[WORLD04_AREA192.EMI|sec11|body124|@0xfe7|29B] {c04:01}을/를{ff}어떻게든 안 하면\n이동할 수가{fe}없어><END>
+[WORLD04_AREA192.EMI|sec11|body125|@0x1004|86B] 모래돼지>>{02}사막에서 헤맨 여행자를\n출발 지점까지{fe}데려다주는\n본능을{ff}가지고 있다>{02}하지만{fe}그 외에도\n모래돼지가{ff}도움이 될 때가 있다><END>
+[WORLD04_AREA192.EMI|sec11|body126|@0x105a|38B] 모래돼지 고기는{fe}사막에서\n더위에 쓰러진 여행자를\n회복시킨다><END>
+[WORLD04_AREA192.EMI|sec11|body127|@0x1080|19B] {ff}\n모래돼지 고기를{ff}손에 넣었다<END>
+[WORLD04_AREA192.EMI|sec11|body128|@0x1093|17B] {c04:04}\n*모래돼지를{ff}잡은 거야?<END>
+[WORLD04_AREA192.EMI|sec11|body129|@0x10a4|41B] {c04:04}\n*이제{fe}못 돌아가>{02}대단하다{fe}{c04:00}>\n넌{fe}역시>{ff}<PAUSE>강해<END>
+[WORLD04_AREA192.EMI|sec11|body130|@0x10cd|33B] {c04:04}\n*어쨌든>{ff}그걸로\n왕녀님을{ff}회복시키자><END>
+[WORLD04_AREA192.EMI|sec11|body131|@0x10ee|56B] {c04:04}\n*괜찮아>{ff}우리는\n분명{ff}도착할 거야>{02}이런 데서{fe}쓰러지지 않아>\n네가{fe}있는 한<END>
+[WORLD04_AREA192.EMI|sec11|body132|@0x1126|75B] *><PAUSE>><PAUSE>>네가{fe}돼지를\n베는 걸{ff}보고{02}왜인지{fe}옛날>\n누에를{ff}쓰러뜨렸을 때 일이\n생각났어>>{02}>>이상한 얘기{fe}지?<END>
+[WORLD04_AREA192.EMI|sec11|body133|@0x1171|68B] {c0c:82}{ff}\n{ff}\n{ff}{ff}{ff}{ff}{c04:00}이/가 준\n{ff}\n{ff}{ff}{ff}{ff}모래돼지의 생명은\n{ff}\n{ff}{ff}쇠약해진{fe}{c04:01}의\n{ff}\n{ff}{ff}{ff}힘을{ff}되찾아 주었다{fd}<END>
+[WORLD04_AREA192.EMI|sec11|body134|@0x11b5|32B] *해 떠 있을 때{ff}걸으면>\n체력을{ff}소모하는구나<END>
+[WORLD04_AREA192.EMI|sec11|body138|@0x11d5|54B] *물은{fe}되도록{ff}아끼는\n게{fe}좋지만>{02}체력이{ff}줄기 전에\n쓰지 않으면{fe}의미가 없어><END>
+[WORLD04_AREA192.EMI|sec11|body139|@0x120b|15B] *이제{fe}사막은{ff}됐어><END>
+[WORLD04_AREA192.EMI|sec11|body140|@0x121a|14B] *이{fc}{fe}더운 거{ff}시{fc}러<END>
+[WORLD04_AREA192.EMI|sec11|body141|@0x1228|5B] *푸시{fc}<END>
+[WORLD04_AREA192.EMI|sec11|body142|@0x122d|20B] *이거{fe}어디로\n향하는 거야>?<END>
+[WORLD04_AREA192.EMI|sec11|body143|@0x1241|14B] *물은{fe}괜찮아?<END>
+[WORLD04_AREA192.EMI|sec11|body144|@0x124f|12B] *근데{fe}크네><END>
+[WORLD04_AREA192.EMI|sec11|body145|@0x125b|14B] *뭔가{fe}떨어져 있지 않을까><END>
+[WORLD04_AREA192.EMI|sec11|body146|@0x1269|6B] *푸푸키{fc}<END>
+[WORLD04_AREA192.EMI|sec11|body147|@0x126f|22B] *있잖아{fe}헤매는 거 아냐>?\n혹시>><END>
+[WORLD04_AREA192.EMI|sec11|body148|@0x1285|5B] *>>><END>
+[WORLD04_AREA192.EMI|sec11|body149|@0x128a|22B] *아무것도 없어>\n얼른{ff}돌아가자>?<END>
+[WORLD04_AREA192.EMI|sec11|body150|@0x12a0|10B] *지쳐버렸어><END>
+[WORLD04_AREA192.EMI|sec11|body151|@0x12aa|7B] *푸푸우스우<END>
+[WORLD04_AREA192.EMI|sec11|body152|@0x12b1|23B] *어쨌든{fe}돌아가야 할 것\n같은데><END>
+[WORLD04_AREA192.EMI|sec11|body153|@0x12c8|15B] *이번엔{fe}여기까지네><END>
+[WORLD04_AREA192.EMI|sec11|body154|@0x12d7|15B] *모래돼지로{fe}돌아가자>?<END>
+[WORLD04_AREA192.EMI|sec11|body155|@0x12e6|9B] *돌아가자{fc}><END>
+[WORLD04_AREA192.EMI|sec11|body156|@0x12ef|8B] *푸푸푸{fc}응><END>
+[WORLD04_AREA192.EMI|sec11|body157|@0x12f7|7B] *으으{fc}응><END>
+[WORLD04_AREA192.EMI|sec11|body158|@0x12fe|13B] *>포기하고{fe}돌아가자<END>
+[WORLD04_AREA192.EMI|sec11|body159|@0x130b|13B] *이제{fe}물도 없잖아?<END>
+[WORLD04_AREA192.EMI|sec11|body160|@0x1318|9B] *돌아가자{fc}><END>
+[WORLD04_AREA192.EMI|sec11|body161|@0x1321|5B] *푸슨<END>
+[WORLD04_AREA192.EMI|sec11|body162|@0x1326|39B] 모래돼지의{ff}능력으로\n사막을{ff}빠져나갈 수 있습니다{c14:05}{c0c:13}안 돌아간다<END>
+[WORLD04_AREA192.EMI|sec11|body163|@0x1361|24B] 지금은{fe}쉴 필요는 없다>\n출발하자<END>

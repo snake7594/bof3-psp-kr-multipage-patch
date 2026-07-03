@@ -1,0 +1,16 @@
+[WORLD00_AREA017.EMI|sec11|body0|@0x209|26B] *여기는{fe}지주\n맥니{fc}르 님의{ff}저택이다<END>
+[WORLD00_AREA017.EMI|sec11|body1|@0x223|22B] *우린{ff}이 저택을\n지키고 있는 거다<END>
+[WORLD00_AREA017.EMI|sec11|body2|@0x239|25B] *여기 벽이{ff}부서져서\n수리하고 있는 중이다<END>
+[WORLD00_AREA017.EMI|sec11|body3|@0x252|69B] *맥니{fc}르 씨는{ff}도둑이\n드는 걸{ff}무서워해서\n빨리 하라고{ff}성화야{02}참 나{ff}부자란 건\n다 소심하다니까><END>
+[WORLD00_AREA017.EMI|sec11|body4|@0x297|52B] *여기서만 하는 얘긴데\n맥니{fc}르는{ff}짠돌이야{02}우리{ff}소작인한테서\n뽑아낼 수 있는 만큼{fe}뽑아내거든<END>
+[WORLD00_AREA017.EMI|sec11|body5|@0x2cb|44B] *맥니{fc}르 님의{ff}저택을\n너희 같은{ff}건달들한테서\n지키는 게{ff}내 일이다<END>
+[WORLD00_AREA017.EMI|sec11|body6|@0x2f7|44B] *>그래도{fe}사실은\n맥니{fc}르 님이{ff}구두쇠라서\n별로{ff}의욕이 안 나<END>
+[WORLD00_AREA017.EMI|sec11|body7|@0x323|71B] *우리가{ff}수리한 벽은\n어지간해선{ff}안\n부서져>>{02}>>어지간해선의\n{c05:02}어지간{06}이라는 게\n도대체{ff}뭘까?<END>
+[WORLD00_AREA017.EMI|sec11|body8|@0x36a|60B] *우리가{ff}수리한 벽으로\n숨어드는 건{ff}무리야@{02}왜냐하면\n우리 수리는\n완:벽:해@<END>
+[WORLD00_AREA017.EMI|sec11|body9|@0x3a6|53B] *너희 같은 놈들한테\n털리고>{02}맥니{fc}르한테{ff}세금\n뜯기고>\n참 큰일이라니까{fe}정말<END>
+[WORLD00_AREA017.EMI|sec11|body10|@0x3db|72B] *글라우스 산{ff}몬스터냐>{02}저택 지키는{ff}임무만 없으면\n내가{ff}때려눕혀 줄 텐데@{02}라고 말할 수 있으면\n멋질 텐데 말이야<END>
+[WORLD00_AREA017.EMI|sec11|body11|@0x423|42B] *저 몬스터를\n쓰러뜨릴 수 있으면>>{02}먹고사는 게{ff}좀\n편해질 텐데><END>
+[WORLD00_AREA017.EMI|sec11|body12|@0x44d|70B] *우리한테{ff}맡기면\n아무리{ff}어려운 수리도\n식은 죽 먹기>{02}{c05:02}죽 먹기{06}가 뭐지?\n그 전에{ff}{c05:02}식은 죽{06}이라는 건?<END>
+[WORLD00_AREA017.EMI|sec11|body13|@0x493|28B] *너희도{ff}벽이 부서지면\n우리한테{ff}맡겨@<END>
+[WORLD00_AREA017.EMI|sec11|body14|@0x4af|59B] *참 나{fe}맥니{fc}르 녀석>{02}병사가{ff}그렇게{ff}많이 있으면\n글라우스의 몬스터를\n잡으러 보내면{ff}될 텐데<END>
+[WORLD00_AREA017.EMI|sec11|body15|@0x4ea|11B] {ff}{ff}{ff}소 훔치지 마@<END>

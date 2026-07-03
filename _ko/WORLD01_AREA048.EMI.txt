@@ -1,0 +1,21 @@
+[WORLD01_AREA048.EMI|sec11|body0|@0x200|67B] 마력 플로{fc}터{fc}\n고{fc}스트 에너지{fc}{fe}또는\n마력을 공급하면 작동합니다{02}크리스탈에{ff}에너지{fc}를\n공급해 주세요<END>
+[WORLD01_AREA048.EMI|sec11|body1|@0x243|13B] 좀 야한 책이다><END>
+[WORLD01_AREA048.EMI|sec11|body2|@0x250|13B] 꽤 야한 책이다><END>
+[WORLD01_AREA048.EMI|sec11|body3|@0x25d|12B] 제법 야한 책이다><END>
+[WORLD01_AREA048.EMI|sec11|body4|@0x269|19B] 이{fe}이건>\n엄청 야한 책이다><END>
+[WORLD01_AREA048.EMI|sec11|body5|@0x27c|19B] 어어어{fe}어마어마하게\n야한 책이다@<END>
+[WORLD01_AREA048.EMI|sec11|body6|@0x28f|34B] {c0c:06}{c04:05}\n*여기는 말야{fe}아버지가\n옛날에{ff}쓰던 방이야><END>
+[WORLD01_AREA048.EMI|sec11|body7|@0x2b1|36B] {c04:01}\n*이 방에{ff}출구가\n숨겨져 있다고>?{02}대단하네><END>
+[WORLD01_AREA048.EMI|sec11|body8|@0x2d5|63B] {c0c:06}{c04:05}\n*그래{fe}<PAUSE>아버지는\n대단한 분이야{fc}>{02}기계를{ff}다루게 하면\n누구한테도 안 지는\n기술자였거든{fc}>@<END>
+[WORLD01_AREA048.EMI|sec11|body9|@0x314|62B] {c0c:06}{c04:05}\n*근데{fe}아버지가>\n돌아가시기>{ff}전에>{02}이 탑에서{ff}탈출하려고\n기계를{ff}만들고 계셨대><END>
+[WORLD01_AREA048.EMI|sec11|body10|@0x352|38B] >책상 밑에\n스위치 같은 게 있어\n눌러 볼까?{c14:00}{c0c:02}응<END>
+[WORLD01_AREA048.EMI|sec11|body11|@0x37c|24B] *뭐{fe}뭐야?\n뭐가{ff}시작된 거야@?<END>
+[WORLD01_AREA048.EMI|sec11|body12|@0x394|48B] {c04:05}\n*대단{fc}해@\n역시{fe}아버지야>{02}이 정도{ff}기계를\n만들어 냈다니><END>
+[WORLD01_AREA048.EMI|sec11|body13|@0x3c4|44B] {c0c:05}{c04:01}\n*>근데{fe}어째서{02}탈출하려고{ff}기계 같은 걸\n만드신 걸까?<END>
+[WORLD01_AREA048.EMI|sec11|body14|@0x3f0|61B] {c04:05}\n*아마{fe}만들고 싶어서\n만드신 거야>{02}기계{fe}엄청 좋아하시니까>{02}그것보다{fe}얼른\n써 보자?<END>
+[WORLD01_AREA048.EMI|sec11|body15|@0x42d|54B] {c04:05}\n*아마{fe}여기에\n점화하는 거겠지{fc}>{02}아{fc}아{fe}어떻게 움직일지\n궁금하다>\n두근두근하네@?<END>
+[WORLD01_AREA048.EMI|sec11|body16|@0x463|37B] {c04:05}\n*자{fe}<PAUSE>됐지?\n간다{fc}>{02}삼>{02}이>{02}일>{02}발사@<END>
+[WORLD01_AREA048.EMI|sec11|body17|@0x488|25B] {c0c:81}{ff}{c16:00}{ff}\n바닥1에 탈까요?{c14:00}{c0c:02}응<END>
+[WORLD01_AREA048.EMI|sec11|body128|@0x48d|20B] {ff}\n바닥1에 탈까요?{c14:00}{c0c:02}응<END>
+[WORLD01_AREA048.EMI|sec11|body129|@0x4a5|23B] {ff}\n바닥2에 탈까요?{c14:01}{c0c:04}우키시마1<END>
+[WORLD01_AREA048.EMI|sec11|body130|@0x4c8|20B] {ff}\n바닥3에 탈까요?{c14:02}{c0c:02}응<END>

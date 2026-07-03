@@ -1,0 +1,46 @@
+[WORLD00_AREA028.EMI|sec11|body0|@0x212|14B] {c0c:06}{c04:03}\n*형이다@<END>
+[WORLD00_AREA028.EMI|sec11|body1|@0x220|40B] {c0c:06}{c04:04}\n*>잘된{ff}모양이네{02}안은{ff}어땠어?\n고생했냐?<END>
+[WORLD00_AREA028.EMI|sec11|body2|@0x248|53B] {c0c:06}{c04:04}\n*아니{fe}나도>{02}도우러{ff}갈 수 있었으면\n좋았는데>{02}그게{fe}좀{ff}찾을 게 있어서><END>
+[WORLD00_AREA028.EMI|sec11|body3|@0x27d|63B] {c0c:05}{c04:03}\n*>유령이{ff}잔뜩 나와서\n기분 나빴지만{02}형{ff}작전치고는\n꽤 잘됐던 거 아냐?<END>
+[WORLD00_AREA028.EMI|sec11|body4|@0x2bc|53B] {c0c:06}{c04:04}\n*그거참{ff}고맙다>{02}자{fe}그럼>\n저쪽으로 가는{ff}방법인데>\n찾아줬으면 하는 게>><END>
+[WORLD00_AREA028.EMI|sec11|body5|@0x2f1|22B] {c0c:05}{c04:03}\n*이거 아냐?\n형><END>
+[WORLD00_AREA028.EMI|sec11|body6|@0x307|22B] {c0c:05}{c04:04}\n*윽{fe}이건{ff}내\n로프@<END>
+[WORLD00_AREA028.EMI|sec11|body7|@0x31d|39B] {c0c:03}{c04:03}\n*지붕에 나왔다>{02}형은{ff}잘\n도망쳐 왔으려나?<END>
+[WORLD00_AREA028.EMI|sec11|body8|@0x344|25B] {c0c:03}{c04:03}\n*야{fe}저거 봐\n저쪽 지붕>><END>
+[WORLD00_AREA028.EMI|sec11|body9|@0x35d|39B] {c0c:04}{c04:03}\n*>연기가 난다{02}분명{fe}저 안에\n맥니르가{ff}있는 거야><END>
+[WORLD00_AREA028.EMI|sec11|body10|@0x384|72B] {c0c:05}{c04:03}\n*>근데{fe}어떻게\n저쪽 가지?{02}>문은{ff}전부\n잠겨 있었잖아?{02}>>뭐{fe}아무튼\n뭐라도{ff}찾아보자<END>
+[WORLD00_AREA028.EMI|sec11|body11|@0x3cc|65B] {c0c:06}{c04:03}\n*>역시{ff}그렇구나{02}이런 게{ff}지붕에 있는 거\n이상하다고 생각했어>{02}{c04:04}\n*윽>{ff}잘했다\n{c04:03}>><END>
+[WORLD00_AREA028.EMI|sec11|body12|@0x40d|69B] {c0c:05}{c04:03}\n*혀{fe}형@?{c16:20}{c0c:03}{c04:03}\n*역시{ff}형은\n대단해:::{02}뭔가 좀{ff}틀린\n것 같기도 하지만::<END>
+[WORLD00_AREA028.EMI|sec11|body13|@0x41e|52B] {c0c:03}{c04:03}\n*역시{ff}형은\n대단해:::{02}뭔가 좀{ff}틀린\n것 같기도 하지만::<END>
+[WORLD00_AREA028.EMI|sec11|body14|@0x452|28B] {c0c:05}{c04:04}\n*>아{fe}위험했다{02}어떻게든{ff}넘어갔으려나><END>
+[WORLD00_AREA028.EMI|sec11|body15|@0x46e|94B] {c0c:06}{c04:03}\n*형{fe}대단했어>{02}혼자{ff}먼저 와서\n{c05:02}편하게 있거나{06}>>\n{c05:02}소중한{06}로프를{ff}잃어버리거나>{02}{c05:02}재밌는{06}일만{ff}\n한다고 생각했는데><END>
+[WORLD00_AREA028.EMI|sec11|body16|@0x4cc|19B] {c0c:05}{c04:04}\n*>할 때는{ff}하잖아?<END>
+[WORLD00_AREA028.EMI|sec11|body17|@0x4df|47B] {c0c:06}{c04:03}\n*>게다가{fe}{c05:02}발 미끄러뜨려서{06}\n점프하다니@{02}형{ff}멋있어<END>
+[WORLD00_AREA028.EMI|sec11|body18|@0x50e|63B] {c0c:05}{c04:04}\n*>미안했어{ff}{c04:03}{02}너희만{ff}유령이랑\n싸우게 해서>{02}사과할 테니{ff}기분\n풀어줘{fe}<PAUSE>응?<END>
+[WORLD00_AREA028.EMI|sec11|body19|@0x54d|17B] {c0c:04}>여자의{ff}비명@?<END>
+[WORLD00_AREA028.EMI|sec11|body20|@0x55e|57B] {c0c:06}*아{c15:07}{c15:07}니{c15:07}{c15:07}@\n주인 나리{fe}장난 그만@{c16:30}{c0c:05}*이놈{fe}기다리지 못할까{c15:07}{c15:07}\n우히히히히히히히{c16:20}<END>
+[WORLD00_AREA028.EMI|sec11|body21|@0x57c|27B] {c0c:05}*이놈{fe}기다리지 못할까{c15:07}{c15:07}\n우히히히히히히히{c16:20}<END>
+[WORLD00_AREA028.EMI|sec11|body22|@0x597|14B] {c0c:06}*아아{c15:07}{c15:07}앙{c16:20}<END>
+[WORLD00_AREA028.EMI|sec11|body23|@0x5a5|19B] {c0c:06}{c04:04}\n*>이런이런<PAUSE>{ff}유쾌하네<END>
+[WORLD00_AREA028.EMI|sec11|body24|@0x5b8|22B] {c0c:05}맥니르\n*{0d}다다:<PAUSE>누구냐@{0e}{0f}{02}<END>
+[WORLD00_AREA028.EMI|sec11|body25|@0x5ce|39B] {c04:03}\n*>누구든 상관없잖아?{02}너한테서{ff}돈을\n되찾으러{ff}왔다@<END>
+[WORLD00_AREA028.EMI|sec11|body26|@0x5f5|38B] {c0c:05}여자\n*{0d}꺅@{0e}{0f}{03}{02}난{fe}상관{fc}없어\n끌어들이지 마@<END>
+[WORLD00_AREA028.EMI|sec11|body27|@0x61b|41B] {c0c:05}맥니르\n*되{fe}<PAUSE>되찾는다@?{02}무무{fe}<PAUSE>무슨 소리냐?\n나는{ff}그저>><END>
+[WORLD00_AREA028.EMI|sec11|body28|@0x644|64B] {c04:04}\n*>꼴사납네\n맥니르 씨{02}당신{fe}아까처럼\n즐기려고>>{02}마을 사람들한테서\n뜯어내는 거잖아?<END>
+[WORLD00_AREA028.EMI|sec11|body29|@0x684|26B] {c0c:81}>>이제 됐다\n맥니르 가의{ff}수치 같으니<END>
+[WORLD00_AREA028.EMI|sec11|body30|@0x69e|47B] {c04:03}\n*나왔다{ff}형{02}이놈들{fe}내가{ff}해치운\n맥니르의{ff}조상들이야><END>
+[WORLD00_AREA028.EMI|sec11|body31|@0x6cd|86B] {c0c:81}>흥{fe}<PAUSE>과연{ff}아까는\n너희에게{ff}밀렸지{02}{ff}\n>허나{fe}그것도{ff}여기까지{02}이{ff}한심한 사내를 대신해\n초대 맥니르가\n상대해 주마>><END>
+[WORLD00_AREA028.EMI|sec11|body32|@0x723|23B] {c0c:81}{ff}\n보아라@{ff}이것이 명가의 힘이다@<END>
+[WORLD00_AREA028.EMI|sec11|body33|@0x73a|70B] {c0c:05}맥니르\n*{0d}히이이이이이이{0e}{0f}{02}{02}무무무{fe}대체 무슨@?\n나나{fe}<PAUSE>나는>{ff}그저>\n아무것도 아무것도 나쁜>{ff}{0d}히이{0e}{0f}{02}<END>
+[WORLD00_AREA028.EMI|sec11|body34|@0x780|57B] {c04:04}\n*>진정해{fe}아저씨{02}아까 그건{ff}당신\n조상님이고>{02}우린{fe}그냥\n도둑이거든>>?<END>
+[WORLD00_AREA028.EMI|sec11|body35|@0x7b9|41B] {c0c:06}{c04:03}\n*>바보네{fe}너{02}됐으니까{ff}돈 있는 데나\n가르쳐 주면 돼<END>
+[WORLD00_AREA028.EMI|sec11|body36|@0x7e2|44B] {c0c:05}맥니르\n*>도{fe}돈이라면{ff}저쪽에{02}나나나{fe}나를>\n주<PAUSE>죽이지 마><END>
+[WORLD00_AREA028.EMI|sec11|body37|@0x80e|26B] {c0c:03}{c04:03}\n*어어이{ff}{c04:00}\n대단해{ff}와 봐@<END>
+[WORLD00_AREA028.EMI|sec11|body38|@0x828|39B] {c0c:05}여자\n*>뭐야{fe}겁쟁이@{02}도둑이 훨씬\n멋있잖아@<END>
+[WORLD00_AREA028.EMI|sec11|body39|@0x84f|63B] {c0c:05}맥니르\n*>>>>>>큭{02}>>크크크크크{02}>>그렇게{fe}나를\n바보 취급하면{ff}되겠지{02}>>>>>>>꼬맹이들<END>
+[WORLD00_AREA028.EMI|sec11|body40|@0x88e|84B] {c0c:81}맥니르\n*진짜로{ff}힘을 가진 게\n누구인지>>{02}가르쳐 주마>>{c16:30}{c05:02}갈고리 밧줄{06}이다>>{02}이걸 쓰면\n저쪽 지붕으로{ff}갈 수 있으려나?<END>
+[WORLD00_AREA028.EMI|sec11|body41|@0x8bc|38B] {c05:02}갈고리 밧줄{06}이다>>{02}이걸 쓰면\n저쪽 지붕으로{ff}갈 수 있으려나?<END>
+[WORLD00_AREA028.EMI|sec11|body48|@0x8e2|47B] {c04:03}\n*>>라니{fe}{c04:00}{02}쉽게 말하지만\n우리 힘으로는\n저쪽까지{ff}안 닿거든?<END>
+[WORLD00_AREA028.EMI|sec11|body49|@0x911|30B] {c04:03}\n*>게다가{ff}왜\n이런 게{ff}지붕 위에?<END>
+[WORLD00_AREA028.EMI|sec11|body50|@0x92f|37B] {c04:04}\n*>자{fe}<PAUSE>일단{ff}봐 둬{02}이것만{ff}있으면>\n이런 지붕쯤은<END>
+[WORLD00_AREA028.EMI|sec11|body51|@0x954|16B] 이건{ff}안 열릴 것 같네::<END>

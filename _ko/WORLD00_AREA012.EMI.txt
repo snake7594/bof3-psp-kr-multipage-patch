@@ -1,0 +1,16 @@
+[WORLD00_AREA012.EMI|sec11|body0|@0x206|16B] {c0c:05}{c04:02}\n*혼자>{ff}서냐?<END>
+[WORLD00_AREA012.EMI|sec11|body1|@0x216|45B] {c0c:05}{c04:02}\n*흠>{ff}그 호랑이에 대해\n뭔가{fe}알고 있는 모양이군?{02}그렇다면{fe}기다려 주마>><END>
+[WORLD00_AREA012.EMI|sec11|body2|@0x243|25B] *걱정 없다고{fe}생각은 하지만\n조심하거라<END>
+[WORLD00_AREA012.EMI|sec11|body3|@0x25c|16B] {c0c:06}{c04:04}\n*><PAUSE>><PAUSE>>{c04:00}냐?<END>
+[WORLD00_AREA012.EMI|sec11|body4|@0x26c|27B] {c0c:06}{c04:04}\n*>>오우거{fc}가도에서\n만났었>>지?<END>
+[WORLD00_AREA012.EMI|sec11|body5|@0x287|41B] {c0c:06}{c04:04}\n*크><PAUSE>{ff}크크크>{ff}그렇구나\n너였던 거냐@?{02}이거 참, 이거 참>><END>
+[WORLD00_AREA012.EMI|sec11|body6|@0x2b0|51B] {c0c:06}{c04:04}\n*재밌네>\n{c04:00}한테{fe}당하다니@{02}>>꽤{ff}진심으로\n싸웠는데{fe}말이야?<END>
+[WORLD00_AREA012.EMI|sec11|body7|@0x2e3|43B] {c0c:06}{c04:04}\n*그래도>{ff}뭐>{02}무사해서{fe}다행이야\n{c04:00}>>{02}난{fe}틀림없이>><END>
+[WORLD00_AREA012.EMI|sec11|body8|@0x30e|76B] {c0c:06}{c04:04}\n*오우거{fc}가도 너머에\n암시장이란 곳이 있는데>{02}맥니르랑{ff}손잡고\n우릴{ff}죽이러 온 게\n거기 놈들이거든><END>
+[WORLD00_AREA012.EMI|sec11|body9|@0x35a|62B] {c0c:06}{c04:04}\n*오래{fe}걸리긴 했지만\n드디어{ff}알아내서>{02}가도에서{fe}암시장을 드나드는\n놈들을{ff}지켜보고 있었어><END>
+[WORLD00_AREA012.EMI|sec11|body10|@0x398|55B] {c0c:06}{c04:04}\n*닥치는 대로{fe}덮쳐서>{02}너랑{fe}{c04:03}의\n원수를{ff}갚으려 했어>{02}근데{fe}이 꼴이지><END>
+[WORLD00_AREA012.EMI|sec11|body11|@0x3cf|55B] {c0c:06}{c04:04}\n*너만이라도{fe}살아서\n강해진 걸{ff}알게 돼서>{02}마음이{fe}좀 가벼워지긴\n했지만>><END>
+[WORLD00_AREA012.EMI|sec11|body12|@0x406|66B] {c0c:06}{c04:04}\n*아니{fe}틀렸어>{02}역시{fe}난\n본때를 보여줘야{fe}해>{02}내{fe}동생들한테\n손댄{fe}놈들한테@<END>
+[WORLD00_AREA012.EMI|sec11|body13|@0x448|19B] {c04:02}\n*식인 호랑이는{fe}어찌 됐느냐?<END>
+[WORLD00_AREA012.EMI|sec11|body14|@0x45b|10B] {c04:02}\n*>마을로?<END>
+[WORLD00_AREA012.EMI|sec11|body15|@0x465|5B] *P찍<END>

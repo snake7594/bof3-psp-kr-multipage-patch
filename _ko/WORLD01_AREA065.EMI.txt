@@ -1,0 +1,18 @@
+[WORLD01_AREA065.EMI|sec11|body0|@0x20c|34B] 산토가{fe}가도를\n지키고 있어>\n지나가는 건{ff}무리일 것 같다<END>
+[WORLD01_AREA065.EMI|sec11|body1|@0x22e|12B] {ff}윈디아 동부<END>
+[WORLD01_AREA065.EMI|sec11|body2|@0x23a|11B] 높은 절벽이{fe}있다{fd}<END>
+[WORLD01_AREA065.EMI|sec11|body3|@0x245|21B] 탑처럼 솟아오른\n커다란 저택{fd}<END>
+[WORLD01_AREA065.EMI|sec11|body4|@0x25a|30B] 여행 도중에{fe}한숨 돌리기{fd}\n명물은{fe}카레{fc}라고 한다{fd}<END>
+[WORLD01_AREA065.EMI|sec11|body5|@0x278|29B] 고{fc}스트를 이용해{fe}작물을\n키우고 있다고 한다{fd}<END>
+[WORLD01_AREA065.EMI|sec11|body6|@0x295|46B] 플랜트 소장의 허가가 없으면\n들어가면 안 된다{fd}\n불량 작물 폐기장{fd}<END>
+[WORLD01_AREA065.EMI|sec11|body7|@0x2c3|38B] 윈디아 동쪽 관문{fd}\n하지만{fe}여길 지나려면\n왕의 허가가 필요하다{fd}<END>
+[WORLD01_AREA065.EMI|sec11|body8|@0x2e9|24B] {c04:05}의 로켓이\n착륙?{ff}한 지점{fd}<END>
+[WORLD01_AREA065.EMI|sec11|body9|@0x301|18B] 산기슭을 따라{fe}오솔길이 있다{fd}<END>
+[WORLD01_AREA065.EMI|sec11|body10|@0x313|12B] 뭔가{fe}있을 듯한 숲{fd}<END>
+[WORLD01_AREA065.EMI|sec11|body11|@0x31f|19B] 동서를 잇는{fe}커다란 현수교{fd}<END>
+[WORLD01_AREA065.EMI|sec11|body12|@0x332|16B] {c15:14}서{ff}윈디아 중부<END>
+[WORLD01_AREA065.EMI|sec11|body13|@0x342|30B] 신비한 전설이 깃든\n현수가{fe}고요히 서 있다{fd}<END>
+[WORLD01_AREA065.EMI|sec11|body14|@0x360|61B] *뜻밖의 대물이 걸리는 명당+이라고\n소문난{ff}포인트{fd}{02}{c05:04}타{fc}깃{ff}피시{06}\n{c07:00}\n{c07:01}{02}{c07:02}\n{c07:03}\n{c07:04}<END>
+[WORLD01_AREA065.EMI|sec11|body22|@0x39d|62B] 변화무쌍한{fe}강물의 흐름에\n갖가지 물고기가{ff}모인다{fd}{02}{c05:04}타{fc}깃{ff}피시{06}\n{c07:00}\n{c07:01}{02}{c07:02}\n{c07:03}\n{c07:04}<END>
+[WORLD01_AREA065.EMI|sec11|body23|@0x3db|24B] 좋은 향기가 나는\n예쁜{ff}꽃밭이 있다<END>
+[WORLD01_AREA065.EMI|sec11|body32|@0x3f3|56B] 꽃밭에\n요정의 마을이\n반응하고 있다>>{02}{c05:02}요정의 마을{06}을\n사용할까요?{c14:00}{c0c:02}네<END>

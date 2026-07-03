@@ -1,0 +1,21 @@
+[WORLD03_AREA116.EMI|sec11|body0|@0x27b|124B] 그게{fe}이{ff}멋들어진 집이랑\n광차 소리가\n애처롭게{ff}울리는 이 땅의>{02}대출금{fc}을{ff}못 갚게\n돼버려서요>>{02}10000제니{fc}쯤{ff}주시면\n제 마법을{ff}뭐든\n가르쳐 드리는데{fe}어때요?{c14:00}{c0c:12}10000제니{fc}{ff}준다<END>
+[WORLD03_AREA116.EMI|sec11|body1|@0x2fc|81B] 하나{fe}<PAUSE>둘{fe}<PAUSE>셋>{02}오오@{fe}진짜로\n10000제니{fc} 있구나@\n말해 보는 게{ff}최고야@{02}>그럼{ff}약속대로\n마법을{ff}가르쳐 드리죠<END>
+[WORLD03_AREA116.EMI|sec11|body2|@0x34d|49B] ><PAUSE>><PAUSE>>이런\n10000제니{fc}에는\n모자라는 것 같네요{02}그래요>\n그럼{fe}또 언젠가<END>
+[WORLD03_AREA116.EMI|sec11|body3|@0x36c|18B] 그래요>\n그럼{fe}또 언젠가<END>
+[WORLD03_AREA116.EMI|sec11|body4|@0x37e|13B] *아아{fe}오랜만이네요<END>
+[WORLD03_AREA116.EMI|sec11|body5|@0x38b|31B] {c15:1e}말고{ff}또 누군가\n마법을{ff}배우고 싶답니까?{c14:01}{c0c:02}네<END>
+[WORLD03_AREA116.EMI|sec11|body6|@0x3ae|25B] 응?\n다들{ff}이미\n저한테서{ff}배우고 있는데요<END>
+[WORLD03_AREA116.EMI|sec11|body7|@0x3c7|28B] 혹시>\n배우는 걸{ff}그만두고 싶답니까?{c14:02}{c0c:02}네<END>
+[WORLD03_AREA116.EMI|sec11|body8|@0x3e7|30B] >저한테{ff}배우는 사람은\n한 명도 없는데요?<END>
+[WORLD03_AREA116.EMI|sec11|body9|@0x405|31B] *그럼{ff}{c07:00}{ff}에게\n앞으로{ff}마법을 가르쳐 드리죠@<END>
+[WORLD03_AREA116.EMI|sec11|body10|@0x424|33B] 그 밖에도\n마법을{ff}배우고 싶은 사람이\n있나요?{c14:03}{c0c:02}네<END>
+[WORLD03_AREA116.EMI|sec11|body11|@0x449|34B] *그럼{fe}아쉽지만>\n{c07:00}{ff}은{ff}독학으로\n힘내 주세요<END>
+[WORLD03_AREA116.EMI|sec11|body12|@0x46b|30B] 그 밖에{fe}배우는 걸\n그만두고 싶은 사람{ff}있나요?{c14:04}{c0c:02}네<END>
+[WORLD03_AREA116.EMI|sec11|body13|@0x48d|65B] *{c07:00}{ff}은\n제 마법을{ff}꽤\n이해하게 된{ff} 것 같네요>{02}이 마법을{ff}가르쳐 드리죠@{02}{c05:02}{c07:01}{06}을{ff}배웠다@<END>
+[WORLD03_AREA116.EMI|sec11|body14|@0x4ce|16B] 누가{ff}제자가 되나요?<END>
+[WORLD03_AREA116.EMI|sec11|body15|@0x4de|16B] 누가{ff}제자를 그만두나요?<END>
+[WORLD03_AREA116.EMI|sec11|body16|@0x4ee|23B] 이 사람으로{ff}하시겠어요?{ff}{ff}네{ff}아니요<END>
+[WORLD03_AREA116.EMI|sec11|body17|@0x505|22B] 그만두시겠어요?{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}{ff}네{ff}아니요<END>
+[WORLD03_AREA116.EMI|sec11|body18|@0x51b|56B] *이봐{fe}저 커다란\n골렘을\n어떻게든{ff}좀 해줘@{02}먹이값이{fe}얼마나\n드는지 알기나 해@?<END>
+[WORLD03_AREA116.EMI|sec11|body19|@0x553|49B] *한라광렬대무회가\n없어져서>{02}아빠{fe}돈을{ff}못 벌게\n돼버렸어><END>
+[WORLD03_AREA116.EMI|sec11|body20|@0x584|63B] *에미타이{fe}대단해@@\n에미타이{fe}강해@@@\n에미<PAUSE>타<PAUSE>이{fe}<PAUSE>멋<PAUSE><PAUSE>지<PAUSE><PAUSE>>대<PAUSE>박<PAUSE>><PAUSE><PAUSE>{02}>>에너지가 떨어진 걸까?<END>

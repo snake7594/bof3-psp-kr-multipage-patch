@@ -1,0 +1,3 @@
+[WORLD04_AREA166.EMI|sec11|body0|@0x200|32B] 기계로{ff}잠겨 있다@\n{c04:04}로도\n열 수 없을 것 같다<END>
+[WORLD04_AREA166.EMI|sec11|body1|@0x220|27B] 침대가 있다@\n여기라면{ff}쉴 수 있겠다{c14:00}{c0c:02}쉰다<END>
+[WORLD04_AREA166.EMI|sec11|body2|@0x23f|32B] {ff}\n메뉴{fc}를{ff}골라 주세요{c14:01}{c0c:25}동료 교체<END>

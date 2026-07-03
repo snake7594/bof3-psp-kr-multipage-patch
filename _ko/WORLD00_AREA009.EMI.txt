@@ -1,0 +1,13 @@
+[WORLD00_AREA009.EMI|sec11|body0|@0x4b|60B] {c0c:81}{10}{ff}\n{ff}{ff}{ff}{ff}{ff}시{fc}다 숲{11}{c16:50}{c0c:05}*이런@\n오랜만의{ff}사냥감이@{c16:20}{c0c:06}*어이구>{ff}<PAUSE>재밌네<END>
+[WORLD00_AREA009.EMI|sec11|body1|@0x5e|41B] {c0c:05}*이런@\n오랜만의{ff}사냥감이@{c16:20}{c0c:06}*어이구>{ff}<PAUSE>재밌네<END>
+[WORLD00_AREA009.EMI|sec11|body2|@0x77|16B] {c0c:06}*어이구>{ff}<PAUSE>재밌네<END>
+[WORLD00_AREA009.EMI|sec11|body3|@0x87|18B] {c0c:06}*방금 그 소리는{fe}너희냐?<END>
+[WORLD00_AREA009.EMI|sec11|body4|@0x99|27B] {c0c:06}*덕분에{fe}사냥감을\n놓쳤잖아><END>
+[WORLD00_AREA009.EMI|sec11|body5|@0xb4|13B] *쓰러진 행려병자{fe}라><END>
+[WORLD00_AREA009.EMI|sec11|body6|@0xc1|22B] *뭐{fe}요새는\n드물지도 않{fe}지><END>
+[WORLD00_AREA009.EMI|sec11|body7|@0xd7|21B] *>>이런 거{fe}주워서\n돌아가도 말이지<END>
+[WORLD00_AREA009.EMI|sec11|body8|@0xec|24B] *>>먹여 살릴 만한\n식량도{fe}없는데 말이야<END>
+[WORLD00_AREA009.EMI|sec11|body9|@0x104|25B] {c0c:05}*으으>>{c16:20}{c0c:06}*칫{fe}<PAUSE>알았다고><END>
+[WORLD00_AREA009.EMI|sec11|body10|@0x10d|16B] {c0c:06}*칫{fe}<PAUSE>알았다고><END>
+[WORLD00_AREA009.EMI|sec11|body11|@0x11d|30B] *이{fe}{c04:04}님이\n주워 줄 테니까>{02}감사하라고>><END>
+[WORLD00_AREA009.EMI|sec11|body12|@0x13b|29B] {c0c:05}*조금만 더 하면 됐는데>\n무슨 소리야{fe}정말{c16:20}

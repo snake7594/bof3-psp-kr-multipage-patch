@@ -1,0 +1,1 @@
+[WORLD04_AREA169.EMI|sec11|body0|@0x200|26B] 피로가{ff}풀리고\n체력이{ff}넘쳐나는 느낌이야><END>

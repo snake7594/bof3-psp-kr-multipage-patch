@@ -1,0 +1,2 @@
+[WORLD01_AREA062.EMI|sec11|body0|@0x231|16B] *돈 되는 물건은{fe} 없을까><END>
+[WORLD01_AREA062.EMI|sec11|body1|@0x241|50B] *돈 되는 물건이{fe} 좋다니\n까마귀 같은 녀석이네{02}아니{fe} 뭐{ff} 나도\n엄청 좋아하지만말야><END>

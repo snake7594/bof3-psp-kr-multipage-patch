@@ -1,0 +1,30 @@
+[WORLD00_AREA024.EMI|sec12|body0|@0x20c|174B] {c0c:06}모{fc}그\n*확인{fe}오케이>{c16:20}기리{fc}\n*>이런 건{fe}보기 드문데\n알의 유령인가?{c16:20}{c0c:06}모{fc}그\n*가끔{fe}보긴 해>>\n새끼 드래곤이{ff}든 놈{c16:20}기리{fc}\n*흐{fc}응>>{c16:20}{c0c:06}모{fc}그\n*자{fe}어서 하자고>{c16:20}{c0c:06}기리{fc}\n*><PAUSE>><PAUSE>>이게 무슨 일이야\n사>{fe}살아 있잖아@?{c16:20}{c0c:06}모{fc}그\n*우>{fe}<PAUSE><PAUSE>{0d}으악{c15:07}{c15:07}@@{0e}{0f}<END>
+[WORLD00_AREA024.EMI|sec12|body1|@0x21f|155B] 기리{fc}\n*>이런 건{fe}보기 드문데\n알의 유령인가?{c16:20}{c0c:06}모{fc}그\n*가끔{fe}보긴 해>>\n새끼 드래곤이{ff}든 놈{c16:20}기리{fc}\n*흐{fc}응>>{c16:20}{c0c:06}모{fc}그\n*자{fe}어서 하자고>{c16:20}{c0c:06}기리{fc}\n*><PAUSE>><PAUSE>>이게 무슨 일이야\n사>{fe}살아 있잖아@?{c16:20}{c0c:06}모{fc}그\n*우>{fe}<PAUSE><PAUSE>{0d}으악{c15:07}{c15:07}@@{0e}{0f}<END>
+[WORLD00_AREA024.EMI|sec12|body2|@0x23e|124B] {c0c:06}모{fc}그\n*가끔{fe}보긴 해>>\n새끼 드래곤이{ff}든 놈{c16:20}기리{fc}\n*흐{fc}응>>{c16:20}{c0c:06}모{fc}그\n*자{fe}어서 하자고>{c16:20}{c0c:06}기리{fc}\n*><PAUSE>><PAUSE>>이게 무슨 일이야\n사>{fe}살아 있잖아@?{c16:20}{c0c:06}모{fc}그\n*우>{fe}<PAUSE><PAUSE>{0d}으악{c15:07}{c15:07}@@{0e}{0f}<END>
+[WORLD00_AREA024.EMI|sec12|body3|@0x261|89B] 기리{fc}\n*흐{fc}응>>{c16:20}{c0c:06}모{fc}그\n*자{fe}어서 하자고>{c16:20}{c0c:06}기리{fc}\n*><PAUSE>><PAUSE>>이게 무슨 일이야\n사>{fe}살아 있잖아@?{c16:20}{c0c:06}모{fc}그\n*우>{fe}<PAUSE><PAUSE>{0d}으악{c15:07}{c15:07}@@{0e}{0f}<END>
+[WORLD00_AREA024.EMI|sec12|body4|@0x26d|77B] {c0c:06}모{fc}그\n*자{fe}어서 하자고>{c16:20}{c0c:06}기리{fc}\n*><PAUSE>><PAUSE>>이게 무슨 일이야\n사>{fe}살아 있잖아@?{c16:20}{c0c:06}모{fc}그\n*우>{fe}<PAUSE><PAUSE>{0d}으악{c15:07}{c15:07}@@{0e}{0f}<END>
+[WORLD00_AREA024.EMI|sec12|body5|@0x280|58B] {c0c:06}기리{fc}\n*><PAUSE>><PAUSE>>이게 무슨 일이야\n사>{fe}살아 있잖아@?{c16:20}{c0c:06}모{fc}그\n*우>{fe}<PAUSE><PAUSE>{0d}으악{c15:07}{c15:07}@@{0e}{0f}<END>
+[WORLD00_AREA024.EMI|sec12|body6|@0x2a1|25B] {c0c:06}모{fc}그\n*우>{fe}<PAUSE><PAUSE>{0d}으악{c15:07}{c15:07}@@{0e}{0f}<END>
+[WORLD00_AREA024.EMI|sec12|body7|@0x2bc|12B] 꿈쩍도 안 하네><END>
+[WORLD00_AREA024.EMI|sec12|body10|@0x2c8|8B] 대답이 없어><END>
+[WORLD00_AREA024.EMI|sec12|body11|@0x2d0|47B] {c0c:06}*으윽@{c16:10}{c0c:06}*드{fe}드래곤인가>?{02}사>{ff}<PAUSE>살아 있는\n드래곤인 건가?{c14:00}{c0c:02}네<END>
+[WORLD00_AREA024.EMI|sec12|body12|@0x2d9|38B] {c0c:06}*드{fe}드래곤인가>?{02}사>{ff}<PAUSE>살아 있는\n드래곤인 건가?{c14:00}{c0c:02}네<END>
+[WORLD00_AREA024.EMI|sec12|body13|@0x303|75B] *드드드 드래곤이다{c15:07}{c15:07}@@{c16:20}{c0c:04}*드래곤이라고@?{c16:10}{c0c:05}*큰일 났다@{ff}도망쳐@{c16:10}*칫{fe}쫄 것 없어\n해치워 버려@{c16:20}탄내가 나><END>
+[WORLD00_AREA024.EMI|sec12|body14|@0x314|58B] {c0c:04}*드래곤이라고@?{c16:10}{c0c:05}*큰일 났다@{ff}도망쳐@{c16:10}*칫{fe}쫄 것 없어\n해치워 버려@{c16:20}탄내가 나><END>
+[WORLD00_AREA024.EMI|sec12|body15|@0x322|44B] {c0c:05}*큰일 났다@{ff}도망쳐@{c16:10}*칫{fe}쫄 것 없어\n해치워 버려@{c16:20}탄내가 나><END>
+[WORLD00_AREA024.EMI|sec12|body16|@0x332|28B] *칫{fe}쫄 것 없어\n해치워 버려@{c16:20}탄내가 나><END>
+[WORLD00_AREA024.EMI|sec12|body17|@0x347|7B] 탄내가 나><END>
+[WORLD00_AREA024.EMI|sec12|body18|@0x34e|11B] 죽은 모양이다><END>
+[WORLD00_AREA024.EMI|sec12|body19|@0x359|35B] {c0c:06}*으악@{ff}<PAUSE>너 뭐야>\n귀신이 되어 나타난 거냐@?{c14:01}{c0c:02}네<END>
+[WORLD00_AREA024.EMI|sec12|body20|@0x380|20B] *과{fe}괴물 같으니@@{c16:10}안 움직여><END>
+[WORLD00_AREA024.EMI|sec12|body21|@0x38d|7B] 안 움직여><END>
+[WORLD00_AREA024.EMI|sec12|body22|@0x394|10B] 송장 같다><END>
+[WORLD00_AREA024.EMI|sec12|body23|@0x39e|24B] *와{fe}왔다아@@{c16:10}*사><PAUSE><PAUSE><PAUSE>{ff}살려 줘><END>
+[WORLD00_AREA024.EMI|sec12|body24|@0x3a9|13B] *사><PAUSE><PAUSE><PAUSE>{ff}살려 줘><END>
+[WORLD00_AREA024.EMI|sec12|body25|@0x3b6|36B] *시체를{fe}파헤쳐서\n벌을{ff}받은 거야>\n부들부들부들<END>
+[WORLD00_AREA024.EMI|sec12|body26|@0x3da|26B] *머>{fe}먹지 마@\n부>{fe}불 뿜지 마{c15:07}@<END>
+[WORLD00_AREA024.EMI|sec12|body27|@0x3f4|25B] *와아@{ff}들켰다@@\n끄>{fe}끄>{fe}끝장이다@<END>
+[WORLD00_AREA024.EMI|sec12|body28|@0x40d|9B] *무>{fe}무>{fe}무서워<END>
+[WORLD00_AREA024.EMI|sec12|body29|@0x416|25B] *{0d}허허허리가{fe}허리가{0e}{0f}{02}\n풀려풀려풀렸다<END>
+[WORLD00_AREA024.EMI|sec12|body30|@0x42f|25B] *으악{c15:07}{c15:07}{c15:07}{c15:07}\n나는{fe}맛없다고@@<END>
+[WORLD00_AREA024.EMI|sec12|body31|@0x448|25B] *밖이{fe}시끄럽네>\n무슨 일{ff}있었나?<END>

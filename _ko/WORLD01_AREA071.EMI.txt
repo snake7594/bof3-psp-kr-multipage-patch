@@ -1,0 +1,20 @@
+[WORLD01_AREA071.EMI|sec11|body0|@0x224|21B] 여기서 빠져나가긴\n무리인 것 같아>><END>
+[WORLD01_AREA071.EMI|sec11|body1|@0x239|27B] {c04:01}\n*>>안 되겠어\n어디로도{ff}내려갈 수가 없어<END>
+[WORLD01_AREA071.EMI|sec11|body2|@0x254|19B] {c0c:05}산토\n*{0d}바로 그{c15:07}거야@{0e}{0f}{09}<END>
+[WORLD01_AREA071.EMI|sec11|body3|@0x267|28B] 산토\n*포기하시{c15:07}지\n이제{fe}도망칠 곳은{ff}없어@<END>
+[WORLD01_AREA071.EMI|sec11|body4|@0x283|61B] 산토\n*그만둬라{fe}꼬맹아>{02}산 아래로 내려가는 길은\n부하들이{ff}막아놨다>{02}너희한테는{ff}승산이\n없어@<END>
+[WORLD01_AREA071.EMI|sec11|body5|@0x2c0|74B] 산토\n*너희가{fe}아무리\n도망치려 해도>{02}결국엔{ff}우리\n뜻대로{ff}되는 거야>{02}그게{fe}세상이란\n거다<END>
+[WORLD01_AREA071.EMI|sec11|body6|@0x30a|22B] {c0c:06}{c04:01}\n*멋대로{ff}지껄이지 마@<END>
+[WORLD01_AREA071.EMI|sec11|body7|@0x320|20B] {c0c:06}{c04:01}\n*{c04:00}>>\n뛰어내리자<END>
+[WORLD01_AREA071.EMI|sec11|body8|@0x334|17B] {c0c:05}산토\n*뭐{fe}뭐라고@?<END>
+[WORLD01_AREA071.EMI|sec11|body9|@0x345|48B] {c0c:05}산토\n*안 되애애{c15:07}@@{02}왕녀가 죽으면\n형님한테{ff}혼나아아{c15:07}@@<END>
+[WORLD01_AREA071.EMI|sec11|body10|@0x375|18B] 산토\n*이게 무슨 일이냐아{c15:07}@@<END>
+[WORLD01_AREA071.EMI|sec11|body11|@0x387|13B] {c04:01}\n*응>{ff}으응>><END>
+[WORLD01_AREA071.EMI|sec11|body12|@0x394|8B] {c04:01}\n*{c04:00}@<END>
+[WORLD01_AREA071.EMI|sec11|body13|@0x39c|62B] {c04:01}\n*>>{c04:00}?{02}어쩌지{fe}나>\n저놈들한테{ff}잡힐 바엔\n뛰어내리려고>{02}>근데{fe}{c04:00}가\n이렇게><PAUSE>><PAUSE>><END>
+[WORLD01_AREA071.EMI|sec11|body14|@0x3da|10B] {c04:01}\n*{c04:00}>>?<END>
+[WORLD01_AREA071.EMI|sec11|body15|@0x3e4|18B] {c04:01}\n*{c04:00}>>\n괜찮아@?<END>
+[WORLD01_AREA071.EMI|sec11|body16|@0x3f6|36B] {c04:01}\n*다{fe}다행이야>>{02}나{fe}무모한 짓만 하다가\n{c04:00}가><PAUSE>><PAUSE>><END>
+[WORLD01_AREA071.EMI|sec11|body17|@0x41a|47B] {c04:01}\n*응>>\n난{ff}괜찮아>{02}{c04:00}가>\n드래곤이 되어서\n지켜줬으니까><END>
+[WORLD01_AREA071.EMI|sec11|body18|@0x449|32B] {c04:01}\n*고마워{fe}{c04:00}{02}이{ff}보답은\n언젠가{ff}꼭 할게<END>
+[WORLD01_AREA071.EMI|sec11|body19|@0x469|46B] {c04:01}\n*자{fe}가자@{02}여기까지 왔으니\n반드으{c15:07}시\n도망쳐야 해{fe}<PAUSE>알았지<END>

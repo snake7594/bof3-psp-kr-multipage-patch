@@ -1,0 +1,6 @@
+[WORLD00_AREA034.EMI|sec11|body0|@0x20a|39B] {ff}{ff}{ff}여기는{fe}B3입니다\n{ff}{ff}리프트를 타시겠습니까?{c14:00}{c0c:13}B1로 이동한다<END>
+[WORLD00_AREA034.EMI|sec11|body1|@0x241|34B] {c0c:05}{c04:02}\n*여기가>{ff}네가>\n태어난 곳{fe}인 모양이군<END>
+[WORLD00_AREA034.EMI|sec11|body2|@0x263|32B] {c0c:05}{c04:02}\n*여기 강한 용의 기운이\n{c04:00}을{ff}부른 건가><END>
+[WORLD00_AREA034.EMI|sec11|body3|@0x283|78B] {c0c:81}{ff}{ff}{ff}{ff}{ff}그래>>{c16:30}{c0c:81}{ff}{ff}{ff}내가{fe}불렀다>{c16:30}바이스\n*흠{fe}<PAUSE>용케 여기를\n알아냈군>{02}내 패배다\n윈디아에서{ff}다시 만나자<END>
+[WORLD00_AREA034.EMI|sec11|body4|@0x291|64B] {c0c:81}{ff}{ff}{ff}내가{fe}불렀다>{c16:30}바이스\n*흠{fe}<PAUSE>용케 여기를\n알아냈군>{02}내 패배다\n윈디아에서{ff}다시 만나자<END>
+[WORLD00_AREA034.EMI|sec11|body5|@0x2a3|46B] 바이스\n*흠{fe}<PAUSE>용케 여기를\n알아냈군>{02}내 패배다\n윈디아에서{ff}다시 만나자<END>
