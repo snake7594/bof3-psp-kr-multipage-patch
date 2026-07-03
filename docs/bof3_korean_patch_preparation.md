@@ -1,45 +1,30 @@
-# BOF3 Korean Patch Preparation
+# BOF3 한글패치 준비 기록
 
-## Source
+## 원본
 
-- Clean ISO: `C:\Users\Jae Ho Lee\Pictures\psp\roms\BOF3\Breath of Fire III.iso`
-- ISO size: `403,963,904` bytes
-- ISO SHA-256: `861C0209A0E2702928A7DECE3C0351C4A9675135AA94BB473A6ABAD24462DCD6`
-- Prior analysis tree: `C:\Users\Jae Ho Lee\Pictures\psp\roms\Breath of Fire III`
+- 깨끗한 ISO: `C:\Users\Jae Ho Lee\Pictures\psp\roms\BOF3\Breath of Fire III.iso`
+- ISO 크기: `403,963,904` bytes
+- ISO MD5: `C7081C9C0865ECAEB6F4D2A42F865528`
+- 기존 분석 트리: `C:\Users\Jae Ho Lee\Pictures\psp\roms\Breath of Fire III`
 
-## Prepared Working Tree
+## 작업 트리
 
-- Patch tree: `C:\Users\Jae Ho Lee\Documents\Codex\2026-07-03\c-users-jae-ho-lee-pictures\work\bof3_patch_prep\patch_tree`
-- ISO extraction: `1,846` files, `343,535,569` bytes of file payload
-- Translation assets copied: `_ko`, font assets, codec/injection/build scripts, compact maps/tables
+- 패치 작업 트리: `work\bof3_patch_prep\patch_tree`
+- ISO 추출 파일: 1,846개
+- 복사한 자산: `_ko`, 폰트 자산, codec/injection/build 스크립트, 매핑 데이터
 
-## Applied Steps
+## 진행 순서
 
-1. Extracted the clean ISO with `pycdlib`.
-2. Copied the existing Korean patch toolchain and translation assets from the prior analysis tree.
-3. Created clean `BOOT.BIN.orig` and `EBOOT.BIN.orig` from the ISO extraction.
-4. Ran `python inject_all.py`.
-   - Result: `199` EMI files injected, `7,799` bodies, `0` encode failures.
-5. Ran `python build_eboot.py`.
-   - Result: `BOOT_mulmaru.BIN`, `5,086,709` bytes.
-   - Menu pools patched: main menu `4`, sort `1`, battle command `1`, status `5`.
-6. Deployed generated/reused assets:
-   - `BOOT_mulmaru.BIN` -> `PSP_GAME\SYSDIR\EBOOT.BIN`
-   - `ENDKANJI_mulmaru.EMI` -> `PSP_GAME\USRDIR\JPN\ETC\ENDKANJI.EMI`
-   - `FIRST_mulmaru.EMI` -> `PSP_GAME\USRDIR\JPN\ETC\FIRST.EMI`
-   - `BATL_RET_mulmaru.EMI` -> `PSP_GAME\USRDIR\JPN\BATTLE\BATL_RET.EMI`
-7. Added and ran `apply_manual_final_diffs.py` for the two small final-state byte edits missing from the automated pipeline:
-   - `BATTLE\BATTLE2.EMI` at `0x05CA69`, 3 bytes
-   - `ETC\AFLDKWA.EMI` at `0x0018FB`, 9 bytes
+1. 깨끗한 ISO를 `pycdlib`로 추출했습니다.
+2. 기존 한글패치 분석 트리에서 번역/도구/폰트 자산을 복사했습니다.
+3. ISO에서 추출한 원본 `BOOT.BIN`, `EBOOT.BIN`, `ENDKANJI.EMI`를 `.orig`로 보존했습니다.
+4. 기존 조합형 경로를 재현해 이전 분석 결과와 같은 패치 트리를 만들었습니다.
+5. 조합형의 표시 문제를 피하기 위해 완성형 한글 경로를 새로 구성했습니다.
+6. 441자 완성형 안정안을 만든 뒤, 추가 폰트 페이지 접근 실험으로 확장했습니다.
 
-## Verification
+## 현재 결론
 
-- Compared the prepared `PSP_GAME` against the prior final patched `PSP_GAME`.
-- Excluded only backup files that exist in the old tree: `*.EMI.orig`, `BOOT.BIN.orig`, `EBOOT.BIN.orig`.
-- Result: `1,845 / 1,845` files matched, `0` missing, `0` extra, `0` hash differences.
-
-## Notes
-
-- The clean ISO was not modified.
-- A rebuilt patched ISO was not generated in this step; the prepared output is a patched `PSP_GAME` tree plus reproducible scripts.
-- Existing text/menu logs contain mojibake in several notes, but this preparation mirrors the prior final patched binary state exactly.
+- 441자만으로는 모든 대사를 무손실 수용할 수 없습니다.
+- 기호/가나 영역을 최대한 활용하면 약 656자까지 가능합니다.
+- 추가 페이지 접근 실험을 통해 1,323칸을 확보했고, 현재 번역의 1,147자를 전부 수용했습니다.
+- 현재 배포는 ISO용 xdelta 패치 방식입니다.

@@ -4,3 +4,5 @@
 *.md text eol=lf
 *.pfp text eol=lf
 *.png binary
+*.xdelta binary
+*.exe binary
