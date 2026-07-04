@@ -9,17 +9,17 @@
 
 ## 패치 후 ISO
 
-- 파일명: `BOF3_KR_fontimage_v0.4.0-alpha.iso`
-- 크기: `404,299,776` bytes
-- MD5: `71A58003F1CDB23AD637E0C12925E502`
-- SHA-256: `8A3A7EAE9F8EC2A69784B6B8BF3CDEBEDE02A581738D9F568B5FF4AA0A40BB5E`
+- 파일명: `BOF3_KR_fontimage_v0.4.1-alpha.iso`
+- 크기: `404,201,472` bytes
+- MD5: `CF9AC1D9061203F20F51DF97BA5B9DF1`
+- SHA-256: `1D0C54BBCBF6CF54B5CAB6E5AFC3777E9C1AAC531BCFB46CC580792D4EB4EA10`
 
 ## xdelta 패치
 
-- 파일명: `BOF3_KR_fontimage_v0.4.0-alpha.iso.xdelta`
-- 크기: `68,302,545` bytes
-- MD5: `C13E96FB086B3030CE706C9ECACE084D`
-- SHA-256: `AE08F230B4509346DED829627A7B33890F9B4514495F01F5013D1590BCB82F93`
+- 파일명: `BOF3_KR_fontimage_v0.4.1-alpha.iso.xdelta`
+- 크기: `68,183,685` bytes
+- MD5: `65B5BB275DE07EAB1BCB127BB964AD74`
+- SHA-256: `77C6017FC388C76F0676C6E8E1F979B38DE38E1088E4FC09646FFE7BBC9E6E5D`
 
 ## xdelta 실행 파일
 
@@ -30,4 +30,4 @@
 
 ## 검증
 
-`xdelta.exe -d -s "Breath of Fire III.iso" "BOF3_KR_fontimage_v0.4.0-alpha.iso.xdelta" "BOF3_KR_fontimage_v0.4.0-alpha.iso"` 명령으로 복원한 ISO의 MD5가 `71A58003F1CDB23AD637E0C12925E502`임을 확인했습니다.
+`xdelta.exe -d -s "Breath of Fire III.iso" "BOF3_KR_fontimage_v0.4.1-alpha.iso.xdelta" "BOF3_KR_fontimage_v0.4.1-alpha.iso"` 명령으로 복원한 ISO의 MD5가 `CF9AC1D9061203F20F51DF97BA5B9DF1`임을 확인했습니다.

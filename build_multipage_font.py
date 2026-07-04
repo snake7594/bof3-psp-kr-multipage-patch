@@ -198,7 +198,7 @@ def align800(n: int) -> int:
 
 
 def patch_aux_font(src: Path, out_path: Path, page_blobs: list[bytes]) -> None:
-    """Patch font-bearing EMI files that load the same texture pages as ENDKANJI."""
+    """Patch existing font pages without growing startup/battle font EMI files."""
     data = bytearray(src.read_bytes())
     count = struct.unpack_from("<I", data, 0)[0]
     starts = {}
@@ -219,17 +219,6 @@ def patch_aux_font(src: Path, out_path: Path, page_blobs: list[bytes]) -> None:
             first4 = struct.unpack_from("<I", blob, 0)[0]
             struct.pack_into("<IIIH2s", data, idx * 16, SEC_SIZE, ram, first4, kind, b"..")
             continue
-
-        count += 1
-        header_off = count * 16
-        if header_off + 16 > HDR:
-            raise RuntimeError(f"{src}: no room for extra section header")
-        off = align800(len(data))
-        if len(data) < off:
-            data += b"\x00" * (off - len(data))
-        first4 = struct.unpack_from("<I", blob, 0)[0]
-        struct.pack_into("<IIIH2s", data, header_off, SEC_SIZE, ram, first4, 3, b"..")
-        data += blob
 
     struct.pack_into("<I", data, 0, count)
     out_path.write_bytes(data)
