@@ -1,12 +1,12 @@
 """Encode a markup string (decoder format + Korean) back into BoF3 text bytes.
-Inverse of bof3_codec.decode, extended for Korean (compact 2-byte tokens).
+Inverse of bof3_codec.decode, extended for Korean 2-byte font-image tokens.
 Markup tokens (as emitted by decoder):
   \n            -> 0x01 (newline)
   <END>         -> 0x00 ;  <PAUSE> -> 0x0b ;  <BOX> -> 0x20
   {cXX:NN}      -> bytes 0xXX 0xNN  (2-byte control + operand)
   {XX}          -> single byte 0xXX (e.g. {ff} space, {fe} comma, {02} new-box, {0d}..)
   ' ' (space)   -> 0xff (full-width space) ; ',' -> 0xfe
-  Korean syllable -> LEAD + compact_idx[syllable]  (needs cmap)
+  Korean syllable -> LEAD + glyph_idx[syllable]  (needs cmap)
   hiragana/katakana -> kana byte (reverse table)   [for round-trip of JP]
   kanji char    -> 2-byte 0x12/0x13 token (reverse KANJI table)
   other ASCII 0x20-0x7e -> that byte
@@ -17,10 +17,10 @@ import bof3_codec as C
 KANA_REV={v:k for k,v in C.KANA.items()}
 KANJI_REV={v:k for k,v in C.KANJI.items()}   # char -> code (0x1200..)
 SB=0xAC00; LEAD=0x12
-LEADS=[0x12,0x13,0x1e,0x1f,0x20,0x21,0x23,0x24]   # 8 bank leads (must match build_compact_map.py)
+LEADS=[0x12,0x13,0x1e,0x1f,0x23,0x24]   # expanded precomposed font pages
 
 def encode(markup, cmap=None, space=0xff):
-    """cmap: dict syllable->compact_idx (multi-bank: token = LEADS[idx//256] + idx%256). Returns bytes."""
+    """cmap: dict syllable->glyph_idx (multi-bank: token = LEADS[idx//256] + idx%256). Returns bytes."""
     out=bytearray(); i=0; n=len(markup)
     while i<n:
         ch=markup[i]

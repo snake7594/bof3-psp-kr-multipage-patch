@@ -1,4 +1,4 @@
-"""Run the experimental multipage precomposed-font pipeline."""
+"""Run the expanded precomposed-font-image pipeline."""
 import shutil
 import subprocess
 import sys
@@ -20,7 +20,7 @@ def main():
     run(["inject_multipage.py"])
     if Path("apply_manual_final_diffs.py").exists():
         run(["apply_manual_final_diffs.py"])
-    print("multipage pipeline complete")
+    print("font-image pipeline complete")
 
 
 if __name__ == "__main__":

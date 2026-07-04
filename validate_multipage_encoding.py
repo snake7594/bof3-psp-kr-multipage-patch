@@ -1,4 +1,4 @@
-"""Validate that `_ko` can be encoded by the experimental multipage map."""
+"""Validate that `_ko` can be encoded by the precomposed font-image map."""
 import json
 import os
 import re

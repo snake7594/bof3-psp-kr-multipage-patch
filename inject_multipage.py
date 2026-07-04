@@ -1,4 +1,4 @@
-"""Inject original `_ko` text using the experimental multipage Hangul map."""
+"""Inject original `_ko` text using the expanded precomposed Hangul map."""
 import json
 import os
 import re
@@ -122,7 +122,7 @@ def main():
         indent=2,
     )
     print(
-        "multipage injected: %d EMI files, %d bodies, %d encode-fails"
+        "font-image injected: %d EMI files, %d bodies, %d encode-fails"
         % (total_files, total_bodies, len(failures))
     )
 

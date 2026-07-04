@@ -1,4 +1,4 @@
-"""Prepare clean files and run the current BoF3 PSP Korean multipage patch."""
+"""Prepare clean files and run the current BoF3 PSP Korean font-image patch."""
 from pathlib import Path
 import shutil
 import subprocess

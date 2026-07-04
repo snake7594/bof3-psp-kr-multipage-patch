@@ -1,23 +1,25 @@
-# BOF3 PSP 한글패치 v0.2.0-alpha 체크섬
+# 체크섬
 
 ## 원본 ISO
 
 - 파일명: `Breath of Fire III.iso`
 - 크기: `403,963,904` bytes
 - MD5: `C7081C9C0865ECAEB6F4D2A42F865528`
+- SHA-256: `861C0209A0E2702928A7DECE3C0351C4A9675135AA94BB473A6ABAD24462DCD6`
 
 ## 패치 후 ISO
 
-- 파일명: `BOF3_KR_multipage_v0.2.0-alpha.iso`
+- 파일명: `BOF3_KR_fontimage_v0.3.0-alpha.iso`
 - 크기: `404,197,376` bytes
-- MD5: `065E6C0E4554B96883733E1308C57670`
+- MD5: `F56F7BE465B394B84C5F8F41932D94BA`
+- SHA-256: `C22B082BCEED9A08F62A005241AC95C87FE2FA0F586F57C6E4372ABAD54F011B`
 
 ## xdelta 패치
 
-- 파일명: `BOF3_KR_multipage_v0.2.0-alpha.iso.xdelta`
-- 크기: `67,627,896` bytes
-- MD5: `05EA524127FBE24323EBE9C231D14555`
-- SHA-256: `8CD86737EA5E296CB24BFF93FA7EA60492FC891AF1804E80E0E5242CB12A2139`
+- 파일명: `BOF3_KR_fontimage_v0.3.0-alpha.iso.xdelta`
+- 크기: `68,196,538` bytes
+- MD5: `FAEAC34861AA2412F2BF4482DFF81374`
+- SHA-256: `50C44FF16042493E6AD6B38FFC117A13EB60D1EF324E5C5E48DA9F9344C97480`
 
 ## xdelta 실행 파일
 
@@ -28,4 +30,4 @@
 
 ## 검증
 
-`xdelta.exe -d -s "Breath of Fire III.iso" "BOF3_KR_multipage_v0.2.0-alpha.iso.xdelta" "BOF3_KR_multipage_v0.2.0-alpha.iso"` 명령으로 복원한 ISO의 MD5가 `065E6C0E4554B96883733E1308C57670`임을 확인했습니다.
+`xdelta.exe -d -s "Breath of Fire III.iso" "BOF3_KR_fontimage_v0.3.0-alpha.iso.xdelta" "BOF3_KR_fontimage_v0.3.0-alpha.iso"` 명령으로 복원한 ISO의 MD5가 `F56F7BE465B394B84C5F8F41932D94BA`임을 확인했습니다.

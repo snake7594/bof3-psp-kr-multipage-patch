@@ -7,10 +7,10 @@ Pool kinds:
 All instances of a pool are found by its JP byte signature, so duplicated tables are patched too.
 patch_menus(b) mutates the eboot bytearray in place; returns a textual report.
 """
-import struct, json
+import struct
 import bof3_encode as Enc
 LB=0x80
-CMAP=json.load(open('compact_map.json',encoding='utf-8'))['map']
+CMAP={}
 def enc(s): return Enc.encode(s, cmap=CMAP)
 
 # (label, kind, primary_off, JP-list, KO-list, extra)

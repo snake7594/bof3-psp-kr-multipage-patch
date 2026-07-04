@@ -1,4 +1,4 @@
-"""Build an experimental EBOOT with a multi-page precomposed Hangul handler."""
+"""Build an EBOOT with a multi-page precomposed Hangul font-image handler."""
 import json
 import struct
 from pathlib import Path
@@ -199,7 +199,7 @@ e("ori", "t3", "t3", 0xA250)
 e("subu", "t3", "t2", "t3")
 e("sw", "t3", 0x14, "sp")
 
-# compact_idx = banktbl[lead - 0x12] * 256 + next_byte
+# glyph_idx = banktbl[lead - 0x12] * 256 + next_byte
 e("lbu", "t5", 0, "s3")
 e("addiu", "s3", "s3", 1)
 e("lbu", "a1", 0, "s0")

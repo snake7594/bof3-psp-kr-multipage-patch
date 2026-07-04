@@ -1,9 +1,9 @@
-"""Build an experimental multi-page precomposed Hangul font for BoF3.
+"""Build a multi-page precomposed Hangul font-image set for BoF3.
 
-The stable path uses only ENDKANJI's native kanji page: 441 cells.  This
-experiment keeps that page and appends two more 256x256 4bpp texture pages to
+The original path uses only ENDKANJI's native kanji page: 441 cells.  This
+path keeps that page and appends two more 256x256 4bpp texture pages to
 ENDKANJI.EMI.  A companion EBOOT handler selects the matching texture page and
-draws a normal 12x12 cell.
+draws one precomposed 12x12 cell per Hangul syllable.
 """
 from collections import Counter
 from pathlib import Path
