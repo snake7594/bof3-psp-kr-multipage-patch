@@ -35,6 +35,10 @@ STW = 128
 STH = 512
 PFP = Path("fonts/mulmaru/MulmaruMono.pfp")
 ORIG_FONT = Path("PSP_GAME/USRDIR/JPN/ETC/ENDKANJI.EMI.orig")
+FIRST_FONT = Path("PSP_GAME/USRDIR/JPN/ETC/FIRST.EMI")
+FIRST_ORIG = Path("PSP_GAME/USRDIR/JPN/ETC/FIRST.EMI.orig")
+BATL_RET_FONT = Path("PSP_GAME/USRDIR/JPN/BATTLE/BATL_RET.EMI")
+BATL_RET_ORIG = Path("PSP_GAME/USRDIR/JPN/BATTLE/BATL_RET.EMI.orig")
 
 
 def is_hangul(ch: str) -> bool:
@@ -189,6 +193,48 @@ def build_emi(page_cvs: list[np.ndarray]) -> bytes:
     return bytes(out)
 
 
+def align800(n: int) -> int:
+    return (n + 0x7FF) & ~0x7FF
+
+
+def patch_aux_font(src: Path, out_path: Path, page_blobs: list[bytes]) -> None:
+    """Patch font-bearing EMI files that load the same texture pages as ENDKANJI."""
+    data = bytearray(src.read_bytes())
+    count = struct.unpack_from("<I", data, 0)[0]
+    starts = {}
+    pos = HDR
+    for i in range(1, count + 1):
+        size, ram, _first4, kind, _dots = struct.unpack_from("<IIIH2s", data, i * 16)
+        pos = align800(pos)
+        starts[ram] = (i, pos, size, kind)
+        pos += size
+
+    for page, blob in zip(PAGES, page_blobs):
+        ram = page["ram"]
+        if ram in starts:
+            idx, off, size, kind = starts[ram]
+            if size != SEC_SIZE:
+                raise RuntimeError(f"{src}: section {idx} has unexpected size {size:#x}")
+            data[off : off + SEC_SIZE] = blob
+            first4 = struct.unpack_from("<I", blob, 0)[0]
+            struct.pack_into("<IIIH2s", data, idx * 16, SEC_SIZE, ram, first4, kind, b"..")
+            continue
+
+        count += 1
+        header_off = count * 16
+        if header_off + 16 > HDR:
+            raise RuntimeError(f"{src}: no room for extra section header")
+        off = align800(len(data))
+        if len(data) < off:
+            data += b"\x00" * (off - len(data))
+        first4 = struct.unpack_from("<I", blob, 0)[0]
+        struct.pack_into("<IIIH2s", data, header_off, SEC_SIZE, ram, first4, 3, b"..")
+        data += blob
+
+    struct.pack_into("<I", data, 0, count)
+    out_path.write_bytes(data)
+
+
 def save_preview(page_cvs: list[np.ndarray]) -> None:
     scale = 3
     pad = 18
@@ -215,7 +261,10 @@ def main():
     selected_set = set(selected)
     overflow = [(ch, c) for ch, c in freq.most_common() if ch not in selected_set]
     page_cvs = build_page_cells(selected)
+    page_blobs = [pack4(unreflow_sec(cv)) for cv in page_cvs]
     Path("ENDKANJI_multipage.EMI").write_bytes(build_emi(page_cvs))
+    patch_aux_font(FIRST_ORIG if FIRST_ORIG.exists() else FIRST_FONT, Path("FIRST_fontimage.EMI"), page_blobs)
+    patch_aux_font(BATL_RET_ORIG if BATL_RET_ORIG.exists() else BATL_RET_FONT, Path("BATL_RET_fontimage.EMI"), page_blobs)
     save_preview(page_cvs)
 
     cmap = {ch: slot for slot, ch in enumerate(selected)}

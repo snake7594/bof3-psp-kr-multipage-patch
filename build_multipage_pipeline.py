@@ -15,8 +15,11 @@ def main():
     run(["validate_multipage_encoding.py"])
     run(["build_eboot_multipage.py"])
 
+    shutil.copy("BOOT_multipage.BIN", "PSP_GAME/SYSDIR/BOOT.BIN")
     shutil.copy("BOOT_multipage.BIN", "PSP_GAME/SYSDIR/EBOOT.BIN")
     shutil.copy("ENDKANJI_multipage.EMI", "PSP_GAME/USRDIR/JPN/ETC/ENDKANJI.EMI")
+    shutil.copy("FIRST_fontimage.EMI", "PSP_GAME/USRDIR/JPN/ETC/FIRST.EMI")
+    shutil.copy("BATL_RET_fontimage.EMI", "PSP_GAME/USRDIR/JPN/BATTLE/BATL_RET.EMI")
     run(["inject_multipage.py"])
     if Path("apply_manual_final_diffs.py").exists():
         run(["apply_manual_final_diffs.py"])

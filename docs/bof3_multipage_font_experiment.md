@@ -4,7 +4,7 @@
 
 이번 경로는 조합형 렌더링이 아닙니다. 초성, 중성, 종성을 런타임에서 합성하지 않고, 한글 1글자마다 미리 그려 둔 12x12 완성형 비트맵 1칸을 사용합니다.
 
-`ENDKANJI.EMI`를 확장해 441칸 페이지 3개, 총 1,323칸을 확보했고, 현재 번역에서 필요한 한글 1,147자를 모두 배치했습니다.
+`ENDKANJI.EMI`를 확장해 441칸 페이지 3개, 총 1,323칸을 확보했고, 현재 번역에서 필요한 한글 1,147자를 모두 배치했습니다. `FIRST.EMI`와 `BATL_RET.EMI`에도 같은 세 페이지를 넣어 메뉴/전투 등 보조 폰트 경로에서도 같은 글리프가 보이게 했습니다.
 
 ## 검증 결과
 
@@ -14,9 +14,11 @@
 - 인코딩 대상 본문: 7,799개
 - 인코딩 실패: 0개
 - 주입 EMI 파일: 199개
-- 변경 파일 수: 203개
-- `FIRST.EMI`: 원본 유지
-- `BATL_RET.EMI`: 원본 유지
+- 변경 파일 수: 206개
+- `BOOT.BIN`: 패치 적용
+- `EBOOT.BIN`: 패치 적용
+- `FIRST.EMI`: 완성형 한글 폰트 페이지 3개 적용
+- `BATL_RET.EMI`: 완성형 한글 폰트 페이지 3개 적용
 
 ## 생성 파일
 
@@ -35,12 +37,21 @@
 
 ## 패치 핵심 파일
 
+- `PSP_GAME/SYSDIR/BOOT.BIN`
+  - 크기: 5,081,397 bytes
+  - SHA-256: `0015A901D618341C8F43C08708E337A2DECE4D353F8BCB89D5A4999A757924B3`
 - `PSP_GAME/SYSDIR/EBOOT.BIN`
   - 크기: 5,081,397 bytes
   - SHA-256: `0015A901D618341C8F43C08708E337A2DECE4D353F8BCB89D5A4999A757924B3`
 - `PSP_GAME/USRDIR/JPN/ETC/ENDKANJI.EMI`
   - 크기: 133,120 bytes
   - SHA-256: `498DA59B249439EC6CC92CED7B35CBF21DB5FA5D14446B2B4F180F6C2E95986B`
+- `PSP_GAME/USRDIR/JPN/ETC/FIRST.EMI`
+  - 크기: 362,496 bytes
+  - SHA-256: `FB75CB8326A9AA08DE3D5D2266E2416C6B421246B26478B75AC13F1E4E8DA96C`
+- `PSP_GAME/USRDIR/JPN/BATTLE/BATL_RET.EMI`
+  - 크기: 163,840 bytes
+  - SHA-256: `C3475AE798809FDB6CE502977DFBC78B02C1CF86815645D2A2FFE39C01A84D06`
 
 ## 인코딩
 
@@ -67,7 +78,7 @@
 
 ## ENDKANJI 구성
 
-`ENDKANJI.EMI`를 2섹션에서 4섹션으로 확장했습니다.
+`ENDKANJI.EMI`를 2섹션에서 4섹션으로 확장했습니다. `FIRST.EMI`는 15섹션에서 16섹션으로, `BATL_RET.EMI`는 7섹션에서 9섹션으로 확장했습니다.
 
 | 섹션 | 크기 | RAM 태그 | 텍스처 페이지 |
 |---:|---:|---:|---:|
@@ -78,7 +89,7 @@
 
 ## EBOOT 핸들러
 
-기존 오프셋의 문자 분기에서 위 lead byte를 새 핸들러로 보냅니다.
+기존 오프셋의 문자 분기에서 위 lead byte를 새 핸들러로 보냅니다. v0.4부터는 `BOOT.BIN`과 `EBOOT.BIN`을 모두 같은 패치 바이너리로 교체합니다.
 
 핸들러 동작:
 

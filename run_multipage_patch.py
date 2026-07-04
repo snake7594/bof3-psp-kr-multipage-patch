@@ -36,6 +36,14 @@ def main() -> None:
         PSP_GAME / "USRDIR" / "JPN" / "ETC" / "ENDKANJI.EMI",
         PSP_GAME / "USRDIR" / "JPN" / "ETC" / "ENDKANJI.EMI.orig",
     )
+    preserve(
+        PSP_GAME / "USRDIR" / "JPN" / "ETC" / "FIRST.EMI",
+        PSP_GAME / "USRDIR" / "JPN" / "ETC" / "FIRST.EMI.orig",
+    )
+    preserve(
+        PSP_GAME / "USRDIR" / "JPN" / "BATTLE" / "BATL_RET.EMI",
+        PSP_GAME / "USRDIR" / "JPN" / "BATTLE" / "BATL_RET.EMI.orig",
+    )
     run("build_multipage_pipeline.py")
 
 
