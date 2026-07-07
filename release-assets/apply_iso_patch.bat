@@ -4,8 +4,8 @@ setlocal
 cd /d "%~dp0"
 
 set "SOURCE_ISO=Breath of Fire III.iso"
-set "PATCH_FILE=BOF3_KR_fontimage_v0.4.1-alpha.iso.xdelta"
-set "OUTPUT_ISO=BOF3_KR_fontimage_v0.4.1-alpha.iso"
+set "PATCH_FILE=BOF3_KR_fontimage_v0.4.2-alpha.iso.xdelta"
+set "OUTPUT_ISO=BOF3_KR_fontimage_v0.4.2-alpha.iso"
 
 if not exist "%SOURCE_ISO%" (
   echo [오류] 원본 ISO "%SOURCE_ISO%" 파일을 이 폴더에 넣어 주세요.

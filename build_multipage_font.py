@@ -173,6 +173,11 @@ def build_emi(page_cvs: list[np.ndarray]) -> bytes:
     orig = bytearray(ORIG_FONT.read_bytes())
     if len(orig) != HDR + SEC_SIZE * 2:
         raise RuntimeError(f"unexpected ENDKANJI size: {len(orig)}")
+    original_meta = {}
+    original_count = struct.unpack_from("<I", orig, 0)[0]
+    for i in range(1, original_count + 1):
+        size, ram, marker, kind, dots = struct.unpack_from("<IIIH2s", orig, i * 16)
+        original_meta[ram] = (marker, kind, dots)
 
     out = bytearray(orig[:HDR])
     struct.pack_into("<I", out, 0, 1 + len(page_cvs))
@@ -185,8 +190,8 @@ def build_emi(page_cvs: list[np.ndarray]) -> bytes:
         sections.append((page["ram"], pack4(unreflow_sec(cv))))
 
     for i, (ram, blob) in enumerate(sections, start=1):
-        first4 = struct.unpack_from("<I", blob, 0)[0]
-        struct.pack_into("<IIIH2s", out, i * 16, len(blob), ram, first4, 3, b"..")
+        marker, kind, dots = original_meta.get(ram, (0, 3, b".."))
+        struct.pack_into("<IIIH2s", out, i * 16, len(blob), ram, marker, kind, dots)
 
     for _ram, blob in sections:
         out += blob
@@ -212,12 +217,10 @@ def patch_aux_font(src: Path, out_path: Path, page_blobs: list[bytes]) -> None:
     for page, blob in zip(PAGES, page_blobs):
         ram = page["ram"]
         if ram in starts:
-            idx, off, size, kind = starts[ram]
+            _idx, off, size, _kind = starts[ram]
             if size != SEC_SIZE:
-                raise RuntimeError(f"{src}: section {idx} has unexpected size {size:#x}")
+                raise RuntimeError(f"{src}: section at {off:#x} has unexpected size {size:#x}")
             data[off : off + SEC_SIZE] = blob
-            first4 = struct.unpack_from("<I", blob, 0)[0]
-            struct.pack_into("<IIIH2s", data, idx * 16, SEC_SIZE, ram, first4, kind, b"..")
             continue
 
     struct.pack_into("<I", data, 0, count)
